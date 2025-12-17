@@ -1,1 +1,1 @@
-Secure servers are servers using encryption technology in Internet transactions.
+The number of distinct, publicly-trusted TLS/SSL certificates found in the Netcraft Secure Server Survey (by hosting country), per 1 million people.

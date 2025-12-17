@@ -1,0 +1,50 @@
+{
+  "title": "Medium and high-tech manufacturing value added (% manufacturing value added)",
+  "name": "nv.mnf.tech.zs.un",
+  "worldbank": {
+    "indicator": "nv.mnf.tech.zs.un"
+  },
+  "readme": "The proportion of medium and high-tech industry value added in total value added of manufacturing",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Economy & Growth"
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "The proportion of medium and high-tech industry value added in total value added of manufacturing"
+          }
+        ]
+      }
+    }
+  ]
+}

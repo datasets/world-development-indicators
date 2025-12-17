@@ -4,7 +4,7 @@
   "worldbank": {
     "indicator": "sl.tlf.cact.fe.zs"
   },
-  "readme": "Labor force participation rate is the proportion of the population ages 15 and older that is economically active: all people who supply labor for the production of goods and services during a specified period.",
+  "readme": "The labor force participation rate is the labor force as a percent of the population ages 15 and older. The labor force is the sum of all persons of working age who are employed and those who are unemployed.",
   "licenses": [
     {
       "name": "CC-BY-4.0"
@@ -43,7 +43,7 @@
           {
             "name": "Value",
             "type": "number",
-            "description": "Labor force participation rate is the proportion of the population ages 15 and older that is economically active: all people who supply labor for the production of goods and services during a specified period."
+            "description": "The labor force participation rate is the labor force as a percent of the population ages 15 and older. The labor force is the sum of all persons of working age who are employed and those who are unemployed."
           }
         ]
       }

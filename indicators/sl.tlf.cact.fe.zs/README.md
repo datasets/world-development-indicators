@@ -1,1 +1,1 @@
-Labor force participation rate is the proportion of the population ages 15 and older that is economically active: all people who supply labor for the production of goods and services during a specified period.
+The labor force participation rate is the labor force as a percent of the population ages 15 and older. The labor force is the sum of all persons of working age who are employed and those who are unemployed.

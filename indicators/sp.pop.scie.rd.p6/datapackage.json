@@ -1,1 +1,50 @@
-{"title": "Researchers in R&D (per million people)", "name": "sp.pop.scie.rd.p6", "worldbank": {"indicator": "sp.pop.scie.rd.p6"}, "readme": "The number of researchers engaged in Research &Development (R&D), expressed as per million. Researchers are professionals who conduct research and improve or develop concepts, theories, models techniques instrumentation, software of operational methods. R&D covers basic research, applied research, and experimental development.", "licenses": [{"name": "CC-BY-4.0"}], "keywords": ["Science & Technology "], "resources": [{"name": "data", "title": "Indicator data", "path": "data.csv", "format": "csv", "mediatype": "text/csv", "encoding": "utf-8", "schema": {"fields": [{"name": "Country Name", "type": "string", "description": "Country or Region name"}, {"name": "Country Code", "type": "string", "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"}, {"name": "Year", "type": "year", "description": "Year"}, {"name": "Value", "type": "number", "description": "The number of researchers engaged in Research &Development (R&D), expressed as per million. Researchers are professionals who conduct research and improve or develop concepts, theories, models techniques instrumentation, software of operational methods. R&D covers basic research, applied research, and experimental development."}]}, "dialect": {"delimiter": ",", "quoteChar": "\""}}]}
+{
+  "title": "Researchers in R&D (per million people)",
+  "name": "sp.pop.scie.rd.p6",
+  "worldbank": {
+    "indicator": "sp.pop.scie.rd.p6"
+  },
+  "readme": "The number of researchers engaged in Research &Development (R&D), expressed as per million. Researchers are professionals who conduct research and improve or develop concepts, theories, models techniques instrumentation, software of operational methods. R&D covers basic research, applied research, and experimental development.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Science & Technology "
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "The number of researchers engaged in Research &Development (R&D), expressed as per million. Researchers are professionals who conduct research and improve or develop concepts, theories, models techniques instrumentation, software of operational methods. R&D covers basic research, applied research, and experimental development."
+          }
+        ]
+      }
+    }
+  ]
+}

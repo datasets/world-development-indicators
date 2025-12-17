@@ -4,7 +4,7 @@
   "worldbank": {
     "indicator": "fr.inr.lend"
   },
-  "readme": "Lending rate is the bank rate that usually meets the short- and medium-term financing needs of the private sector. This rate is normally differentiated according to creditworthiness of borrowers and objectives of financing. The terms and conditions attached to these rates differ by country, however, limiting their comparability.",
+  "readme": "Lending rate is the bank rate that usually meets the short- and medium-term financing needs of the private sector. This rate is normally differentiated according to creditworthiness of borrowers and objectives of financing. The terms and conditions attached to these rates differ by country, however, limiting their comparability. This indicator is expressed as a percentage (a\u00f7b)*100.",
   "licenses": [
     {
       "name": "CC-BY-4.0"
@@ -41,7 +41,7 @@
           {
             "name": "Value",
             "type": "number",
-            "description": "Lending rate is the bank rate that usually meets the short- and medium-term financing needs of the private sector. This rate is normally differentiated according to creditworthiness of borrowers and objectives of financing. The terms and conditions attached to these rates differ by country, however, limiting their comparability."
+            "description": "Lending rate is the bank rate that usually meets the short- and medium-term financing needs of the private sector. This rate is normally differentiated according to creditworthiness of borrowers and objectives of financing. The terms and conditions attached to these rates differ by country, however, limiting their comparability. This indicator is expressed as a percentage (a\u00f7b)*100."
           }
         ]
       }

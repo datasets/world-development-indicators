@@ -1,10 +1,10 @@
 {
-  "title": "Survey mean consumption or income per capita, bottom 40% of population (2011 PPP $ per day)",
+  "title": "Survey mean consumption or income per capita, bottom 40% of population (2021 PPP $ per day)",
   "name": "si.spr.pc40",
   "worldbank": {
     "indicator": "si.spr.pc40"
   },
-  "readme": "Mean consumption or income per capita (2011 PPP $ per day) used in calculating the growth rate in the welfare aggregate of the bottom 40% of the population in the income distribution in a country.",
+  "readme": "Mean consumption or income per capita (2021 PPP $ per day) of the bottom 40%, used in calculating the growth rate in the welfare aggregate of the bottom 40% of the population in the income distribution in a country.",
   "licenses": [
     {
       "name": "CC-BY-4.0"
@@ -41,7 +41,7 @@
           {
             "name": "Value",
             "type": "number",
-            "description": "Mean consumption or income per capita (2011 PPP $ per day) used in calculating the growth rate in the welfare aggregate of the bottom 40% of the population in the income distribution in a country."
+            "description": "Mean consumption or income per capita (2021 PPP $ per day) of the bottom 40%, used in calculating the growth rate in the welfare aggregate of the bottom 40% of the population in the income distribution in a country."
           }
         ]
       }

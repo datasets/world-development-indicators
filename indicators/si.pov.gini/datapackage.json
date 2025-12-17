@@ -1,5 +1,5 @@
 {
-  "title": "GINI index (World Bank estimate)",
+  "title": "Gini index",
   "name": "si.pov.gini",
   "worldbank": {
     "indicator": "si.pov.gini"

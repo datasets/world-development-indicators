@@ -1,1 +1,50 @@
-{"title": "Real interest rate (%)", "name": "fr.inr.rinr", "worldbank": {"indicator": "fr.inr.rinr"}, "readme": "Real interest rate is the lending interest rate adjusted for inflation as measured by the GDP deflator. The terms and conditions attached to lending rates differ by country, however, limiting their comparability.", "licenses": [{"name": "CC-BY-4.0"}], "keywords": ["Financial Sector "], "resources": [{"name": "data", "title": "Indicator data", "path": "data.csv", "format": "csv", "mediatype": "text/csv", "encoding": "utf-8", "schema": {"fields": [{"name": "Country Name", "type": "string", "description": "Country or Region name"}, {"name": "Country Code", "type": "string", "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"}, {"name": "Year", "type": "year", "description": "Year"}, {"name": "Value", "type": "number", "description": "Real interest rate is the lending interest rate adjusted for inflation as measured by the GDP deflator. The terms and conditions attached to lending rates differ by country, however, limiting their comparability."}]}, "dialect": {"delimiter": ",", "quoteChar": "\""}}]}
+{
+  "title": "Real interest rate (%)",
+  "name": "fr.inr.rinr",
+  "worldbank": {
+    "indicator": "fr.inr.rinr"
+  },
+  "readme": "An interest rate is the amount charged, expressed as a percentage of the principal over a period of time, by the owners of certain kinds of financial assets for putting the financial assets at the disposal of another institutional unit. The real interest rate is the lending interest rate adjusted for inflation as measured by the GDP deflator. The terms and conditions attached to lending rates differ by country, however, limiting their comparability. This indicator is expressed as a percentage (a\u00f7b)*100.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Financial Sector "
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "An interest rate is the amount charged, expressed as a percentage of the principal over a period of time, by the owners of certain kinds of financial assets for putting the financial assets at the disposal of another institutional unit. The real interest rate is the lending interest rate adjusted for inflation as measured by the GDP deflator. The terms and conditions attached to lending rates differ by country, however, limiting their comparability. This indicator is expressed as a percentage (a\u00f7b)*100."
+          }
+        ]
+      }
+    }
+  ]
+}

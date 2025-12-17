@@ -1,0 +1,1 @@
+Military expenditure expressed as a percentage of general government expenditure

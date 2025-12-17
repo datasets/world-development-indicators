@@ -4,7 +4,7 @@
   "worldbank": {
     "indicator": "si.pov.nahc"
   },
-  "readme": "National poverty headcount ratio is the percentage of the population living below the national poverty lines. National estimates are based on population-weighted subgroup estimates from household surveys.",
+  "readme": "National poverty headcount ratio is the percentage of the population living below the national poverty line(s). National estimates are based on population-weighted subgroup estimates from household surveys. For economies for which the data are from EU-SILC, the reported year is the income reference year, which is the year before the survey year.",
   "licenses": [
     {
       "name": "CC-BY-4.0"
@@ -41,7 +41,7 @@
           {
             "name": "Value",
             "type": "number",
-            "description": "National poverty headcount ratio is the percentage of the population living below the national poverty lines. National estimates are based on population-weighted subgroup estimates from household surveys."
+            "description": "National poverty headcount ratio is the percentage of the population living below the national poverty line(s). National estimates are based on population-weighted subgroup estimates from household surveys. For economies for which the data are from EU-SILC, the reported year is the income reference year, which is the year before the survey year."
           }
         ]
       }

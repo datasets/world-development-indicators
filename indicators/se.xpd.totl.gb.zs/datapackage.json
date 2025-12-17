@@ -1,1 +1,50 @@
-{"title": "Government expenditure on education, total (% of government expenditure)", "name": "se.xpd.totl.gb.zs", "worldbank": {"indicator": "se.xpd.totl.gb.zs"}, "readme": "General government expenditure on education (current, capital, and transfers) is expressed as a percentage of total general government expenditure on all sectors (including health, education, social services, etc.). It includes expenditure funded by transfers from international sources to government. General government usually refers to local, regional and central governments.", "licenses": [{"name": "CC-BY-4.0"}], "keywords": ["Education "], "resources": [{"name": "data", "title": "Indicator data", "path": "data.csv", "format": "csv", "mediatype": "text/csv", "encoding": "utf-8", "schema": {"fields": [{"name": "Country Name", "type": "string", "description": "Country or Region name"}, {"name": "Country Code", "type": "string", "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"}, {"name": "Year", "type": "year", "description": "Year"}, {"name": "Value", "type": "number", "description": "General government expenditure on education (current, capital, and transfers) is expressed as a percentage of total general government expenditure on all sectors (including health, education, social services, etc.). It includes expenditure funded by transfers from international sources to government. General government usually refers to local, regional and central governments."}]}, "dialect": {"delimiter": ",", "quoteChar": "\""}}]}
+{
+  "title": "Government expenditure on education, total (% of government expenditure)",
+  "name": "se.xpd.totl.gb.zs",
+  "worldbank": {
+    "indicator": "se.xpd.totl.gb.zs"
+  },
+  "readme": "General government expenditure on education (current, capital, and transfers) is expressed as a percentage of total general government expenditure on all sectors (including health, education, social services, etc.). It includes expenditure funded by transfers from international sources to government. General government usually refers to local, regional and central governments.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Education "
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "General government expenditure on education (current, capital, and transfers) is expressed as a percentage of total general government expenditure on all sectors (including health, education, social services, etc.). It includes expenditure funded by transfers from international sources to government. General government usually refers to local, regional and central governments."
+          }
+        ]
+      }
+    }
+  ]
+}

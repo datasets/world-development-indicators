@@ -1,372 +1,234 @@
 Country Name,Country Code,Year,Value
+Africa Eastern and Southern,AFE,2007,8.55
+Africa Eastern and Southern,AFE,2010,7.188
+Africa Eastern and Southern,AFE,2012,10.8181818181818
+Africa Eastern and Southern,AFE,2014,4.18181818181818
+Africa Eastern and Southern,AFE,2016,5.64285714285714
+Africa Eastern and Southern,AFE,2018,10.1
+Afghanistan,AFG,2007,8.1
+Afghanistan,AFG,2010,2
+Afghanistan,AFG,2012,5
+Africa Western and Central,AFW,2007,7.03333333333333
+Africa Western and Central,AFW,2010,8.92
+Africa Western and Central,AFW,2012,7.81818181818182
+Africa Western and Central,AFW,2014,2.875
+Africa Western and Central,AFW,2016,6.28571428571429
+Africa Western and Central,AFW,2018,8.44444444444444
+Angola,AGO,2007,7.9
+Angola,AGO,2010,6
+Angola,AGO,2014,5
+Angola,AGO,2016,14
+Albania,ALB,2010,1.73
+Albania,ALB,2012,11
+Albania,ALB,2014,1
+Albania,ALB,2018,10
 Arab World,ARB,2007,3.28888888888889
 Arab World,ARB,2010,4.840625
 Arab World,ARB,2012,3.1875
 Arab World,ARB,2014,3
 Arab World,ARB,2016,6.05555555555556
-Caribbean small states,CSS,2007,10
-Caribbean small states,CSS,2012,8.5
-Caribbean small states,CSS,2014,1
-Caribbean small states,CSS,2016,5
-Central Europe and the Baltics,CEB,2007,3.01818181818182
-Central Europe and the Baltics,CEB,2010,2.175
-Central Europe and the Baltics,CEB,2012,2
-Central Europe and the Baltics,CEB,2014,1.33333333333333
-Central Europe and the Baltics,CEB,2016,2.14285714285714
-Early-demographic dividend,EAR,2007,4.17586206896552
-Early-demographic dividend,EAR,2010,3.16131578947368
-Early-demographic dividend,EAR,2012,3.16216216216216
-Early-demographic dividend,EAR,2014,3.78947368421053
-Early-demographic dividend,EAR,2016,3.79411764705882
-East Asia & Pacific,EAS,2007,3.33333333333333
-East Asia & Pacific,EAS,2010,2.74625
-East Asia & Pacific,EAS,2012,2.25
-East Asia & Pacific,EAS,2014,1.5
-East Asia & Pacific,EAS,2016,2.42857142857143
-East Asia & Pacific (excluding high income),EAP,2007,3.92222222222222
-East Asia & Pacific (excluding high income),EAP,2010,3.58333333333333
-East Asia & Pacific (excluding high income),EAP,2012,2.55555555555556
-East Asia & Pacific (excluding high income),EAP,2014,1.5
-East Asia & Pacific (excluding high income),EAP,2016,2.875
-East Asia & Pacific (IDA & IBRD countries),TEA,2007,3.92222222222222
-East Asia & Pacific (IDA & IBRD countries),TEA,2010,3.58333333333333
-East Asia & Pacific (IDA & IBRD countries),TEA,2012,2.55555555555556
-East Asia & Pacific (IDA & IBRD countries),TEA,2014,1.5
-East Asia & Pacific (IDA & IBRD countries),TEA,2016,2.875
-Euro area,EMU,2007,2.44705882352941
-Euro area,EMU,2010,2.23214285714286
-Euro area,EMU,2012,1.78571428571429
-Euro area,EMU,2014,1.75
-Euro area,EMU,2016,2.0625
-Europe & Central Asia,ECS,2007,2.52121212121212
-Europe & Central Asia,ECS,2010,2.39235294117647
-Europe & Central Asia,ECS,2012,2.4375
-Europe & Central Asia,ECS,2014,2.58333333333333
-Europe & Central Asia,ECS,2016,3.29411764705882
-Europe & Central Asia (excluding high income),ECA,2007,2.5
-Europe & Central Asia (excluding high income),ECA,2010,2.785
-Europe & Central Asia (excluding high income),ECA,2012,2.84615384615385
-Europe & Central Asia (excluding high income),ECA,2014,4.14285714285714
-Europe & Central Asia (excluding high income),ECA,2016,5.23076923076923
-Europe & Central Asia (IDA & IBRD countries),TEC,2007,2.55555555555556
-Europe & Central Asia (IDA & IBRD countries),TEC,2010,2.802
-Europe & Central Asia (IDA & IBRD countries),TEC,2012,2.92857142857143
-Europe & Central Asia (IDA & IBRD countries),TEC,2014,3.93333333333333
-Europe & Central Asia (IDA & IBRD countries),TEC,2016,4.92857142857143
-European Union,EUU,2007,2.57307692307692
-European Union,EUU,2010,2.08285714285714
-European Union,EUU,2012,1.90909090909091
-European Union,EUU,2014,1.65217391304348
-European Union,EUU,2016,2.09090909090909
-Fragile and conflict affected situations,FCS,2007,8.83
-Fragile and conflict affected situations,FCS,2010,10.6642857142857
-Fragile and conflict affected situations,FCS,2012,10
-Fragile and conflict affected situations,FCS,2014,2.375
-Fragile and conflict affected situations,FCS,2016,8
-Heavily indebted poor countries (HIPC),HPC,2007,6.62941176470588
-Heavily indebted poor countries (HIPC),HPC,2010,9.37105263157895
-Heavily indebted poor countries (HIPC),HPC,2012,10.2380952380952
-Heavily indebted poor countries (HIPC),HPC,2014,4.2
-Heavily indebted poor countries (HIPC),HPC,2016,6.33333333333333
-High income,HIC,2007,2.74390243902439
-High income,HIC,2010,2.15540540540541
-High income,HIC,2012,2.44736842105263
-High income,HIC,2014,1.79487179487179
-High income,HIC,2016,2.26315789473684
-IBRD only,IBD,2007,3.53
-IBRD only,IBD,2010,3.044
-IBRD only,IBD,2012,3.33333333333333
-IBRD only,IBD,2014,2.28888888888889
-IBRD only,IBD,2016,4.04255319148936
-IDA & IBRD total,IBT,2007,4.85076923076923
-IDA & IBRD total,IBT,2010,4.53116883116883
-IDA & IBRD total,IBT,2012,5.075
-IDA & IBRD total,IBT,2014,3.01351351351351
-IDA & IBRD total,IBT,2016,4.95180722891566
-IDA blend,IDB,2007,9.96
-IDA blend,IDB,2010,4.425
-IDA blend,IDB,2012,6.71428571428571
-IDA blend,IDB,2014,4.85714285714286
-IDA blend,IDB,2016,9.11111111111111
-IDA only,IDX,2007,6.215
-IDA only,IDX,2010,7.12961538461539
-IDA only,IDX,2012,7.96
-IDA only,IDX,2014,3.90909090909091
-IDA only,IDX,2016,5.14814814814815
-IDA total,IDA,2007,6.964
-IDA total,IDA,2010,6.6225
-IDA total,IDA,2012,7.6875
-IDA total,IDA,2014,4.13793103448276
-IDA total,IDA,2016,6.13888888888889
-Late-demographic dividend,LTE,2007,3.34814814814815
-Late-demographic dividend,LTE,2010,3.01703703703704
-Late-demographic dividend,LTE,2012,3.35483870967742
-Late-demographic dividend,LTE,2014,1.73333333333333
-Late-demographic dividend,LTE,2016,3.38709677419355
-Latin America & Caribbean,LCN,2007,3.86111111111111
-Latin America & Caribbean,LCN,2010,3.93
-Latin America & Caribbean,LCN,2012,4.45
-Latin America & Caribbean,LCN,2014,2.61111111111111
-Latin America & Caribbean,LCN,2016,3.82352941176471
-Latin America & Caribbean (excluding high income),LAC,2007,3.85625
-Latin America & Caribbean (excluding high income),LAC,2010,4.045
-Latin America & Caribbean (excluding high income),LAC,2012,4.11764705882353
-Latin America & Caribbean (excluding high income),LAC,2014,2.93333333333333
-Latin America & Caribbean (excluding high income),LAC,2016,3.6
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2007,3.86111111111111
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2010,3.93
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2012,4.52631578947368
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2014,2.70588235294118
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2016,3.6875
-Least developed countries: UN classification,LDC,2007,6.72631578947369
-Least developed countries: UN classification,LDC,2010,8.5435
-Least developed countries: UN classification,LDC,2012,10.2352941176471
-Least developed countries: UN classification,LDC,2014,3.52941176470588
-Least developed countries: UN classification,LDC,2016,5.95652173913043
-Low & middle income,LMY,2007,4.92131147540984
-Low & middle income,LMY,2010,4.63534246575343
-Low & middle income,LMY,2012,5.06578947368421
-Low & middle income,LMY,2014,3.11428571428571
-Low & middle income,LMY,2016,5
-Low income,LIC,2007,8.50714285714286
-Low income,LIC,2010,8.72692307692308
-Low income,LIC,2012,13
-Low income,LIC,2014,4.22222222222222
-Low income,LIC,2016,5.1875
-Lower middle income,LMC,2007,4.37826086956522
-Lower middle income,LMC,2010,4.48032258064516
-Lower middle income,LMC,2012,3.78787878787879
-Lower middle income,LMC,2014,3.46875
-Lower middle income,LMC,2016,5.75757575757576
-Middle East & North Africa,MEA,2007,3.49
-Middle East & North Africa,MEA,2010,2.566875
-Middle East & North Africa,MEA,2012,2.76470588235294
-Middle East & North Africa,MEA,2014,3.07692307692308
-Middle East & North Africa,MEA,2016,4.68421052631579
-Middle East & North Africa (excluding high income),MNA,2007,3.575
-Middle East & North Africa (excluding high income),MNA,2010,2.749
-Middle East & North Africa (excluding high income),MNA,2012,3.1
-Middle East & North Africa (excluding high income),MNA,2014,2.85714285714286
-Middle East & North Africa (excluding high income),MNA,2016,6.16666666666667
-Middle East & North Africa (IDA & IBRD countries),TMN,2007,3.575
-Middle East & North Africa (IDA & IBRD countries),TMN,2010,2.749
-Middle East & North Africa (IDA & IBRD countries),TMN,2012,3.1
-Middle East & North Africa (IDA & IBRD countries),TMN,2014,2.85714285714286
-Middle East & North Africa (IDA & IBRD countries),TMN,2016,6.16666666666667
-Middle income,MIC,2007,3.8625
-Middle income,MIC,2010,3.70377049180328
-Middle income,MIC,2012,3.53846153846154
-Middle income,MIC,2014,2.93548387096774
-Middle income,MIC,2016,4.95384615384615
-North America,NAC,2007,3.1
-North America,NAC,2010,2.825
-North America,NAC,2012,2
-North America,NAC,2014,1.5
-North America,NAC,2016,2.5
-OECD members,OED,2007,2.7125
-OECD members,OED,2010,2.14551724137931
-OECD members,OED,2012,2.21428571428571
-OECD members,OED,2014,1.62068965517241
-OECD members,OED,2016,2.07407407407407
-Other small states,OSS,2007,1.88333333333333
-Other small states,OSS,2010,3.24142857142857
-Other small states,OSS,2012,1.88888888888889
-Other small states,OSS,2014,2.45454545454545
-Other small states,OSS,2016,2.5
-Pacific island small states,PSS,2007,9
-Post-demographic dividend,PST,2007,2.66
-Post-demographic dividend,PST,2010,1.9537037037037
-Post-demographic dividend,PST,2012,2.10714285714286
-Post-demographic dividend,PST,2014,1.72413793103448
-Post-demographic dividend,PST,2016,2.26666666666667
-Pre-demographic dividend,PRE,2007,7.73125
-Pre-demographic dividend,PRE,2010,9.08166666666667
-Pre-demographic dividend,PRE,2012,11
-Pre-demographic dividend,PRE,2014,3.58333333333333
-Pre-demographic dividend,PRE,2016,8.17391304347826
-Small states,SST,2007,3.7875
-Small states,SST,2010,3.24142857142857
-Small states,SST,2012,3.09090909090909
-Small states,SST,2014,2.33333333333333
-Small states,SST,2016,3
-South Asia,SAS,2007,4.06666666666667
-South Asia,SAS,2010,1.88428571428571
-South Asia,SAS,2012,3.33333333333333
-South Asia,SAS,2014,2.33333333333333
-South Asia,SAS,2016,3.8
-South Asia (IDA & IBRD),TSA,2007,4.06666666666667
-South Asia (IDA & IBRD),TSA,2010,1.88428571428571
-South Asia (IDA & IBRD),TSA,2012,3.33333333333333
-South Asia (IDA & IBRD),TSA,2014,2.33333333333333
-South Asia (IDA & IBRD),TSA,2016,3.8
-Sub-Saharan Africa,SSF,2007,7.83157894736842
-Sub-Saharan Africa,SSF,2010,8.13272727272727
-Sub-Saharan Africa,SSF,2012,9.31818181818182
-Sub-Saharan Africa,SSF,2014,3.63157894736842
-Sub-Saharan Africa,SSF,2016,5.96428571428571
-Sub-Saharan Africa (excluding high income),SSA,2007,7.83157894736842
-Sub-Saharan Africa (excluding high income),SSA,2010,8.13272727272727
-Sub-Saharan Africa (excluding high income),SSA,2012,9.31818181818182
-Sub-Saharan Africa (excluding high income),SSA,2014,3.63157894736842
-Sub-Saharan Africa (excluding high income),SSA,2016,5.96428571428571
-Sub-Saharan Africa (IDA & IBRD countries),TSS,2007,7.83157894736842
-Sub-Saharan Africa (IDA & IBRD countries),TSS,2010,8.13272727272727
-Sub-Saharan Africa (IDA & IBRD countries),TSS,2012,9.31818181818182
-Sub-Saharan Africa (IDA & IBRD countries),TSS,2014,3.63157894736842
-Sub-Saharan Africa (IDA & IBRD countries),TSS,2016,5.96428571428571
-Upper middle income,UMC,2007,3.388
-Upper middle income,UMC,2010,2.90133333333333
-Upper middle income,UMC,2012,3.28125
-Upper middle income,UMC,2014,2.36666666666667
-Upper middle income,UMC,2016,4.125
-World,WLD,2007,4.04854368932039
-World,WLD,2010,3.77594594594595
-World,WLD,2012,4.16521739130435
-World,WLD,2014,2.63636363636364
-World,WLD,2016,4.12605042016807
-Afghanistan,AFG,2007,8.1
-Afghanistan,AFG,2010,2
-Afghanistan,AFG,2012,5
-Albania,ALB,2010,1.73
-Albania,ALB,2012,11
-Albania,ALB,2014,1
-Algeria,DZA,2010,4.58
-Algeria,DZA,2012,8
-Algeria,DZA,2014,3
-Algeria,DZA,2016,4
-Angola,AGO,2007,7.9
-Angola,AGO,2010,6
-Angola,AGO,2014,5
-Angola,AGO,2016,14
+Arab World,ARB,2018,3.5
+United Arab Emirates,ARE,2007,3.5
+United Arab Emirates,ARE,2010,2.46
+United Arab Emirates,ARE,2012,1
+United Arab Emirates,ARE,2014,2
+United Arab Emirates,ARE,2016,2
+United Arab Emirates,ARE,2018,2
 Argentina,ARG,2007,3
 Argentina,ARG,2010,3.73
 Argentina,ARG,2012,5
 Argentina,ARG,2014,2
 Argentina,ARG,2016,2
+Argentina,ARG,2018,4
+Armenia,ARM,2018,7
 Australia,AUS,2007,3.5
 Australia,AUS,2010,2.64
 Australia,AUS,2012,4
 Australia,AUS,2014,2
 Australia,AUS,2016,1
+Australia,AUS,2018,1
 Austria,AUT,2007,2.2
 Austria,AUT,2010,2
 Austria,AUT,2014,2
 Austria,AUT,2016,2
+Austria,AUT,2018,2
 Azerbaijan,AZE,2010,7
-"Bahamas, The",BHS,2012,3
-"Bahamas, The",BHS,2014,1
-Bahrain,BHR,2007,2
-Bahrain,BHR,2010,1
-Bahrain,BHR,2012,2
-Bahrain,BHR,2014,1
-Bangladesh,BGD,2007,2.3
-Bangladesh,BGD,2010,1.41
-Bangladesh,BGD,2012,3
-Bangladesh,BGD,2014,2
-Bangladesh,BGD,2016,4
-Belarus,BLR,2012,2
-Belarus,BLR,2016,2
+Azerbaijan,AZE,2018,3
+Burundi,BDI,2012,6
+Burundi,BDI,2014,1
+Burundi,BDI,2016,7
+Burundi,BDI,2018,18
 Belgium,BEL,2007,1.4
 Belgium,BEL,2010,1.66
 Belgium,BEL,2012,2
 Belgium,BEL,2014,2
 Belgium,BEL,2016,2
+Belgium,BEL,2018,2
 Benin,BEN,2007,3
 Benin,BEN,2014,6
 Benin,BEN,2016,3
-Bolivia,BOL,2007,4
-Bolivia,BOL,2010,15
-Bolivia,BOL,2012,3
-Bolivia,BOL,2014,3
-Bolivia,BOL,2016,12
-Bosnia and Herzegovina,BIH,2007,2
-Bosnia and Herzegovina,BIH,2010,2
-Bosnia and Herzegovina,BIH,2012,2
-Bosnia and Herzegovina,BIH,2014,1
-Bosnia and Herzegovina,BIH,2016,1
-Brazil,BRA,2007,3.4
-Brazil,BRA,2010,2.8
-Brazil,BRA,2012,2
-Brazil,BRA,2014,2
-Brazil,BRA,2016,3
+Benin,BEN,2018,14
+Burkina Faso,BFA,2010,4
+Burkina Faso,BFA,2016,5
+Burkina Faso,BFA,2018,5
+Bangladesh,BGD,2007,2.3
+Bangladesh,BGD,2010,1.41
+Bangladesh,BGD,2012,3
+Bangladesh,BGD,2014,2
+Bangladesh,BGD,2016,4
 Bulgaria,BGR,2007,1
 Bulgaria,BGR,2010,2
 Bulgaria,BGR,2012,2
 Bulgaria,BGR,2014,1
 Bulgaria,BGR,2016,1
-Burkina Faso,BFA,2010,4
-Burkina Faso,BFA,2016,5
-Burundi,BDI,2012,6
-Burundi,BDI,2014,1
-Burundi,BDI,2016,7
-Cambodia,KHM,2007,2.7
-Cambodia,KHM,2010,1.32
-Cambodia,KHM,2012,2
-Cambodia,KHM,2014,1
-Cambodia,KHM,2016,3
-Cameroon,CMR,2007,5.9
-Cameroon,CMR,2010,3.37
-Cameroon,CMR,2012,18
-Cameroon,CMR,2014,3
-Cameroon,CMR,2016,8
+Bulgaria,BGR,2018,2
+Bahrain,BHR,2007,2
+Bahrain,BHR,2010,1
+Bahrain,BHR,2012,2
+Bahrain,BHR,2014,1
+"Bahamas, The",BHS,2012,3
+"Bahamas, The",BHS,2014,1
+Bosnia and Herzegovina,BIH,2007,2
+Bosnia and Herzegovina,BIH,2010,2
+Bosnia and Herzegovina,BIH,2012,2
+Bosnia and Herzegovina,BIH,2014,1
+Bosnia and Herzegovina,BIH,2016,1
+Belarus,BLR,2012,2
+Belarus,BLR,2016,2
+Belarus,BLR,2018,2
+Bolivia,BOL,2007,4
+Bolivia,BOL,2010,15
+Bolivia,BOL,2012,3
+Bolivia,BOL,2014,3
+Bolivia,BOL,2016,12
+Bolivia,BOL,2018,3
+Brazil,BRA,2007,3.4
+Brazil,BRA,2010,2.8
+Brazil,BRA,2012,2
+Brazil,BRA,2014,2
+Brazil,BRA,2016,3
+Brazil,BRA,2018,5
+Brunei Darussalam,BRN,2018,1
 Canada,CAN,2007,2.6
 Canada,CAN,2010,2.83
 Canada,CAN,2012,2
 Canada,CAN,2014,1
 Canada,CAN,2016,2
-Chad,TCD,2007,11
-Chad,TCD,2010,74
-Chad,TCD,2012,25
-Chad,TCD,2016,22
+Canada,CAN,2018,4
+Central Europe and the Baltics,CEB,2007,3.01818181818182
+Central Europe and the Baltics,CEB,2010,2.175
+Central Europe and the Baltics,CEB,2012,2
+Central Europe and the Baltics,CEB,2014,1.33333333333333
+Central Europe and the Baltics,CEB,2016,2.14285714285714
+Central Europe and the Baltics,CEB,2018,2.25
+Switzerland,CHE,2007,1.6
+Switzerland,CHE,2010,2.61
+Switzerland,CHE,2012,6
+Switzerland,CHE,2014,1
+Switzerland,CHE,2016,1
+Switzerland,CHE,2018,3
 Chile,CHL,2007,2.8
 Chile,CHL,2010,3.48
 Chile,CHL,2012,2
 Chile,CHL,2014,1
+Chile,CHL,2018,3
 China,CHN,2007,2.6
 China,CHN,2010,2.77
 China,CHN,2012,3
 China,CHN,2014,2
 China,CHN,2016,3
-Colombia,COL,2007,7
-Colombia,COL,2012,4
-Colombia,COL,2014,3
-Colombia,COL,2016,4
+China,CHN,2018,2
+Cote d'Ivoire,CIV,2010,1
+Cote d'Ivoire,CIV,2012,2
+Cote d'Ivoire,CIV,2016,2
+Cote d'Ivoire,CIV,2018,4
+Cameroon,CMR,2007,5.9
+Cameroon,CMR,2010,3.37
+Cameroon,CMR,2012,18
+Cameroon,CMR,2014,3
+Cameroon,CMR,2016,8
+Cameroon,CMR,2018,5
 "Congo, Dem. Rep.",COD,2010,2
 "Congo, Dem. Rep.",COD,2012,88
 "Congo, Dem. Rep.",COD,2016,8
 "Congo, Rep.",COG,2012,11
 "Congo, Rep.",COG,2016,12
+"Congo, Rep.",COG,2018,18
+Colombia,COL,2007,7
+Colombia,COL,2012,4
+Colombia,COL,2014,3
+Colombia,COL,2016,4
+Colombia,COL,2018,2
 Costa Rica,CRI,2007,4
 Costa Rica,CRI,2010,2
 Costa Rica,CRI,2012,2
 Costa Rica,CRI,2014,1
 Costa Rica,CRI,2016,3
-Cote d'Ivoire,CIV,2010,1
-Cote d'Ivoire,CIV,2012,2
-Cote d'Ivoire,CIV,2016,2
-Croatia,HRV,2007,4.3
-Croatia,HRV,2010,1
-Croatia,HRV,2012,1
-Croatia,HRV,2014,2
+Caribbean small states,CSS,2007,10
+Caribbean small states,CSS,2012,8.5
+Caribbean small states,CSS,2014,1
+Caribbean small states,CSS,2016,5
 Cuba,CUB,2016,6
 Cyprus,CYP,2007,1
 Cyprus,CYP,2012,1
 Cyprus,CYP,2016,1
-Czech Republic,CZE,2007,4.8
-Czech Republic,CZE,2010,2.45
-Czech Republic,CZE,2016,5
+Czechia,CZE,2007,4.8
+Czechia,CZE,2010,2.45
+Czechia,CZE,2016,5
+Czechia,CZE,2018,7
+Germany,DEU,2007,2.3
+Germany,DEU,2010,3.63
+Germany,DEU,2012,1
+Germany,DEU,2014,1
+Germany,DEU,2016,3
+Germany,DEU,2018,2
+Djibouti,DJI,2014,3
+Djibouti,DJI,2016,2
 Denmark,DNK,2007,1.3
 Denmark,DNK,2010,1
 Denmark,DNK,2012,2
 Denmark,DNK,2014,1
 Denmark,DNK,2016,1
-Djibouti,DJI,2014,3
-Djibouti,DJI,2016,2
+Denmark,DNK,2018,3
 Dominican Republic,DOM,2007,1
 Dominican Republic,DOM,2010,2.24
 Dominican Republic,DOM,2012,2
 Dominican Republic,DOM,2014,2
 Dominican Republic,DOM,2016,4
+Algeria,DZA,2010,4.58
+Algeria,DZA,2012,8
+Algeria,DZA,2014,3
+Algeria,DZA,2016,4
+East Asia & Pacific (excluding high income),EAP,2007,3.92222222222222
+East Asia & Pacific (excluding high income),EAP,2010,3.58333333333333
+East Asia & Pacific (excluding high income),EAP,2012,2.55555555555556
+East Asia & Pacific (excluding high income),EAP,2014,1.5
+East Asia & Pacific (excluding high income),EAP,2016,2.875
+East Asia & Pacific (excluding high income),EAP,2018,2.22222222222222
+Early-demographic dividend,EAR,2007,4.17586206896552
+Early-demographic dividend,EAR,2010,3.16131578947368
+Early-demographic dividend,EAR,2012,3.16216216216216
+Early-demographic dividend,EAR,2014,3.78947368421053
+Early-demographic dividend,EAR,2016,3.79411764705882
+Early-demographic dividend,EAR,2018,6.96
+East Asia & Pacific,EAS,2007,3.33333333333333
+East Asia & Pacific,EAS,2010,2.74625
+East Asia & Pacific,EAS,2012,2.25
+East Asia & Pacific,EAS,2014,1.5
+East Asia & Pacific,EAS,2016,2.42857142857143
+East Asia & Pacific,EAS,2018,1.92857142857143
+Europe & Central Asia (excluding high income),ECA,2007,2.24285714285714
+Europe & Central Asia (excluding high income),ECA,2010,2.92230769230769
+Europe & Central Asia (excluding high income),ECA,2012,3
+Europe & Central Asia (excluding high income),ECA,2014,4.30769230769231
+Europe & Central Asia (excluding high income),ECA,2016,5.23076923076923
+Europe & Central Asia (excluding high income),ECA,2018,4.84615384615385
+Europe & Central Asia,ECS,2007,2.52121212121212
+Europe & Central Asia,ECS,2010,2.39235294117647
+Europe & Central Asia,ECS,2012,2.4375
+Europe & Central Asia,ECS,2014,2.58333333333333
+Europe & Central Asia,ECS,2016,3.29411764705882
+Europe & Central Asia,ECS,2018,3.2
 Ecuador,ECU,2007,8.9
 Ecuador,ECU,2010,2.06
 Ecuador,ECU,2012,2
@@ -376,87 +238,168 @@ Ecuador,ECU,2016,1
 "Egypt, Arab Rep.",EGY,2012,2
 "Egypt, Arab Rep.",EGY,2014,2
 "Egypt, Arab Rep.",EGY,2016,2
-El Salvador,SLV,2007,2
-El Salvador,SLV,2012,2
+"Egypt, Arab Rep.",EGY,2018,2
+Euro area,EMU,2007,2.44705882352941
+Euro area,EMU,2010,2.23214285714286
+Euro area,EMU,2012,1.78571428571429
+Euro area,EMU,2014,1.75
+Euro area,EMU,2016,2.0625
+Euro area,EMU,2018,2
 Eritrea,ERI,2010,3
+Spain,ESP,2007,2.6
+Spain,ESP,2010,4
+Spain,ESP,2012,1
+Spain,ESP,2014,3
+Spain,ESP,2016,3
+Spain,ESP,2018,2
 Estonia,EST,2007,1.3
 Estonia,EST,2010,4
 Estonia,EST,2012,1
 Estonia,EST,2014,1
+Estonia,EST,2018,2
 Ethiopia,ETH,2010,5
 Ethiopia,ETH,2012,4
 Ethiopia,ETH,2014,14
+Ethiopia,ETH,2018,60
+European Union,EUU,2007,2.544
+European Union,EUU,2010,2.08285714285714
+European Union,EUU,2012,1.85714285714286
+European Union,EUU,2014,1.63636363636364
+European Union,EUU,2016,2.0952380952381
+European Union,EUU,2018,2.18181818181818
+Fragile and conflict affected situations,FCS,2007,9.01
+Fragile and conflict affected situations,FCS,2010,10.1788235294118
+Fragile and conflict affected situations,FCS,2012,10.9444444444444
+Fragile and conflict affected situations,FCS,2014,4.2
+Fragile and conflict affected situations,FCS,2016,8.6875
+Fragile and conflict affected situations,FCS,2018,11.8333333333333
 Finland,FIN,2007,2.3
 Finland,FIN,2010,1.59
 Finland,FIN,2012,4
 Finland,FIN,2014,2
 Finland,FIN,2016,2
+Finland,FIN,2018,2
 France,FRA,2007,3.2
 France,FRA,2012,2
 France,FRA,2014,1
+France,FRA,2018,2
 Gabon,GAB,2010,4.28
 Gabon,GAB,2014,1
-"Gambia, The",GMB,2010,4.58
-"Gambia, The",GMB,2012,2
-"Gambia, The",GMB,2016,1
+Gabon,GAB,2018,25
+United Kingdom,GBR,2007,3.3
+United Kingdom,GBR,2012,3
+United Kingdom,GBR,2014,2
+United Kingdom,GBR,2016,2
+United Kingdom,GBR,2018,2
 Georgia,GEO,2012,6
 Georgia,GEO,2014,1
 Georgia,GEO,2016,2
-Germany,DEU,2007,2.3
-Germany,DEU,2010,3.63
-Germany,DEU,2012,1
-Germany,DEU,2014,1
-Germany,DEU,2016,3
+Georgia,GEO,2018,2
 Ghana,GHA,2010,2.89
 Ghana,GHA,2012,2
 Ghana,GHA,2014,4
 Ghana,GHA,2016,3
+Ghana,GHA,2018,1
+Guinea,GIN,2007,3.5
+"Gambia, The",GMB,2010,4.58
+"Gambia, The",GMB,2012,2
+"Gambia, The",GMB,2016,1
 Greece,GRC,2007,3
 Greece,GRC,2012,1
 Greece,GRC,2014,5
 Greece,GRC,2016,3
+Greece,GRC,2018,3
 Guatemala,GTM,2010,2.58
 Guatemala,GTM,2012,4
 Guatemala,GTM,2014,2
 Guatemala,GTM,2016,2
-Guinea,GIN,2007,3.5
-Haiti,HTI,2007,4.2
-Haiti,HTI,2012,6
-Haiti,HTI,2014,1
-Haiti,HTI,2016,2
-Honduras,HND,2007,2.4
-Honduras,HND,2012,3
-Honduras,HND,2014,2
-Honduras,HND,2016,4
+Guatemala,GTM,2018,4
+High income,HIC,2007,2.78095238095238
+High income,HIC,2010,2.125
+High income,HIC,2012,2.41025641025641
+High income,HIC,2014,1.8
+High income,HIC,2016,2.26315789473684
+High income,HIC,2018,2.38888888888889
 "Hong Kong SAR, China",HKG,2007,1.9
 "Hong Kong SAR, China",HKG,2010,1.71
 "Hong Kong SAR, China",HKG,2012,1
 "Hong Kong SAR, China",HKG,2014,1
 "Hong Kong SAR, China",HKG,2016,3
+Honduras,HND,2007,2.4
+Honduras,HND,2012,3
+Honduras,HND,2014,2
+Honduras,HND,2016,4
+Heavily indebted poor countries (HIPC),HPC,2007,6.62941176470588
+Heavily indebted poor countries (HIPC),HPC,2010,9.37105263157895
+Heavily indebted poor countries (HIPC),HPC,2012,10.2380952380952
+Heavily indebted poor countries (HIPC),HPC,2014,4.2
+Heavily indebted poor countries (HIPC),HPC,2016,6.33333333333333
+Heavily indebted poor countries (HIPC),HPC,2018,9.6
+Croatia,HRV,2007,4.3
+Croatia,HRV,2010,1
+Croatia,HRV,2012,1
+Croatia,HRV,2014,2
+Haiti,HTI,2007,4.2
+Haiti,HTI,2012,6
+Haiti,HTI,2014,1
+Haiti,HTI,2016,2
 Hungary,HUN,2007,3.5
 Hungary,HUN,2012,2
 Hungary,HUN,2014,1
-Iceland,ISL,2014,1
-India,IND,2007,4
-India,IND,2010,2.34
-India,IND,2012,3
-India,IND,2014,2
-India,IND,2016,4
+IBRD only,IBD,2007,3.53
+IBRD only,IBD,2010,3.28217391304348
+IBRD only,IBD,2012,3.36734693877551
+IBRD only,IBD,2014,2.26086956521739
+IBRD only,IBD,2016,4.46938775510204
+IBRD only,IBD,2018,4.07692307692308
+IDA & IBRD total,IBT,2007,4.85076923076923
+IDA & IBRD total,IBT,2010,4.53116883116883
+IDA & IBRD total,IBT,2012,5.075
+IDA & IBRD total,IBT,2014,3.01351351351351
+IDA & IBRD total,IBT,2016,4.95180722891566
+IDA & IBRD total,IBT,2018,5.49180327868852
+IDA total,IDA,2007,6.964
+IDA total,IDA,2010,6.38451612903226
+IDA total,IDA,2012,7.7741935483871
+IDA total,IDA,2014,4.25
+IDA total,IDA,2016,5.64705882352941
+IDA total,IDA,2018,8
+IDA blend,IDB,2007,9.96
+IDA blend,IDB,2010,2.51
+IDA blend,IDB,2012,7
+IDA blend,IDB,2014,5.5
+IDA blend,IDB,2016,7.57142857142857
+IDA blend,IDB,2018,7.42857142857143
 Indonesia,IDN,2007,2.5
 Indonesia,IDN,2010,2.12
 Indonesia,IDN,2012,2
 Indonesia,IDN,2014,3
 Indonesia,IDN,2016,3
-"Iran, Islamic Rep.",IRN,2010,2.62
-"Iran, Islamic Rep.",IRN,2012,3
-"Iran, Islamic Rep.",IRN,2014,7
-"Iran, Islamic Rep.",IRN,2016,2
-Iraq,IRQ,2012,3
-Iraq,IRQ,2016,39
+Indonesia,IDN,2018,2
+IDA only,IDX,2007,6.215
+IDA only,IDX,2010,7.12961538461539
+IDA only,IDX,2012,7.96
+IDA only,IDX,2014,3.90909090909091
+IDA only,IDX,2016,5.14814814814815
+IDA only,IDX,2018,8.26666666666667
+India,IND,2007,4
+India,IND,2010,2.34
+India,IND,2012,3
+India,IND,2014,2
+India,IND,2016,4
+India,IND,2018,3
 Ireland,IRL,2007,1.8
 Ireland,IRL,2010,1
 Ireland,IRL,2012,1
 Ireland,IRL,2016,2
+"Iran, Islamic Rep.",IRN,2010,2.62
+"Iran, Islamic Rep.",IRN,2012,3
+"Iran, Islamic Rep.",IRN,2014,7
+"Iran, Islamic Rep.",IRN,2016,2
+"Iran, Islamic Rep.",IRN,2018,3
+Iraq,IRQ,2012,3
+Iraq,IRQ,2016,39
+Iceland,ISL,2014,1
 Israel,ISR,2007,5.3
 Israel,ISR,2010,2
 Israel,ISR,2012,2
@@ -466,27 +409,39 @@ Italy,ITA,2010,2.6
 Italy,ITA,2012,3
 Italy,ITA,2014,1
 Italy,ITA,2016,2
+Italy,ITA,2018,3
 Jamaica,JAM,2007,10
 Jamaica,JAM,2012,14
 Jamaica,JAM,2016,3
-Japan,JPN,2007,3
-Japan,JPN,2010,1
-Japan,JPN,2012,1
-Japan,JPN,2014,2
-Japan,JPN,2016,2
 Jordan,JOR,2007,2
 Jordan,JOR,2010,3.16
 Jordan,JOR,2012,3
 Jordan,JOR,2014,2
 Jordan,JOR,2016,2
+Japan,JPN,2007,3
+Japan,JPN,2010,1
+Japan,JPN,2012,1
+Japan,JPN,2014,2
+Japan,JPN,2016,2
+Japan,JPN,2018,2
 Kazakhstan,KAZ,2007,2.8
 Kazakhstan,KAZ,2012,2
 Kazakhstan,KAZ,2016,3
+Kazakhstan,KAZ,2018,10
 Kenya,KEN,2007,5.8
 Kenya,KEN,2010,2.96
 Kenya,KEN,2012,2
 Kenya,KEN,2014,3
 Kenya,KEN,2016,3
+Kenya,KEN,2018,4
+Kyrgyz Republic,KGZ,2010,2
+Kyrgyz Republic,KGZ,2012,1
+Kyrgyz Republic,KGZ,2014,1
+Cambodia,KHM,2007,2.7
+Cambodia,KHM,2010,1.32
+Cambodia,KHM,2012,2
+Cambodia,KHM,2014,1
+Cambodia,KHM,2016,3
 "Korea, Rep.",KOR,2010,1.59
 "Korea, Rep.",KOR,2012,2
 "Korea, Rep.",KOR,2014,1
@@ -496,14 +451,15 @@ Kuwait,KWT,2010,2
 Kuwait,KWT,2012,2
 Kuwait,KWT,2014,1
 Kuwait,KWT,2016,2
-Kyrgyz Republic,KGZ,2010,2
-Kyrgyz Republic,KGZ,2012,1
-Kyrgyz Republic,KGZ,2014,1
+Kuwait,KWT,2018,2
+Latin America & Caribbean (excluding high income),LAC,2007,3.85625
+Latin America & Caribbean (excluding high income),LAC,2010,3.55454545454546
+Latin America & Caribbean (excluding high income),LAC,2012,3.9375
+Latin America & Caribbean (excluding high income),LAC,2014,2.57142857142857
+Latin America & Caribbean (excluding high income),LAC,2016,3.6
+Latin America & Caribbean (excluding high income),LAC,2018,3.44444444444444
 Lao PDR,LAO,2014,2
-Latvia,LVA,2007,2.3
-Latvia,LVA,2010,1.26
-Latvia,LVA,2014,1
-Latvia,LVA,2016,1
+Lao PDR,LAO,2018,2
 Lebanon,LBN,2007,2.4
 Lebanon,LBN,2010,3.42
 Lebanon,LBN,2012,2
@@ -514,32 +470,119 @@ Liberia,LBR,2016,7
 Libya,LBY,2010,3.16
 Libya,LBY,2012,2
 Libya,LBY,2016,11
+Latin America & Caribbean,LCN,2007,3.86111111111111
+Latin America & Caribbean,LCN,2010,3.93
+Latin America & Caribbean,LCN,2012,4.45
+Latin America & Caribbean,LCN,2014,2.61111111111111
+Latin America & Caribbean,LCN,2016,3.82352941176471
+Latin America & Caribbean,LCN,2018,4.45454545454545
+Least developed countries: UN classification,LDC,2007,6.72631578947369
+Least developed countries: UN classification,LDC,2010,8.5435
+Least developed countries: UN classification,LDC,2012,10.2352941176471
+Least developed countries: UN classification,LDC,2014,3.52941176470588
+Least developed countries: UN classification,LDC,2016,5.95652173913043
+Least developed countries: UN classification,LDC,2018,9.15384615384615
+Low income,LIC,2007,8.35
+Low income,LIC,2010,11.6630769230769
+Low income,LIC,2012,13.1818181818182
+Low income,LIC,2014,6
+Low income,LIC,2016,5.57142857142857
+Low income,LIC,2018,13.4285714285714
+Sri Lanka,LKA,2007,1.9
+Sri Lanka,LKA,2010,1.32
+Sri Lanka,LKA,2012,2
+Sri Lanka,LKA,2014,2
+Sri Lanka,LKA,2016,1
+Sri Lanka,LKA,2018,6
+Lower middle income,LMC,2007,5.39285714285714
+Lower middle income,LMC,2010,3.29612903225806
+Lower middle income,LMC,2012,4.06060606060606
+Lower middle income,LMC,2014,3.61111111111111
+Lower middle income,LMC,2016,5.15151515151515
+Lower middle income,LMC,2018,4.4
+Low & middle income,LMY,2007,4.92131147540984
+Low & middle income,LMY,2010,4.56861111111111
+Low & middle income,LMY,2012,5.04
+Low & middle income,LMY,2014,3.04347826086957
+Low & middle income,LMY,2016,5
+Low & middle income,LMY,2018,5.44827586206897
+Late-demographic dividend,LTE,2007,3.34814814814815
+Late-demographic dividend,LTE,2010,3.01703703703704
+Late-demographic dividend,LTE,2012,3.35483870967742
+Late-demographic dividend,LTE,2014,1.73333333333333
+Late-demographic dividend,LTE,2016,3.38709677419355
+Late-demographic dividend,LTE,2018,3.35714285714286
 Lithuania,LTU,2007,4.5
 Lithuania,LTU,2010,2
 Lithuania,LTU,2014,1
 Lithuania,LTU,2016,2
+Lithuania,LTU,2018,2
 Luxembourg,LUX,2010,1.7
 Luxembourg,LUX,2014,1
 Luxembourg,LUX,2016,2
-"Macedonia, FYR",MKD,2016,2
+Luxembourg,LUX,2018,2
+Latvia,LVA,2007,2.3
+Latvia,LVA,2010,1.26
+Latvia,LVA,2014,1
+Latvia,LVA,2016,1
+Latvia,LVA,2018,1
+Morocco,MAR,2007,4
+Morocco,MAR,2010,2
+Morocco,MAR,2012,3
+Morocco,MAR,2016,4
+Morocco,MAR,2018,2
+Moldova,MDA,2016,25
 Madagascar,MDG,2012,2
 Madagascar,MDG,2016,3
-Malawi,MWI,2007,4.2
-Malaysia,MYS,2007,3.4
-Malaysia,MYS,2010,2.64
-Malaysia,MYS,2012,3
-Malaysia,MYS,2014,1
-Malaysia,MYS,2016,3
+Madagascar,MDG,2018,1
 Maldives,MDV,2010,2
 Maldives,MDV,2012,4
 Maldives,MDV,2014,2
 Maldives,MDV,2016,6
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2007,3.49
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2010,2.566875
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2012,2.76470588235294
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2014,3.07692307692308
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2016,4.68421052631579
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2018,3.2
+Mexico,MEX,2007,3.9
+Mexico,MEX,2010,2.06
+Mexico,MEX,2012,3
+Mexico,MEX,2014,2
+Mexico,MEX,2016,2
+Mexico,MEX,2018,5
+Middle income,MIC,2007,4.40377358490566
+Middle income,MIC,2010,3.00542372881356
+Middle income,MIC,2012,3.640625
+Middle income,MIC,2014,2.86153846153846
+Middle income,MIC,2016,4.88059701492537
+Middle income,MIC,2018,4.35294117647059
+North Macedonia,MKD,2016,2
+North Macedonia,MKD,2018,1
 Mali,MLI,2007,12
 Mali,MLI,2010,5
 Mali,MLI,2012,5
 Malta,MLT,2012,2
 Malta,MLT,2014,1
 Malta,MLT,2016,1
+Malta,MLT,2018,1
+Myanmar,MMR,2007,2.6
+Myanmar,MMR,2010,4.58
+Myanmar,MMR,2012,1
+Myanmar,MMR,2014,1
+Myanmar,MMR,2018,3
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2007,3.575
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2010,2.749
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2012,3.1
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2014,2.85714285714286
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2016,6.16666666666667
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2018,2.75
+Montenegro,MNE,2014,7
+Mongolia,MNG,2010,14
+Mongolia,MNG,2012,5
+Mongolia,MNG,2014,1
+Mongolia,MNG,2016,4
+Mozambique,MOZ,2018,3
 Mauritania,MRT,2010,2
 Mauritania,MRT,2012,8
 Mauritania,MRT,2014,1
@@ -548,123 +591,196 @@ Mauritius,MUS,2007,3
 Mauritius,MUS,2012,1
 Mauritius,MUS,2014,1
 Mauritius,MUS,2016,2
-Mexico,MEX,2007,3.9
-Mexico,MEX,2010,2.06
-Mexico,MEX,2012,3
-Mexico,MEX,2014,2
-Mexico,MEX,2016,2
-Moldova,MDA,2016,25
-Mongolia,MNG,2010,14
-Mongolia,MNG,2012,5
-Mongolia,MNG,2014,1
-Mongolia,MNG,2016,4
-Montenegro,MNE,2014,7
-Morocco,MAR,2007,4
-Morocco,MAR,2010,2
-Morocco,MAR,2012,3
-Morocco,MAR,2016,4
-Myanmar,MMR,2007,2.6
-Myanmar,MMR,2010,4.58
-Myanmar,MMR,2012,1
-Myanmar,MMR,2014,1
+Mauritius,MUS,2018,1
+Malawi,MWI,2007,4.2
+Malawi,MWI,2018,4
+Malaysia,MYS,2007,3.4
+Malaysia,MYS,2010,2.64
+Malaysia,MYS,2012,3
+Malaysia,MYS,2014,1
+Malaysia,MYS,2016,3
+Malaysia,MYS,2018,2
+North America,NAC,2007,3.1
+North America,NAC,2010,2.825
+North America,NAC,2012,2
+North America,NAC,2014,1.5
+North America,NAC,2016,2.5
+North America,NAC,2018,3
 Namibia,NAM,2007,3
 Namibia,NAM,2010,3
 Namibia,NAM,2012,2
 Namibia,NAM,2014,2
 Namibia,NAM,2016,3
-Nepal,NPL,2007,4.9
-Nepal,NPL,2010,1.82
-Nepal,NPL,2014,3
-Netherlands,NLD,2007,2.6
-Netherlands,NLD,2010,1.81
-Netherlands,NLD,2012,2
-Netherlands,NLD,2014,1
-Netherlands,NLD,2016,3
-New Zealand,NZL,2007,1.9
-New Zealand,NZL,2010,1.26
-New Zealand,NZL,2012,2
-Nicaragua,NIC,2007,2
-Nicaragua,NIC,2010,3.16
-Nicaragua,NIC,2012,8
-Nicaragua,NIC,2014,8
+Namibia,NAM,2018,3
 Niger,NER,2016,1
 Nigeria,NGA,2007,9.9
 Nigeria,NGA,2010,2.51
 Nigeria,NGA,2012,4
 Nigeria,NGA,2014,4
 Nigeria,NGA,2016,3
+Nigeria,NGA,2018,3
+Nicaragua,NIC,2007,2
+Nicaragua,NIC,2010,3.16
+Nicaragua,NIC,2012,8
+Nicaragua,NIC,2014,8
+Netherlands,NLD,2007,2.6
+Netherlands,NLD,2010,1.81
+Netherlands,NLD,2012,2
+Netherlands,NLD,2014,1
+Netherlands,NLD,2016,3
+Netherlands,NLD,2018,2
 Norway,NOR,2007,2.2
 Norway,NOR,2010,1
 Norway,NOR,2014,1
 Norway,NOR,2016,2
+Norway,NOR,2018,1
+Nepal,NPL,2007,4.9
+Nepal,NPL,2010,1.82
+Nepal,NPL,2014,3
+Nepal,NPL,2018,1
+New Zealand,NZL,2007,1.9
+New Zealand,NZL,2010,1.26
+New Zealand,NZL,2012,2
+OECD members,OED,2007,2.92285714285714
+OECD members,OED,2010,2.13612903225806
+OECD members,OED,2012,2.26666666666667
+OECD members,OED,2014,1.625
+OECD members,OED,2016,2.16666666666667
+OECD members,OED,2018,2.36666666666667
 Oman,OMN,2016,2
+Oman,OMN,2018,2
+Other small states,OSS,2007,1.88333333333333
+Other small states,OSS,2010,3.24142857142857
+Other small states,OSS,2012,1.88888888888889
+Other small states,OSS,2014,2.45454545454545
+Other small states,OSS,2016,2.5
+Other small states,OSS,2018,6.14285714285714
 Pakistan,PAK,2007,3.2
 Pakistan,PAK,2010,2.3
 Pakistan,PAK,2012,3
 Pakistan,PAK,2014,3
 Pakistan,PAK,2016,4
+Pakistan,PAK,2018,4
 Panama,PAN,2007,3.2
 Panama,PAN,2010,1.44
 Panama,PAN,2012,2
 Panama,PAN,2014,2
 Panama,PAN,2016,4
-Paraguay,PRY,2007,1
+Panama,PAN,2018,3
 Peru,PER,2007,1.7
 Peru,PER,2010,2.03
 Peru,PER,2012,1
 Peru,PER,2014,3
 Peru,PER,2016,2
+Peru,PER,2018,2
 Philippines,PHL,2007,6.3
 Philippines,PHL,2010,1.82
 Philippines,PHL,2012,3
 Philippines,PHL,2014,2
 Philippines,PHL,2016,3
+Philippines,PHL,2018,1
+Papua New Guinea,PNG,2018,2
 Poland,POL,2007,3
 Poland,POL,2010,3.04
 Poland,POL,2012,4
 Poland,POL,2014,1
 Poland,POL,2016,1
+Poland,POL,2018,1
+Pre-demographic dividend,PRE,2007,7.73125
+Pre-demographic dividend,PRE,2010,9.08166666666667
+Pre-demographic dividend,PRE,2012,11
+Pre-demographic dividend,PRE,2014,3.58333333333333
+Pre-demographic dividend,PRE,2016,8.17391304347826
+Pre-demographic dividend,PRE,2018,6.21428571428571
 Portugal,PRT,2007,2.5
 Portugal,PRT,2012,2
 Portugal,PRT,2014,3
 Portugal,PRT,2016,2
+Portugal,PRT,2018,3
+Paraguay,PRY,2007,1
+Paraguay,PRY,2018,3
+Pacific island small states,PSS,2007,9
+Post-demographic dividend,PST,2007,2.66
+Post-demographic dividend,PST,2010,1.9537037037037
+Post-demographic dividend,PST,2012,2.10714285714286
+Post-demographic dividend,PST,2014,1.72413793103448
+Post-demographic dividend,PST,2016,2.26666666666667
+Post-demographic dividend,PST,2018,2.25925925925926
 Qatar,QAT,2007,1
 Qatar,QAT,2010,3.83
 Qatar,QAT,2012,2
 Qatar,QAT,2014,7
 Qatar,QAT,2016,4
+Qatar,QAT,2018,10
 Romania,ROU,2007,2.2
 Romania,ROU,2010,2
 Romania,ROU,2012,2
 Romania,ROU,2014,2
 Romania,ROU,2016,3
+Romania,ROU,2018,2
 Russian Federation,RUS,2007,2.8
 Russian Federation,RUS,2010,3.98
 Russian Federation,RUS,2012,2
 Russian Federation,RUS,2014,2
 Russian Federation,RUS,2016,5
+Russian Federation,RUS,2018,3
 Rwanda,RWA,2016,2
+South Asia,SAS,2007,4.06666666666667
+South Asia,SAS,2010,1.88428571428571
+South Asia,SAS,2012,3.33333333333333
+South Asia,SAS,2014,2.33333333333333
+South Asia,SAS,2016,3.8
+South Asia,SAS,2018,3.5
 Saudi Arabia,SAU,2007,4.3
 Saudi Arabia,SAU,2010,2.29
 Saudi Arabia,SAU,2012,5
 Saudi Arabia,SAU,2014,8
 Saudi Arabia,SAU,2016,3
+Saudi Arabia,SAU,2018,4
+Sudan,SDN,2010,39
+Sudan,SDN,2012,3
+Sudan,SDN,2014,6
+Sudan,SDN,2016,11
 Senegal,SEN,2007,4
 Senegal,SEN,2010,1.41
 Senegal,SEN,2012,7
 Senegal,SEN,2014,1
 Senegal,SEN,2016,6
-Serbia,SRB,2010,2
-Serbia,SRB,2014,1
-Serbia,SRB,2016,1
-Sierra Leone,SLE,2007,10
-Sierra Leone,SLE,2010,2
-Sierra Leone,SLE,2012,2
+Senegal,SEN,2018,1
 Singapore,SGP,2007,2.4
 Singapore,SGP,2010,2.17
 Singapore,SGP,2012,2
 Singapore,SGP,2014,2
 Singapore,SGP,2016,2
+Singapore,SGP,2018,2
+Solomon Islands,SLB,2007,9
+Sierra Leone,SLE,2007,10
+Sierra Leone,SLE,2010,2
+Sierra Leone,SLE,2012,2
+El Salvador,SLV,2007,2
+El Salvador,SLV,2012,2
+Serbia,SRB,2010,2
+Serbia,SRB,2014,1
+Serbia,SRB,2016,1
+Serbia,SRB,2018,2
+Sub-Saharan Africa (excluding high income),SSA,2007,7.83157894736842
+Sub-Saharan Africa (excluding high income),SSA,2010,8.13272727272727
+Sub-Saharan Africa (excluding high income),SSA,2012,9.31818181818182
+Sub-Saharan Africa (excluding high income),SSA,2014,3.63157894736842
+Sub-Saharan Africa (excluding high income),SSA,2016,5.96428571428571
+Sub-Saharan Africa (excluding high income),SSA,2018,9.31578947368421
+Sub-Saharan Africa,SSF,2007,7.83157894736842
+Sub-Saharan Africa,SSF,2010,8.13272727272727
+Sub-Saharan Africa,SSF,2012,9.31818181818182
+Sub-Saharan Africa,SSF,2014,3.63157894736842
+Sub-Saharan Africa,SSF,2016,5.96428571428571
+Sub-Saharan Africa,SSF,2018,9.31578947368421
+Small states,SST,2007,3.7875
+Small states,SST,2010,3.24142857142857
+Small states,SST,2012,3.09090909090909
+Small states,SST,2014,2.33333333333333
+Small states,SST,2016,3
+Small states,SST,2018,6.14285714285714
 Slovak Republic,SVK,2007,2.6
 Slovak Republic,SVK,2010,3
 Slovak Republic,SVK,2012,2
@@ -672,103 +788,137 @@ Slovak Republic,SVK,2014,2
 Slovenia,SVN,2007,3.7
 Slovenia,SVN,2010,1
 Slovenia,SVN,2016,2
-Solomon Islands,SLB,2007,9
-South Africa,ZAF,2007,2.2
-South Africa,ZAF,2010,2.28
-South Africa,ZAF,2012,2
-South Africa,ZAF,2014,2
-South Africa,ZAF,2016,3
-Spain,ESP,2007,2.6
-Spain,ESP,2010,4
-Spain,ESP,2012,1
-Spain,ESP,2014,3
-Spain,ESP,2016,3
-Sri Lanka,LKA,2007,1.9
-Sri Lanka,LKA,2010,1.32
-Sri Lanka,LKA,2012,2
-Sri Lanka,LKA,2014,2
-Sri Lanka,LKA,2016,1
-Sudan,SDN,2010,39
-Sudan,SDN,2012,3
-Sudan,SDN,2014,6
-Sudan,SDN,2016,11
+Slovenia,SVN,2018,1
 Sweden,SWE,2007,1.9
 Sweden,SWE,2010,1
 Sweden,SWE,2012,1
-Switzerland,CHE,2007,1.6
-Switzerland,CHE,2010,2.61
-Switzerland,CHE,2012,6
-Switzerland,CHE,2014,1
-Switzerland,CHE,2016,1
+Sweden,SWE,2018,1
 Syrian Arab Republic,SYR,2010,2.45
 Syrian Arab Republic,SYR,2012,3
 Syrian Arab Republic,SYR,2016,1
-Tajikistan,TJK,2010,7
-Tajikistan,TJK,2012,2
-Tajikistan,TJK,2014,14
-Tanzania,TZA,2007,11.2
-Tanzania,TZA,2010,3.16
-Tanzania,TZA,2014,7
-Tanzania,TZA,2016,4
+Chad,TCD,2007,11
+Chad,TCD,2010,74
+Chad,TCD,2012,25
+Chad,TCD,2016,22
+East Asia & Pacific (IDA & IBRD countries),TEA,2007,3.92222222222222
+East Asia & Pacific (IDA & IBRD countries),TEA,2010,3.58333333333333
+East Asia & Pacific (IDA & IBRD countries),TEA,2012,2.55555555555556
+East Asia & Pacific (IDA & IBRD countries),TEA,2014,1.5
+East Asia & Pacific (IDA & IBRD countries),TEA,2016,2.875
+East Asia & Pacific (IDA & IBRD countries),TEA,2018,2.22222222222222
+Europe & Central Asia (IDA & IBRD countries),TEC,2007,2.55555555555556
+Europe & Central Asia (IDA & IBRD countries),TEC,2010,2.802
+Europe & Central Asia (IDA & IBRD countries),TEC,2012,2.92857142857143
+Europe & Central Asia (IDA & IBRD countries),TEC,2014,3.93333333333333
+Europe & Central Asia (IDA & IBRD countries),TEC,2016,4.92857142857143
+Europe & Central Asia (IDA & IBRD countries),TEC,2018,4.57142857142857
+Togo,TGO,2014,3
+Togo,TGO,2016,2
 Thailand,THA,2007,3.4
 Thailand,THA,2010,1.59
 Thailand,THA,2012,2
 Thailand,THA,2014,1
 Thailand,THA,2016,1
-Togo,TGO,2014,3
-Togo,TGO,2016,2
+Thailand,THA,2018,4
+Tajikistan,TJK,2010,7
+Tajikistan,TJK,2012,2
+Tajikistan,TJK,2014,14
+Turkmenistan,TKM,2010,3
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2007,3.86111111111111
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2010,3.93
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2012,4.52631578947368
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2014,2.70588235294118
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2016,3.6875
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2018,4.45454545454545
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2007,3.575
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2010,2.749
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2012,3.1
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2014,2.85714285714286
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2016,6.16666666666667
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2018,2.75
+South Asia (IDA & IBRD),TSA,2007,4.06666666666667
+South Asia (IDA & IBRD),TSA,2010,1.88428571428571
+South Asia (IDA & IBRD),TSA,2012,3.33333333333333
+South Asia (IDA & IBRD),TSA,2014,2.33333333333333
+South Asia (IDA & IBRD),TSA,2016,3.8
+South Asia (IDA & IBRD),TSA,2018,3.5
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2007,7.83157894736842
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2010,8.13272727272727
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2012,9.31818181818182
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2014,3.63157894736842
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2016,5.96428571428571
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2018,9.31578947368421
 Trinidad and Tobago,TTO,2016,7
 Tunisia,TUN,2007,5.9
 Tunisia,TUN,2010,1.73
 Tunisia,TUN,2012,2
 Tunisia,TUN,2014,1
 Tunisia,TUN,2016,3
-Turkey,TUR,2007,2.5
-Turkey,TUR,2010,2.19
-Turkey,TUR,2012,2
-Turkey,TUR,2014,2
-Turkey,TUR,2016,2
-Turkmenistan,TKM,2010,3
+Tunisia,TUN,2018,4
+Turkiye,TUR,2007,2.5
+Turkiye,TUR,2010,2.19
+Turkiye,TUR,2012,2
+Turkiye,TUR,2014,2
+Turkiye,TUR,2016,2
+Turkiye,TUR,2018,3
+Tanzania,TZA,2007,11.2
+Tanzania,TZA,2010,3.16
+Tanzania,TZA,2014,7
+Tanzania,TZA,2016,4
+Tanzania,TZA,2018,4
 Uganda,UGA,2007,14
 Uganda,UGA,2010,5.48
 Uganda,UGA,2016,5
+Uganda,UGA,2018,3
 Ukraine,UKR,2007,2.4
 Ukraine,UKR,2010,1.68
 Ukraine,UKR,2012,2
 Ukraine,UKR,2014,5
 Ukraine,UKR,2016,3
-United Arab Emirates,ARE,2007,3.5
-United Arab Emirates,ARE,2010,2.46
-United Arab Emirates,ARE,2012,1
-United Arab Emirates,ARE,2014,2
-United Arab Emirates,ARE,2016,2
-United Kingdom,GBR,2007,3.3
-United Kingdom,GBR,2012,3
-United Kingdom,GBR,2014,2
-United Kingdom,GBR,2016,2
-United States,USA,2007,3.6
-United States,USA,2010,2.82
-United States,USA,2012,2
-United States,USA,2014,2
-United States,USA,2016,3
+Upper middle income,UMC,2007,3.296
+Upper middle income,UMC,2010,2.68357142857143
+Upper middle income,UMC,2012,3.19354838709677
+Upper middle income,UMC,2014,1.93103448275862
+Upper middle income,UMC,2016,4.61764705882353
+Upper middle income,UMC,2018,4.30769230769231
 Uruguay,URY,2007,5
 Uruguay,URY,2010,3
 Uruguay,URY,2012,14
 Uruguay,URY,2014,1
 Uruguay,URY,2016,4
+United States,USA,2007,3.6
+United States,USA,2010,2.82
+United States,USA,2012,2
+United States,USA,2014,2
+United States,USA,2016,3
+United States,USA,2018,2
 Uzbekistan,UZB,2010,1.41
 Uzbekistan,UZB,2014,18
 Uzbekistan,UZB,2016,18
+Uzbekistan,UZB,2018,16
 "Venezuela, RB",VEN,2010,9.44
 "Venezuela, RB",VEN,2012,7
 "Venezuela, RB",VEN,2014,8
-Vietnam,VNM,2007,2.8
-Vietnam,VNM,2010,1.41
-Vietnam,VNM,2012,2
-Vietnam,VNM,2014,1
-Vietnam,VNM,2016,3
+"Venezuela, RB",VEN,2018,15
+Viet Nam,VNM,2007,2.8
+Viet Nam,VNM,2010,1.41
+Viet Nam,VNM,2012,2
+Viet Nam,VNM,2014,1
+Viet Nam,VNM,2016,3
+Viet Nam,VNM,2018,2
+World,WLD,2007,4.04854368932039
+World,WLD,2010,3.77594594594595
+World,WLD,2012,4.16521739130435
+World,WLD,2014,2.63636363636364
+World,WLD,2016,4.12605042016807
+World,WLD,2018,4.38947368421053
 "Yemen, Rep.",YEM,2010,3.11
 "Yemen, Rep.",YEM,2016,3
+South Africa,ZAF,2007,2.2
+South Africa,ZAF,2010,2.28
+South Africa,ZAF,2012,2
+South Africa,ZAF,2014,2
+South Africa,ZAF,2016,3
 Zambia,ZMB,2007,9.2
 Zambia,ZMB,2012,5
 Zambia,ZMB,2014,3

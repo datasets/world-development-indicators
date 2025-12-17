@@ -1,1 +1,51 @@
-{"title": "Expense (% of GDP)", "name": "gc.xpn.totl.gd.zs", "worldbank": {"indicator": "gc.xpn.totl.gd.zs"}, "readme": "Expense is cash payments for operating activities of the government in providing goods and services. It includes compensation of employees (such as wages and salaries), interest and subsidies, grants, social benefits, and other expenses such as rent and dividends.", "licenses": [{"name": "CC-BY-4.0"}], "keywords": ["Economy & Growth", "Public Sector "], "resources": [{"name": "data", "title": "Indicator data", "path": "data.csv", "format": "csv", "mediatype": "text/csv", "encoding": "utf-8", "schema": {"fields": [{"name": "Country Name", "type": "string", "description": "Country or Region name"}, {"name": "Country Code", "type": "string", "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"}, {"name": "Year", "type": "year", "description": "Year"}, {"name": "Value", "type": "number", "description": "Expense is cash payments for operating activities of the government in providing goods and services. It includes compensation of employees (such as wages and salaries), interest and subsidies, grants, social benefits, and other expenses such as rent and dividends."}]}, "dialect": {"delimiter": ",", "quoteChar": "\""}}]}
+{
+  "title": "Expense (% of GDP)",
+  "name": "gc.xpn.totl.gd.zs",
+  "worldbank": {
+    "indicator": "gc.xpn.totl.gd.zs"
+  },
+  "readme": "Expense is a decrease in net worth resulting from a transaction. This indicator is expressed as a percentage of Gross Domestic Product (GDP) which is the total income earned through the production of goods and services in an economic territory during an accounting period.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Economy & Growth",
+    "Public Sector "
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "Expense is a decrease in net worth resulting from a transaction. This indicator is expressed as a percentage of Gross Domestic Product (GDP) which is the total income earned through the production of goods and services in an economic territory during an accounting period."
+          }
+        ]
+      }
+    }
+  ]
+}

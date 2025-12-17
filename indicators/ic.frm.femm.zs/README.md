@@ -1,1 +1,1 @@
-Firms with female top manager refers to the percentage of firms in the private sector who have females as top managers. Top manager refers to the highest ranking manager or CEO of the establishment. This person may be the owner if he/she works as the manager of the firm. The results are based on surveys of more than 100,000 private firms.
+Percentage of firms with females as the top manager.

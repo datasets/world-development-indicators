@@ -1,1 +1,1 @@
-Diabetes prevalence refers to the percentage of people ages 20-79 who have type 1 or type 2 diabetes.
+Diabetes prevalence refers to the percentage of people ages 20-79 who have type 1 or type 2 diabetes. It is calculated by adjusting to a standard population age-structure.

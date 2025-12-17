@@ -1,0 +1,1 @@
+The proportion of medium and high-tech industry value added in total value added of manufacturing

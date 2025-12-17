@@ -1,1 +1,1 @@
-Scientific and technical journal articles refer to the number of scientific and engineering articles published in the following fields: physics, biology, chemistry, mathematics, clinical medicine, biomedical research, engineering and technology, and earth and space sciences.
+Article counts refer to publications from a selection of conference proceedings and peer-reviewed journals from Scopus in science and engineering fields, according to the National Center for Science and Engineering Statistics Taxonomy of Disciplines.

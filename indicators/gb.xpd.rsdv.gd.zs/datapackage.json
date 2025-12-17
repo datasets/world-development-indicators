@@ -1,1 +1,50 @@
-{"title": "Research and development expenditure (% of GDP)", "name": "gb.xpd.rsdv.gd.zs", "worldbank": {"indicator": "gb.xpd.rsdv.gd.zs"}, "readme": "Gloss domestic expenditures on research and development (R&D), expressed as a percent of GDP. They include both capital and current expenditures in the four main sectors: Business enterprise, Government, Higher education and Private non-profit. R&D covers basic research, applied research, and experimental development.", "licenses": [{"name": "CC-BY-4.0"}], "keywords": ["Science & Technology "], "resources": [{"name": "data", "title": "Indicator data", "path": "data.csv", "format": "csv", "mediatype": "text/csv", "encoding": "utf-8", "schema": {"fields": [{"name": "Country Name", "type": "string", "description": "Country or Region name"}, {"name": "Country Code", "type": "string", "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"}, {"name": "Year", "type": "year", "description": "Year"}, {"name": "Value", "type": "number", "description": "Gloss domestic expenditures on research and development (R&D), expressed as a percent of GDP. They include both capital and current expenditures in the four main sectors: Business enterprise, Government, Higher education and Private non-profit. R&D covers basic research, applied research, and experimental development."}]}, "dialect": {"delimiter": ",", "quoteChar": "\""}}]}
+{
+  "title": "Research and development expenditure (% of GDP)",
+  "name": "gb.xpd.rsdv.gd.zs",
+  "worldbank": {
+    "indicator": "gb.xpd.rsdv.gd.zs"
+  },
+  "readme": "Gross domestic expenditures on research and development (R&D), expressed as a percent of GDP. They include both capital and current expenditures in the four main sectors: Business enterprise, Government, Higher education and Private non-profit. R&D covers basic research, applied research, and experimental development.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Science & Technology "
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "Gross domestic expenditures on research and development (R&D), expressed as a percent of GDP. They include both capital and current expenditures in the four main sectors: Business enterprise, Government, Higher education and Private non-profit. R&D covers basic research, applied research, and experimental development."
+          }
+        ]
+      }
+    }
+  ]
+}

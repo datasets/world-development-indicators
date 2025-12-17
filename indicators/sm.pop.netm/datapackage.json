@@ -4,7 +4,7 @@
   "worldbank": {
     "indicator": "sm.pop.netm"
   },
-  "readme": "Net migration is the net total of migrants during the period, that is, the total number of immigrants less the annual number of emigrants, including both citizens and noncitizens. Data are five-year estimates.",
+  "readme": "Net migration is the net total of migrants during the period, that is, the number of immigrants minus the number of emigrants, including both citizens and noncitizens.",
   "licenses": [
     {
       "name": "CC-BY-4.0"
@@ -43,7 +43,7 @@
           {
             "name": "Value",
             "type": "number",
-            "description": "Net migration is the net total of migrants during the period, that is, the total number of immigrants less the annual number of emigrants, including both citizens and noncitizens. Data are five-year estimates."
+            "description": "Net migration is the net total of migrants during the period, that is, the number of immigrants minus the number of emigrants, including both citizens and noncitizens."
           }
         ]
       }

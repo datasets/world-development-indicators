@@ -1,254 +1,526 @@
 Country Name,Country Code,Year,Value
-Arab World,ARB,2017,12.0769765664156
-Caribbean small states,CSS,2017,11.8601800419976
-Central Europe and the Baltics,CEB,2017,6.86254248732533
-Early-demographic dividend,EAR,2017,9.32621226070955
-East Asia & Pacific,EAS,2017,8.57148231793073
-East Asia & Pacific (excluding high income),EAP,2017,8.84021731256394
-East Asia & Pacific (IDA & IBRD countries),TEA,2017,8.9006137382759
-Euro area,EMU,2017,6.23497772655595
-Europe & Central Asia,ECS,2017,6.80009710603723
-Europe & Central Asia (excluding high income),ECA,2017,7.88190349854051
-Europe & Central Asia (IDA & IBRD countries),TEC,2017,7.70651256582986
-European Union,EUU,2017,6.10067781265229
-Fragile and conflict affected situations,FCS,2017,7.00981350436934
-Heavily indebted poor countries (HIPC),HPC,2017,5.87028383990434
-High income,HIC,2017,7.94040873414764
-IBRD only,IBD,2017,9.3185620820197
-IDA & IBRD total,IBT,2017,8.63337772213024
-IDA blend,IDB,2017,5.70375647925384
-IDA only,IDX,2017,6.3127536059074
-IDA total,IDA,2017,6.10994291515569
-Late-demographic dividend,LTE,2017,9.00341281811876
-Latin America & Caribbean,LCN,2017,8.72327572739841
-Latin America & Caribbean (excluding high income),LAC,2017,8.70323789055849
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2017,8.70036731747201
-Least developed countries: UN classification,LDC,2017,6.2750172704099
-Low & middle income,LMY,2017,8.63345709261833
-Low income,LIC,2017,5.29283978708395
-Lower middle income,LMC,2017,8.69099537203412
-Middle East & North Africa,MEA,2017,11.4287792435047
-Middle East & North Africa (excluding high income),MNA,2017,10.6312157799809
-Middle East & North Africa (IDA & IBRD countries),TMN,2017,10.6316663634217
-Middle income,MIC,2017,8.94462864988955
-North America,NAC,2017,10.4333827307125
-OECD members,OED,2017,8.21836657775171
-Other small states,OSS,2017,8.3110951254052
-Pacific island small states,PSS,2017,15.1216060862215
-Post-demographic dividend,PST,2017,7.50581031192399
-Pre-demographic dividend,PRE,2017,4.87213021340662
-Small states,SST,2017,9.36914172518085
-South Asia,SAS,2017,9.93777344819448
-South Asia (IDA & IBRD),TSA,2017,9.93777344819448
-Sub-Saharan Africa,SSF,2017,4.84790945894333
-Sub-Saharan Africa (excluding high income),SSA,2017,4.84721374461909
-Sub-Saharan Africa (IDA & IBRD countries),TSS,2017,4.84790945894333
-Upper middle income,UMC,2017,9.20545809429335
-World,WLD,2017,8.50955672533589
-Afghanistan,AFG,2017,9.59
-Albania,ALB,2017,10.08
-Algeria,DZA,2017,6.73
-Andorra,AND,2017,7.97
-Angola,AGO,2017,3.94
-Antigua and Barbuda,ATG,2017,13.17
-Argentina,ARG,2017,5.5
-Armenia,ARM,2017,7.11
-Aruba,ABW,2017,11.62
-Australia,AUS,2017,5.07
-Austria,AUT,2017,6.35
-Azerbaijan,AZE,2017,7.11
-"Bahamas, The",BHS,2017,13.17
-Bahrain,BHR,2017,16.52
-Bangladesh,BGD,2017,8.38
-Barbados,BRB,2017,13.57
-Belarus,BLR,2017,5.18
-Belgium,BEL,2017,4.29
-Belize,BLZ,2017,17.11
-Benin,BEN,2017,0.99
-Bermuda,BMU,2017,13
-Bhutan,BTN,2017,9.75
-Bolivia,BOL,2017,6.89
-Bosnia and Herzegovina,BIH,2017,10.08
-Botswana,BWA,2017,4.81
-Brazil,BRA,2017,8.11
-British Virgin Islands,VGB,2017,13.67
-Brunei Darussalam,BRN,2017,12.79
-Bulgaria,BGR,2017,5.81
-Burkina Faso,BFA,2017,2.42
-Burundi,BDI,2017,6.05
-Cabo Verde,CPV,2017,2.42
-Cambodia,KHM,2017,4
-Cameroon,CMR,2017,7.2
-Canada,CAN,2017,7.37
-Cayman Islands,CYM,2017,13.22
-Central African Republic,CAF,2017,6.1
-Chad,TCD,2017,6.1
-Channel Islands,CHI,2017,4.28
-Chile,CHL,2017,8.46
-China,CHN,2017,9.74
-Colombia,COL,2017,7.44
-Comoros,COM,2017,11.88
-"Congo, Dem. Rep.",COD,2017,6.1
-"Congo, Rep.",COG,2017,7.2
-Costa Rica,CRI,2017,8.78
-Cote d'Ivoire,CIV,2017,2.42
-Croatia,HRV,2017,5.59
-Cuba,CUB,2017,8.27
-Curacao,CUW,2017,11.62
-Cyprus,CYP,2017,9.24
-Czech Republic,CZE,2017,6.82
-Denmark,DNK,2017,6.41
-Djibouti,DJI,2017,6.05
-Dominica,DMA,2017,11.62
-Dominican Republic,DOM,2017,8.2
-Ecuador,ECU,2017,5.55
-"Egypt, Arab Rep.",EGY,2017,17.31
-El Salvador,SLV,2017,8.87
-Equatorial Guinea,GNQ,2017,7.78
-Eritrea,ERI,2017,6.05
-Estonia,EST,2017,4.02
-Ethiopia,ETH,2017,7.47
-Fiji,FJI,2017,14.49
-Finland,FIN,2017,5.76
-France,FRA,2017,4.77
-French Polynesia,PYF,2017,22.63
-Gabon,GAB,2017,7.2
-"Gambia, The",GMB,2017,1.91
-Georgia,GEO,2017,7.11
-Germany,DEU,2017,8.31
-Ghana,GHA,2017,4.97
-Greece,GRC,2017,4.55
-Greenland,GRL,2017,2.16
-Grenada,GRD,2017,10.71
-Guam,GUM,2017,21.52
-Guatemala,GTM,2017,10.18
-Guinea,GIN,2017,2.42
-Guinea-Bissau,GNB,2017,2.42
-Guyana,GUY,2017,11.62
-Haiti,HTI,2017,6.65
-Honduras,HND,2017,7.21
-"Hong Kong SAR, China",HKG,2017,8.33
-Hungary,HUN,2017,7.55
-Iceland,ISL,2017,5.31
-India,IND,2017,10.39
-Indonesia,IDN,2017,6.32
-"Iran, Islamic Rep.",IRN,2017,9.59
-Iraq,IRQ,2017,8.83
-Ireland,IRL,2017,3.28
-Israel,ISR,2017,6.74
-Italy,ITA,2017,4.78
-Jamaica,JAM,2017,11.28
-Japan,JPN,2017,5.72
-Jordan,JOR,2017,11.75
-Kazakhstan,KAZ,2017,7.11
-Kenya,KEN,2017,2.92
-Kiribati,KIR,2017,22.66
-"Korea, Dem. People’s Rep.",PRK,2017,4
-"Korea, Rep.",KOR,2017,6.8
-Kuwait,KWT,2017,15.84
-Kyrgyz Republic,KGZ,2017,7.11
-Lao PDR,LAO,2017,4
-Latvia,LVA,2017,4.91
-Lebanon,LBN,2017,12.71
-Lesotho,LSO,2017,3.94
-Liberia,LBR,2017,2.42
-Libya,LBY,2017,10.43
-Liechtenstein,LIE,2017,7.77
-Lithuania,LTU,2017,3.67
-Luxembourg,LUX,2017,4.42
-"Macedonia, FYR",MKD,2017,10.08
-Madagascar,MDG,2017,3.94
-Malawi,MWI,2017,3.94
-Malaysia,MYS,2017,16.74
-Maldives,MDV,2017,9.19
-Mali,MLI,2017,2.42
-Malta,MLT,2017,8.83
-Marshall Islands,MHL,2017,30.53
-Mauritania,MRT,2017,2.42
-Mauritius,MUS,2017,22.02
-Mexico,MEX,2017,13.06
-"Micronesia, Fed. Sts.",FSM,2017,12.02
-Moldova,MDA,2017,5.72
-Monaco,MCO,2017,5.46
-Mongolia,MNG,2017,4.82
-Montenegro,MNE,2017,10.08
-Morocco,MAR,2017,7.14
-Mozambique,MOZ,2017,3.3
-Myanmar,MMR,2017,4.61
-Namibia,NAM,2017,3.94
-Nauru,NRU,2017,24.07
-Nepal,NPL,2017,7.26
-Netherlands,NLD,2017,5.29
-New Caledonia,NCL,2017,23.36
-New Zealand,NZL,2017,8.08
-Nicaragua,NIC,2017,11.47
-Niger,NER,2017,2.42
-Nigeria,NGA,2017,2.42
-Norway,NOR,2017,5.31
-Oman,OMN,2017,12.61
-Pakistan,PAK,2017,8.35
-Palau,PLW,2017,15.89
-Panama,PAN,2017,8.33
-Papua New Guinea,PNG,2017,17.65
-Paraguay,PRY,2017,8.27
-Peru,PER,2017,5.95
-Philippines,PHL,2017,7.07
-Poland,POL,2017,5.91
-Portugal,PRT,2017,9.85
-Puerto Rico,PRI,2017,12.9
-Qatar,QAT,2017,16.52
-Romania,ROU,2017,9.74
-Russian Federation,RUS,2017,6.18
-Rwanda,RWA,2017,4.28
-Samoa,WSM,2017,9.21
-San Marino,SMR,2017,5.64
-Sao Tome and Principe,STP,2017,2.42
-Saudi Arabia,SAU,2017,17.72
-Senegal,SEN,2017,2.42
-Serbia,SRB,2017,10.08
-Seychelles,SYC,2017,10.55
-Sierra Leone,SLE,2017,2.42
-Singapore,SGP,2017,10.99
-Slovak Republic,SVK,2017,7.29
-Slovenia,SVN,2017,7.25
-Solomon Islands,SLB,2017,18.68
-Somalia,SOM,2017,6.05
-South Africa,ZAF,2017,5.52
-South Sudan,SSD,2017,10.43
-Spain,ESP,2017,7.17
-Sri Lanka,LKA,2017,10.68
-St. Kitts and Nevis,KNA,2017,12.84
-St. Lucia,LCA,2017,11.62
-St. Vincent and the Grenadines,VCT,2017,11.62
-Sudan,SDN,2017,15.67
-Suriname,SUR,2017,12.54
-Swaziland,SWZ,2017,3.94
-Sweden,SWE,2017,4.79
-Switzerland,CHE,2017,5.59
-Syrian Arab Republic,SYR,2017,8.23
-Tajikistan,TJK,2017,7.11
-Tanzania,TZA,2017,5.75
-Thailand,THA,2017,7.04
-Timor-Leste,TLS,2017,6.86
-Togo,TGO,2017,6.15
-Tonga,TON,2017,15.42
-Trinidad and Tobago,TTO,2017,10.97
-Tunisia,TUN,2017,8.52
-Turkey,TUR,2017,12.13
-Turkmenistan,TKM,2017,7.11
-Tuvalu,TUV,2017,27.25
-Uganda,UGA,2017,2.5
-Ukraine,UKR,2017,7.11
-United Arab Emirates,ARE,2017,17.26
-United Kingdom,GBR,2017,4.28
-United States,USA,2017,10.79
-Uruguay,URY,2017,6.93
-Uzbekistan,UZB,2017,7.57
-Vanuatu,VUT,2017,12.02
-"Venezuela, RB",VEN,2017,6.47
-Vietnam,VNM,2017,6
-Virgin Islands (U.S.),VIR,2017,12.26
-West Bank and Gaza,PSE,2017,10.59
-"Yemen, Rep.",YEM,2017,5.35
-Zambia,ZMB,2017,3.94
-Zimbabwe,ZWE,2017,1.82
+Aruba,ABW,2000,12.1
+Aruba,ABW,2011,12.4
+Aruba,ABW,2024,4.6
+Africa Eastern and Southern,AFE,2011,4.58905122803024
+Africa Eastern and Southern,AFE,2024,6.45404408992017
+Afghanistan,AFG,2011,7.6
+Afghanistan,AFG,2024,11.7
+Africa Western and Central,AFW,2011,4.41383159735954
+Africa Western and Central,AFW,2024,4.2192773884166
+Angola,AGO,2011,2.9
+Angola,AGO,2024,4.9
+Albania,ALB,2011,2.8
+Albania,ALB,2024,10.6
+Andorra,AND,2011,5.4
+Andorra,AND,2024,10.1
+Arab World,ARB,2011,11.9445447415724
+Arab World,ARB,2024,17.2973017268651
+United Arab Emirates,ARE,2011,18.8
+United Arab Emirates,ARE,2024,20.7
+Argentina,ARG,2011,5.5
+Argentina,ARG,2024,14
+Armenia,ARM,2011,8.5
+Armenia,ARM,2024,7.7
+Antigua and Barbuda,ATG,2011,12.5
+Antigua and Barbuda,ATG,2024,11.6
+Australia,AUS,2000,0
+Australia,AUS,2011,6.6
+Australia,AUS,2024,7.4
+Austria,AUT,2011,6.6
+Austria,AUT,2024,5.4
+Azerbaijan,AZE,2011,2.8
+Azerbaijan,AZE,2024,10.2
+Burundi,BDI,2011,2.7
+Burundi,BDI,2024,4.3
+Belgium,BEL,2011,4.8
+Belgium,BEL,2024,5.9
+Benin,BEN,2011,2
+Benin,BEN,2024,8.1
+Burkina Faso,BFA,2011,3
+Burkina Faso,BFA,2024,4.5
+Bangladesh,BGD,2011,10.5
+Bangladesh,BGD,2024,13.2
+Bulgaria,BGR,2011,6.7
+Bulgaria,BGR,2024,7.4
+Bahrain,BHR,2000,14.8
+Bahrain,BHR,2011,19.5
+Bahrain,BHR,2024,22.1
+"Bahamas, The",BHS,2011,12.1
+"Bahamas, The",BHS,2024,8.9
+Bosnia and Herzegovina,BIH,2011,7.5
+Bosnia and Herzegovina,BIH,2024,10.3
+Belarus,BLR,2011,8
+Belarus,BLR,2024,5.1
+Belize,BLZ,2011,17
+Belize,BLZ,2024,14.1
+Bermuda,BMU,2000,12.1
+Bermuda,BMU,2011,12
+Bermuda,BMU,2024,13.4
+Bolivia,BOL,2011,6.6
+Bolivia,BOL,2024,3.4
+Brazil,BRA,2011,10.1
+Brazil,BRA,2024,10.6
+Barbados,BRB,2000,13.2
+Barbados,BRB,2011,12.4
+Barbados,BRB,2024,13.2
+Brunei Darussalam,BRN,2011,9.4
+Brunei Darussalam,BRN,2024,13.7
+Bhutan,BTN,2011,5.7
+Bhutan,BTN,2024,12
+Botswana,BWA,2011,10.8
+Botswana,BWA,2024,4.6
+Central African Republic,CAF,2011,3.2
+Central African Republic,CAF,2024,7.6
+Canada,CAN,2011,8.4
+Canada,CAN,2024,7.7
+Central Europe and the Baltics,CEB,2011,7.48207256335255
+Central Europe and the Baltics,CEB,2024,7.87080652268354
+Switzerland,CHE,2011,5.9
+Switzerland,CHE,2024,5.3
+Chile,CHL,2011,9.5
+Chile,CHL,2024,12.2
+China,CHN,2011,8.8
+China,CHN,2024,11.9
+Cote d'Ivoire,CIV,2011,4.9
+Cote d'Ivoire,CIV,2024,5
+Cameroon,CMR,2000,0
+Cameroon,CMR,2011,6.1
+Cameroon,CMR,2024,6.9
+"Congo, Dem. Rep.",COD,2011,3.1
+"Congo, Dem. Rep.",COD,2024,7.7
+"Congo, Rep.",COG,2011,5.5
+"Congo, Rep.",COG,2024,8.1
+Colombia,COL,2011,9.8
+Colombia,COL,2024,8.4
+Comoros,COM,2011,8.4
+Comoros,COM,2024,10.8
+Cabo Verde,CPV,2011,5.4
+Cabo Verde,CPV,2024,6.8
+Costa Rica,CRI,2011,9.6
+Costa Rica,CRI,2024,9.8
+Caribbean small states,CSS,2011,12.5856762564925
+Caribbean small states,CSS,2024,12.9741084825892
+Cuba,CUB,2011,9.4
+Cuba,CUB,2024,9.4
+Curacao,CUW,2024,13.4
+Cayman Islands,CYM,2000,12.1
+Cayman Islands,CYM,2011,12
+Cayman Islands,CYM,2024,11.1
+Cyprus,CYP,2011,9.3
+Cyprus,CYP,2024,10
+Czechia,CZE,2000,11.7
+Czechia,CZE,2011,5.3
+Czechia,CZE,2024,7.6
+Germany,DEU,2011,5.3
+Germany,DEU,2024,7.8
+Djibouti,DJI,2011,6.3
+Djibouti,DJI,2024,6.5
+Dominica,DMA,2011,8.9
+Dominica,DMA,2024,12.9
+Denmark,DNK,2011,5.6
+Denmark,DNK,2024,6.4
+Dominican Republic,DOM,2011,8.1
+Dominican Republic,DOM,2024,17.6
+Algeria,DZA,2011,7
+Algeria,DZA,2024,17.5
+East Asia & Pacific (excluding high income),EAP,2011,8.07097570862458
+East Asia & Pacific (excluding high income),EAP,2024,11.1353659963515
+Early-demographic dividend,EAR,2011,8.80140777050446
+Early-demographic dividend,EAR,2024,12.3020275660919
+East Asia & Pacific,EAS,2011,8.02490678606455
+East Asia & Pacific,EAS,2024,10.8651898247313
+Europe & Central Asia (excluding high income),ECA,2011,5.96867339247017
+Europe & Central Asia (excluding high income),ECA,2024,10.5209498489679
+Europe & Central Asia,ECS,2011,6.54443202236628
+Europe & Central Asia,ECS,2024,7.99551816603019
+Ecuador,ECU,2011,6.6
+Ecuador,ECU,2024,4.9
+"Egypt, Arab Rep.",EGY,2011,16.6
+"Egypt, Arab Rep.",EGY,2024,22.4
+Euro area,EMU,2011,5.64772111823024
+Euro area,EMU,2024,7.56344445277776
+Eritrea,ERI,2011,3.6
+Eritrea,ERI,2024,4.4
+Spain,ESP,2011,6.3
+Spain,ESP,2024,9.7
+Estonia,EST,2011,7
+Estonia,EST,2024,6.9
+Ethiopia,ETH,2011,3.4
+Ethiopia,ETH,2024,4.4
+European Union,EUU,2011,6.01744173074928
+European Union,EUU,2024,7.56298519694099
+Fragile and conflict affected situations,FCS,2011,5.70990148329813
+Fragile and conflict affected situations,FCS,2024,6.97601622139547
+Finland,FIN,2011,5.8
+Finland,FIN,2024,6.9
+Fiji,FJI,2011,10.9
+Fiji,FJI,2024,16.6
+France,FRA,2011,5.4
+France,FRA,2024,6.5
+Faroe Islands,FRO,2024,5.3
+"Micronesia, Fed. Sts.",FSM,2011,15.7
+"Micronesia, Fed. Sts.",FSM,2024,19.2
+Gabon,GAB,2011,10.3
+Gabon,GAB,2024,8.5
+United Kingdom,GBR,2011,5.2
+United Kingdom,GBR,2024,7.4
+Georgia,GEO,2011,2.8
+Georgia,GEO,2024,6.7
+Ghana,GHA,2011,5
+Ghana,GHA,2024,2.7
+Guinea,GIN,2011,4.4
+Guinea,GIN,2024,4.6
+"Gambia, The",GMB,2011,2
+"Gambia, The",GMB,2024,5.5
+Guinea-Bissau,GNB,2011,3
+Guinea-Bissau,GNB,2024,4.8
+Equatorial Guinea,GNQ,2011,4.2
+Equatorial Guinea,GNQ,2024,8.2
+Greece,GRC,2011,5.1
+Greece,GRC,2024,8
+Grenada,GRD,2000,12.1
+Grenada,GRD,2011,8.6
+Grenada,GRD,2024,11.3
+Greenland,GRL,2024,4.3
+Guatemala,GTM,2011,9.3
+Guatemala,GTM,2024,13.2
+Guam,GUM,2011,8.6
+Guam,GUM,2024,20.3
+Guyana,GUY,2011,16.7
+Guyana,GUY,2024,16.4
+High income,HIC,2011,7.97810346491069
+High income,HIC,2024,9.72898579411539
+"Hong Kong SAR, China",HKG,2000,12.1
+"Hong Kong SAR, China",HKG,2011,7.6
+"Hong Kong SAR, China",HKG,2024,8.2
+Honduras,HND,2011,6.7
+Honduras,HND,2024,5
+Heavily indebted poor countries (HIPC),HPC,2011,4.34085165004219
+Heavily indebted poor countries (HIPC),HPC,2024,6.60860707458512
+Croatia,HRV,2011,5.2
+Croatia,HRV,2024,10.5
+Haiti,HTI,2011,6.6
+Haiti,HTI,2024,8.5
+Hungary,HUN,2011,6
+Hungary,HUN,2024,8.3
+IBRD only,IBD,2011,8.77358205507259
+IBRD only,IBD,2024,11.0829757852289
+IDA & IBRD total,IBT,2011,8.23069477971373
+IDA & IBRD total,IBT,2024,10.9095939092628
+IDA total,IDA,2011,6.12038317179501
+IDA total,IDA,2024,10.3508948963582
+IDA blend,IDB,2011,6.44517702169862
+IDA blend,IDB,2024,14.6088008639666
+Indonesia,IDN,2011,5.1
+Indonesia,IDN,2024,11.3
+IDA only,IDX,2011,5.94123956026699
+IDA only,IDX,2024,8.10270247205049
+Isle of Man,IMN,2024,7.5
+India,IND,2011,9
+India,IND,2024,10.5
+Ireland,IRL,2011,5.2
+Ireland,IRL,2024,3.6
+"Iran, Islamic Rep.",IRN,2011,11.1
+"Iran, Islamic Rep.",IRN,2024,9
+Iraq,IRQ,2011,9.1
+Iraq,IRQ,2024,13.4
+Iceland,ISL,2011,3.2
+Iceland,ISL,2024,6.9
+Israel,ISR,2011,7.4
+Israel,ISR,2024,10.1
+Italy,ITA,2011,5.1
+Italy,ITA,2024,7.7
+Jamaica,JAM,2011,15.7
+Jamaica,JAM,2024,12.5
+Jordan,JOR,2011,12.1
+Jordan,JOR,2024,20.5
+Japan,JPN,2011,7.7
+Japan,JPN,2024,8.1
+Kazakhstan,KAZ,2011,7.7
+Kazakhstan,KAZ,2024,6.8
+Kenya,KEN,2011,5.1
+Kenya,KEN,2024,3.1
+Kyrgyz Republic,KGZ,2011,6.3
+Kyrgyz Republic,KGZ,2024,7.6
+Cambodia,KHM,2011,2.9
+Cambodia,KHM,2024,7.5
+Kiribati,KIR,2011,25.3
+Kiribati,KIR,2024,24.6
+St. Kitts and Nevis,KNA,2000,12.1
+St. Kitts and Nevis,KNA,2011,8.5
+St. Kitts and Nevis,KNA,2024,13.8
+"Korea, Rep.",KOR,2011,7.5
+"Korea, Rep.",KOR,2024,9.6
+Kuwait,KWT,2011,20.7
+Kuwait,KWT,2024,25.6
+Latin America & Caribbean (excluding high income),LAC,2011,10.304490875094
+Latin America & Caribbean (excluding high income),LAC,2024,11.4342281689354
+Lao PDR,LAO,2011,3.3
+Lao PDR,LAO,2024,6.7
+Lebanon,LBN,2011,19.6
+Lebanon,LBN,2024,12.3
+Liberia,LBR,2011,3.3
+Liberia,LBR,2024,9.2
+Libya,LBY,2011,13.8
+Libya,LBY,2024,15.8
+St. Lucia,LCA,2011,8.4
+St. Lucia,LCA,2024,11.4
+Latin America & Caribbean,LCN,2011,10.2707067382556
+Latin America & Caribbean,LCN,2024,11.3098936080165
+Least developed countries: UN classification,LDC,2011,5.65770105615707
+Least developed countries: UN classification,LDC,2024,7.85292122819199
+Low income,LIC,2011,5.30109406690667
+Low income,LIC,2024,7.69595130128294
+Liechtenstein,LIE,2011,4.7
+Liechtenstein,LIE,2024,7.2
+Sri Lanka,LKA,2011,7.5
+Sri Lanka,LKA,2024,10.2
+Lower middle income,LMC,2011,8.23966398075061
+Lower middle income,LMC,2024,11.1622733196298
+Low & middle income,LMY,2011,8.23582709397861
+Low & middle income,LMY,2024,11.1777477499814
+Lesotho,LSO,2011,3.4
+Lesotho,LSO,2024,6.2
+Late-demographic dividend,LTE,2011,8.75082047069946
+Late-demographic dividend,LTE,2024,10.9311200785653
+Lithuania,LTU,2011,7.8
+Lithuania,LTU,2024,7.5
+Luxembourg,LUX,2011,4.5
+Luxembourg,LUX,2024,5.8
+Latvia,LVA,2011,7.8
+Latvia,LVA,2024,7.1
+"Macao SAR, China",MAC,2011,7.2
+"Macao SAR, China",MAC,2024,8.1
+Morocco,MAR,2011,6.8
+Morocco,MAR,2024,11.9
+Monaco,MCO,2011,5.6
+Monaco,MCO,2024,6.9
+Moldova,MDA,2011,2.7
+Moldova,MDA,2024,6.3
+Madagascar,MDG,2011,4.7
+Madagascar,MDG,2024,4.6
+Maldives,MDV,2011,9.2
+Maldives,MDV,2024,9.5
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2011,10.7225516736037
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2024,20.1372780980832
+Mexico,MEX,2000,14.2
+Mexico,MEX,2011,15.6
+Mexico,MEX,2024,16.4
+Marshall Islands,MHL,2011,21.8
+Marshall Islands,MHL,2024,25.7
+Middle income,MIC,2011,8.42555975099414
+Middle income,MIC,2024,11.4620731986091
+North Macedonia,MKD,2011,7.7
+North Macedonia,MKD,2024,7.4
+Mali,MLI,2011,1.9
+Mali,MLI,2024,4.8
+Malta,MLT,2011,6.6
+Malta,MLT,2024,10
+Myanmar,MMR,2011,7.1
+Myanmar,MMR,2024,6.7
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2011,10.1083862462786
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2024,20.0769514378744
+Montenegro,MNE,2011,7.7
+Montenegro,MNE,2024,10.7
+Mongolia,MNG,2011,7.1
+Mongolia,MNG,2024,10.3
+Mozambique,MOZ,2011,3.1
+Mozambique,MOZ,2024,3
+Mauritania,MRT,2011,4.3
+Mauritania,MRT,2024,5.2
+Mauritius,MUS,2000,15
+Mauritius,MUS,2011,14.8
+Mauritius,MUS,2024,20.1
+Malawi,MWI,2011,5.6
+Malawi,MWI,2024,5.7
+Malaysia,MYS,2011,12.1
+Malaysia,MYS,2024,21.1
+North America,NAC,2011,9.2978023991404
+North America,NAC,2024,13.0350704010611
+Namibia,NAM,2011,7.8
+Namibia,NAM,2024,5.3
+New Caledonia,NCL,2011,8.6
+New Caledonia,NCL,2024,22
+Niger,NER,2011,4.2
+Niger,NER,2024,4.1
+Nigeria,NGA,2011,4.8
+Nigeria,NGA,2024,3
+Nicaragua,NIC,2011,11
+Nicaragua,NIC,2024,10.4
+Netherlands,NLD,2011,5.3
+Netherlands,NLD,2024,5
+Norway,NOR,2011,4.7
+Norway,NOR,2024,4.8
+Nepal,NPL,2011,3.6
+Nepal,NPL,2024,7.7
+Nauru,NRU,2011,20.4
+Nauru,NRU,2024,21.8
+New Zealand,NZL,2011,8.6
+New Zealand,NZL,2024,6.7
+OECD members,OED,2011,8.08407691450804
+OECD members,OED,2024,10.5165263487106
+Oman,OMN,2011,10.5
+Oman,OMN,2024,17
+Other small states,OSS,2011,7.88591980897521
+Other small states,OSS,2024,9.72961841247687
+Pakistan,PAK,2000,11.8
+Pakistan,PAK,2011,7.9
+Pakistan,PAK,2024,31.4
+Panama,PAN,2011,9.4
+Panama,PAN,2024,11.1
+Peru,PER,2011,6
+Peru,PER,2024,6.4
+Philippines,PHL,2011,9.7
+Philippines,PHL,2024,7.5
+Palau,PLW,2011,11.1
+Palau,PLW,2024,19.3
+Papua New Guinea,PNG,2000,15.5
+Papua New Guinea,PNG,2011,7.6
+Papua New Guinea,PNG,2024,14.1
+Poland,POL,2011,9
+Poland,POL,2024,8.1
+Pre-demographic dividend,PRE,2011,4.59265491155313
+Pre-demographic dividend,PRE,2024,6.34356773813422
+Puerto Rico (US),PRI,2011,13
+Puerto Rico (US),PRI,2024,10.9
+"Korea, Dem. People's Rep.",PRK,2011,8.4
+"Korea, Dem. People's Rep.",PRK,2024,9.9
+Portugal,PRT,2011,9.6
+Portugal,PRT,2024,10.5
+Paraguay,PRY,2011,6.5
+Paraguay,PRY,2024,9.4
+West Bank and Gaza,PSE,2011,9.2
+West Bank and Gaza,PSE,2024,15.5
+Pacific island small states,PSS,2011,13.4162047389065
+Pacific island small states,PSS,2024,17.0708090275406
+Post-demographic dividend,PST,2011,7.08857587027415
+Post-demographic dividend,PST,2024,9.46121365518996
+French Polynesia,PYF,2011,8.6
+French Polynesia,PYF,2024,22.8
+Qatar,QAT,2011,19.8
+Qatar,QAT,2024,24.6
+Romania,ROU,2011,7.7
+Romania,ROU,2024,7.5
+Russian Federation,RUS,2011,9.7
+Russian Federation,RUS,2024,5.9
+Rwanda,RWA,2011,3.1
+Rwanda,RWA,2024,2.1
+South Asia,SAS,2011,9.03165942802619
+South Asia,SAS,2024,10.7173486503525
+Saudi Arabia,SAU,2011,19.6
+Saudi Arabia,SAU,2024,23.1
+Sudan,SDN,2011,8.6
+Sudan,SDN,2024,19
+Senegal,SEN,2011,3.2
+Senegal,SEN,2024,3.8
+Singapore,SGP,2011,9.5
+Singapore,SGP,2024,11.4
+Solomon Islands,SLB,2011,15.3
+Solomon Islands,SLB,2024,12
+Sierra Leone,SLE,2011,3.2
+Sierra Leone,SLE,2024,4.8
+El Salvador,SLV,2011,9.4
+El Salvador,SLV,2024,12.7
+San Marino,SMR,2011,5.5
+San Marino,SMR,2024,8.6
+"Somalia, Fed. Rep.",SOM,2011,4.3
+"Somalia, Fed. Rep.",SOM,2024,5.8
+Serbia,SRB,2011,7.7
+Serbia,SRB,2024,10.5
+Sub-Saharan Africa (excluding high income),SSA,2011,4.64035667299124
+Sub-Saharan Africa (excluding high income),SSA,2024,5.69564297111024
+South Sudan,SSD,2024,4.6
+Sub-Saharan Africa,SSF,2011,4.51732700890279
+Sub-Saharan Africa,SSF,2024,5.55989717914018
+Small states,SST,2011,9.68512946756901
+Small states,SST,2024,11.3574229239809
+Sao Tome and Principe,STP,2011,5.5
+Sao Tome and Principe,STP,2024,12.1
+Suriname,SUR,2011,8.9
+Suriname,SUR,2024,13.8
+Slovak Republic,SVK,2011,5.7
+Slovak Republic,SVK,2024,7.1
+Slovenia,SVN,2011,7.5
+Slovenia,SVN,2024,7
+Sweden,SWE,2011,4.2
+Sweden,SWE,2024,5.8
+Eswatini,SWZ,2011,3.1
+Eswatini,SWZ,2024,7.9
+Seychelles,SYC,2011,12.1
+Seychelles,SYC,2024,9.3
+Syrian Arab Republic,SYR,2011,9.9
+Syrian Arab Republic,SYR,2024,19
+Chad,TCD,2011,3.9
+Chad,TCD,2024,7.3
+East Asia & Pacific (IDA & IBRD countries),TEA,2011,8.06684253632877
+East Asia & Pacific (IDA & IBRD countries),TEA,2024,11.1509213612865
+Europe & Central Asia (IDA & IBRD countries),TEC,2011,7.59013298809859
+Europe & Central Asia (IDA & IBRD countries),TEC,2024,8.64389698734676
+Togo,TGO,2011,3.3
+Togo,TGO,2024,4.8
+Thailand,THA,2011,7.5
+Thailand,THA,2024,10.2
+Tajikistan,TJK,2011,6.3
+Tajikistan,TJK,2024,8
+Turkmenistan,TKM,2011,2.7
+Turkmenistan,TKM,2024,7.1
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2011,10.2683541947253
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2024,11.3503761140369
+Timor-Leste,TLS,2011,7.5
+Timor-Leste,TLS,2024,3.2
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2011,10.1138080664671
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2024,20.1073707745161
+Tonga,TON,2000,11.5
+Tonga,TON,2011,12.7
+Tonga,TON,2024,19.6
+South Asia (IDA & IBRD),TSA,2011,9.03165942802619
+South Asia (IDA & IBRD),TSA,2024,10.7173486503525
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2011,4.51732700890278
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2024,5.55989717914018
+Trinidad and Tobago,TTO,2000,14.1
+Trinidad and Tobago,TTO,2011,12.7
+Trinidad and Tobago,TTO,2024,12.4
+Tunisia,TUN,2011,9.5
+Tunisia,TUN,2024,16
+Turkiye,TUR,2011,7.9
+Turkiye,TUR,2024,16.5
+Tuvalu,TUV,2011,19.2
+Tuvalu,TUV,2024,19
+Tanzania,TZA,2011,2.8
+Tanzania,TZA,2024,9.8
+Uganda,UGA,2011,2.8
+Uganda,UGA,2024,2.2
+Ukraine,UKR,2011,2.9
+Ukraine,UKR,2024,6
+Upper middle income,UMC,2011,8.58331261616091
+Upper middle income,UMC,2024,11.7527798413722
+Uruguay,URY,2011,5.7
+Uruguay,URY,2024,7.8
+United States,USA,2011,9.4
+United States,USA,2024,13.7
+Uzbekistan,UZB,2011,6.4
+Uzbekistan,UZB,2024,7.5
+St. Vincent and the Grenadines,VCT,2011,8.8
+St. Vincent and the Grenadines,VCT,2024,8.6
+"Venezuela, RB",VEN,2011,10.2
+"Venezuela, RB",VEN,2024,8.6
+Virgin Islands (U.S.),VIR,2011,12.1
+Virgin Islands (U.S.),VIR,2024,9.1
+Viet Nam,VNM,2011,3.2
+Viet Nam,VNM,2024,3.4
+Vanuatu,VUT,2011,16.1
+Vanuatu,VUT,2024,19.7
+World,WLD,2011,8.14038930852422
+World,WLD,2024,10.7972882953105
+Samoa,WSM,2011,7.7
+Samoa,WSM,2024,25.4
+Kosovo,XKX,2024,10.4
+"Yemen, Rep.",YEM,2011,9.6
+"Yemen, Rep.",YEM,2024,5.5
+South Africa,ZAF,2011,7
+South Africa,ZAF,2024,7.2
+Zambia,ZMB,2011,4.8
+Zambia,ZMB,2024,10.3
+Zimbabwe,ZWE,2011,9.8
+Zimbabwe,ZWE,2024,1.5

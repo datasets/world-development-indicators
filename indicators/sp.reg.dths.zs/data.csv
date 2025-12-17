@@ -1,546 +1,670 @@
 Country Name,Country Code,Year,Value
-Caribbean small states,CSS,1990,81.3701201307097
-Central Europe and the Baltics,CEB,1990,99.8199158184667
-Central Europe and the Baltics,CEB,2000,99.6616636948283
-Central Europe and the Baltics,CEB,2010,100
-East Asia & Pacific,EAS,1990,17.7604399277964
-East Asia & Pacific,EAS,2000,20.4904554123728
-East Asia & Pacific,EAS,2010,22.8404212634346
-East Asia & Pacific (excluding high income),EAP,1990,6.39604921814043
-East Asia & Pacific (excluding high income),EAP,2000,8.56484914561166
-East Asia & Pacific (excluding high income),EAP,2010,9.96375833308761
-East Asia & Pacific (IDA & IBRD countries),TEA,1990,6.39604921814043
-East Asia & Pacific (IDA & IBRD countries),TEA,2000,8.56484914561166
-East Asia & Pacific (IDA & IBRD countries),TEA,2010,9.96375833308761
-Euro area,EMU,1990,98.9414836525121
-Euro area,EMU,2000,99.4943334654973
-Euro area,EMU,2010,99.9670456867835
-Europe & Central Asia,ECS,1990,94.8832656958483
-Europe & Central Asia,ECS,2000,95.8591679041751
-Europe & Central Asia,ECS,2010,98.2389382280492
-Europe & Central Asia (excluding high income),ECA,1990,89.83119249599
-Europe & Central Asia (excluding high income),ECA,2000,92.2770507987945
-Europe & Central Asia (excluding high income),ECA,2010,96.3651370338877
-Europe & Central Asia (IDA & IBRD countries),TEC,1990,90.7176163069221
-Europe & Central Asia (IDA & IBRD countries),TEC,2000,92.7896424939586
-Europe & Central Asia (IDA & IBRD countries),TEC,2010,96.6622688343248
-European Union,EUU,1990,99.2769207216944
-European Union,EUU,2000,99.5567424984031
-European Union,EUU,2010,99.956865366023
-High income,HIC,1990,98.6007759942551
-High income,HIC,2000,98.8309068951006
-High income,HIC,2010,98.7651338061741
-Late-demographic dividend,LTE,1990,34.5806955120905
-Late-demographic dividend,LTE,2000,37.3912637595292
-Late-demographic dividend,LTE,2010,36.6032267740488
-Latin America & Caribbean,LCN,1990,82.9252900889498
-Latin America & Caribbean,LCN,2000,85.5448299944475
-Latin America & Caribbean,LCN,2010,92.0889909553071
-Latin America & Caribbean (excluding high income),LAC,1990,82.4234570633012
-Latin America & Caribbean (excluding high income),LAC,2000,85.0076848241769
-Latin America & Caribbean (excluding high income),LAC,2010,91.7897485183146
-Latin America & the Caribbean (IDA & IBRD countries),TLA,1990,82.566063077567
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2000,85.2374962903339
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2010,91.926343906479
-North America,NAC,1990,98.4718902434532
-North America,NAC,2000,97.6194290205346
-North America,NAC,2010,98.1792651146031
-OECD members,OED,1990,95.2503873050403
-OECD members,OED,2000,96.4535898260356
-OECD members,OED,2010,98.482587933262
-Post-demographic dividend,PST,1990,98.6677446629838
-Post-demographic dividend,PST,2000,98.912327277425
-Post-demographic dividend,PST,2010,99.2461571328757
-Upper middle income,UMC,1990,35.8884989151374
-Upper middle income,UMC,2000,40.9835520093923
-Upper middle income,UMC,2010,43.3560194293921
 Albania,ALB,1992,73
 Albania,ALB,1997,74.9
 Albania,ALB,2002,67.8
 Albania,ALB,2009,53
+Albania,ALB,2010,53
 Andorra,AND,2010,80
-Antigua and Barbuda,ATG,1992,92.2
-Antigua and Barbuda,ATG,1997,87.7
-Antigua and Barbuda,ATG,2002,83.7
-Antigua and Barbuda,ATG,2008,80.2
-Antigua and Barbuda,ATG,2012,79
+Andorra,AND,2015,100
+United Arab Emirates,ARE,2006,89.6
+United Arab Emirates,ARE,2009,87
+United Arab Emirates,ARE,2010,59
 Argentina,ARG,1992,99.9
 Argentina,ARG,1997,100
 Argentina,ARG,2002,99.9
 Argentina,ARG,2009,99.2
 Argentina,ARG,2011,100
+Argentina,ARG,2016,100
 Armenia,ARM,1992,70.1
 Armenia,ARM,1997,79.7
 Armenia,ARM,2002,74.4
 Armenia,ARM,2011,76
+Armenia,ARM,2016,100
+Antigua and Barbuda,ATG,1992,92.2
+Antigua and Barbuda,ATG,1997,87.7
+Antigua and Barbuda,ATG,2002,83.7
+Antigua and Barbuda,ATG,2008,80.2
+Antigua and Barbuda,ATG,2012,79
+Antigua and Barbuda,ATG,2016,83
 Australia,AUS,1992,97.5
 Australia,AUS,1997,96.6
 Australia,AUS,2002,99.4
 Australia,AUS,2007,99.1
 Australia,AUS,2010,100
+Australia,AUS,2016,100
 Austria,AUT,1992,100
 Austria,AUT,1997,100
 Austria,AUT,2002,100
 Austria,AUT,2010,100
 Austria,AUT,2011,100
+Austria,AUT,2017,100
 Azerbaijan,AZE,1992,67.2
 Azerbaijan,AZE,1997,67.5
 Azerbaijan,AZE,2002,69
 Azerbaijan,AZE,2007,93
-"Bahamas, The",BHS,1992,99
-"Bahamas, The",BHS,1997,95.9
-"Bahamas, The",BHS,2002,93.9
-"Bahamas, The",BHS,2007,89
-"Bahamas, The",BHS,2009,93
-Bahrain,BHR,1997,88.1
-Bahrain,BHR,2002,94.6
-Bahrain,BHR,2010,88
-Barbados,BRB,1992,100
-Barbados,BRB,1997,100
-Barbados,BRB,2002,95.7
-Barbados,BRB,2007,100
-Barbados,BRB,2010,100
-Belarus,BLR,1992,98.6
-Belarus,BLR,1997,98.2
-Belarus,BLR,2002,99.7
-Belarus,BLR,2008,100
-Belarus,BLR,2011,100
 Belgium,BEL,1992,100
 Belgium,BEL,1997,99.8
 Belgium,BEL,2002,100
 Belgium,BEL,2006,100
 Belgium,BEL,2009,100
+Belgium,BEL,2016,100
+Bulgaria,BGR,1992,99.6
+Bulgaria,BGR,1997,100
+Bulgaria,BGR,2002,99.9
+Bulgaria,BGR,2011,100
+Bulgaria,BGR,2015,100
+Bahrain,BHR,1997,88.1
+Bahrain,BHR,2002,94.6
+Bahrain,BHR,2010,88
+Bahrain,BHR,2014,96
+"Bahamas, The",BHS,1992,99
+"Bahamas, The",BHS,1997,95.9
+"Bahamas, The",BHS,2002,93.9
+"Bahamas, The",BHS,2007,89
+"Bahamas, The",BHS,2009,93
+"Bahamas, The",BHS,2014,89
+Bosnia and Herzegovina,BIH,1992,100
+Bosnia and Herzegovina,BIH,2011,89
+Bosnia and Herzegovina,BIH,2016,95
+Belarus,BLR,1992,98.6
+Belarus,BLR,1997,98.2
+Belarus,BLR,2002,99.7
+Belarus,BLR,2008,100
+Belarus,BLR,2011,100
+Belarus,BLR,2014,100
 Belize,BLZ,1992,81.1
 Belize,BLZ,1997,93.6
 Belize,BLZ,2002,98.7
 Belize,BLZ,2008,100
 Belize,BLZ,2011,100
-Bosnia and Herzegovina,BIH,1992,100
-Bosnia and Herzegovina,BIH,2011,89
+Belize,BLZ,2016,89
 Brazil,BRA,1992,80.6
 Brazil,BRA,1997,82.8
 Brazil,BRA,2002,85.8
 Brazil,BRA,2009,93
 Brazil,BRA,2011,93
+Brazil,BRA,2016,99
+Barbados,BRB,1992,100
+Barbados,BRB,1997,100
+Barbados,BRB,2002,95.7
+Barbados,BRB,2007,100
+Barbados,BRB,2010,100
+Barbados,BRB,2013,79
 Brunei Darussalam,BRN,1997,100
 Brunei Darussalam,BRN,2002,100
 Brunei Darussalam,BRN,2010,92.6
 Brunei Darussalam,BRN,2011,89
-Bulgaria,BGR,1992,99.6
-Bulgaria,BGR,1997,100
-Bulgaria,BGR,2002,99.9
-Bulgaria,BGR,2011,100
+Brunei Darussalam,BRN,2016,100
 Canada,CAN,1992,99.3
 Canada,CAN,1997,100
 Canada,CAN,2002,100
 Canada,CAN,2008,100
 Canada,CAN,2010,100
-Chile,CHL,1992,93
-Chile,CHL,1997,94
-Chile,CHL,2002,96.6
-Chile,CHL,2008,97.7
-Chile,CHL,2011,100
-China,CHN,1992,0
-China,CHN,1997,0
-China,CHN,2002,0
-China,CHN,2009,4
-Colombia,COL,1992,79.9
-Colombia,COL,1997,88.1
-Colombia,COL,2002,93.1
-Colombia,COL,2008,98.5
-Colombia,COL,2010,98
-Costa Rica,CRI,1992,91.5
-Costa Rica,CRI,1997,95.5
-Costa Rica,CRI,2002,93.2
-Costa Rica,CRI,2010,90.4
-Costa Rica,CRI,2011,91
-Croatia,HRV,1992,98.4
-Croatia,HRV,1997,94.9
-Croatia,HRV,2002,97.3
-Croatia,HRV,2011,100
-Cuba,CUB,1992,95.5
-Cuba,CUB,1997,98.5
-Cuba,CUB,2002,96.1
-Cuba,CUB,2009,99.8
-Cuba,CUB,2011,98
-Cyprus,CYP,1997,78.2
-Cyprus,CYP,2002,82.8
-Cyprus,CYP,2010,85.3
-Cyprus,CYP,2011,86
-Czech Republic,CZE,1992,100
-Czech Republic,CZE,1997,99.2
-Czech Republic,CZE,2002,100
-Czech Republic,CZE,2011,100
-Denmark,DNK,1992,100
-Denmark,DNK,1997,99.5
-Denmark,DNK,2002,100
-Denmark,DNK,2010,98.5
-Denmark,DNK,2011,98
-Dominica,DMA,1992,100
-Dominica,DMA,1997,100
-Dominica,DMA,2002,99.3
-Dominica,DMA,2009,100
-Dominica,DMA,2012,100
-Dominican Republic,DOM,1992,54.1
-Dominican Republic,DOM,1997,55.9
-Dominican Republic,DOM,2002,54.7
-Dominican Republic,DOM,2005,58.6
-Dominican Republic,DOM,2010,56.9
-Ecuador,ECU,1992,70.6
-Ecuador,ECU,1997,71.1
-Ecuador,ECU,2002,72.4
-Ecuador,ECU,2009,85.3
-Ecuador,ECU,2011,80
-"Egypt, Arab Rep.",EGY,1992,76.3
-"Egypt, Arab Rep.",EGY,2002,87.7
-"Egypt, Arab Rep.",EGY,2010,95
-El Salvador,SLV,1992,60.8
-El Salvador,SLV,1997,70.6
-El Salvador,SLV,2002,72.3
-El Salvador,SLV,2008,77.1
-El Salvador,SLV,2011,78
-Estonia,EST,1992,99.9
-Estonia,EST,1997,100
-Estonia,EST,2002,100
-Estonia,EST,2011,100
-Fiji,FJI,1997,71.4
-Fiji,FJI,2009,100
-Fiji,FJI,2011,100
-Fiji,FJI,2012,100
-Finland,FIN,1992,99.8
-Finland,FIN,1997,100
-Finland,FIN,2002,100
-Finland,FIN,2010,100
-Finland,FIN,2011,100
-France,FRA,1992,100
-France,FRA,1997,99.3
-France,FRA,2002,100
-France,FRA,2009,100
-France,FRA,2010,100
-Georgia,GEO,1992,80.5
-Georgia,GEO,1997,81
-Georgia,GEO,2002,80.8
-Georgia,GEO,2010,86.8
-Georgia,GEO,2011,98
-Germany,DEU,1992,100
-Germany,DEU,1997,99.6
-Germany,DEU,2002,100
-Germany,DEU,2011,100
-Greece,GRC,1992,97.6
-Greece,GRC,1997,95.1
-Greece,GRC,2002,100
-Greece,GRC,2010,100
-Greece,GRC,2011,100
-Grenada,GRD,1992,74.5
-Grenada,GRD,1997,74
-Grenada,GRD,2002,73.2
-Grenada,GRD,2009,100
-Grenada,GRD,2011,100
-Guatemala,GTM,1992,94.4
-Guatemala,GTM,1997,92.5
-Guatemala,GTM,2002,90.9
-Guatemala,GTM,2008,85.3
-Guatemala,GTM,2011,92
-Guyana,GUY,1992,57.2
-Guyana,GUY,1997,59.4
-Guyana,GUY,2002,60.2
-Guyana,GUY,2008,73.5
-Guyana,GUY,2010,81
-Haiti,HTI,1997,7.1
-Haiti,HTI,2002,9.5
-Honduras,HND,1992,53.9
-Honduras,HND,2012,17
-Hungary,HUN,1992,99.9
-Hungary,HUN,1997,98.3
-Hungary,HUN,2002,100
-Hungary,HUN,2011,100
-Iceland,ISL,1992,98.6
-Iceland,ISL,1997,99
-Iceland,ISL,2002,98.9
-Iceland,ISL,2008,100
-India,IND,2007,8
-"Iran, Islamic Rep.",IRN,2006,68.3
-Iraq,IRQ,2008,65
-Ireland,IRL,1992,100
-Ireland,IRL,1997,99.4
-Ireland,IRL,2002,100
-Ireland,IRL,2009,100
-Israel,ISR,1992,100
-Israel,ISR,1997,100
-Israel,ISR,2002,100
-Israel,ISR,2010,100
-Israel,ISR,2011,100
-Italy,ITA,1992,95.2
-Italy,ITA,1997,98.1
-Italy,ITA,2002,97.5
-Italy,ITA,2009,100
-Italy,ITA,2010,100
-Jamaica,JAM,1992,79.6
-Jamaica,JAM,2006,71
-Japan,JPN,1992,100
-Japan,JPN,1997,99.5
-Japan,JPN,2002,99.2
-Japan,JPN,2010,100
-Japan,JPN,2011,100
-Jordan,JOR,2009,65
-Kazakhstan,KAZ,1992,84.9
-Kazakhstan,KAZ,1997,85.4
-Kazakhstan,KAZ,2002,85.2
-Kazakhstan,KAZ,2009,91.6
-Kazakhstan,KAZ,2012,91
-Kiribati,KIR,1992,80.8
-Kiribati,KIR,1997,76.9
-Kiribati,KIR,2002,87
-"Korea, Rep.",KOR,1992,85.3
-"Korea, Rep.",KOR,1997,98.5
-"Korea, Rep.",KOR,2002,98.5
-"Korea, Rep.",KOR,2010,99
-"Korea, Rep.",KOR,2011,99
-Kuwait,KWT,1992,88.2
-Kuwait,KWT,1997,99
-Kuwait,KWT,2002,99.4
-Kuwait,KWT,2010,95.9
-Kuwait,KWT,2011,95
-Kyrgyz Republic,KGZ,1992,80.5
-Kyrgyz Republic,KGZ,1997,84.7
-Kyrgyz Republic,KGZ,2002,83.9
-Kyrgyz Republic,KGZ,2009,97.6
-Kyrgyz Republic,KGZ,2012,96
-Latvia,LVA,1992,100
-Latvia,LVA,1997,99.5
-Latvia,LVA,2002,98.9
-Latvia,LVA,2010,99.7
-Latvia,LVA,2011,100
-Lithuania,LTU,1992,99.3
-Lithuania,LTU,1997,98.9
-Lithuania,LTU,2002,99.8
-Lithuania,LTU,2009,100
-Lithuania,LTU,2011,100
-Luxembourg,LUX,1992,99.8
-Luxembourg,LUX,1997,99.8
-Luxembourg,LUX,2002,99.3
-Luxembourg,LUX,2010,99.7
-Luxembourg,LUX,2011,100
-"Macedonia, FYR",MKD,2009,100
-"Macedonia, FYR",MKD,2010,100
-Malaysia,MYS,1997,41.9
-Malaysia,MYS,2002,49.6
-Malaysia,MYS,2007,55.4
-Malaysia,MYS,2008,56
-Maldives,MDV,2002,73.3
-Maldives,MDV,2008,80.7
-Maldives,MDV,2011,84
-Malta,MLT,1992,96.4
-Malta,MLT,1997,97.5
-Malta,MLT,2002,98.8
-Malta,MLT,2010,100
-Malta,MLT,2011,99.9
-Mauritius,MUS,1992,100
-Mauritius,MUS,1997,99.7
-Mauritius,MUS,2002,99.9
-Mauritius,MUS,2010,100
-Mauritius,MUS,2012,100
-Mexico,MEX,1992,90.1
-Mexico,MEX,1997,92.8
-Mexico,MEX,2002,94.2
-Mexico,MEX,2009,93.9
-Mexico,MEX,2011,99
-Moldova,MDA,1992,98.5
-Moldova,MDA,1997,92
-Moldova,MDA,2002,87.6
-Moldova,MDA,2011,91.4
-Moldova,MDA,2012,90
-Monaco,MCO,2010,80
-Monaco,MCO,2011,80
-Mongolia,MNG,1992,91.1
-Mongolia,MNG,2010,88.7
-Mongolia,MNG,2012,92
-Montenegro,MNE,2002,100
-Montenegro,MNE,2008,100
-Morocco,MAR,2008,26.8
-Morocco,MAR,2010,25
-Morocco,MAR,2011,24.3
-Netherlands,NLD,1992,100
-Netherlands,NLD,1997,100
-Netherlands,NLD,2002,100
-Netherlands,NLD,2010,99.8
-Netherlands,NLD,2011,100
-New Zealand,NZL,1992,98.7
-New Zealand,NZL,1997,98.3
-New Zealand,NZL,2002,99.8
-New Zealand,NZL,2008,100
-New Zealand,NZL,2009,100
-Nicaragua,NIC,1992,54.4
-Nicaragua,NIC,1997,61.4
-Nicaragua,NIC,2002,64.2
-Nicaragua,NIC,2010,67.6
-Nicaragua,NIC,2011,68
-Norway,NOR,1992,100
-Norway,NOR,1997,100
-Norway,NOR,2002,100
-Norway,NOR,2011,100
-Oman,OMN,2010,87
-Panama,PAN,1997,82.7
-Panama,PAN,2002,88.6
-Panama,PAN,2008,90.3
-Panama,PAN,2011,90
-Paraguay,PRY,1992,74.4
-Paraguay,PRY,1997,75
-Paraguay,PRY,2002,77.4
-Paraguay,PRY,2009,81.8
-Paraguay,PRY,2011,81
-Peru,PER,1992,57.7
-Peru,PER,1997,63.5
-Peru,PER,2002,63
-Peru,PER,2007,65.5
-Peru,PER,2009,66.8
-Peru,PER,2011,69
-Philippines,PHL,1992,77.6
-Philippines,PHL,1997,88
-Philippines,PHL,2002,91.9
-Philippines,PHL,2008,90
-Poland,POL,1992,100
-Poland,POL,1997,99.6
-Poland,POL,2002,99.4
-Poland,POL,2010,100
-Poland,POL,2011,100
-Portugal,PRT,1992,100
-Portugal,PRT,1997,99.7
-Portugal,PRT,2002,100
-Portugal,PRT,2010,100
-Portugal,PRT,2011,100
-Qatar,QAT,1997,97.1
-Qatar,QAT,2002,86.6
-Qatar,QAT,2010,81.7
-Qatar,QAT,2011,77
-Romania,ROU,1992,99.8
-Romania,ROU,1997,99
-Romania,ROU,2002,100
-Romania,ROU,2010,99.6
-Romania,ROU,2011,100
-Russian Federation,RUS,1992,99.8
-Russian Federation,RUS,1997,99.4
-Russian Federation,RUS,2002,99.9
-Russian Federation,RUS,2009,99.3
-Russian Federation,RUS,2010,100
-San Marino,SMR,1997,82.4
-San Marino,SMR,2002,81.4
-San Marino,SMR,2007,80
-Saudi Arabia,SAU,2009,50.6
-Saudi Arabia,SAU,2012,51
-Serbia,SRB,1997,83.9
-Serbia,SRB,2002,84.5
-Serbia,SRB,2011,90
-Seychelles,SYC,2002,98.8
-Seychelles,SYC,2011,100
-Singapore,SGP,1992,94
-Singapore,SGP,1997,85.3
-Singapore,SGP,2002,78.5
-Singapore,SGP,2010,74.5
-Singapore,SGP,2011,74
-Slovak Republic,SVK,1992,100
-Slovak Republic,SVK,1997,100
-Slovak Republic,SVK,2002,100
-Slovak Republic,SVK,2009,100
-Slovak Republic,SVK,2010,100
-Slovenia,SVN,1992,100
-Slovenia,SVN,1997,98.7
-Slovenia,SVN,2002,100
-Slovenia,SVN,2009,100
-Slovenia,SVN,2010,100
-South Africa,ZAF,1992,0
-South Africa,ZAF,1997,0
-South Africa,ZAF,2002,70.4
-South Africa,ZAF,2008,92.3
-South Africa,ZAF,2009,91
-Spain,ESP,1992,98.9
-Spain,ESP,1997,99.7
-Spain,ESP,2002,100
-Spain,ESP,2010,100
-Spain,ESP,2011,100
-Sri Lanka,LKA,1992,75.5
-Sri Lanka,LKA,1997,73.5
-Sri Lanka,LKA,2002,72.3
-Sri Lanka,LKA,2006,81.9
-St. Kitts and Nevis,KNA,1992,100
-St. Kitts and Nevis,KNA,1997,100
-St. Kitts and Nevis,KNA,2002,86.2
-St. Kitts and Nevis,KNA,2009,82.3
-St. Kitts and Nevis,KNA,2011,79
-St. Lucia,LCA,1992,84.1
-St. Lucia,LCA,1997,79.8
-St. Lucia,LCA,2002,95.9
-St. Lucia,LCA,2008,89.9
-St. Lucia,LCA,2011,85
-St. Vincent and the Grenadines,VCT,2009,100
-St. Vincent and the Grenadines,VCT,2010,100
-St. Vincent and the Grenadines,VCT,2012,100
-Suriname,SUR,1992,67.7
-Suriname,SUR,1997,64.4
-Suriname,SUR,2002,82
-Suriname,SUR,2008,100
-Suriname,SUR,2011,100
-Sweden,SWE,1992,100
-Sweden,SWE,1997,100
-Sweden,SWE,2002,100
-Sweden,SWE,2009,100
-Sweden,SWE,2010,100
-Sweden,SWE,2011,100
+Canada,CAN,2015,100
+Central Europe and the Baltics,CEB,1990,99.8199186409992
+Central Europe and the Baltics,CEB,2000,99.6616193324795
+Central Europe and the Baltics,CEB,2015,99.9667710849905
 Switzerland,CHE,1992,100
 Switzerland,CHE,1997,100
 Switzerland,CHE,2002,99.8
 Switzerland,CHE,2009,100
 Switzerland,CHE,2010,100
 Switzerland,CHE,2011,100
-Syrian Arab Republic,SYR,2009,92.5
-Syrian Arab Republic,SYR,2010,92
-Tajikistan,TJK,1992,67.6
-Tajikistan,TJK,1997,57.3
-Tajikistan,TJK,2002,59.8
-Tajikistan,TJK,2005,67.6
-Thailand,THA,1992,64.6
-Thailand,THA,1997,69.5
-Thailand,THA,2002,71.7
-Thailand,THA,2006,84.9
-Trinidad and Tobago,TTO,1992,97.4
-Trinidad and Tobago,TTO,1997,99.7
-Trinidad and Tobago,TTO,2002,99.1
-Trinidad and Tobago,TTO,2007,86.1
-Trinidad and Tobago,TTO,2008,85
-Tunisia,TUN,2009,37
-Turkey,TUR,1992,37
-Turkey,TUR,1997,43.1
-Turkey,TUR,2002,47.3
-Turkey,TUR,2007,71.4
-Turkey,TUR,2012,78
-Turkmenistan,TKM,1992,74.4
-Turkmenistan,TKM,1997,79.6
-Ukraine,UKR,1992,100
-Ukraine,UKR,1997,99.8
-Ukraine,UKR,2002,100
-Ukraine,UKR,2011,99
-United Arab Emirates,ARE,2006,89.6
-United Arab Emirates,ARE,2009,87
+Switzerland,CHE,2016,100
+Chile,CHL,1992,93
+Chile,CHL,1997,94
+Chile,CHL,2002,96.6
+Chile,CHL,2008,97.7
+Chile,CHL,2011,100
+Chile,CHL,2016,95
+China,CHN,1992,0
+China,CHN,1997,0
+China,CHN,2002,0
+China,CHN,2009,4
+China,CHN,2015,62
+Colombia,COL,1992,79.9
+Colombia,COL,1997,88.1
+Colombia,COL,2002,93.1
+Colombia,COL,2008,98.5
+Colombia,COL,2010,98
+Colombia,COL,2015,80
+Cabo Verde,CPV,2012,93
+Costa Rica,CRI,1992,91.5
+Costa Rica,CRI,1997,95.5
+Costa Rica,CRI,2002,93.2
+Costa Rica,CRI,2010,90.4
+Costa Rica,CRI,2011,91
+Costa Rica,CRI,2014,87
+Caribbean small states,CSS,1990,82.1712854959376
+Caribbean small states,CSS,2000,86.6137753166958
+Caribbean small states,CSS,2015,86.0081643148726
+Cuba,CUB,1992,95.5
+Cuba,CUB,1997,98.5
+Cuba,CUB,2002,96.1
+Cuba,CUB,2009,99.8
+Cuba,CUB,2011,98
+Cuba,CUB,2016,100
+Cyprus,CYP,1997,78.2
+Cyprus,CYP,2002,82.8
+Cyprus,CYP,2010,85.3
+Cyprus,CYP,2011,86
+Cyprus,CYP,2016,68
+Czechia,CZE,1992,100
+Czechia,CZE,1997,99.2
+Czechia,CZE,2002,100
+Czechia,CZE,2011,100
+Czechia,CZE,2017,100
+Germany,DEU,1992,100
+Germany,DEU,1997,99.6
+Germany,DEU,2002,100
+Germany,DEU,2011,100
+Germany,DEU,2016,100
+Dominica,DMA,1992,100
+Dominica,DMA,1997,100
+Dominica,DMA,2002,99.3
+Dominica,DMA,2009,100
+Dominica,DMA,2012,100
+Dominica,DMA,2015,100
+Denmark,DNK,1992,100
+Denmark,DNK,1997,99.5
+Denmark,DNK,2002,100
+Denmark,DNK,2010,98.5
+Denmark,DNK,2011,98
+Denmark,DNK,2015,100
+Dominican Republic,DOM,1992,54.1
+Dominican Republic,DOM,1997,55.9
+Dominican Republic,DOM,2002,54.7
+Dominican Republic,DOM,2005,58.6
+Dominican Republic,DOM,2010,56.9
+Dominican Republic,DOM,2013,58
+East Asia & Pacific (excluding high income),EAP,1990,6.18169667379127
+East Asia & Pacific (excluding high income),EAP,2000,7.89619128319256
+East Asia & Pacific (excluding high income),EAP,2015,64.4989758142465
+Early-demographic dividend,EAR,2015,36.9015417759646
+East Asia & Pacific,EAS,1990,17.5202688763767
+East Asia & Pacific,EAS,2000,19.5894164361118
+East Asia & Pacific,EAS,2015,69.3602537007038
+Europe & Central Asia (excluding high income),ECA,1990,78.0505050034609
+Europe & Central Asia (excluding high income),ECA,2000,82.2007248366319
+Europe & Central Asia (excluding high income),ECA,2015,91.5862993056715
+Europe & Central Asia,ECS,1990,94.8511344807543
+Europe & Central Asia,ECS,2000,95.8111281506844
+Europe & Central Asia,ECS,2015,98.1170134927998
+Ecuador,ECU,1992,70.6
+Ecuador,ECU,1997,71.1
+Ecuador,ECU,2002,72.4
+Ecuador,ECU,2009,85.3
+Ecuador,ECU,2011,80
+Ecuador,ECU,2016,82
+"Egypt, Arab Rep.",EGY,1992,76.3
+"Egypt, Arab Rep.",EGY,2002,87.7
+"Egypt, Arab Rep.",EGY,2010,95
+"Egypt, Arab Rep.",EGY,2015,94
+Euro area,EMU,1990,98.930438704301
+Euro area,EMU,2000,99.4601488152982
+Euro area,EMU,2015,99.9130416625201
+Spain,ESP,1992,98.9
+Spain,ESP,1997,99.7
+Spain,ESP,2002,100
+Spain,ESP,2010,100
+Spain,ESP,2011,100
+Spain,ESP,2016,100
+Estonia,EST,1992,99.9
+Estonia,EST,1997,100
+Estonia,EST,2002,100
+Estonia,EST,2011,100
+Estonia,EST,2016,100
+European Union,EUU,1990,99.1975352626504
+European Union,EUU,2000,99.5509184325535
+European Union,EUU,2015,99.934645185877
+Finland,FIN,1992,99.8
+Finland,FIN,1997,100
+Finland,FIN,2002,100
+Finland,FIN,2010,100
+Finland,FIN,2011,100
+Finland,FIN,2016,100
+Fiji,FJI,1997,71.4
+Fiji,FJI,2009,100
+Fiji,FJI,2011,100
+Fiji,FJI,2012,100
+France,FRA,1992,100
+France,FRA,1997,99.3
+France,FRA,2002,100
+France,FRA,2009,100
+France,FRA,2010,100
+France,FRA,2015,100
 United Kingdom,GBR,1992,99.8
 United Kingdom,GBR,1997,98.8
 United Kingdom,GBR,2002,99.6
 United Kingdom,GBR,2009,100
 United Kingdom,GBR,2010,100
-United States,USA,1992,98.4
-United States,USA,1997,98
-United States,USA,2002,97.4
-United States,USA,2009,98
+United Kingdom,GBR,2016,100
+Georgia,GEO,1992,80.5
+Georgia,GEO,1997,81
+Georgia,GEO,2002,80.8
+Georgia,GEO,2010,86.8
+Georgia,GEO,2011,98
+Georgia,GEO,2015,90
+Greece,GRC,1992,97.6
+Greece,GRC,1997,95.1
+Greece,GRC,2002,100
+Greece,GRC,2010,100
+Greece,GRC,2011,100
+Greece,GRC,2016,100
+Grenada,GRD,1992,74.5
+Grenada,GRD,1997,74
+Grenada,GRD,2002,73.2
+Grenada,GRD,2009,100
+Grenada,GRD,2011,100
+Grenada,GRD,2017,100
+Guatemala,GTM,1992,94.4
+Guatemala,GTM,1997,92.5
+Guatemala,GTM,2002,90.9
+Guatemala,GTM,2008,85.3
+Guatemala,GTM,2011,92
+Guatemala,GTM,2016,100
+Guyana,GUY,1992,57.2
+Guyana,GUY,1997,59.4
+Guyana,GUY,2002,60.2
+Guyana,GUY,2008,73.5
+Guyana,GUY,2010,81
+Guyana,GUY,2014,90
+High income,HIC,1990,98.805347047055
+High income,HIC,2000,99.0315231433829
+High income,HIC,2015,99.180817964982
+Honduras,HND,1992,53.9
+Honduras,HND,2012,17
+Honduras,HND,2013,14
+Croatia,HRV,1992,98.4
+Croatia,HRV,1997,94.9
+Croatia,HRV,2002,97.3
+Croatia,HRV,2011,100
+Croatia,HRV,2016,100
+Haiti,HTI,1997,7.1
+Haiti,HTI,2002,9.5
+Hungary,HUN,1992,99.9
+Hungary,HUN,1997,98.3
+Hungary,HUN,2002,100
+Hungary,HUN,2011,100
+Hungary,HUN,2017,100
+IBRD only,IBD,2015,56.5837267705399
+IDA & IBRD total,IBT,2015,56.976090450383
+India,IND,2007,8
+India,IND,2011,10
+Ireland,IRL,1992,100
+Ireland,IRL,1997,99.4
+Ireland,IRL,2002,100
+Ireland,IRL,2009,100
+Ireland,IRL,2015,100
+"Iran, Islamic Rep.",IRN,2006,68.3
+"Iran, Islamic Rep.",IRN,2016,90
+Iraq,IRQ,2008,65
+Iraq,IRQ,2016,65
+Iceland,ISL,1992,98.6
+Iceland,ISL,1997,99
+Iceland,ISL,2002,98.9
+Iceland,ISL,2008,100
+Iceland,ISL,2017,100
+Israel,ISR,1992,100
+Israel,ISR,1997,100
+Israel,ISR,2002,100
+Israel,ISR,2010,100
+Israel,ISR,2011,100
+Israel,ISR,2016,100
+Italy,ITA,1992,95.2
+Italy,ITA,1997,98.1
+Italy,ITA,2002,97.5
+Italy,ITA,2009,100
+Italy,ITA,2010,100
+Italy,ITA,2015,100
+Jamaica,JAM,1992,79.6
+Jamaica,JAM,2006,71
+Jamaica,JAM,2014,94
+Jordan,JOR,2009,65
+Jordan,JOR,2015,56
+Japan,JPN,1992,100
+Japan,JPN,1997,99.5
+Japan,JPN,2002,99.2
+Japan,JPN,2010,100
+Japan,JPN,2011,100
+Japan,JPN,2016,100
+Kazakhstan,KAZ,1992,84.9
+Kazakhstan,KAZ,1997,85.4
+Kazakhstan,KAZ,2002,85.2
+Kazakhstan,KAZ,2009,91.6
+Kazakhstan,KAZ,2012,91
+Kazakhstan,KAZ,2017,87
+Kyrgyz Republic,KGZ,1992,80.5
+Kyrgyz Republic,KGZ,1997,84.7
+Kyrgyz Republic,KGZ,2002,83.9
+Kyrgyz Republic,KGZ,2009,97.6
+Kyrgyz Republic,KGZ,2012,96
+Kyrgyz Republic,KGZ,2016,91
+Kiribati,KIR,1992,80.8
+Kiribati,KIR,1997,76.9
+Kiribati,KIR,2002,87
+St. Kitts and Nevis,KNA,1992,100
+St. Kitts and Nevis,KNA,1997,100
+St. Kitts and Nevis,KNA,2002,86.2
+St. Kitts and Nevis,KNA,2009,82.3
+St. Kitts and Nevis,KNA,2011,79
+St. Kitts and Nevis,KNA,2013,88
+"Korea, Rep.",KOR,1992,85.3
+"Korea, Rep.",KOR,1997,98.5
+"Korea, Rep.",KOR,2002,98.5
+"Korea, Rep.",KOR,2010,99
+"Korea, Rep.",KOR,2011,99
+"Korea, Rep.",KOR,2016,100
+Kuwait,KWT,1992,88.2
+Kuwait,KWT,1997,99
+Kuwait,KWT,2002,99.4
+Kuwait,KWT,2010,95.9
+Kuwait,KWT,2011,95
+Kuwait,KWT,2014,59
+Latin America & Caribbean (excluding high income),LAC,1990,81.929630071741
+Latin America & Caribbean (excluding high income),LAC,2000,84.3931770483609
+Latin America & Caribbean (excluding high income),LAC,2015,92.973219021147
+St. Lucia,LCA,1992,84.1
+St. Lucia,LCA,1997,79.8
+St. Lucia,LCA,2002,95.9
+St. Lucia,LCA,2008,89.9
+St. Lucia,LCA,2011,85
+St. Lucia,LCA,2014,97
+Latin America & Caribbean,LCN,1990,82.9321049383142
+Latin America & Caribbean,LCN,2000,85.4585830568194
+Latin America & Caribbean,LCN,2015,92.7965106498455
+Sri Lanka,LKA,1992,75.5
+Sri Lanka,LKA,1997,73.5
+Sri Lanka,LKA,2002,72.3
+Sri Lanka,LKA,2006,81.9
+Low & middle income,LMY,2015,52.5283577530443
+Late-demographic dividend,LTE,1990,34.1479675341111
+Late-demographic dividend,LTE,2000,36.5527857298347
+Late-demographic dividend,LTE,2015,73.1538605071703
+Lithuania,LTU,1992,99.3
+Lithuania,LTU,1997,98.9
+Lithuania,LTU,2002,99.8
+Lithuania,LTU,2009,100
+Lithuania,LTU,2011,100
+Lithuania,LTU,2017,99
+Luxembourg,LUX,1992,99.8
+Luxembourg,LUX,1997,99.8
+Luxembourg,LUX,2002,99.3
+Luxembourg,LUX,2010,99.7
+Luxembourg,LUX,2011,100
+Luxembourg,LUX,2016,100
+Latvia,LVA,1992,100
+Latvia,LVA,1997,99.5
+Latvia,LVA,2002,98.9
+Latvia,LVA,2010,99.7
+Latvia,LVA,2011,100
+Latvia,LVA,2015,100
+Morocco,MAR,2008,26.8
+Morocco,MAR,2010,25
+Morocco,MAR,2011,24.3
+Morocco,MAR,2014,29
+Monaco,MCO,2010,80
+Monaco,MCO,2011,80
+Monaco,MCO,2012,100
+Moldova,MDA,1992,98.5
+Moldova,MDA,1997,92
+Moldova,MDA,2002,87.6
+Moldova,MDA,2011,91.4
+Moldova,MDA,2012,90
+Moldova,MDA,2017,80
+Maldives,MDV,2002,73.3
+Maldives,MDV,2008,80.7
+Maldives,MDV,2011,84
+Maldives,MDV,2015,91
+Mexico,MEX,1992,90.1
+Mexico,MEX,1997,92.8
+Mexico,MEX,2002,94.2
+Mexico,MEX,2009,93.9
+Mexico,MEX,2011,99
+Mexico,MEX,2016,100
+Middle income,MIC,2015,52.410586315443
+North Macedonia,MKD,2009,100
+North Macedonia,MKD,2010,100
+North Macedonia,MKD,2013,100
+Malta,MLT,1992,96.4
+Malta,MLT,1997,97.5
+Malta,MLT,2002,98.8
+Malta,MLT,2010,100
+Malta,MLT,2011,99.9
+Malta,MLT,2015,100
+Montenegro,MNE,2002,100
+Montenegro,MNE,2008,100
+Montenegro,MNE,2009,94
+Mongolia,MNG,1992,91.1
+Mongolia,MNG,2010,88.7
+Mongolia,MNG,2012,92
+Mongolia,MNG,2016,84
+Mauritius,MUS,1992,100
+Mauritius,MUS,1997,99.7
+Mauritius,MUS,2002,99.9
+Mauritius,MUS,2010,100
+Mauritius,MUS,2012,100
+Mauritius,MUS,2017,100
+Malaysia,MYS,1997,41.9
+Malaysia,MYS,2002,49.6
+Malaysia,MYS,2007,55.4
+Malaysia,MYS,2008,56
+Malaysia,MYS,2014,52
+North America,NAC,1990,98.4716520782635
+North America,NAC,2000,97.6185051006285
+North America,NAC,2015,100
+Nicaragua,NIC,1992,54.4
+Nicaragua,NIC,1997,61.4
+Nicaragua,NIC,2002,64.2
+Nicaragua,NIC,2010,67.6
+Nicaragua,NIC,2011,68
+Nicaragua,NIC,2017,79
+Netherlands,NLD,1992,100
+Netherlands,NLD,1997,100
+Netherlands,NLD,2002,100
+Netherlands,NLD,2010,99.8
+Netherlands,NLD,2011,100
+Netherlands,NLD,2016,100
+Norway,NOR,1992,100
+Norway,NOR,1997,100
+Norway,NOR,2002,100
+Norway,NOR,2011,100
+Norway,NOR,2016,100
+New Zealand,NZL,1992,98.7
+New Zealand,NZL,1997,98.3
+New Zealand,NZL,2002,99.8
+New Zealand,NZL,2008,100
+New Zealand,NZL,2009,100
+New Zealand,NZL,2014,100
+OECD members,OED,1990,94.9550352676526
+OECD members,OED,2000,96.3894572493456
+OECD members,OED,2015,99.146569114623
+Oman,OMN,2010,87
+Oman,OMN,2014,74
+Panama,PAN,1997,82.7
+Panama,PAN,2002,88.6
+Panama,PAN,2008,90.3
+Panama,PAN,2011,90
+Panama,PAN,2016,92
+Peru,PER,1992,57.7
+Peru,PER,1997,63.5
+Peru,PER,2002,63
+Peru,PER,2007,65.5
+Peru,PER,2009,66.8
+Peru,PER,2011,69
+Peru,PER,2015,57
+Philippines,PHL,1992,77.6
+Philippines,PHL,1997,88
+Philippines,PHL,2002,91.9
+Philippines,PHL,2008,90
+Philippines,PHL,2011,89
+Palau,PLW,2013,95
+Poland,POL,1992,100
+Poland,POL,1997,99.6
+Poland,POL,2002,99.4
+Poland,POL,2010,100
+Poland,POL,2011,100
+Poland,POL,2016,100
+Portugal,PRT,1992,100
+Portugal,PRT,1997,99.7
+Portugal,PRT,2002,100
+Portugal,PRT,2010,100
+Portugal,PRT,2011,100
+Portugal,PRT,2016,100
+Paraguay,PRY,1992,74.4
+Paraguay,PRY,1997,75
+Paraguay,PRY,2002,77.4
+Paraguay,PRY,2009,81.8
+Paraguay,PRY,2011,81
+Paraguay,PRY,2016,88
+Post-demographic dividend,PST,1990,98.6664225594208
+Post-demographic dividend,PST,2000,98.9114956093808
+Post-demographic dividend,PST,2015,99.356422190338
+Qatar,QAT,1997,97.1
+Qatar,QAT,2002,86.6
+Qatar,QAT,2010,81.7
+Qatar,QAT,2011,77
+Qatar,QAT,2017,50
+Romania,ROU,1992,99.8
+Romania,ROU,1997,99
+Romania,ROU,2002,100
+Romania,ROU,2010,99.6
+Romania,ROU,2011,100
+Romania,ROU,2017,100
+Russian Federation,RUS,1992,99.8
+Russian Federation,RUS,1997,99.4
+Russian Federation,RUS,2002,99.9
+Russian Federation,RUS,2009,99.3
+Russian Federation,RUS,2010,100
+Russian Federation,RUS,2015,100
+South Asia,SAS,2015,10.0119602013988
+Saudi Arabia,SAU,2009,50.6
+Saudi Arabia,SAU,2012,42
+Singapore,SGP,1992,94
+Singapore,SGP,1997,85.3
+Singapore,SGP,2002,78.5
+Singapore,SGP,2010,74.5
+Singapore,SGP,2011,74
+Singapore,SGP,2016,66
+El Salvador,SLV,1992,60.8
+El Salvador,SLV,1997,70.6
+El Salvador,SLV,2002,72.3
+El Salvador,SLV,2008,77.1
+El Salvador,SLV,2011,78
+El Salvador,SLV,2014,93
+San Marino,SMR,1997,82.4
+San Marino,SMR,2002,81.4
+San Marino,SMR,2007,80
+San Marino,SMR,2015,100
+Serbia,SRB,1997,83.9
+Serbia,SRB,2002,84.5
+Serbia,SRB,2011,90
+Serbia,SRB,2016,94
+Suriname,SUR,1992,67.7
+Suriname,SUR,1997,64.4
+Suriname,SUR,2002,82
+Suriname,SUR,2008,100
+Suriname,SUR,2011,100
+Suriname,SUR,2014,80
+Slovak Republic,SVK,1992,100
+Slovak Republic,SVK,1997,100
+Slovak Republic,SVK,2002,100
+Slovak Republic,SVK,2009,100
+Slovak Republic,SVK,2010,100
+Slovak Republic,SVK,2014,100
+Slovenia,SVN,1992,100
+Slovenia,SVN,1997,98.7
+Slovenia,SVN,2002,100
+Slovenia,SVN,2009,100
+Slovenia,SVN,2010,100
+Slovenia,SVN,2015,100
+Sweden,SWE,1992,100
+Sweden,SWE,1997,100
+Sweden,SWE,2002,100
+Sweden,SWE,2009,100
+Sweden,SWE,2010,100
+Sweden,SWE,2011,100
+Sweden,SWE,2016,100
+Seychelles,SYC,2002,98.8
+Seychelles,SYC,2011,100
+Seychelles,SYC,2015,91
+Syrian Arab Republic,SYR,2009,92.5
+Syrian Arab Republic,SYR,2010,83
+East Asia & Pacific (IDA & IBRD countries),TEA,1990,6.18169667379127
+East Asia & Pacific (IDA & IBRD countries),TEA,2000,7.89619128319256
+East Asia & Pacific (IDA & IBRD countries),TEA,2015,64.4989758142465
+Europe & Central Asia (IDA & IBRD countries),TEC,1990,90.6711087459071
+Europe & Central Asia (IDA & IBRD countries),TEC,2000,92.716983415682
+Europe & Central Asia (IDA & IBRD countries),TEC,2015,96.3963231296811
+Thailand,THA,1992,64.6
+Thailand,THA,1997,69.5
+Thailand,THA,2002,71.7
+Thailand,THA,2006,84.9
+Thailand,THA,2016,87
+Tajikistan,TJK,1992,67.6
+Tajikistan,TJK,1997,57.3
+Tajikistan,TJK,2002,59.8
+Tajikistan,TJK,2005,67.6
+Tajikistan,TJK,2016,87
+Turkmenistan,TKM,1992,74.4
+Turkmenistan,TKM,1997,79.6
+Turkmenistan,TKM,2015,85
+Latin America & the Caribbean (IDA & IBRD countries),TLA,1990,82.574764493078
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2000,85.1571664737395
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2015,92.602877449021
+South Asia (IDA & IBRD),TSA,2015,10.0119602013988
+Trinidad and Tobago,TTO,1992,97.4
+Trinidad and Tobago,TTO,1997,99.7
+Trinidad and Tobago,TTO,2002,99.1
+Trinidad and Tobago,TTO,2007,86.1
+Trinidad and Tobago,TTO,2008,85
+Trinidad and Tobago,TTO,2012,83
+Tunisia,TUN,2009,37
+Tunisia,TUN,2013,29
+Turkiye,TUR,1992,37
+Turkiye,TUR,1997,43.1
+Turkiye,TUR,2002,47.3
+Turkiye,TUR,2007,71.4
+Turkiye,TUR,2012,78
+Turkiye,TUR,2016,92
+Ukraine,UKR,1992,100
+Ukraine,UKR,1997,99.8
+Ukraine,UKR,2002,100
+Ukraine,UKR,2011,99
+Ukraine,UKR,2017,92
+Upper middle income,UMC,1990,28.0302614447904
+Upper middle income,UMC,2000,32.0002922832091
+Upper middle income,UMC,2015,73.6265544279443
 Uruguay,URY,1992,96.3
 Uruguay,URY,1997,99.9
 Uruguay,URY,2002,99.8
 Uruguay,URY,2008,99.1
 Uruguay,URY,2009,99
+Uruguay,URY,2016,100
+United States,USA,1992,98.4
+United States,USA,1997,98
+United States,USA,2002,97.4
+United States,USA,2009,98
+United States,USA,2016,100
 Uzbekistan,UZB,1992,83
 Uzbekistan,UZB,1997,78.8
 Uzbekistan,UZB,2002,78.4
 Uzbekistan,UZB,2005,80.8
+Uzbekistan,UZB,2016,93
+St. Vincent and the Grenadines,VCT,2009,100
+St. Vincent and the Grenadines,VCT,2010,100
+St. Vincent and the Grenadines,VCT,2012,100
+St. Vincent and the Grenadines,VCT,2016,100
 "Venezuela, RB",VEN,1992,95.5
 "Venezuela, RB",VEN,1997,96.2
 "Venezuela, RB",VEN,2002,95.9
 "Venezuela, RB",VEN,2008,100
+"Venezuela, RB",VEN,2013,89
+World,WLD,2015,66.8664991281972
+South Africa,ZAF,1992,0
+South Africa,ZAF,1997,0
+South Africa,ZAF,2002,70.4
+South Africa,ZAF,2008,92.3
+South Africa,ZAF,2009,91
+South Africa,ZAF,2015,92
 Zimbabwe,ZWE,1992,0

@@ -4,7 +4,7 @@
   "worldbank": {
     "indicator": "is.rrs.totl.km"
   },
-  "readme": "Rail lines are the length of railway route available for train service, irrespective of the number of parallel tracks.",
+  "readme": "The total length of rail line in the country operated for passenger transport, goods transport, or both.",
   "licenses": [
     {
       "name": "CC-BY-4.0"
@@ -41,7 +41,7 @@
           {
             "name": "Value",
             "type": "number",
-            "description": "Rail lines are the length of railway route available for train service, irrespective of the number of parallel tracks."
+            "description": "The total length of rail line in the country operated for passenger transport, goods transport, or both."
           }
         ]
       }

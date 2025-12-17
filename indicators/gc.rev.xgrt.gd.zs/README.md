@@ -1,1 +1,1 @@
-Revenue is cash receipts from taxes, social contributions, and other revenues such as fines, fees, rent, and income from property or sales. Grants are also considered as revenue but are excluded here.
+Revenue is an increase in net worth resulting from a transaction. Grants are excluded from this figure. This indicator is expressed as a percentage of Gross Domestic Product (GDP) which is the total income earned through the production of goods and services in an economic territory during an accounting period.

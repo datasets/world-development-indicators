@@ -1,0 +1,50 @@
+{
+  "title": "Prevalence of wasting, weight for height (% of children under 5)",
+  "name": "sh.sta.wast.zs",
+  "worldbank": {
+    "indicator": "sh.sta.wast.zs"
+  },
+  "readme": "Prevalence of wasting is the proportion of children under age 5 whose weight for height is more than two standard deviations below the median for the international reference population ages 0-59 months.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Health "
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "Prevalence of wasting is the proportion of children under age 5 whose weight for height is more than two standard deviations below the median for the international reference population ages 0-59 months."
+          }
+        ]
+      }
+    }
+  ]
+}

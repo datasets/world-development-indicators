@@ -4,7 +4,7 @@
   "worldbank": {
     "indicator": "tm.val.mrch.cd.wt"
   },
-  "readme": "Merchandise imports show the c.i.f. value of goods received from the rest of the world valued in current U.S. dollars.",
+  "readme": "Merchandise imports includes goods whose economic ownership is changed from a non-resident to a resident and that are not included in the following specific categories: goods under merchanting, non-monetary gold, and parts of travel, construction, and government goods and services n.i.e. This indicator is expressed in current prices, meaning no adjustment has been made to account for price changes over time. This indicator is expressed in United States dollars.",
   "licenses": [
     {
       "name": "CC-BY-4.0"
@@ -42,7 +42,7 @@
           {
             "name": "Value",
             "type": "number",
-            "description": "Merchandise imports show the c.i.f. value of goods received from the rest of the world valued in current U.S. dollars."
+            "description": "Merchandise imports includes goods whose economic ownership is changed from a non-resident to a resident and that are not included in the following specific categories: goods under merchanting, non-monetary gold, and parts of travel, construction, and government goods and services n.i.e. This indicator is expressed in current prices, meaning no adjustment has been made to account for price changes over time. This indicator is expressed in United States dollars."
           }
         ]
       }

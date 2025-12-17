@@ -1,1 +1,52 @@
-{"title": "High-technology exports (% of manufactured exports)", "name": "tx.val.tech.mf.zs", "worldbank": {"indicator": "tx.val.tech.mf.zs"}, "readme": "High-technology exports are products with high R&D intensity, such as in aerospace, computers, pharmaceuticals, scientific instruments, and electrical machinery.", "licenses": [{"name": "CC-BY-4.0"}], "keywords": ["Private Sector", "Science & Technology ", "Trade"], "resources": [{"name": "data", "title": "Indicator data", "path": "data.csv", "format": "csv", "mediatype": "text/csv", "encoding": "utf-8", "schema": {"fields": [{"name": "Country Name", "type": "string", "description": "Country or Region name"}, {"name": "Country Code", "type": "string", "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"}, {"name": "Year", "type": "year", "description": "Year"}, {"name": "Value", "type": "number", "description": "High-technology exports are products with high R&D intensity, such as in aerospace, computers, pharmaceuticals, scientific instruments, and electrical machinery."}]}, "dialect": {"delimiter": ",", "quoteChar": "\""}}]}
+{
+  "title": "High-technology exports (% of manufactured exports)",
+  "name": "tx.val.tech.mf.zs",
+  "worldbank": {
+    "indicator": "tx.val.tech.mf.zs"
+  },
+  "readme": "High-technology exports are products with high R&D intensity, such as in aerospace, computers, pharmaceuticals, scientific instruments, and electrical machinery.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Private Sector",
+    "Science & Technology ",
+    "Trade"
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "High-technology exports are products with high R&D intensity, such as in aerospace, computers, pharmaceuticals, scientific instruments, and electrical machinery."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "worldbank": {
     "indicator": "fr.inr.risk"
   },
-  "readme": "Risk premium on lending is the interest rate charged by banks on loans to private sector customers minus the \"risk free\" treasury bill interest rate at which short-term government securities are issued or traded in the market. In some countries this spread may be negative, indicating that the market considers its best corporate clients to be lower risk than the government. The terms and conditions attached to lending rates differ by country, however, limiting their comparability.",
+  "readme": "Risk premium on lending is the interest rate charged by banks on loans to private sector customers minus the \"risk free\" treasury bill interest rate at which short-term government securities are issued or traded in the market. In some countries this spread may be negative, indicating that the market considers its best corporate clients to be lower risk than the government. The terms and conditions attached to lending rates differ by country, however, limiting their comparability. This indicator is expressed as a percentage (a\u00f7b)*100.",
   "licenses": [
     {
       "name": "CC-BY-4.0"
@@ -41,7 +41,7 @@
           {
             "name": "Value",
             "type": "number",
-            "description": "Risk premium on lending is the interest rate charged by banks on loans to private sector customers minus the \"risk free\" treasury bill interest rate at which short-term government securities are issued or traded in the market. In some countries this spread may be negative, indicating that the market considers its best corporate clients to be lower risk than the government. The terms and conditions attached to lending rates differ by country, however, limiting their comparability."
+            "description": "Risk premium on lending is the interest rate charged by banks on loans to private sector customers minus the \"risk free\" treasury bill interest rate at which short-term government securities are issued or traded in the market. In some countries this spread may be negative, indicating that the market considers its best corporate clients to be lower risk than the government. The terms and conditions attached to lending rates differ by country, however, limiting their comparability. This indicator is expressed as a percentage (a\u00f7b)*100."
           }
         ]
       }
