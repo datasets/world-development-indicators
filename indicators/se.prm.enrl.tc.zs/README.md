@@ -1,0 +1,1 @@
+Primary school pupil-teacher ratio is the average number of pupils per teacher in primary school.

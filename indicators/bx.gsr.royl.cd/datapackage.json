@@ -4,7 +4,7 @@
   "worldbank": {
     "indicator": "bx.gsr.royl.cd"
   },
-  "readme": "Charges for the use of intellectual property are payments and receipts between residents and nonresidents for the authorized use of proprietary rights (such as patents, trademarks, copyrights, industrial processes and designs including trade secrets, and franchises) and for the use, through licensing agreements, of produced originals or prototypes (such as copyrights on books and manuscripts, computer software, cinematographic works, and sound recordings) and related rights (such as for live performances and television, cable, or satellite broadcast). Data are in current U.S. dollars.",
+  "readme": "Charges for the use of proprietary rights (such as patents, trademarks, copyrights, industrial processes and designs including trade secrets, franchises), and charges for licenses to reproduce or distribute (or both) intellectual property embodied in produced originals or prototypes (such as copyrights on books and manuscripts, computer software, cinematographic works, and sound recordings) and related rights (such as for live performances and television, cable, or satellite broadcast). This indicator is expressed in current prices, meaning no adjustment has been made to account for price changes over time. This indicator is expressed in United States dollars.",
   "licenses": [
     {
       "name": "CC-BY-4.0"
@@ -42,7 +42,7 @@
           {
             "name": "Value",
             "type": "number",
-            "description": "Charges for the use of intellectual property are payments and receipts between residents and nonresidents for the authorized use of proprietary rights (such as patents, trademarks, copyrights, industrial processes and designs including trade secrets, and franchises) and for the use, through licensing agreements, of produced originals or prototypes (such as copyrights on books and manuscripts, computer software, cinematographic works, and sound recordings) and related rights (such as for live performances and television, cable, or satellite broadcast). Data are in current U.S. dollars."
+            "description": "Charges for the use of proprietary rights (such as patents, trademarks, copyrights, industrial processes and designs including trade secrets, franchises), and charges for licenses to reproduce or distribute (or both) intellectual property embodied in produced originals or prototypes (such as copyrights on books and manuscripts, computer software, cinematographic works, and sound recordings) and related rights (such as for live performances and television, cable, or satellite broadcast). This indicator is expressed in current prices, meaning no adjustment has been made to account for price changes over time. This indicator is expressed in United States dollars."
           }
         ]
       }

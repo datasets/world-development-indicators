@@ -1,143 +1,106 @@
 Country Name,Country Code,Year,Value
-Arab World,ARB,2013,14.6967460943895
-Caribbean small states,CSS,2013,15.1046597705432
-Early-demographic dividend,EAR,2000,19.0216020941768
-Early-demographic dividend,EAR,2013,13.9369623470015
-East Asia & Pacific,EAS,1990,5.5389536467679
-East Asia & Pacific,EAS,2000,4.48781731190524
-East Asia & Pacific (excluding high income),EAP,1990,5.5389536467679
-East Asia & Pacific (excluding high income),EAP,2000,4.48781731190524
-East Asia & Pacific (IDA & IBRD countries),TEA,1990,5.5389536467679
-East Asia & Pacific (IDA & IBRD countries),TEA,2000,4.48781731190523
-Europe & Central Asia (excluding high income),ECA,2013,8.25390370741678
-Europe & Central Asia (IDA & IBRD countries),TEC,2013,8.25390370741678
-Fragile and conflict affected situations,FCS,2013,22.3547795171876
-Heavily indebted poor countries (HIPC),HPC,2013,24.2949928408952
-IBRD only,IBD,2000,9.64147493435945
-IDA & IBRD total,IBT,2000,12.8786351320609
-IDA & IBRD total,IBT,2013,14.588572784881
-IDA blend,IDB,1990,27.1543544706423
-IDA blend,IDB,2000,26.1271799621165
-IDA blend,IDB,2013,22.2774435699736
-IDA only,IDX,2000,25.7581912992273
-IDA only,IDX,2013,21.411638626021
-IDA total,IDA,2000,25.9003914486642
-IDA total,IDA,2013,21.6825670460979
-Late-demographic dividend,LTE,2000,3.31011800568944
-Latin America & Caribbean,LCN,2013,9.489598241417
-Latin America & Caribbean (excluding high income),LAC,2013,9.48448323735434
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2013,9.51568111876823
-Least developed countries: UN classification,LDC,2000,25.6236798882453
-Least developed countries: UN classification,LDC,2013,21.7464221296659
-Low & middle income,LMY,2000,12.8786351320609
-Low & middle income,LMY,2013,14.5229730241227
-Low income,LIC,2013,23.2676302475073
-Lower middle income,LMC,2000,18.3369716684508
-Lower middle income,LMC,2013,15.1327193877742
-Middle East & North Africa,MEA,2013,11.0916293714172
-Middle East & North Africa (excluding high income),MNA,2013,10.6939417653987
-Middle East & North Africa (IDA & IBRD countries),TMN,2013,10.6916195144575
-Middle income,MIC,2000,11.7984492221705
-Middle income,MIC,2013,13.280433448268
-North America,NAC,1990,6
-North America,NAC,2000,6.3
-North America,NAC,2013,8
-Other small states,OSS,2013,19.8521249988751
-Pre-demographic dividend,PRE,2013,24.7894259225453
-Small states,SST,2013,19.1147181962574
-South Asia,SAS,2000,18.1252955623425
-South Asia,SAS,2013,13.9512880184711
-South Asia (IDA & IBRD),TSA,2000,18.1252955623425
-South Asia (IDA & IBRD),TSA,2013,13.9512880184711
-Sub-Saharan Africa,SSF,2000,25.5620625082638
-Sub-Saharan Africa,SSF,2013,24.9707141412188
-Sub-Saharan Africa (excluding high income),SSA,2000,25.5620625082638
-Sub-Saharan Africa (excluding high income),SSA,2013,24.9707141412188
-Sub-Saharan Africa (IDA & IBRD countries),TSS,2000,25.5620625082638
-Sub-Saharan Africa (IDA & IBRD countries),TSS,2013,24.9707141412188
-Upper middle income,UMC,2000,4.37264411684061
+Africa Eastern and Southern,AFE,2010,25.3211624060814
+Africa Eastern and Southern,AFE,2021,21.6615567933346
 Afghanistan,AFG,2015,24.5
-Albania,ALB,2002,1.3
-Albania,ALB,2009,12.9
-Algeria,DZA,2012,10.4
-Algeria,DZA,2013,7
+Africa Western and Central,AFW,1990,23.5910710098569
+Africa Western and Central,AFW,2000,23.6718021693798
+Africa Western and Central,AFW,2010,22.7981730822488
+Africa Western and Central,AFW,2021,23.960889205387
 Angola,AGO,2016,38
+Albania,ALB,2009,12.9
+Albania,ALB,2018,15.2
+Argentina,ARG,2020,12.5418687936842
 Armenia,ARM,2000,18.1
 Armenia,ARM,2005,19.3
 Armenia,ARM,2010,13.5
+Armenia,ARM,2015,12.5004752925014
 Armenia,ARM,2016,12.5
 Azerbaijan,AZE,2001,11.5
 Azerbaijan,AZE,2006,15.4
+Burundi,BDI,1987,25.1
+Burundi,BDI,2002,29
+Burundi,BDI,2010,32.4
+Burundi,BDI,2016,29.7144665145696
+Burundi,BDI,2017,29.7
+Belgium,BEL,1992,3.4
+Benin,BEN,1996,27.7
+Benin,BEN,2001,27.9
+Benin,BEN,2006,27.3
+Benin,BEN,2012,32.6
+Benin,BEN,2014,33.14087487
+Benin,BEN,2018,32.3
+Benin,BEN,2022,29.9
+Burkina Faso,BFA,1993,24.6
+Burkina Faso,BFA,1999,30.3
+Burkina Faso,BFA,2003,29.8
+Burkina Faso,BFA,2010,24.5
+Burkina Faso,BFA,2014,37.7827344259375
+Burkina Faso,BFA,2015,31.1630021532496
+Burkina Faso,BFA,2016,28.3607434520764
+Burkina Faso,BFA,2017,27.7617713657844
+Burkina Faso,BFA,2019,22.688489424122
+Burkina Faso,BFA,2020,26.1668057764887
+Burkina Faso,BFA,2021,15.5
+Burkina Faso,BFA,2022,21.0264752459695
 Bangladesh,BGD,1994,21.6
 Bangladesh,BGD,1997,19.7
 Bangladesh,BGD,2000,18.2
 Bangladesh,BGD,2004,15
 Bangladesh,BGD,2007,16.8
 Bangladesh,BGD,2011,13.5
-Bangladesh,BGD,2013,13.9
+Bangladesh,BGD,2013,13.8952247
 Bangladesh,BGD,2014,12
-Barbados,BRB,2012,19.9
+Bangladesh,BGD,2018,12
+Bangladesh,BGD,2019,13.6899788914078
+Bangladesh,BGD,2022,10
+Bulgaria,BGR,1998,29.7
+Bosnia and Herzegovina,BIH,2012,9
 Belarus,BLR,2012,7
-Belgium,BEL,1992,3.4
+Belarus,BLR,2019,17.5
 Belize,BLZ,1991,25.7
 Belize,BLZ,1999,20.8
 Belize,BLZ,2011,15.9
-Belize,BLZ,2015,22.2
-Benin,BEN,1996,27.7
-Benin,BEN,2001,27.9
-Benin,BEN,2006,27.3
-Benin,BEN,2012,32.6
-Benin,BEN,2014,33.1
-Bhutan,BTN,2010,11.7
+Belize,BLZ,2016,22.2482739
 Bolivia,BOL,1989,35.7
 Bolivia,BOL,1994,28.9
 Bolivia,BOL,1998,26.6
 Bolivia,BOL,2003,22.8
-Bolivia,BOL,2004,22.8
 Bolivia,BOL,2008,20.1
-Bosnia and Herzegovina,BIH,2012,9
-Botswana,BWA,1988,26.9
-Botswana,BWA,2008,9.6
+Bolivia,BOL,2016,23.2
 Brazil,BRA,1986,12.8
 Brazil,BRA,1996,10.8
-Brazil,BRA,2006,6
 Brazil,BRA,2007,6
-Brazil,BRA,2013,6
-Bulgaria,BGR,1998,29.7
-Burkina Faso,BFA,1993,24.6
-Burkina Faso,BFA,1999,30.3
-Burkina Faso,BFA,2003,29.8
-Burkina Faso,BFA,2010,24.5
-Burkina Faso,BFA,2011,24.5
-Burkina Faso,BFA,2014,38.1
-Burkina Faso,BFA,2015,33
-Burkina Faso,BFA,2016,29.3
-Burundi,BDI,1987,25.1
-Burundi,BDI,2002,29
-Burundi,BDI,2010,32.4
-Burundi,BDI,2011,32.4
-Cabo Verde,CPV,1998,14.2
-Cabo Verde,CPV,2005,16.7
-Cambodia,KHM,2000,33
-Cambodia,KHM,2005,25.3
-Cambodia,KHM,2006,25.3
-Cambodia,KHM,2010,16.9
-Cambodia,KHM,2011,16.9
-Cambodia,KHM,2014,12.5
+Barbados,BRB,2012,19.9
+Bhutan,BTN,2010,11.7
+Botswana,BWA,1988,26.9
+Botswana,BWA,2007,9.6
+Central African Republic,CAF,1995,19.1
+Central African Republic,CAF,2010,27
+Central African Republic,CAF,2019,37.6
+China,CHN,1997,2.7
+China,CHN,2001,2.3
+Cote d'Ivoire,CIV,1994,30.4
+Cote d'Ivoire,CIV,1999,28.9
+Cote d'Ivoire,CIV,2012,27.1
+Cote d'Ivoire,CIV,2016,30.5
+Cote d'Ivoire,CIV,2017,32.2815856897314
+Cote d'Ivoire,CIV,2018,25.4552216430589
+Cote d'Ivoire,CIV,2020,26.2931131214908
+Cote d'Ivoire,CIV,2021,22.3
+Cote d'Ivoire,CIV,2022,22.3591872098161
 Cameroon,CMR,1991,22.3
 Cameroon,CMR,1998,20.7
 Cameroon,CMR,2004,20.5
 Cameroon,CMR,2011,23.5
-Cameroon,CMR,2014,18
-Central African Republic,CAF,1995,19.1
-Central African Republic,CAF,2011,27
-Chad,TCD,1997,17.4
-Chad,TCD,2004,20.6
-Chad,TCD,2010,28.3
-Chad,TCD,2015,22.9
-China,CHN,1992,3.3
-China,CHN,1997,2.7
-China,CHN,2001,2.3
+Cameroon,CMR,2014,17.97390889
+Cameroon,CMR,2018,23
+"Congo, Dem. Rep.",COD,2007,26.9
+"Congo, Dem. Rep.",COD,2010,24.2
+"Congo, Dem. Rep.",COD,2014,27.7
+"Congo, Dem. Rep.",COD,2018,28.7459262528731
+"Congo, Rep.",COG,2005,19.5
+"Congo, Rep.",COG,2012,18.4
+"Congo, Rep.",COG,2015,17.912204386543
 Colombia,COL,1986,13.5
 Colombia,COL,1990,13.7
 Colombia,COL,1995,11.4
@@ -147,23 +110,21 @@ Colombia,COL,2010,8
 Colombia,COL,2015,7
 Comoros,COM,1996,35.6
 Comoros,COM,2012,32.3
-"Congo, Dem. Rep.",COD,2007,26.9
-"Congo, Dem. Rep.",COD,2010,24.2
-"Congo, Dem. Rep.",COD,2014,27.7
-"Congo, Rep.",COG,2005,19.5
-"Congo, Rep.",COG,2012,18.4
-"Congo, Rep.",COG,2015,17.9
+Comoros,COM,2022,36.8520509872985
+Cabo Verde,CPV,1998,14.2
+Cabo Verde,CPV,2005,16.7
 Costa Rica,CRI,1993,5
+Costa Rica,CRI,2010,11.7
 Costa Rica,CRI,2011,7.6
-Cote d'Ivoire,CIV,1994,30.4
-Cote d'Ivoire,CIV,1999,28.9
-Cote d'Ivoire,CIV,2012,27.1
+Costa Rica,CRI,2018,13.7
+Caribbean small states,CSS,2010,22.5790043585562
 Cuba,CUB,2011,9.1
-Cuba,CUB,2014,8
-Czech Republic,CZE,1993,14.6
-Czech Republic,CZE,1997,10.8
-Czech Republic,CZE,2005,8.1
-Czech Republic,CZE,2008,4.3
+Cuba,CUB,2014,8.02209029
+Cuba,CUB,2019,8.78023721193245
+Czechia,CZE,1993,14.6
+Czechia,CZE,1997,10.8
+Czechia,CZE,2005,8.1
+Czechia,CZE,2008,4.3
 Dominican Republic,DOM,1986,19.4
 Dominican Republic,DOM,1991,19.4
 Dominican Republic,DOM,1996,14.3
@@ -171,244 +132,351 @@ Dominican Republic,DOM,1999,13.8
 Dominican Republic,DOM,2002,12.4
 Dominican Republic,DOM,2007,11.1
 Dominican Republic,DOM,2013,10.8
-Dominican Republic,DOM,2014,11.4
+Dominican Republic,DOM,2014,11.42111266
+Dominican Republic,DOM,2019,15.3370062735472
+Algeria,DZA,2006,10.8
+Algeria,DZA,2013,7
+Algeria,DZA,2019,14.1
+East Asia & Pacific (excluding high income),EAP,2000,4.65886884187955
+Early-demographic dividend,EAR,2000,19.1054027559472
+Early-demographic dividend,EAR,2010,17.2446626212389
+Early-demographic dividend,EAR,2021,11.6557836365889
+East Asia & Pacific,EAS,2000,4.65886884187956
+Europe & Central Asia (excluding high income),ECA,2000,15.076493528102
+Europe & Central Asia (excluding high income),ECA,2010,9.08389491548653
+Europe & Central Asia (excluding high income),ECA,2021,12.6657926518379
 Ecuador,ECU,1987,24.2
 Ecuador,ECU,1989,24.6
 Ecuador,ECU,1994,15.2
 Ecuador,ECU,1999,10
 Ecuador,ECU,2004,7.4
 Ecuador,ECU,2012,8.8
+Ecuador,ECU,2018,7.13849180475182
 "Egypt, Arab Rep.",EGY,1992,22.9
 "Egypt, Arab Rep.",EGY,1995,20.2
-"Egypt, Arab Rep.",EGY,1996,20.2
 "Egypt, Arab Rep.",EGY,1997,17.8
-"Egypt, Arab Rep.",EGY,1998,17.8
+"Egypt, Arab Rep.",EGY,1998,14.5
 "Egypt, Arab Rep.",EGY,2000,13.7
 "Egypt, Arab Rep.",EGY,2003,11.8
 "Egypt, Arab Rep.",EGY,2005,12.3
 "Egypt, Arab Rep.",EGY,2008,11.6
 "Egypt, Arab Rep.",EGY,2014,12.6
-El Salvador,SLV,1988,16.2
-El Salvador,SLV,1993,15.8
-El Salvador,SLV,1998,14.2
-El Salvador,SLV,2003,22.3
-El Salvador,SLV,2008,18.4
-El Salvador,SLV,2014,11
-Equatorial Guinea,GNQ,2011,33.8
 Eritrea,ERI,1995,29.7
-Eritrea,ERI,1996,29.7
 Eritrea,ERI,2002,28.5
 Eritrea,ERI,2010,27.4
+Spain,ESP,1995,11.8
+Estonia,EST,2006,7.1
+Estonia,EST,2010,11.1
+Estonia,EST,2014,9.29794272309132
 Ethiopia,ETH,2000,36.6
 Ethiopia,ETH,2005,36.1
 Ethiopia,ETH,2011,26.3
-Ethiopia,ETH,2014,24.1
-Ethiopia,ETH,2015,24.4
+Ethiopia,ETH,2014,26.4159960383268
+Ethiopia,ETH,2015,24.4336730913768
 Ethiopia,ETH,2016,22.3
+Ethiopia,ETH,2017,22.8612991329009
+Ethiopia,ETH,2018,20.5517558571498
+Ethiopia,ETH,2019,19.9101673791664
+Ethiopia,ETH,2020,19.2
+Ethiopia,ETH,2021,21.2230798223114
+Fragile and conflict affected situations,FCS,2010,20.5872819210639
+Fiji,FJI,2021,25.2625765610159
 France,FRA,1994,7.4
 France,FRA,2005,1.7
 Gabon,GAB,2000,27.9
 Gabon,GAB,2012,26.5
-"Gambia, The",GMB,2010,21.5
-"Gambia, The",GMB,2013,24.9
-Georgia,GEO,2000,23.8
+Gabon,GAB,2021,33.4
+United Kingdom,GBR,2012,8.12
+Georgia,GEO,1999,23.8
 Georgia,GEO,2005,16.3
 Georgia,GEO,2010,12.3
+Georgia,GEO,2018,23.7
 Ghana,GHA,1988,35.2
 Ghana,GHA,1993,36.9
-Ghana,GHA,1994,36.9
 Ghana,GHA,1998,34.7
-Ghana,GHA,1999,34.7
 Ghana,GHA,2003,34.5
 Ghana,GHA,2008,35.7
 Ghana,GHA,2011,26.4
-Ghana,GHA,2013,37.2
+Ghana,GHA,2013,37.2771423857889
 Ghana,GHA,2014,29.9
-Ghana,GHA,2015,29.6
-Ghana,GHA,2016,32.3
+Ghana,GHA,2015,28.8044707913553
+Ghana,GHA,2016,32.2759119989817
+Ghana,GHA,2017,25.0701136589983
+Ghana,GHA,2018,33.5962703591349
+Ghana,GHA,2022,23.4
+Guinea,GIN,1992,24.7
+Guinea,GIN,1999,24.8
+Guinea,GIN,2005,21.9
+Guinea,GIN,2012,23.7
+Guinea,GIN,2016,27.6
+Guinea,GIN,2018,22.1
+"Gambia, The",GMB,2010,21.5
+"Gambia, The",GMB,2013,24.9
+"Gambia, The",GMB,2018,26.5
+"Gambia, The",GMB,2020,24.2
+Guinea-Bissau,GNB,2010,6
+Guinea-Bissau,GNB,2014,22.31656276
+Guinea-Bissau,GNB,2019,21.1290986975341
+Equatorial Guinea,GNQ,2011,33.8
 Guatemala,GTM,1987,29.4
 Guatemala,GTM,1995,28.1
 Guatemala,GTM,1999,26.8
 Guatemala,GTM,2002,27.6
 Guatemala,GTM,2009,20.8
 Guatemala,GTM,2015,13.9
-Guinea,GIN,1992,24.7
-Guinea,GIN,1993,24.7
-Guinea,GIN,1999,24.8
-Guinea,GIN,2005,21.9
-Guinea,GIN,2012,23.7
-Guinea-Bissau,GNB,2010,6
-Guinea-Bissau,GNB,2014,22.3
 Guyana,GUY,2009,28.5
-Guyana,GUY,2014,28
+Guyana,GUY,2014,28.01973942
+Guyana,GUY,2020,30.5049878835025
+Honduras,HND,1987,15.8
+Honduras,HND,1992,13.2
+Honduras,HND,1996,18
+Honduras,HND,2001,11.2
+Honduras,HND,2006,16.8
+Honduras,HND,2012,10.7
+Honduras,HND,2019,12.8746226158029
+Heavily indebted poor countries (HIPC),HPC,2010,25.3841488473421
+Heavily indebted poor countries (HIPC),HPC,2021,22.963326956198
 Haiti,HTI,1989,27.2
 Haiti,HTI,1995,44.7
 Haiti,HTI,2000,39.6
 Haiti,HTI,2006,37.3
 Haiti,HTI,2012,35.3
-Honduras,HND,1987,15.8
-Honduras,HND,1996,18
-Honduras,HND,2001,11.2
-Honduras,HND,2006,16.8
-Honduras,HND,2012,10.7
+Haiti,HTI,2017,38
 Hungary,HUN,1993,7
-India,IND,1993,20.3
-India,IND,1999,16.1
-India,IND,2003,21.1
-India,IND,2004,21.1
-India,IND,2006,13.9
-India,IND,2008,20.5
-India,IND,2016,12.9
+IBRD only,IBD,2000,9.59125745055194
+IDA & IBRD total,IBT,2000,12.9521006536274
+IDA total,IDA,2000,25.8036952455703
+IDA total,IDA,2010,22.0144310959042
+IDA total,IDA,2021,19.7093444545642
+IDA blend,IDB,1990,27.200439062517
+IDA blend,IDB,2000,26.519016275943
+IDA blend,IDB,2021,19.5503875624853
 Indonesia,IDN,1987,16
 Indonesia,IDN,1991,17
 Indonesia,IDN,1994,15.3
 Indonesia,IDN,1997,13.6
 Indonesia,IDN,2003,13.2
 Indonesia,IDN,2007,13.1
-Indonesia,IDN,2008,13.1
 Indonesia,IDN,2012,11.4
-Indonesia,IDN,2015,14.4
-"Iran, Islamic Rep.",IRN,2011,5.7
+Indonesia,IDN,2015,14.7598726559029
+Indonesia,IDN,2016,16.2
+Indonesia,IDN,2017,10.6
+IDA only,IDX,2000,25.321418039361
+IDA only,IDX,2010,22.3383538837496
+IDA only,IDX,2021,19.8155871998199
+India,IND,1993,20.3
+India,IND,1999,16.1
+India,IND,2004,21.1
+India,IND,2006,13.9
+India,IND,2008,20.5
+India,IND,2016,12.9
+India,IND,2021,9.4
+"Iran, Islamic Rep.",IRN,2010,5.7
 Iraq,IRQ,2011,8
+Iraq,IRQ,2018,14.33667786
 Italy,ITA,1996,11.8
 Jamaica,JAM,1989,20.6
 Jamaica,JAM,1993,13
 Jamaica,JAM,1997,14.2
 Jamaica,JAM,2003,11.7
-Jamaica,JAM,2009,10
+Jamaica,JAM,2008,10
+Jamaica,JAM,2022,7
 Jordan,JOR,1990,26.5
 Jordan,JOR,1997,20.1
 Jordan,JOR,2002,14.9
 Jordan,JOR,2007,13.8
 Jordan,JOR,2009,13.4
 Jordan,JOR,2012,11.7
+Jordan,JOR,2018,14.2
+Jordan,JOR,2023,10.8
 Kazakhstan,KAZ,1995,16.3
 Kazakhstan,KAZ,1999,11.9
 Kazakhstan,KAZ,2011,11.6
+Kazakhstan,KAZ,2015,9.804698364
+Kazakhstan,KAZ,2018,15.47
 Kenya,KEN,1989,38
 Kenya,KEN,1993,35.3
 Kenya,KEN,1998,28
 Kenya,KEN,2003,27.4
 Kenya,KEN,2009,25.6
 Kenya,KEN,2014,17.5
-Kenya,KEN,2015,15.9
-Kiribati,KIR,2009,28
-"Korea, Dem. People’s Rep.",PRK,2010,14.5
-"Korea, Dem. People’s Rep.",PRK,2014,7
+Kenya,KEN,2015,17.3041615689963
+Kenya,KEN,2016,15.8349735685071
+Kenya,KEN,2017,15.1644145311361
+Kenya,KEN,2018,14.2966589819957
+Kenya,KEN,2019,15.1076357090888
+Kenya,KEN,2020,12.707209564311
+Kenya,KEN,2021,14.3
+Kenya,KEN,2022,13.9
 Kyrgyz Republic,KGZ,1997,11.8
 Kyrgyz Republic,KGZ,2012,18
+Kyrgyz Republic,KGZ,2014,19.09589631
+Kyrgyz Republic,KGZ,2018,19.73471917
+Cambodia,KHM,2000,33
+Cambodia,KHM,2005,25.3
+Cambodia,KHM,2010,16.9
+Cambodia,KHM,2014,12.5
+Cambodia,KHM,2022,11.5
+Kiribati,KIR,2009,28
+Kiribati,KIR,2019,17.3
+"Korea, Rep.",KOR,2021,8.61
 Lao PDR,LAO,2000,39.5
 Lao PDR,LAO,2005,27.3
-Lao PDR,LAO,2012,19.9
-Latvia,LVA,1995,16.8
-Lesotho,LSO,2004,31
-Lesotho,LSO,2005,31
-Lesotho,LSO,2009,23.3
-Lesotho,LSO,2010,23.3
-Lesotho,LSO,2014,18.4
+Lao PDR,LAO,2012,19.93087309
+Lao PDR,LAO,2017,13.30297503
 Liberia,LBR,1986,32.8
 Liberia,LBR,2007,35.7
 Liberia,LBR,2013,31.1
+Liberia,LBR,2020,33.4
 Libya,LBY,2007,27
+Libya,LBY,2014,40.2
+St. Lucia,LCA,2012,17
+Least developed countries: UN classification,LDC,2000,25.5935193092724
+Least developed countries: UN classification,LDC,2010,22.7382143580694
+Least developed countries: UN classification,LDC,2021,19.7768847246229
+Low income,LIC,2010,24.2199667319326
+Sri Lanka,LKA,1987,12.3
+Sri Lanka,LKA,2000,18.2
+Sri Lanka,LKA,2007,7.3
+Sri Lanka,LKA,2016,7.5
+Lower middle income,LMC,2000,18.7408194008811
+Lower middle income,LMC,2010,18.9325136009275
+Lower middle income,LMC,2021,12.7541089821062
+Low & middle income,LMY,2000,12.5821329747925
+Lesotho,LSO,2004,31
+Lesotho,LSO,2009,23.3
+Lesotho,LSO,2014,18.4
+Lesotho,LSO,2018,16.00816868
+Lesotho,LSO,2024,12.6
+Late-demographic dividend,LTE,2000,3.50881381854431
 Lithuania,LTU,1995,18
-"Macedonia, FYR",MKD,2011,17.2
+Latvia,LVA,1995,16.8
+Morocco,MAR,1987,22
+Morocco,MAR,1992,23.5
+Morocco,MAR,1995,16.1
+Morocco,MAR,2004,11.9
+Morocco,MAR,2011,10.9
+Morocco,MAR,2018,11.3
+Moldova,MDA,1997,6.7
+Moldova,MDA,2005,11.4
+Moldova,MDA,2012,9.5
+Moldova,MDA,2020,21.2
 Madagascar,MDG,1992,32.3
 Madagascar,MDG,1997,27.7
 Madagascar,MDG,2004,24.5
 Madagascar,MDG,2009,19
-Malawi,MWI,1992,36.5
-Malawi,MWI,2000,29.9
-Malawi,MWI,2004,30.3
-Malawi,MWI,2005,30.3
-Malawi,MWI,2010,26.2
-Malawi,MWI,2014,19.4
-Malawi,MWI,2016,18.7
+Madagascar,MDG,2017,16.4
+Madagascar,MDG,2018,15.28783793
+Madagascar,MDG,2021,14.6
 Maldives,MDV,2009,28.6
-Mali,MLI,1987,22.9
-Mali,MLI,1996,27.5
-Mali,MLI,2001,29.6
-Mali,MLI,2006,27.6
-Mali,MLI,2013,26
-Mali,MLI,2015,15.8
-Marshall Islands,MHL,2007,8.1
-Mauritania,MRT,2001,32.1
-Mauritania,MRT,2011,31.1
-Mauritania,MRT,2015,33.6
-Mauritius,MUS,1991,6.4
-Mauritius,MUS,2002,3.5
-Mauritius,MUS,2014,12.5
-Mexico,MEX,1987,25.1
+Maldives,MDV,2017,31.4
+Mexico,MEX,1987,24.1
 Mexico,MEX,1995,16.1
 Mexico,MEX,1997,12.1
 Mexico,MEX,2003,9.9
 Mexico,MEX,2006,12
 Mexico,MEX,2009,9.8
-Mexico,MEX,2015,13
-Moldova,MDA,1997,6.7
-Moldova,MDA,2005,11.4
-Moldova,MDA,2012,9.5
-Mongolia,MNG,1998,9.9
-Mongolia,MNG,2003,4.6
-Mongolia,MNG,2008,14.4
-Mongolia,MNG,2010,22.3
-Mongolia,MNG,2013,16
-Montenegro,MNE,2013,21.8
-Morocco,MAR,1987,22.1
-Morocco,MAR,1992,23.5
-Morocco,MAR,1995,16.1
-Morocco,MAR,2004,11.9
-Morocco,MAR,2011,10.9
-Mozambique,MOZ,1997,24.9
-Mozambique,MOZ,2003,18.9
-Mozambique,MOZ,2004,18.9
-Mozambique,MOZ,2011,23.9
-Mozambique,MOZ,2015,23.1
+Mexico,MEX,2014,11.4
+Mexico,MEX,2015,12.92496526
+Mexico,MEX,2018,10.8
+Marshall Islands,MHL,2007,8.1
+Middle income,MIC,2000,12.1528853479833
+North Macedonia,MKD,2011,17.2
+North Macedonia,MKD,2019,10.2779883994419
+Mali,MLI,1987,22.9
+Mali,MLI,1996,27.5
+Mali,MLI,2001,29.6
+Mali,MLI,2006,27.6
+Mali,MLI,2013,26
+Mali,MLI,2015,30.68040516
+Mali,MLI,2018,23.9
 Myanmar,MMR,1991,20.6
 Myanmar,MMR,1997,19.1
 Myanmar,MMR,2001,19.1
 Myanmar,MMR,2016,16.2
+Montenegro,MNE,2013,21.81680597
+Montenegro,MNE,2018,21
+Mongolia,MNG,1998,9.9
+Mongolia,MNG,2003,4.6
+Mongolia,MNG,2008,14.4
+Mongolia,MNG,2011,22.3
+Mongolia,MNG,2013,17.30773972
+Mongolia,MNG,2018,22.57003646
+Mozambique,MOZ,1997,24.9
+Mozambique,MOZ,2003,21.4
+Mozambique,MOZ,2011,23.9
+Mozambique,MOZ,2015,23.1
+Mozambique,MOZ,2023,26.6
+Mauritania,MRT,2001,32.1
+Mauritania,MRT,2007,24.6
+Mauritania,MRT,2011,31.1
+Mauritania,MRT,2015,33.6
+Mauritania,MRT,2021,31.1
+Mauritius,MUS,1985,3.3
+Mauritius,MUS,1991,6.3
+Mauritius,MUS,2002,3.5
+Mauritius,MUS,2014,12.5
+Malawi,MWI,1992,36.5
+Malawi,MWI,2000,29.9
+Malawi,MWI,2004,30.3
+Malawi,MWI,2010,26.2
+Malawi,MWI,2014,19.43945176
+Malawi,MWI,2016,18.7
+Malawi,MWI,2020,15.4285968331741
+Malaysia,MYS,2022,26.7
+North America,NAC,1990,6
+North America,NAC,2000,6.3
+North America,NAC,2010,8
+North America,NAC,2021,7.2
 Namibia,NAM,1992,21.8
 Namibia,NAM,2000,23.9
 Namibia,NAM,2007,20.7
 Namibia,NAM,2013,17.5
-Nauru,NRU,2007,23.5
+Niger,NER,1992,18.7
+Niger,NER,1998,17.7
+Niger,NER,2006,16.1
+Niger,NER,2012,16
+Niger,NER,2016,23.7723582818542
+Niger,NER,2017,12
+Niger,NER,2021,19.7
+Niger,NER,2022,20.0281624298771
+Niger,NER,2023,21.1338730236813
+Nigeria,NGA,1990,21.5
+Nigeria,NGA,1999,19.9047535639931
+Nigeria,NGA,2003,17.5
+Nigeria,NGA,2008,20.2
+Nigeria,NGA,2011,19.4
+Nigeria,NGA,2013,16.1
+Nigeria,NGA,2016,27.6164645790072
+Nigeria,NGA,2017,27.6
+Nigeria,NGA,2018,18.9
+Nigeria,NGA,2021,23.8518392262455
+Nicaragua,NIC,1993,23.9
+Nicaragua,NIC,1998,17.9
+Nicaragua,NIC,2001,14.6
+Nicaragua,NIC,2007,7.51977630910015
+Nicaragua,NIC,2012,5.8
 Nepal,NPL,1992,27.7
 Nepal,NPL,1996,32.4
 Nepal,NPL,2001,27.8
 Nepal,NPL,2006,24.7
 Nepal,NPL,2011,27.5
+Nepal,NPL,2014,25.21313066
 Nepal,NPL,2016,23.7
-Nicaragua,NIC,1993,23.9
-Nicaragua,NIC,1998,17.9
-Nicaragua,NIC,2001,14.6
-Nicaragua,NIC,2007,10.7
-Nicaragua,NIC,2012,5.8
-Niger,NER,1992,18.7
-Niger,NER,1998,17.7
-Niger,NER,2006,16.1
-Niger,NER,2012,16
-Niger,NER,2016,23.9
-Nigeria,NGA,1990,21.5
-Nigeria,NGA,1999,20
-Nigeria,NGA,2003,17.5
-Nigeria,NGA,2008,20.2
-Nigeria,NGA,2011,18.9
-Nigeria,NGA,2013,16.1
-Nigeria,NGA,2016,28.9
+Nepal,NPL,2019,24.7156118588349
+Nepal,NPL,2022,20.8
+Nauru,NRU,2007,23.5
 Oman,OMN,2008,55.9
+Oman,OMN,2014,17.8
 Pakistan,PAK,1991,30.5
 Pakistan,PAK,1997,37.5
 Pakistan,PAK,2001,33
 Pakistan,PAK,2007,25.2
 Pakistan,PAK,2013,20.1
-Panama,PAN,2013,16.4
-Papua New Guinea,PNG,2007,27.4
-Paraguay,PRY,1987,32.9
-Paraguay,PRY,1990,17.4
-Paraguay,PRY,1996,19.2
-Paraguay,PRY,1998,17.3
-Paraguay,PRY,2004,6.6
-Paraguay,PRY,2008,4.7
+Pakistan,PAK,2018,17.3
+Panama,PAN,1984,16.4
+Panama,PAN,2013,18.21213965
+Panama,PAN,2015,24.2
 Peru,PER,1986,27.7
 Peru,PER,1992,21.6
 Peru,PER,1996,17.7
@@ -421,13 +489,43 @@ Peru,PER,2011,9.6
 Peru,PER,2012,9.3
 Peru,PER,2013,9
 Peru,PER,2014,8.6
+Peru,PER,2015,6.5
+Peru,PER,2016,6
+Peru,PER,2017,6.45465036622701
+Peru,PER,2018,6.3
+Peru,PER,2019,6.1
+Peru,PER,2020,6.1
+Peru,PER,2021,5.5
+Peru,PER,2022,5.95
+Peru,PER,2023,8.9
 Philippines,PHL,1993,30.2
 Philippines,PHL,1998,24.6
 Philippines,PHL,2003,22.5
 Philippines,PHL,2008,22
 Philippines,PHL,2011,19.3
 Philippines,PHL,2013,17.5
-Puerto Rico,PRI,1996,4
+Philippines,PHL,2017,16.7
+Philippines,PHL,2022,12.4
+Papua New Guinea,PNG,2006,27.4
+Papua New Guinea,PNG,2018,25.9
+Pre-demographic dividend,PRE,2010,23.2956402175446
+Pre-demographic dividend,PRE,2021,22.6481331200113
+Puerto Rico (US),PRI,1996,4
+"Korea, Dem. People's Rep.",PRK,2002,16.7
+"Korea, Dem. People's Rep.",PRK,2006,15.8
+"Korea, Dem. People's Rep.",PRK,2010,14.5
+"Korea, Dem. People's Rep.",PRK,2014,7
+"Korea, Dem. People's Rep.",PRK,2017,6.6
+Paraguay,PRY,1987,32.9
+Paraguay,PRY,1990,17.4
+Paraguay,PRY,1996,19.2
+Paraguay,PRY,1998,17.3
+Paraguay,PRY,2004,6.6
+Paraguay,PRY,2008,4.7
+Paraguay,PRY,2016,12.13177981
+West Bank and Gaza,PSE,2010,15.6
+West Bank and Gaza,PSE,2014,10.87703799
+West Bank and Gaza,PSE,2020,12.9
 Qatar,QAT,2012,12.4
 Romania,ROU,1993,11.4
 Romania,ROU,1999,5.6
@@ -438,13 +536,16 @@ Rwanda,RWA,2000,36.4
 Rwanda,RWA,2005,38.5
 Rwanda,RWA,2008,34.4
 Rwanda,RWA,2010,20.8
-Rwanda,RWA,2011,20.8
 Rwanda,RWA,2015,18.9
-Samoa,WSM,2009,47.7
-Samoa,WSM,2014,34.8
-Sao Tome and Principe,STP,2009,37.6
-Sao Tome and Principe,STP,2014,33.7
-Senegal,SEN,1986,37.4
+Rwanda,RWA,2020,13.6
+South Asia,SAS,2000,16.5893013227019
+South Asia,SAS,2010,19.8526650067602
+South Asia,SAS,2021,9.69168059151237
+Saudi Arabia,SAU,2023,21.4
+Sudan,SDN,1993,26
+Sudan,SDN,2010,28.9
+Sudan,SDN,2014,26.57926083
+Senegal,SEN,1986,37
 Senegal,SEN,1993,28.8
 Senegal,SEN,1997,35
 Senegal,SEN,2005,32
@@ -453,31 +554,99 @@ Senegal,SEN,2013,29.2
 Senegal,SEN,2014,25.6
 Senegal,SEN,2015,25.2
 Senegal,SEN,2016,23.6
-Serbia,SRB,2010,6.6
-Serbia,SRB,2014,14.9
+Senegal,SEN,2017,21.9
+Senegal,SEN,2018,20.6
+Senegal,SEN,2019,21.7
+Senegal,SEN,2023,19.1
+Solomon Islands,SLB,2007,11.1
+Solomon Islands,SLB,2015,34.7
 Sierra Leone,SLE,2008,28.4
 Sierra Leone,SLE,2010,27.4
 Sierra Leone,SLE,2013,25
-Slovenia,SVN,1995,9.2
-Solomon Islands,SLB,2007,11.1
-South Africa,ZAF,1998,16.5
-South Africa,ZAF,2004,13.8
+Sierra Leone,SLE,2017,26.3
+Sierra Leone,SLE,2019,24.8
+El Salvador,SLV,1988,16.2
+El Salvador,SLV,1993,15.8
+El Salvador,SLV,1998,14.2
+El Salvador,SLV,2003,8.9
+El Salvador,SLV,2008,18.4
+El Salvador,SLV,2014,11.09053397
+El Salvador,SLV,2021,17.7
+"Somalia, Fed. Rep.",SOM,2019,36.6
+Serbia,SRB,2010,6.6
+Serbia,SRB,2014,14.94298544
+Serbia,SRB,2019,8.81409885791106
+Sub-Saharan Africa (excluding high income),SSA,2000,23.8565732729825
+Sub-Saharan Africa (excluding high income),SSA,2010,23.9188755321493
+Sub-Saharan Africa (excluding high income),SSA,2021,22.961075331033
 South Sudan,SSD,2010,26.3
-Spain,ESP,1995,11.8
-Sri Lanka,LKA,1987,12.3
-Sri Lanka,LKA,2000,18.2
-Sri Lanka,LKA,2007,7.3
-St. Lucia,LCA,2012,17
-Sudan,SDN,1990,28.9
-Sudan,SDN,1993,26
-Sudan,SDN,2010,28.9
-Sudan,SDN,2014,26.6
+Sub-Saharan Africa,SSF,2000,25.475988138831
+Sub-Saharan Africa,SSF,2010,24.1936063200525
+Sub-Saharan Africa,SSF,2021,22.7387317795553
+Sao Tome and Principe,STP,2009,37.6
+Sao Tome and Principe,STP,2014,32.67369553
+Sao Tome and Principe,STP,2019,27.0791808988339
 Suriname,SUR,2010,16.9
-Swaziland,SWZ,2007,24.7
-Swaziland,SWZ,2010,13
-Swaziland,SWZ,2014,15.2
-Syrian Arab Republic,SYR,2010,16.4
+Suriname,SUR,2018,28.43233445
+Slovenia,SVN,1995,9.2
+Eswatini,SWZ,2007,24.7
+Eswatini,SWZ,2010,13
+Eswatini,SWZ,2014,15.22971275
+Eswatini,SWZ,2022,20.3726134032003
+Syrian Arab Republic,SYR,2009,16.4
+Turks and Caicos Islands,TCA,2020,22.032045847538
+Chad,TCD,1997,17.4
+Chad,TCD,2004,20.6
+Chad,TCD,2010,28.3
+Chad,TCD,2015,22.9
+Chad,TCD,2019,30.2
+East Asia & Pacific (IDA & IBRD countries),TEA,2000,4.4775781840432
+Europe & Central Asia (IDA & IBRD countries),TEC,2010,8.61356792073155
+Togo,TGO,1988,40.1
+Togo,TGO,1998,35
+Togo,TGO,2010,37.2
+Togo,TGO,2014,33.6
+Togo,TGO,2017,34
+Thailand,THA,1987,11.1
+Thailand,THA,2006,3.1
+Thailand,THA,2013,6.9
+Thailand,THA,2016,6.2
+Thailand,THA,2019,8.03739804223605
+Thailand,THA,2022,8.93881722658571
 Tajikistan,TJK,2012,22.9
+Tajikistan,TJK,2017,22.7
+Turkmenistan,TKM,2000,13.1
+Turkmenistan,TKM,2016,12.12470782
+Turkmenistan,TKM,2019,9.67981052865144
+Timor-Leste,TLS,1991,16.6
+Timor-Leste,TLS,1994,13.3
+Timor-Leste,TLS,1997,17.4
+Timor-Leste,TLS,2010,31.5
+Timor-Leste,TLS,2016,25.3
+Tonga,TON,2012,25.2
+Tonga,TON,2019,21.8291823111129
+South Asia (IDA & IBRD),TSA,2000,16.5893013227019
+South Asia (IDA & IBRD),TSA,2010,19.8526650067602
+South Asia (IDA & IBRD),TSA,2021,9.69168059151237
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2000,25.475988138831
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2010,24.1936063200525
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2021,22.7387317795553
+Trinidad and Tobago,TTO,1987,16.1
+Trinidad and Tobago,TTO,2006,26.7
+Trinidad and Tobago,TTO,2011,24.3
+Trinidad and Tobago,TTO,2022,23.431259119629
+Tunisia,TUN,2001,12.1
+Tunisia,TUN,2012,7
+Tunisia,TUN,2018,19.9
+Tunisia,TUN,2023,16.5180478728032
+Turkiye,TUR,1993,14.6
+Turkiye,TUR,1998,14
+Turkiye,TUR,2003,6.5
+Turkiye,TUR,2008,8.6
+Turkiye,TUR,2013,5.9
+Turkiye,TUR,2018,11.6
+Tuvalu,TUV,2007,24.2
+Tuvalu,TUV,2020,26.1543342688458
 Tanzania,TZA,1992,27.8
 Tanzania,TZA,1994,27.3
 Tanzania,TZA,1996,26
@@ -485,69 +654,61 @@ Tanzania,TZA,1999,22.3
 Tanzania,TZA,2005,24.3
 Tanzania,TZA,2010,22.3
 Tanzania,TZA,2016,22.1
-Thailand,THA,1987,11.1
-Thailand,THA,2006,3.1
-Thailand,THA,2012,6.9
-Timor-Leste,TLS,1991,18.3
-Timor-Leste,TLS,1994,13.3
-Timor-Leste,TLS,1997,17.4
-Timor-Leste,TLS,2003,3.8
-Timor-Leste,TLS,2010,31.5
-Togo,TGO,1988,40.1
-Togo,TGO,1998,35
-Togo,TGO,2010,37.2
-Togo,TGO,2014,33.6
-Tonga,TON,2012,25.2
-Trinidad and Tobago,TTO,1987,16.1
-Trinidad and Tobago,TTO,2006,26.7
-Tunisia,TUN,2001,12.1
-Tunisia,TUN,2012,7
-Turkey,TUR,1993,14.6
-Turkey,TUR,1998,14
-Turkey,TUR,2003,6.5
-Turkey,TUR,2004,9.5
-Turkey,TUR,2008,6.2
-Turkey,TUR,2013,5.9
-Turkmenistan,TKM,2000,13.1
-Turkmenistan,TKM,2016,12.1
-Tuvalu,TUV,2007,24.2
+Tanzania,TZA,2022,21
 Uganda,UGA,1995,30
 Uganda,UGA,2001,35
 Uganda,UGA,2006,38
 Uganda,UGA,2011,34.3
-Uganda,UGA,2014,34.7
-Uganda,UGA,2015,31.8
+Uganda,UGA,2014,39.8765681661056
+Uganda,UGA,2015,32.7785246063281
 Uganda,UGA,2016,28.4
+Uganda,UGA,2017,31.9245656075784
+Uganda,UGA,2018,27.1536949519022
+Uganda,UGA,2020,23.4851020966008
+Uganda,UGA,2021,21.2417507853714
+Uganda,UGA,2022,21.8
 Ukraine,UKR,1999,17.5
 Ukraine,UKR,2007,10.1
 Ukraine,UKR,2012,4.9
 United States,USA,1988,4
 United States,USA,1990,6
 United States,USA,2002,6.3
-United States,USA,2007,5.8
 United States,USA,2008,5.8
 United States,USA,2010,8
+United States,USA,2015,9
+United States,USA,2019,7.2
 Uzbekistan,UZB,1996,13.7
-Vanuatu,VUT,2013,24.2
+Uzbekistan,UZB,2022,10.9609584563432
 "Venezuela, RB",VEN,1998,18.9
-Vietnam,VNM,1997,8.4
-Vietnam,VNM,2002,6.6
-Vietnam,VNM,2011,4.3
-Vietnam,VNM,2014,6.1
-West Bank and Gaza,PSE,2010,15.6
-West Bank and Gaza,PSE,2014,10.9
+Viet Nam,VNM,1997,8.4
+Viet Nam,VNM,2002,6.6
+Viet Nam,VNM,2011,4.3
+Viet Nam,VNM,2014,6.105269534
+Viet Nam,VNM,2021,10.1043795349935
+Vanuatu,VUT,2013,24.2
+World,WLD,2000,12.5249729310218
+Samoa,WSM,2009,47.7
+Samoa,WSM,2014,34.8
+Samoa,WSM,2020,38.9026721232567
+Kosovo,XKX,2014,8.9
+Kosovo,XKX,2020,8.4
 "Yemen, Rep.",YEM,1992,38.1
 "Yemen, Rep.",YEM,1997,40
 "Yemen, Rep.",YEM,2006,23.6
 "Yemen, Rep.",YEM,2013,28.7
+South Africa,ZAF,1998,16.5
+South Africa,ZAF,2003,13.8
+South Africa,ZAF,2016,14.9
 Zambia,ZMB,1992,30
 Zambia,ZMB,1996,25.2
-Zambia,ZMB,1997,25.2
 Zambia,ZMB,2002,27.5
 Zambia,ZMB,2007,26.6
 Zambia,ZMB,2014,21.1
+Zambia,ZMB,2018,19.7
+Zimbabwe,ZWE,1984,14.1
 Zimbabwe,ZWE,1994,19.1
 Zimbabwe,ZWE,1999,16.7
 Zimbabwe,ZWE,2006,15.5
 Zimbabwe,ZWE,2011,14.6
-Zimbabwe,ZWE,2014,10.4
+Zimbabwe,ZWE,2014,10.38212858
+Zimbabwe,ZWE,2015,10.4

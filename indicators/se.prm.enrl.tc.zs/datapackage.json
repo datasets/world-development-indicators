@@ -1,0 +1,50 @@
+{
+  "title": "Pupil-teacher ratio, primary",
+  "name": "se.prm.enrl.tc.zs",
+  "worldbank": {
+    "indicator": "se.prm.enrl.tc.zs"
+  },
+  "readme": "Primary school pupil-teacher ratio is the average number of pupils per teacher in primary school.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Education "
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "Primary school pupil-teacher ratio is the average number of pupils per teacher in primary school."
+          }
+        ]
+      }
+    }
+  ]
+}

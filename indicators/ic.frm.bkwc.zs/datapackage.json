@@ -4,7 +4,7 @@
   "worldbank": {
     "indicator": "ic.frm.bkwc.zs"
   },
-  "readme": "Firms using banks to finance working capital are the percentage of firms using bank loans to finance working capital.",
+  "readme": "Percentage of firms using bank loans to finance working capital.",
   "licenses": [
     {
       "name": "CC-BY-4.0"
@@ -41,7 +41,7 @@
           {
             "name": "Value",
             "type": "number",
-            "description": "Firms using banks to finance working capital are the percentage of firms using bank loans to finance working capital."
+            "description": "Percentage of firms using bank loans to finance working capital."
           }
         ]
       }

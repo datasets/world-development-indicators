@@ -4,7 +4,7 @@
   "worldbank": {
     "indicator": "ag.lnd.totl.k2"
   },
-  "readme": "Land area is a countrys total area, excluding area under inland water bodies, national claims to continental shelf, and exclusive economic zones. In most cases the definition of inland water bodies includes major rivers and lakes.",
+  "readme": "Land area is a country's total area, excluding area under inland water bodies, national claims to continental shelf, and exclusive economic zones. In most cases the definition of inland water bodies includes major rivers and lakes.",
   "licenses": [
     {
       "name": "CC-BY-4.0"
@@ -42,7 +42,7 @@
           {
             "name": "Value",
             "type": "number",
-            "description": "Land area is a countrys total area, excluding area under inland water bodies, national claims to continental shelf, and exclusive economic zones. In most cases the definition of inland water bodies includes major rivers and lakes."
+            "description": "Land area is a country's total area, excluding area under inland water bodies, national claims to continental shelf, and exclusive economic zones. In most cases the definition of inland water bodies includes major rivers and lakes."
           }
         ]
       }

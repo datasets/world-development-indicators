@@ -4,7 +4,7 @@
   "worldbank": {
     "indicator": "sh.sta.diab.zs"
   },
-  "readme": "Diabetes prevalence refers to the percentage of people ages 20-79 who have type 1 or type 2 diabetes.",
+  "readme": "Diabetes prevalence refers to the percentage of people ages 20-79 who have type 1 or type 2 diabetes. It is calculated by adjusting to a standard population age-structure.",
   "licenses": [
     {
       "name": "CC-BY-4.0"
@@ -41,7 +41,7 @@
           {
             "name": "Value",
             "type": "number",
-            "description": "Diabetes prevalence refers to the percentage of people ages 20-79 who have type 1 or type 2 diabetes."
+            "description": "Diabetes prevalence refers to the percentage of people ages 20-79 who have type 1 or type 2 diabetes. It is calculated by adjusting to a standard population age-structure."
           }
         ]
       }

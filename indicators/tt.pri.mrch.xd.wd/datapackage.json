@@ -1,10 +1,10 @@
 {
-  "title": "Net barter terms of trade index (2000 = 100)",
+  "title": "Net barter terms of trade index (2015 = 100)",
   "name": "tt.pri.mrch.xd.wd",
   "worldbank": {
     "indicator": "tt.pri.mrch.xd.wd"
   },
-  "readme": "Net barter terms of trade index is calculated as the percentage ratio of the export unit value indexes to the import unit value indexes, measured relative to the base year 2000. Unit value indexes are based on data reported by countries that demonstrate consistency under UNCTAD quality controls, supplemented by UNCTADs estimates using the previous year\u2019s trade values at the Standard International Trade Classification three-digit level as weights. To improve data coverage, especially for the latest periods, UNCTAD constructs a set of average prices indexes at the three-digit product classification of the Standard International Trade Classification revision 3 using UNCTAD\u2019s Commodity Price Statistics, interna\u00adtional and national sources, and UNCTAD secretariat estimates and calculates unit value indexes at the country level using the current years trade values as weights.",
+  "readme": "Net barter terms of trade index is calculated as the percentage ratio of the export unit value indexes to the import unit value indexes, measured relative to the base year 2015.",
   "licenses": [
     {
       "name": "CC-BY-4.0"
@@ -42,7 +42,7 @@
           {
             "name": "Value",
             "type": "number",
-            "description": "Net barter terms of trade index is calculated as the percentage ratio of the export unit value indexes to the import unit value indexes, measured relative to the base year 2000. Unit value indexes are based on data reported by countries that demonstrate consistency under UNCTAD quality controls, supplemented by UNCTADs estimates using the previous year\u2019s trade values at the Standard International Trade Classification three-digit level as weights. To improve data coverage, especially for the latest periods, UNCTAD constructs a set of average prices indexes at the three-digit product classification of the Standard International Trade Classification revision 3 using UNCTAD\u2019s Commodity Price Statistics, interna\u00adtional and national sources, and UNCTAD secretariat estimates and calculates unit value indexes at the country level using the current years trade values as weights."
+            "description": "Net barter terms of trade index is calculated as the percentage ratio of the export unit value indexes to the import unit value indexes, measured relative to the base year 2015."
           }
         ]
       }

@@ -1,0 +1,50 @@
+{
+  "title": "Military expenditure (% of general government expenditure)",
+  "name": "ms.mil.xpnd.zs",
+  "worldbank": {
+    "indicator": "ms.mil.xpnd.zs"
+  },
+  "readme": "Military expenditure expressed as a percentage of general government expenditure",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Public Sector "
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "Military expenditure expressed as a percentage of general government expenditure"
+          }
+        ]
+      }
+    }
+  ]
+}

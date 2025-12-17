@@ -4,7 +4,7 @@
   "worldbank": {
     "indicator": "tx.val.mmtl.zs.un"
   },
-  "readme": "Ores and metals comprise the commodities in SITC sections 27 (crude fertilizer, minerals nes); 28 (metalliferous ores, scrap); and 68 (non-ferrous metals).",
+  "readme": "Ores and metals comprise the commodities in SITC (Rev. 3) sections 27 (crude fertilizer, minerals nes); 28 (metalliferous ores, scrap); and 68 (non-ferrous metals). Exports of services are services provided by residents to non-residents. This indicator is expressed as a percentage of merchandise exports which is comprised of goods whose economic ownership is changed between a resident and a non-resident and that are not included in the following specific categories: goods under merchanting, non-monetary gold, and parts of travel, construction, and government goods and services n.i.e.",
   "licenses": [
     {
       "name": "CC-BY-4.0"
@@ -43,7 +43,7 @@
           {
             "name": "Value",
             "type": "number",
-            "description": "Ores and metals comprise the commodities in SITC sections 27 (crude fertilizer, minerals nes); 28 (metalliferous ores, scrap); and 68 (non-ferrous metals)."
+            "description": "Ores and metals comprise the commodities in SITC (Rev. 3) sections 27 (crude fertilizer, minerals nes); 28 (metalliferous ores, scrap); and 68 (non-ferrous metals). Exports of services are services provided by residents to non-residents. This indicator is expressed as a percentage of merchandise exports which is comprised of goods whose economic ownership is changed between a resident and a non-resident and that are not included in the following specific categories: goods under merchanting, non-monetary gold, and parts of travel, construction, and government goods and services n.i.e."
           }
         ]
       }

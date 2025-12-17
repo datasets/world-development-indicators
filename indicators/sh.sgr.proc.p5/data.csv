@@ -1,79 +1,182 @@
 Country Name,Country Code,Year,Value
-East Asia & Pacific (excluding high income),EAP,2014,2725.37333048214
-East Asia & Pacific (IDA & IBRD countries),TEA,2014,2725.37333048214
-Late-demographic dividend,LTE,2014,4914.03257909551
-Latin America & Caribbean,LCN,2014,9945.97282245374
-Latin America & Caribbean (excluding high income),LAC,2014,9946.12539601309
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2014,10079.7506389415
-Pacific island small states,PSS,2014,1531.65840820916
-Upper middle income,UMC,2014,4708.74481827796
+Afghanistan,AFG,2008,229
 Albania,ALB,2013,1900
-Andorra,AND,2014,5178
+Albania,ALB,2021,2000.9
+Andorra,AND,2014,5238
 Armenia,ARM,2015,4198
+Armenia,ARM,2020,5080
 Australia,AUS,2015,28907
 Australia,AUS,2016,10156
 Austria,AUT,2014,13795
 Azerbaijan,AZE,2015,1842
-Bahrain,BHR,2012,3899
-Bangladesh,BGD,2011,161
-Belarus,BLR,2014,8741
+Azerbaijan,AZE,2017,2834
 Belgium,BEL,2013,20712
-Belize,BLZ,2014,1964
-Bhutan,BTN,2015,2639
-Brazil,BRA,2015,13940
 Burkina Faso,BFA,2012,328
-Cayman Islands,CYM,2015,8771
-Chad,TCD,2012,52
+Bangladesh,BGD,2011,162
+Bulgaria,BGR,2005,5145
+Bulgaria,BGR,2010,6757
+Bahrain,BHR,2012,3999
+Bosnia and Herzegovina,BIH,2009,3596
+Belarus,BLR,2014,8741
+Belarus,BLR,2020,6945
+Belize,BLZ,2014,1964
+Bolivia,BOL,2010,2305
+Brazil,BRA,2015,13674
+Barbados,BRB,2018,966.3
+Bhutan,BTN,2015,2639
+Bhutan,BTN,2022,2909
+Canada,CAN,2021,6928
+Central Europe and the Baltics,CEB,2016,5606.82467287778
+Switzerland,CHE,2012,25923
 China,CHN,2012,2732
+"Congo, Rep.",COG,2018,49
 Colombia,COL,2015,27385
 Costa Rica,CRI,2014,3746
-Cuba,CUB,2012,4757
-Cyprus,CYP,2014,3057
+Cuba,CUB,2012,4740
+Cayman Islands,CYM,2015,8771
+Cyprus,CYP,2014,3060
+Czechia,CZE,2012,6268
+Germany,DEU,2012,12188
+Germany,DEU,2022,19123.7
 Denmark,DNK,2015,21197
+East Asia & Pacific (excluding high income),EAP,2016,2639.78388903204
+East Asia & Pacific,EAS,2016,2893.70400283476
+Europe & Central Asia (excluding high income),ECA,2016,6669.74455850031
+Europe & Central Asia,ECS,2016,9529.37047143612
 Ecuador,ECU,2015,1552
-Estonia,EST,2014,9684
-Ethiopia,ETH,2011,43
-Fiji,FJI,2016,1490
-Finland,FIN,2014,8850
-Georgia,GEO,2014,5488
-Guatemala,GTM,2012,1505
-Isle of Man,IMN,2014,9770
-Israel,ISR,2014,4879
-Jordan,JOR,2015,2982
-Kazakhstan,KAZ,2015,4459
-Kiribati,KIR,2016,1718
-Kosovo,XKX,2014,1558
-Kyrgyz Republic,KGZ,2015,3045
-Latvia,LVA,2015,18395
-Mexico,MEX,2015,1303
-Moldova,MDA,2014,4898
-Mongolia,MNG,2014,5339
-Morocco,MAR,2015,756
-Nauru,NRU,2016,7130
-Nepal,NPL,2011,209
-New Zealand,NZL,2016,5308
-Niger,NER,2014,263
-Oman,OMN,2015,2293
-Papua New Guinea,PNG,2016,1264
-Peru,PER,2011,3005
-Russian Federation,RUS,2010,6622
-Samoa,WSM,2016,1552
-San Marino,SMR,2015,5145
-Saudi Arabia,SAU,2012,3399
-Seychelles,SYC,2012,4268
-Sierra Leone,SLE,2015,400
-Solomon Islands,SLB,2016,868
-South Sudan,SSD,2014,268
+Euro area,EMU,2016,13328.8082501593
+Spain,ESP,2010,10110
 Spain,ESP,2014,10579
+Spain,ESP,2023,6953.2
+Estonia,EST,2014,9684
+Estonia,EST,2022,14832.3
+Ethiopia,ETH,2011,43
+Ethiopia,ETH,2013,192
+European Union,EUU,2016,12089.7611179689
+Finland,FIN,2014,8850
+Finland,FIN,2022,15870
+Fiji,FJI,2016,1490
+Fiji,FJI,2020,2247
+France,FRA,2012,16306
+United Kingdom,GBR,2010,7181
+United Kingdom,GBR,2012,15280
+United Kingdom,GBR,2014,10487
+Georgia,GEO,2014,5488
+Georgia,GEO,2020,4473
+Ghana,GHA,2015,869
+Greece,GRC,2007,6994
+Guatemala,GTM,2012,1505
+Guatemala,GTM,2021,935.3
+"Hong Kong SAR, China",HKG,2023,1734.5
+Hungary,HUN,2010,13827
+Isle of Man,IMN,2014,9770
+Ireland,IRL,2010,3053
+"Iran, Islamic Rep.",IRN,2010,802.7
+Iceland,ISL,2009,13185
+Israel,ISR,2014,4879
+Italy,ITA,2012,6918
+Jamaica,JAM,2016,1311.8
+Jordan,JOR,2015,2473
+Kazakhstan,KAZ,2015,4459
+Kazakhstan,KAZ,2020,3946
+Kenya,KEN,2002,263
+Kyrgyz Republic,KGZ,2015,3045
+Kyrgyz Republic,KGZ,2020,2677
+Cambodia,KHM,2018,1356
+Kiribati,KIR,2016,1718
+"Korea, Rep.",KOR,2012,3406
+"Korea, Rep.",KOR,2022,3234.9
+Latin America & Caribbean (excluding high income),LAC,2016,9504.47880517219
+Liberia,LBR,2013,330
+Liberia,LBR,2018,462
+Latin America & Caribbean,LCN,2016,9440.17862606481
 Sri Lanka,LKA,2015,4943
-St. Vincent and the Grenadines,VCT,2015,2509
+Late-demographic dividend,LTE,2016,4700.29875814081
+Lithuania,LTU,2015,10189
+Lithuania,LTU,2022,4303.6
+Luxembourg,LUX,2012,21933
+Latvia,LVA,2015,18395
+"Macao SAR, China",MAC,2022,2721.2
+Morocco,MAR,2015,746
+Monaco,MCO,2020,23987
+Moldova,MDA,2014,4898
+Moldova,MDA,2020,4279
+Madagascar,MDG,2016,163
+Mexico,MEX,2015,1303
+Mali,MLI,2009,3321
+Malta,MLT,2012,13232
+Myanmar,MMR,2011,668
+Mongolia,MNG,2014,5339
+Mongolia,MNG,2020,6288.6
+Mozambique,MOZ,2015,367
+Mauritius,MUS,2014,2057
+Mauritius,MUS,2022,4051.1
+Malawi,MWI,2003,372
+Niger,NER,2014,263
+Nicaragua,NIC,2010,4860
+Netherlands,NLD,2012,16639
+Norway,NOR,2003,17401
+Nepal,NPL,2011,208
+Nauru,NRU,2016,7130
+New Zealand,NZL,2016,5308
+Oman,OMN,2015,2293
+Oman,OMN,2022,1609.6
+Peru,PER,2011,3005
+Peru,PER,2015,1969
+Palau,PLW,2020,8606
+Papua New Guinea,PNG,2016,1264
+Poland,POL,2012,1515
+Portugal,PRT,2011,8439
+Pacific island small states,PSS,2016,1708.70029599183
+Qatar,QAT,2009,1891
+Russian Federation,RUS,2010,6622
+Russian Federation,RUS,2020,5439
+Rwanda,RWA,2010,512
+Rwanda,RWA,2016,970.1
+Saudi Arabia,SAU,2012,3447
+Senegal,SEN,2018,393.5
+Singapore,SGP,2019,5052
+Solomon Islands,SLB,2016,868
+Sierra Leone,SLE,2012,400
+Sierra Leone,SLE,2017,372
+El Salvador,SLV,2009,2797
+San Marino,SMR,2015,5145
+San Marino,SMR,2020,4233
+South Sudan,SSD,2014,262
+Slovak Republic,SVK,2012,8786
+Slovak Republic,SVK,2018,9787.4
+Slovenia,SVN,2010,7579
 Sweden,SWE,2014,15228
+Sweden,SWE,2017,17480
+Sweden,SWE,2022,14380
+Seychelles,SYC,2012,4268
+Syrian Arab Republic,SYR,2010,1617
+Chad,TCD,2012,52
+East Asia & Pacific (IDA & IBRD countries),TEA,2016,2639.89012591162
+Europe & Central Asia (IDA & IBRD countries),TEC,2016,5778.1810929622
 Tajikistan,TJK,2015,1691
+Tajikistan,TJK,2018,1879
+Turkmenistan,TKM,2015,2698
+Turkmenistan,TKM,2020,2613
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2016,9554.78509798687
 Timor-Leste,TLS,2016,433
 Tonga,TON,2016,5061
-Turkmenistan,TKM,2015,2698
+Tonga,TON,2020,2864
+Turkiye,TUR,2010,11911
 Tuvalu,TUV,2016,3417
-Uganda,UGA,2011,248
+Uganda,UGA,2011,241
+Uganda,UGA,2016,145
+Ukraine,UKR,2011,5337
+Ukraine,UKR,2019,5135
+Upper middle income,UMC,2016,4592.87429170416
+United States,USA,2007,12087
 Uzbekistan,UZB,2015,2584
+Uzbekistan,UZB,2019,2620
+St. Vincent and the Grenadines,VCT,2015,2509
 Vanuatu,VUT,2016,1277
-"Yemen, Rep.",YEM,2014,158
+Vanuatu,VUT,2020,860
+Samoa,WSM,2016,1552
+Kosovo,XKX,2014,1558
+Kosovo,XKX,2021,1698.2
+"Yemen, Rep.",YEM,2014,157
+Zambia,ZMB,2010,680

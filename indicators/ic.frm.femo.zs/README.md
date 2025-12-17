@@ -1,1 +1,1 @@
-Firms with female participation in ownership are the percentage of firms with a woman among the principal owners.
+Percentage of firms with females among the owners.
