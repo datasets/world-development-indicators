@@ -281,8 +281,9 @@ Example:
 ''')
         sys.exit(1)
 
-    indicator = sys.argv[1] 
-    processor = Processor(indicator)
+    indicator = sys.argv[1]
+    force = '--force' in sys.argv
+    processor = Processor(indicator, force)
     out = processor.execute()
     print('Indicator data package written to: %s' % out)
 

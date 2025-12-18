@@ -4,7 +4,7 @@
   "worldbank": {
     "indicator": "si.pov.urgp"
   },
-  "readme": "Urban poverty gap at national poverty lines is the urban populations mean shortfall from the poverty lines (counting the nonpoor as having zero shortfall) as a percentage of the poverty lines. This measure reflects the depth of poverty as well as its incidence.",
+  "readme": "Urban poverty gap at national poverty lines is the urban population's mean shortfall from the poverty lines (counting the nonpoor as having zero shortfall) as a percentage of the poverty lines. This measure reflects the depth of poverty as well as its incidence.",
   "licenses": [
     {
       "name": "CC-BY-4.0"
@@ -42,7 +42,7 @@
           {
             "name": "Value",
             "type": "number",
-            "description": "Urban poverty gap at national poverty lines is the urban populations mean shortfall from the poverty lines (counting the nonpoor as having zero shortfall) as a percentage of the poverty lines. This measure reflects the depth of poverty as well as its incidence."
+            "description": "Urban poverty gap at national poverty lines is the urban population's mean shortfall from the poverty lines (counting the nonpoor as having zero shortfall) as a percentage of the poverty lines. This measure reflects the depth of poverty as well as its incidence."
           }
         ]
       }

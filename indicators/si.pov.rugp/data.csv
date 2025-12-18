@@ -1,239 +1,450 @@
 Country Name,Country Code,Year,Value
-Afghanistan,AFG,2007,8.3
-Afghanistan,AFG,2011,9.3
-Albania,ALB,2002,6.6
-Albania,ALB,2005,5.3
-Albania,ALB,2008,2.6
-Albania,ALB,2012,3
-Algeria,DZA,2011,0.8
-Angola,AGO,2008,21.6
-Armenia,ARM,2008,4.7
-Armenia,ARM,2009,7.3
-Armenia,ARM,2010,4.6
-Armenia,ARM,2011,6.9
-Armenia,ARM,2012,5.1
-Armenia,ARM,2013,5.3
-Armenia,ARM,2014,4.5
-Bangladesh,BGD,2000,13.7
-Bangladesh,BGD,2005,9.8
-Bangladesh,BGD,2010,7.4
-Benin,BEN,2007,10.1
-Benin,BEN,2009,11.6
-Benin,BEN,2011,10.5
-Bhutan,BTN,2007,8.1
-Bhutan,BTN,2012,3.6
-Bolivia,BOL,2000,65.4
-Bolivia,BOL,2001,51
-Bolivia,BOL,2002,53.1
-Bolivia,BOL,2004,45.9
-Bolivia,BOL,2005,54.3
-Bolivia,BOL,2006,50.5
-Bolivia,BOL,2007,47.9
-Bolivia,BOL,2008,43.3
-Bolivia,BOL,2009,39.3
-Bolivia,BOL,2011,34.4
-Bolivia,BOL,2012,35.4
-Bolivia,BOL,2013,32.9
-Bolivia,BOL,2014,30.5
-Botswana,BWA,2002,18.4
-Burkina Faso,BFA,2003,25.4
-Burkina Faso,BFA,2009,17.5
-Burkina Faso,BFA,2014,11.6
-Burundi,BDI,2014,26.9
-Cabo Verde,CPV,2007,14.3
-Cameroon,CMR,1996,41.3
-Cameroon,CMR,2001,17.3
-Cameroon,CMR,2007,17.5
-Cameroon,CMR,2014,22.9
-Central African Republic,CAF,2008,35
-Chad,TCD,2002,23.1
-Chad,TCD,2011,22.6
-Colombia,COL,2010,21.6
-Colombia,COL,2011,19.2
-Colombia,COL,2012,19.5
-Colombia,COL,2013,17.3
-Colombia,COL,2014,16.6
-Colombia,COL,2015,15.7
-Comoros,COM,2004,17.8
-"Congo, Rep.",COG,2004,25.7
-"Congo, Rep.",COG,2011,31.9
-Costa Rica,CRI,2010,11.3
-Costa Rica,CRI,2011,11.3
-Costa Rica,CRI,2012,11.3
-Costa Rica,CRI,2013,11.9
-Costa Rica,CRI,2014,12.3
-Costa Rica,CRI,2015,11.9
-Cote d'Ivoire,CIV,2002,17.1
-Cote d'Ivoire,CIV,2008,24.5
-Cote d'Ivoire,CIV,2015,21.5
-Ecuador,ECU,2007,29.1
-Ecuador,ECU,2008,27.5
-Ecuador,ECU,2009,25.5
-Ecuador,ECU,2010,22.5
-Ecuador,ECU,2011,21.2
-Ecuador,ECU,2012,20.8
-Ecuador,ECU,2013,16.4
-Ecuador,ECU,2014,13.6
-Equatorial Guinea,GNQ,2006,49.8
-Ethiopia,ETH,1995,13.4
-Ethiopia,ETH,1999,12.2
-Ethiopia,ETH,2004,8.5
-Ethiopia,ETH,2010,8
-Fiji,FJI,2002,14
-Fiji,FJI,2008,12.8
-Gabon,GAB,2005,16
-Ghana,GHA,2005,15.4
-Ghana,GHA,2012,13.1
-Guinea,GIN,1994,39.1
-Guinea,GIN,2002,21.9
-Guinea,GIN,2007,22
-Guinea,GIN,2012,22.6
-Guinea-Bissau,GNB,2002,27.8
-Honduras,HND,2001,58.1
-Honduras,HND,2002,58
-Honduras,HND,2003,58.3
-Honduras,HND,2004,59.3
-Honduras,HND,2005,60.4
-Honduras,HND,2006,58.2
-Honduras,HND,2007,51.9
-Honduras,HND,2008,49
-Honduras,HND,2009,51.2
-Honduras,HND,2010,52.3
-Honduras,HND,2011,53.1
-Honduras,HND,2012,54.9
-Honduras,HND,2013,52.6
-Honduras,HND,2014,51.1
-India,IND,2004,9.2
-India,IND,2009,6.8
-India,IND,2011,4.6
-Indonesia,IDN,2003,3.6
-Indonesia,IDN,2004,3.6
-Indonesia,IDN,2005,3.7
-Indonesia,IDN,2006,4.6
-Indonesia,IDN,2007,6.5
-Indonesia,IDN,2008,3.4
-Indonesia,IDN,2009,3.1
-Indonesia,IDN,2010,2.8
-Indonesia,IDN,2011,2.6
-Indonesia,IDN,2012,2.4
-Indonesia,IDN,2013,2.2
-Indonesia,IDN,2014,2.3
-Iraq,IRQ,2006,9.5
-Iraq,IRQ,2012,7.6
-Kenya,KEN,2005,17.5
-Kyrgyz Republic,KGZ,2008,9.2
-Kyrgyz Republic,KGZ,2009,7.2
-Kyrgyz Republic,KGZ,2010,8.7
-Kyrgyz Republic,KGZ,2011,8.1
-Kyrgyz Republic,KGZ,2012,7.9
-Lao PDR,LAO,1997,11.4
-Lao PDR,LAO,2002,9.2
-Lao PDR,LAO,2007,7.7
-Lao PDR,LAO,2012,6.8
-Lesotho,LSO,2002,31.7
-Lesotho,LSO,2010,32.2
-Liberia,LBR,2007,26.3
-Madagascar,MDG,2001,40.9
-Malawi,MWI,1997,23.9
-Malawi,MWI,2004,19.2
-Malawi,MWI,2010,21.4
-Malaysia,MYS,2004,2.9
-Malaysia,MYS,2007,1.6
-Malaysia,MYS,2009,1.8
-Maldives,MDV,2002,6.8
-Maldives,MDV,2009,3.5
-Mali,MLI,2001,25.6
-Mali,MLI,2006,20.4
-Mali,MLI,2009,15.6
-Mauritania,MRT,2000,27
-Mauritania,MRT,2004,20.6
-Mauritania,MRT,2008,22.3
-Moldova,MDA,2006,8.8
-Moldova,MDA,2007,7.6
-Moldova,MDA,2008,8.7
-Moldova,MDA,2009,8.2
-Moldova,MDA,2010,6.5
-Moldova,MDA,2011,4.8
-Moldova,MDA,2012,4.1
-Mongolia,MNG,2010,15.2
-Mongolia,MNG,2011,11.8
-Mongolia,MNG,2012,8.8
-Mongolia,MNG,2014,5.8
-Montenegro,MNE,2005,3.2
-Montenegro,MNE,2006,2.9
-Montenegro,MNE,2007,1.8
-Montenegro,MNE,2008,1.4
-Montenegro,MNE,2009,3.5
-Montenegro,MNE,2010,1.7
-Montenegro,MNE,2011,3.8
-Montenegro,MNE,2012,3.1
-Montenegro,MNE,2013,1.5
-Morocco,MAR,1998,6
-Morocco,MAR,2000,6
-Morocco,MAR,2007,3.3
-Mozambique,MOZ,1996,29.9
-Mozambique,MOZ,2002,20.9
-Mozambique,MOZ,2008,22.2
-Namibia,NAM,1993,45.8
-Namibia,NAM,2003,16.5
-Namibia,NAM,2009,11.6
-Nepal,NPL,2010,6
-Niger,NER,2011,15.3
-Nigeria,NGA,2003,22
-Nigeria,NGA,2009,20.1
-Pakistan,PAK,2013,7.17
-Papua New Guinea,PNG,2009,16.4
-Peru,PER,2007,30.4
-Peru,PER,2008,26.9
-Peru,PER,2009,24.9
-Peru,PER,2010,21.3
-Peru,PER,2011,18.7
-Peru,PER,2012,17.3
-Peru,PER,2013,14.8
-Peru,PER,2014,13.7
-Senegal,SEN,2000,21.2
-Senegal,SEN,2005,20.2
-Senegal,SEN,2010,18.6
-Seychelles,SYC,2006,12.3
-Sierra Leone,SLE,2003,33.8
-Sierra Leone,SLE,2011,21.1
-South Africa,ZAF,2005,52.6
-South Sudan,SSD,2009,26.5
-Sri Lanka,LKA,2002,5.6
-Sri Lanka,LKA,2006,3.2
-Sri Lanka,LKA,2009,1.8
-Sri Lanka,LKA,2012,1.4
-Sudan,SDN,2009,21.3
-Swaziland,SWZ,2000,38.8
-Swaziland,SWZ,2009,36.9
-Syrian Arab Republic,SYR,2004,7.8
-Syrian Arab Republic,SYR,2007,8.3
-Tanzania,TZA,2011,7.8
+Afghanistan,AFG,2005,78.3
+Afghanistan,AFG,2007,273.9
+Afghanistan,AFG,2008,182.6
+Afghanistan,AFG,2011,362.7
+Angola,AGO,2008,1080
+Albania,ALB,2002,429
+Albania,ALB,2005,344.5
+Albania,ALB,2008,161.2
+Albania,ALB,2012,144
+Armenia,ARM,1999,36.3
+Armenia,ARM,2001,36.3
+Armenia,ARM,2008,277.3
+Armenia,ARM,2009,430.7
+Armenia,ARM,2010,220.8
+Armenia,ARM,2011,331.2
+Armenia,ARM,2012,244.8
+Armenia,ARM,2013,227.9
+Armenia,ARM,2014,148.777
+Burundi,BDI,1998,413.1
+Burundi,BDI,2006,701.8
+Burundi,BDI,2014,887.7
+Benin,BEN,1999,112.74
+Benin,BEN,2003,168
+Benin,BEN,2007,535.3
+Benin,BEN,2009,417.6
+Benin,BEN,2010,150.8
+Benin,BEN,2011,514.5
+Burkina Faso,BFA,1994,144.9
+Burkina Faso,BFA,1998,141.3
+Burkina Faso,BFA,2003,1520.5
+Burkina Faso,BFA,2009,1014.1
+Burkina Faso,BFA,2014,382.8
+Bangladesh,BGD,2000,890.8
+Bangladesh,BGD,2005,637
+Bangladesh,BGD,2010,435.45
+Bosnia and Herzegovina,BIH,2001,14.7
+Bosnia and Herzegovina,BIH,2002,14.7
+Bolivia,BOL,1996,58.82296
+Bolivia,BOL,1997,49.39636
+Bolivia,BOL,1999,474.96128
+Bolivia,BOL,2000,2027.31572
+Bolivia,BOL,2001,1580.60416
+Bolivia,BOL,2002,1776.13496
+Bolivia,BOL,2004,1652.63266
+Bolivia,BOL,2005,2067.89988
+Bolivia,BOL,2006,1919.40718
+Bolivia,BOL,2007,1820.20372
+Bolivia,BOL,2008,1645.47676
+Bolivia,BOL,2009,1493.71472
+Bolivia,BOL,2011,1238.1
+Bolivia,BOL,2012,1274.28
+Bolivia,BOL,2013,1184.28
+Bolivia,BOL,2014,1037.08
+Brazil,BRA,2003,85.1999999999998
+Bhutan,BTN,2003,94.5
+Bhutan,BTN,2007,502.2
+Bhutan,BTN,2012,180
+Botswana,BWA,2002,680.8
+Botswana,BWA,2003,460
+Central African Republic,CAF,1992,382.5
+Central African Republic,CAF,2008,2170
+Cote d'Ivoire,CIV,1985,93.6
+Cote d'Ivoire,CIV,1993,436.8
+Cote d'Ivoire,CIV,1998,371.8
+Cote d'Ivoire,CIV,2002,954.3
+Cote d'Ivoire,CIV,2008,1336.3
+Cote d'Ivoire,CIV,2015,752.5
+Cameroon,CMR,1996,2065
+Cameroon,CMR,2001,1072.6
+Cameroon,CMR,2007,1085
+Cameroon,CMR,2014,755.7
+"Congo, Dem. Rep.",COD,2005,593.3
+"Congo, Dem. Rep.",COD,2006,279.2
+"Congo, Dem. Rep.",COD,2012,501.6
+Congo,COG,2004,822.4
+Congo,COG,2005,372
+Congo,COG,2011,1180.3
+Colombia,COL,1999,132
+Colombia,COL,2010,777.6
+Colombia,COL,2011,921.6
+Colombia,COL,2012,936
+Colombia,COL,2013,622.8
+Colombia,COL,2014,597.6
+Colombia,COL,2015,533.8
+Comoros,COM,2004,979
+Cape Verde,CPV,2002,180
+Cape Verde,CPV,2007,886.6
+Costa Rica,CRI,2004,32.4
+Costa Rica,CRI,2010,361.6
+Costa Rica,CRI,2011,406.8
+Costa Rica,CRI,2012,406.8
+Costa Rica,CRI,2013,428.4
+Costa Rica,CRI,2014,442.8
+Costa Rica,CRI,2015,416.5
+Dominican Republic,DOM,2004,72
+Algeria,DZA,1995,54
+Algeria,DZA,2011,24
+Ecuador,ECU,1998,87
+Ecuador,ECU,2007,1047.66
+Ecuador,ECU,2008,990.18
+Ecuador,ECU,2009,918.18
+Ecuador,ECU,2010,809.94
+Ecuador,ECU,2011,763.2
+Ecuador,ECU,2012,748.8
+Ecuador,ECU,2013,590.28
+Ecuador,ECU,2014,489.84
+Estonia,EST,1995,39.6
+Ethiopia,ETH,1995,830.799999999999
+Ethiopia,ETH,1999,671
+Ethiopia,ETH,2000,121.4
+Ethiopia,ETH,2004,467.5
+Ethiopia,ETH,2005,59.5
+Ethiopia,ETH,2010,320
+Ethiopia,ETH,2011,104
+Fiji,FJI,2002,560
+Fiji,FJI,2003,126
+Fiji,FJI,2008,512
+Fiji,FJI,2009,307.6
+Gabon,GAB,2005,992
+Georgia,GEO,2007,361.2
+Georgia,GEO,2008,198.8
+Georgia,GEO,2009,182
+Georgia,GEO,2010,229.6
+Georgia,GEO,2011,207.2
+Georgia,GEO,2012,159.6
+Ghana,GHA,1992,432
+Ghana,GHA,1998,327.6
+Ghana,GHA,2005,616
+Ghana,GHA,2006,345.1
+Ghana,GHA,2012,576.4
+Guinea,GIN,1994,2385.1
+Guinea,GIN,2002,1051.2
+Guinea,GIN,2003,284.7
+Guinea,GIN,2007,1364
+Guinea,GIN,2012,1175.2
+"Gambia, The",GMB,2003,274.5
+Guinea-Bissau,GNB,1994,4.2
+Guinea-Bissau,GNB,2002,1717.7
+Guinea-Bissau,GNB,2012,22.6
+Equatorial Guinea,GNQ,2006,2938.2
+Honduras,HND,2001,1684.9
+Honduras,HND,2002,1682
+Honduras,HND,2003,1690.7
+Honduras,HND,2004,1823.2
+Honduras,HND,2005,1751.6
+Honduras,HND,2006,1687.8
+Honduras,HND,2007,1505.1
+Honduras,HND,2008,1421
+Honduras,HND,2009,1484.8
+Honduras,HND,2010,1516.7
+Honduras,HND,2011,1539.9
+Honduras,HND,2012,1592.1
+Honduras,HND,2013,1525.4
+Honduras,HND,2014,1481.9
+Hungary,HUN,1997,12.3
+Indonesia,IDN,2003,198
+Indonesia,IDN,2004,198
+Indonesia,IDN,2005,203.5
+Indonesia,IDN,2006,253
+Indonesia,IDN,2007,357.5
+Indonesia,IDN,2008,187
+Indonesia,IDN,2009,170.5
+Indonesia,IDN,2010,154
+Indonesia,IDN,2011,132.6
+Indonesia,IDN,2012,108
+Indonesia,IDN,2013,90.2
+Indonesia,IDN,2014,82.8
+India,IND,2000,16.8
+India,IND,2004,368
+India,IND,2005,165.6
+India,IND,2009,272
+India,IND,2010,122.4
+India,IND,2011,184
+India,IND,2012,41.42
+Iraq,IRQ,2006,351.5
+Iraq,IRQ,2007,229.7
+Iraq,IRQ,2012,364.4
+Jordan,JOR,2002,14.1
+Kazakhstan,KAZ,2002,27
+Kenya,KEN,1994,162
+Kenya,KEN,1997,173.7
+Kenya,KEN,2005,1085
+Kenya,KEN,2006,42.3
+Kyrgyz Republic,KGZ,2003,54
+Kyrgyz Republic,KGZ,2005,72
+Kyrgyz Republic,KGZ,2008,423.2
+Kyrgyz Republic,KGZ,2009,331.2
+Kyrgyz Republic,KGZ,2010,400.2
+Kyrgyz Republic,KGZ,2011,372.6
+Kyrgyz Republic,KGZ,2012,363.4
+Cambodia,KHM,2004,131.2
+Cambodia,KHM,2007,116.23
+Kosovo,XKX,2009,9.5
+Kosovo,XKX,2010,7.5
+Kosovo,XKX,2011,7.8
+Lao PDR,LAO,1992,167.7
+Lao PDR,LAO,1997,558.6
+Lao PDR,LAO,2002,450.8
+Lao PDR,LAO,2007,331.1
+Lao PDR,LAO,2008,46.2
+Lao PDR,LAO,2012,292.4
+Liberia,LBR,2007,1630.6
+Sri Lanka,LKA,2002,364
+Sri Lanka,LKA,2006,128
+Sri Lanka,LKA,2007,70.4
+Sri Lanka,LKA,2009,72
+Sri Lanka,LKA,2010,34.2
+Sri Lanka,LKA,2012,50.4
+Lesotho,LSO,1993,238.5
+Lesotho,LSO,2002,1141.2
+Lesotho,LSO,2003,95.1
+Lesotho,LSO,2010,1255.8
+Morocco,MAR,1998,240
+Morocco,MAR,1999,56.1
+Morocco,MAR,2000,222
+Morocco,MAR,2001,54
+Morocco,MAR,2007,151.8
+Moldova,MDA,2006,519.2
+Moldova,MDA,2007,448.4
+Moldova,MDA,2008,513.3
+Moldova,MDA,2009,483.8
+Moldova,MDA,2010,383.5
+Moldova,MDA,2011,230.4
+Moldova,MDA,2012,196.8
+Madagascar,MDG,1993,397.2
+Madagascar,MDG,1997,416.4
+Madagascar,MDG,1999,365.1
+Madagascar,MDG,2001,2262.2
+Madagascar,MDG,2002,636
+Madagascar,MDG,2004,417.6
+Madagascar,MDG,2005,1483.5
+Madagascar,MDG,2010,1125
+Maldives,MDV,2002,183.6
+Maldives,MDV,2009,94.5
+Mexico,MEX,2002,36.45
+North Macedonia,MKD,2002,84
+North Macedonia,MKD,2003,90.9
+North Macedonia,MKD,2004,93.8
+North Macedonia,MKD,2005,84
+North Macedonia,MKD,2006,107.8
+Mali,MLI,2001,1075.2
+Mali,MLI,2006,856.799999999999
+Mali,MLI,2009,390
+Mali,MLI,2010,265.2
+Myanmar,MMR,2005,21
+Montenegro,MNE,2005,140.8
+Montenegro,MNE,2006,159.5
+Montenegro,MNE,2007,98.9999999999999
+Montenegro,MNE,2008,77
+Montenegro,MNE,2009,182
+Montenegro,MNE,2010,88.4
+Montenegro,MNE,2011,171
+Montenegro,MNE,2012,127.1
+Montenegro,MNE,2013,40.5
+Mongolia,MNG,2002,283.5
+Mongolia,MNG,2008,120.6
+Mongolia,MNG,2010,547.2
+Mongolia,MNG,2011,424.8
+Mongolia,MNG,2012,316.8
+Mongolia,MNG,2014,208.8
+Mozambique,MOZ,1996,1853.8
+Mozambique,MOZ,2002,877.8
+Mozambique,MOZ,2003,477.7
+Mozambique,MOZ,2008,1043.4
+Mozambique,MOZ,2009,333
+Mauritania,MRT,2000,1633.4
+Mauritania,MRT,2004,1215.4
+Mauritania,MRT,2008,1315.7
+Malawi,MWI,1997,956
+Malawi,MWI,1998,525.8
+Malawi,MWI,2004,1095
+Malawi,MWI,2005,25.8
+Malawi,MWI,2010,1134.2
+Malaysia,MYS,2004,179.8
+Malaysia,MYS,2007,99.2
+Malaysia,MYS,2009,111.6
+Namibia,NAM,1993,1750.8
+Namibia,NAM,1994,970.8
+Namibia,NAM,2003,658.5
+Namibia,NAM,2004,359.5
+Namibia,NAM,2009,603.2
+Niger,NER,1992,157.5
+Niger,NER,1993,45
+Niger,NER,2005,233.1
+Niger,NER,2007,466.4
+Niger,NER,2011,612
+Nigeria,NGA,1992,144.9
+Nigeria,NGA,2003,814
+Nigeria,NGA,2004,617.4
+Nigeria,NGA,2009,743.7
+Nigeria,NGA,2010,321.9
+Nicaragua,NIC,2001,77.6999999999998
+Nepal,NPL,1996,157.3
+Nepal,NPL,2003,17
+Nepal,NPL,2004,119
+Nepal,NPL,2010,306
+Nepal,NPL,2011,48
+Pakistan,PAK,1999,23.7
+Pakistan,PAK,2013,236.94
+Panama,PAN,1997,96.3
+Peru,PER,2004,84.9
+Peru,PER,2007,1611.2
+Peru,PER,2008,1425.7
+Peru,PER,2009,1319.7
+Peru,PER,2010,1128.9
+Peru,PER,2011,991.1
+Peru,PER,2012,847.7
+Peru,PER,2013,532.8
+Peru,PER,2014,493.2
+Philippines,PHL,1994,152
+Philippines,PHL,1997,182
+Papua New Guinea,PNG,1996,400.2
+Papua New Guinea,PNG,2009,803.6
+Paraguay,PRY,1990,31.5
+Paraguay,PRY,2005,45.6
+Paraguay,PRY,2006,820.3
+Paraguay,PRY,2007,1485.1
+Paraguay,PRY,2008,1383.9
+Paraguay,PRY,2009,1424.4
+Paraguay,PRY,2010,1490.8
+Paraguay,PRY,2011,1465.2
+Paraguay,PRY,2012,1154.4
+Paraguay,PRY,2013,1018.4
+Paraguay,PRY,2014,635.2
+West Bank and Gaza,PSE,2005,227.5
+West Bank and Gaza,PSE,2006,187.5
+West Bank and Gaza,PSE,2009,162.5
+West Bank and Gaza,PSE,2010,229.5
+West Bank and Gaza,PSE,2011,171
+Romania,ROU,2003,163.2
+Romania,ROU,2004,113.9
+Romania,ROU,2005,96.9
+Romania,ROU,2006,84.8
+Russia,RUS,2002,121.8
+Russia,RUS,2003,117.6
+Russia,RUS,2004,99.4
+Russia,RUS,2005,85.4
+Russia,RUS,2006,77
+Rwanda,RWA,2005,182
+Rwanda,RWA,2006,156
+Sudan,SDN,2009,1256.7
+Senegal,SEN,1992,49.1999999999998
+Senegal,SEN,1994,227.7
+Senegal,SEN,2000,763.2
+Senegal,SEN,2001,553
+Senegal,SEN,2005,1264.1
+Senegal,SEN,2010,669.6
+Senegal,SEN,2011,316.2
+Sierra Leone,SLE,1990,657.9
+Sierra Leone,SLE,2003,2105.2
+Sierra Leone,SLE,2004,102
+Sierra Leone,SLE,2011,1055
+El Salvador,SLV,2002,72.5999999999998
+Serbia,SRB,2002,58.8
+Serbia,SRB,2004,67.2
+Serbia,SRB,2006,43.4
+Serbia,SRB,2007,28
+South Sudan,SSD,2009,1563.5
+Sao Tome and Principe,STP,2001,222.3
+Sao Tome and Principe,STP,2009,617.7
+Swaziland,SWZ,2000,1552
+Swaziland,SWZ,2001,837.4
+Swaziland,SWZ,2009,1918.8
+Swaziland,SWZ,2010,36.9
+Seychelles,SYC,2006,393.6
+Syrian Arab Republic,SYR,2004,358.8
+Syrian Arab Republic,SYR,2007,381.8
+Chad,TCD,1995,236.7
+Chad,TCD,1996,78.9
+Chad,TCD,2002,924
+Chad,TCD,2003,510.6
+Chad,TCD,2011,1130
+Togo,TGO,2006,1885.5
+Togo,TGO,2011,1754.3
+Togo,TGO,2015,963.6
+Tajikistan,TJK,2003,74.4
+Timor-Leste,TLS,2001,591.6
+Timor-Leste,TLS,2007,743.7
+Timor-Leste,TLS,2014,183
 Timor-Leste,TLS,2001,11.6
-Timor-Leste,TLS,2007,15.5
-Timor-Leste,TLS,2014,12.2
-Togo,TGO,2006,30.6
-Togo,TGO,2011,33.1
-Togo,TGO,2015,29.2
-Uganda,UGA,1992,22.6
-Uganda,UGA,1996,15.2
-Uganda,UGA,1999,11.2
-Uganda,UGA,2002,13.1
-Uganda,UGA,2005,9.7
-Uganda,UGA,2009,7.6
-Uganda,UGA,2012,5.9
-Uruguay,URY,2006,4.4
-Uruguay,URY,2007,3
-Uruguay,URY,2008,2.4
-Uruguay,URY,2009,1.5
-Uruguay,URY,2010,1.2
-Uruguay,URY,2011,1
-Uruguay,URY,2012,0.7
-Uruguay,URY,2013,0.5
-Uruguay,URY,2014,0.6
-Vietnam,VNM,2010,7.8
-Vietnam,VNM,2012,5.9
+Timor-Leste,TLS,2007,14.2
+Trinidad and Tobago,TTO,1992,18.6
+Tunisia,TUN,1990,9.75
+Tanzania,TZA,1992,114.3
+Tanzania,TZA,2000,138
+Tanzania,TZA,2007,143
+Tanzania,TZA,2011,288.6
+Tanzania,TZA,2012,93.6
+Uganda,UGA,1992,1401.2
+Uganda,UGA,1996,912
+Uganda,UGA,1997,30.4
+Uganda,UGA,1999,492.8
+Uganda,UGA,2000,201.6
+Uganda,UGA,2002,812.200000000001
+Uganda,UGA,2003,37.8
+Uganda,UGA,2005,601.4
+Uganda,UGA,2006,29.1
+Uganda,UGA,2009,471.2
+Uganda,UGA,2012,236
+Ukraine,UKR,2002,110.5
+Ukraine,UKR,2003,93.9
+Ukraine,UKR,2004,70.8
+Ukraine,UKR,2005,40.7
+Ukraine,UKR,2006,23.4
+Ukraine,UKR,2007,16.9
+Ukraine,UKR,2008,9.1
+Uruguay,URY,2006,168.4
+Uruguay,URY,2007,113.6
+Uruguay,URY,2008,90.4
+Uruguay,URY,2009,57.2
+Uruguay,URY,2010,45.8
+Uruguay,URY,2011,38
+Uruguay,URY,2012,25.2
+Uruguay,URY,2013,18
+Uruguay,URY,2014,21.6
+Vietnam,VNM,1993,193.5
+Vietnam,VNM,1998,104.4
+Vietnam,VNM,2002,104.4
+Vietnam,VNM,2004,54.9
+Vietnam,VNM,2006,44.1
+Vietnam,VNM,2008,41.4
+Vietnam,VNM,2010,374.4
+Vietnam,VNM,2012,283.2
+West Bank and Gaza,PSE,2005,9.1
+West Bank and Gaza,PSE,2006,7.5
+West Bank and Gaza,PSE,2009,6.5
 West Bank and Gaza,PSE,2010,5.1
 West Bank and Gaza,PSE,2011,3.8
-"Yemen, Rep.",YEM,2005,10.6
-Zimbabwe,ZWE,2011,42.8
+Kosovo,XKX,2006,42.9
+Kosovo,XKX,2009,256.5
+Kosovo,XKX,2010,210
+Kosovo,XKX,2011,218.4
+Yemen,YEM,1998,384.7
+Yemen,YEM,2005,657.200000000001
+South Africa,ZAF,2005,1946.2
+South Africa,ZAF,2006,325.4
+South Africa,ZAF,2011,127.2
+"Congo, Dem. Rep.",COD,2012,26.4
+Zambia,ZMB,1991,627.3
+Zambia,ZMB,1993,587.7
+Zambia,ZMB,1996,406.8
+Zambia,ZMB,1998,400.5
+Zambia,ZMB,2002,62.6
+Zambia,ZMB,2003,219.1
+Zambia,ZMB,2004,490.2
+Zambia,ZMB,2006,349.2
+Zambia,ZMB,2010,1250.7
+Zimbabwe,ZWE,2001,260.4
+Zimbabwe,ZWE,2011,1669.2
