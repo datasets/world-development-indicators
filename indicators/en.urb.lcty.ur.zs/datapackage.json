@@ -4,7 +4,7 @@
   "worldbank": {
     "indicator": "en.urb.lcty.ur.zs"
   },
-  "readme": "Population in largest city is the percentage of a countrys urban population living in that countrys largest metropolitan area.",
+  "readme": "Population in largest city is the percentage of a country's urban population living in that country's largest metropolitan area.",
   "licenses": [
     {
       "name": "CC-BY-4.0"
@@ -41,7 +41,7 @@
           {
             "name": "Value",
             "type": "number",
-            "description": "Population in largest city is the percentage of a countrys urban population living in that countrys largest metropolitan area."
+            "description": "Population in largest city is the percentage of a country's urban population living in that country's largest metropolitan area."
           }
         ]
       }

@@ -1,1 +1,1 @@
-Population in urban agglomerations of more than one million is the percentage of a countrys population living in metropolitan areas that in 2000 had a population of more than one million people.
+Population in urban agglomerations of more than one million is the percentage of a country's population living in metropolitan areas that in 2018 had a population of more than one million people.

@@ -1,4 +1,37 @@
 Country Name,Country Code,Year,Value
+Africa Eastern and Southern,AFE,1993,755
+Africa Eastern and Southern,AFE,1994,753
+Africa Eastern and Southern,AFE,1995,789
+Africa Eastern and Southern,AFE,1996,783
+Africa Eastern and Southern,AFE,1997,801
+Africa Eastern and Southern,AFE,1998,849
+Africa Eastern and Southern,AFE,1999,805
+Africa Eastern and Southern,AFE,2000,737
+Africa Eastern and Southern,AFE,2001,629
+Africa Eastern and Southern,AFE,2004,472
+Africa Western and Central,AFW,1994,224
+Africa Western and Central,AFW,1995,231
+Africa Western and Central,AFW,1996,235
+Africa Western and Central,AFW,1997,203
+Africa Western and Central,AFW,1998,242
+Africa Western and Central,AFW,2006,270
+Africa Western and Central,AFW,2007,278
+Africa Western and Central,AFW,2008,281
+Africa Western and Central,AFW,2009,283
+Africa Western and Central,AFW,2010,285
+Africa Western and Central,AFW,2011,264
+Africa Western and Central,AFW,2012,255
+Africa Western and Central,AFW,2013,254
+Africa Western and Central,AFW,2014,226
+Africa Western and Central,AFW,2015,222
+Africa Western and Central,AFW,2019,259
+Africa Western and Central,AFW,2020,254
+Africa Western and Central,AFW,2021,204
+Africa Western and Central,AFW,2022,203
+Arab World,ARB,2003,1506
+Arab World,ARB,2004,1598
+Arab World,ARB,2005,1637
+Arab World,ARB,2006,1539
 Arab World,ARB,2008,1249
 Arab World,ARB,2009,1207
 Arab World,ARB,2010,1133
@@ -9,955 +42,35 @@ Arab World,ARB,2014,1184
 Arab World,ARB,2015,1188
 Arab World,ARB,2016,1187
 Arab World,ARB,2017,1172
-Caribbean small states,CSS,2017,88
-Central Europe and the Baltics,CEB,1993,88
-Central Europe and the Baltics,CEB,1994,191
-Central Europe and the Baltics,CEB,1995,291
-Central Europe and the Baltics,CEB,1996,382
-Central Europe and the Baltics,CEB,1997,572
-Central Europe and the Baltics,CEB,1998,789
-Central Europe and the Baltics,CEB,1999,849
-Central Europe and the Baltics,CEB,2000,827
-Central Europe and the Baltics,CEB,2001,1144
-Central Europe and the Baltics,CEB,2002,1040
-Central Europe and the Baltics,CEB,2003,1073
-Central Europe and the Baltics,CEB,2004,992
-Central Europe and the Baltics,CEB,2005,991
-Central Europe and the Baltics,CEB,2006,1178
-Central Europe and the Baltics,CEB,2007,1433
-Central Europe and the Baltics,CEB,2008,1522
-Central Europe and the Baltics,CEB,2009,1448
-Central Europe and the Baltics,CEB,2010,1499
-Central Europe and the Baltics,CEB,2011,1740
-Central Europe and the Baltics,CEB,2012,1717
-Central Europe and the Baltics,CEB,2013,1710
-Central Europe and the Baltics,CEB,2014,1258
-Central Europe and the Baltics,CEB,2015,1246
-Central Europe and the Baltics,CEB,2016,1186
-Central Europe and the Baltics,CEB,2017,1178
-Early-demographic dividend,EAR,1991,4596
-Early-demographic dividend,EAR,1992,4893
-Early-demographic dividend,EAR,1993,6858
-Early-demographic dividend,EAR,1994,8267
-Early-demographic dividend,EAR,1995,9636
-Early-demographic dividend,EAR,1996,10487
-Early-demographic dividend,EAR,1997,11153
-Early-demographic dividend,EAR,1998,11260
-Early-demographic dividend,EAR,1999,11502
-Early-demographic dividend,EAR,2000,11473
-Early-demographic dividend,EAR,2001,11016
-Early-demographic dividend,EAR,2002,10581
-Early-demographic dividend,EAR,2003,10327
-Early-demographic dividend,EAR,2004,9435
-Early-demographic dividend,EAR,2005,9444
-Early-demographic dividend,EAR,2006,9306
-Early-demographic dividend,EAR,2007,9408
-Early-demographic dividend,EAR,2008,9446
-Early-demographic dividend,EAR,2009,9386
-Early-demographic dividend,EAR,2010,9421
-Early-demographic dividend,EAR,2011,9679
-Early-demographic dividend,EAR,2012,9638
-Early-demographic dividend,EAR,2013,9706
-Early-demographic dividend,EAR,2014,9729
-Early-demographic dividend,EAR,2015,9854
-Early-demographic dividend,EAR,2016,9844
-Early-demographic dividend,EAR,2017,9661
-East Asia & Pacific,EAS,1975,2853
-East Asia & Pacific,EAS,1976,2764
-East Asia & Pacific,EAS,1977,2722
-East Asia & Pacific,EAS,1978,2635
-East Asia & Pacific,EAS,1979,2992
-East Asia & Pacific,EAS,1980,3356
-East Asia & Pacific,EAS,1981,3218
-East Asia & Pacific,EAS,1982,3202
-East Asia & Pacific,EAS,1983,3248
-East Asia & Pacific,EAS,1984,3605
-East Asia & Pacific,EAS,1985,4013
-East Asia & Pacific,EAS,1986,4197
-East Asia & Pacific,EAS,1987,4667
-East Asia & Pacific,EAS,1988,4804
-East Asia & Pacific,EAS,1989,4931
-East Asia & Pacific,EAS,1990,4906
-East Asia & Pacific,EAS,1991,5042
-East Asia & Pacific,EAS,1992,5323
-East Asia & Pacific,EAS,1993,5602
-East Asia & Pacific,EAS,1994,7450
-East Asia & Pacific,EAS,1995,6518
-East Asia & Pacific,EAS,1996,7063
-East Asia & Pacific,EAS,1997,7628
-East Asia & Pacific,EAS,1998,7772
-East Asia & Pacific,EAS,1999,7945
-East Asia & Pacific,EAS,2000,9175
-East Asia & Pacific,EAS,2001,9625
-East Asia & Pacific,EAS,2002,10495
-East Asia & Pacific,EAS,2003,11074
-East Asia & Pacific,EAS,2004,11667
-East Asia & Pacific,EAS,2005,12095
-East Asia & Pacific,EAS,2006,12378
-East Asia & Pacific,EAS,2007,12828
-East Asia & Pacific,EAS,2008,13111
-East Asia & Pacific,EAS,2009,13207
-East Asia & Pacific,EAS,2010,13784
-East Asia & Pacific,EAS,2011,14323
-East Asia & Pacific,EAS,2012,14479
-East Asia & Pacific,EAS,2013,15798
-East Asia & Pacific,EAS,2014,16242
-East Asia & Pacific,EAS,2015,16824
-East Asia & Pacific,EAS,2016,17325
-East Asia & Pacific,EAS,2017,18148
-East Asia & Pacific (excluding high income),EAP,1995,1704
-East Asia & Pacific (excluding high income),EAP,1996,2061
-East Asia & Pacific (excluding high income),EAP,1997,2432
-East Asia & Pacific (excluding high income),EAP,1998,2563
-East Asia & Pacific (excluding high income),EAP,1999,2590
-East Asia & Pacific (excluding high income),EAP,2000,2776
-East Asia & Pacific (excluding high income),EAP,2001,2894
-East Asia & Pacific (excluding high income),EAP,2002,3049
-East Asia & Pacific (excluding high income),EAP,2003,3177
-East Asia & Pacific (excluding high income),EAP,2004,3364
-East Asia & Pacific (excluding high income),EAP,2005,3476
-East Asia & Pacific (excluding high income),EAP,2006,3551
-East Asia & Pacific (excluding high income),EAP,2007,3670
-East Asia & Pacific (excluding high income),EAP,2008,3914
-East Asia & Pacific (excluding high income),EAP,2009,4030
-East Asia & Pacific (excluding high income),EAP,2010,4500
-East Asia & Pacific (excluding high income),EAP,2011,4816
-East Asia & Pacific (excluding high income),EAP,2012,4983
-East Asia & Pacific (excluding high income),EAP,2013,5022
-East Asia & Pacific (excluding high income),EAP,2014,5198
-East Asia & Pacific (excluding high income),EAP,2015,5454
-East Asia & Pacific (excluding high income),EAP,2016,5726
-East Asia & Pacific (excluding high income),EAP,2017,6241
-East Asia & Pacific (IDA & IBRD countries),TEA,1995,1704
-East Asia & Pacific (IDA & IBRD countries),TEA,1996,2061
-East Asia & Pacific (IDA & IBRD countries),TEA,1997,2432
-East Asia & Pacific (IDA & IBRD countries),TEA,1998,2563
-East Asia & Pacific (IDA & IBRD countries),TEA,1999,2590
-East Asia & Pacific (IDA & IBRD countries),TEA,2000,2776
-East Asia & Pacific (IDA & IBRD countries),TEA,2001,2894
-East Asia & Pacific (IDA & IBRD countries),TEA,2002,3049
-East Asia & Pacific (IDA & IBRD countries),TEA,2003,3177
-East Asia & Pacific (IDA & IBRD countries),TEA,2004,3364
-East Asia & Pacific (IDA & IBRD countries),TEA,2005,3476
-East Asia & Pacific (IDA & IBRD countries),TEA,2006,3551
-East Asia & Pacific (IDA & IBRD countries),TEA,2007,3670
-East Asia & Pacific (IDA & IBRD countries),TEA,2008,3914
-East Asia & Pacific (IDA & IBRD countries),TEA,2009,4030
-East Asia & Pacific (IDA & IBRD countries),TEA,2010,4500
-East Asia & Pacific (IDA & IBRD countries),TEA,2011,4816
-East Asia & Pacific (IDA & IBRD countries),TEA,2012,4983
-East Asia & Pacific (IDA & IBRD countries),TEA,2013,5022
-East Asia & Pacific (IDA & IBRD countries),TEA,2014,5198
-East Asia & Pacific (IDA & IBRD countries),TEA,2015,5454
-East Asia & Pacific (IDA & IBRD countries),TEA,2016,5726
-East Asia & Pacific (IDA & IBRD countries),TEA,2017,6241
-Euro area,EMU,1975,2972
-Euro area,EMU,1976,2985
-Euro area,EMU,1977,2477
-Euro area,EMU,1978,2907
-Euro area,EMU,1979,2779
-Euro area,EMU,1980,2842
-Euro area,EMU,1981,2797
-Euro area,EMU,1982,2714
-Euro area,EMU,1983,2640
-Euro area,EMU,1984,2692
-Euro area,EMU,1985,2645
-Euro area,EMU,1986,2782
-Euro area,EMU,1987,3037
-Euro area,EMU,1988,2863
-Euro area,EMU,1989,2885
-Euro area,EMU,1990,2947
-Euro area,EMU,1991,3917
-Euro area,EMU,1992,3691
-Euro area,EMU,1993,3622
-Euro area,EMU,1994,2840
-Euro area,EMU,1995,3787
-Euro area,EMU,1996,3875
-Euro area,EMU,1997,4038
-Euro area,EMU,1998,4543
-Euro area,EMU,1999,5239
-Euro area,EMU,2000,5803
-Euro area,EMU,2001,6739
-Euro area,EMU,2002,6569
-Euro area,EMU,2003,6627
-Euro area,EMU,2004,3195
-Euro area,EMU,2005,2924
-Euro area,EMU,2006,6409
-Euro area,EMU,2007,6587
-Euro area,EMU,2008,6512
-Euro area,EMU,2009,6250
-Euro area,EMU,2010,6008
-Euro area,EMU,2011,5926
-Euro area,EMU,2012,5694
-Euro area,EMU,2013,5534
-Euro area,EMU,2014,5616
-Euro area,EMU,2015,5470
-Euro area,EMU,2016,5254
-Euro area,EMU,2017,4750
-Europe & Central Asia,ECS,1975,6245
-Europe & Central Asia,ECS,1976,6004
-Europe & Central Asia,ECS,1977,5787
-Europe & Central Asia,ECS,1978,6143
-Europe & Central Asia,ECS,1979,5938
-Europe & Central Asia,ECS,1980,6057
-Europe & Central Asia,ECS,1981,5770
-Europe & Central Asia,ECS,1982,5568
-Europe & Central Asia,ECS,1983,5441
-Europe & Central Asia,ECS,1984,5514
-Europe & Central Asia,ECS,1985,5455
-Europe & Central Asia,ECS,1986,5685
-Europe & Central Asia,ECS,1987,5891
-Europe & Central Asia,ECS,1988,5626
-Europe & Central Asia,ECS,1989,5622
-Europe & Central Asia,ECS,1990,5697
-Europe & Central Asia,ECS,1991,6760
-Europe & Central Asia,ECS,1992,6446
-Europe & Central Asia,ECS,1993,6577
-Europe & Central Asia,ECS,1994,5829
-Europe & Central Asia,ECS,1995,7383
-Europe & Central Asia,ECS,1996,7519
-Europe & Central Asia,ECS,1997,7760
-Europe & Central Asia,ECS,1998,8809
-Europe & Central Asia,ECS,1999,9391
-Europe & Central Asia,ECS,2000,10117
-Europe & Central Asia,ECS,2001,11364
-Europe & Central Asia,ECS,2002,11103
-Europe & Central Asia,ECS,2003,11004
-Europe & Central Asia,ECS,2004,7913
-Europe & Central Asia,ECS,2005,7748
-Europe & Central Asia,ECS,2006,11525
-Europe & Central Asia,ECS,2007,12059
-Europe & Central Asia,ECS,2008,11986
-Europe & Central Asia,ECS,2009,10989
-Europe & Central Asia,ECS,2010,11111
-Europe & Central Asia,ECS,2011,11148
-Europe & Central Asia,ECS,2012,10280
-Europe & Central Asia,ECS,2013,9933
-Europe & Central Asia,ECS,2014,9857
-Europe & Central Asia,ECS,2015,7993
-Europe & Central Asia,ECS,2016,7660
-Europe & Central Asia,ECS,2017,7066
-Europe & Central Asia (excluding high income),ECA,1986,80
-Europe & Central Asia (excluding high income),ECA,1993,222
-Europe & Central Asia (excluding high income),ECA,1994,304
-Europe & Central Asia (excluding high income),ECA,1995,621
-Europe & Central Asia (excluding high income),ECA,1996,548
-Europe & Central Asia (excluding high income),ECA,1997,466
-Europe & Central Asia (excluding high income),ECA,1998,517
-Europe & Central Asia (excluding high income),ECA,2000,531
-Europe & Central Asia (excluding high income),ECA,2001,858
-Europe & Central Asia (excluding high income),ECA,2002,873
-Europe & Central Asia (excluding high income),ECA,2003,1118
-Europe & Central Asia (excluding high income),ECA,2004,1293
-Europe & Central Asia (excluding high income),ECA,2005,1300
-Europe & Central Asia (excluding high income),ECA,2006,1447
-Europe & Central Asia (excluding high income),ECA,2007,2030
-Europe & Central Asia (excluding high income),ECA,2008,2125
-Europe & Central Asia (excluding high income),ECA,2009,1605
-Europe & Central Asia (excluding high income),ECA,2010,1944
-Europe & Central Asia (excluding high income),ECA,2011,1992
-Europe & Central Asia (excluding high income),ECA,2012,1395
-Europe & Central Asia (excluding high income),ECA,2013,1222
-Europe & Central Asia (excluding high income),ECA,2014,1061
-Europe & Central Asia (excluding high income),ECA,2015,1209
-Europe & Central Asia (excluding high income),ECA,2016,1127
-Europe & Central Asia (excluding high income),ECA,2017,1029
-Europe & Central Asia (IDA & IBRD countries),TEC,1986,80
-Europe & Central Asia (IDA & IBRD countries),TEC,1993,244
-Europe & Central Asia (IDA & IBRD countries),TEC,1994,348
-Europe & Central Asia (IDA & IBRD countries),TEC,1995,686
-Europe & Central Asia (IDA & IBRD countries),TEC,1996,631
-Europe & Central Asia (IDA & IBRD countries),TEC,1997,609
-Europe & Central Asia (IDA & IBRD countries),TEC,1998,715
-Europe & Central Asia (IDA & IBRD countries),TEC,2000,756
-Europe & Central Asia (IDA & IBRD countries),TEC,2001,1088
-Europe & Central Asia (IDA & IBRD countries),TEC,2002,1075
-Europe & Central Asia (IDA & IBRD countries),TEC,2003,1306
-Europe & Central Asia (IDA & IBRD countries),TEC,2004,1504
-Europe & Central Asia (IDA & IBRD countries),TEC,2005,1534
-Europe & Central Asia (IDA & IBRD countries),TEC,2006,1700
-Europe & Central Asia (IDA & IBRD countries),TEC,2007,2382
-Europe & Central Asia (IDA & IBRD countries),TEC,2008,2557
-Europe & Central Asia (IDA & IBRD countries),TEC,2009,2075
-Europe & Central Asia (IDA & IBRD countries),TEC,2010,2514
-Europe & Central Asia (IDA & IBRD countries),TEC,2011,2749
-Europe & Central Asia (IDA & IBRD countries),TEC,2012,2239
-Europe & Central Asia (IDA & IBRD countries),TEC,2013,2091
-Europe & Central Asia (IDA & IBRD countries),TEC,2014,1933
-Europe & Central Asia (IDA & IBRD countries),TEC,2015,2081
-Europe & Central Asia (IDA & IBRD countries),TEC,2016,1988
-Europe & Central Asia (IDA & IBRD countries),TEC,2017,1890
-European Union,EUU,1975,6141
-European Union,EUU,1976,5898
-European Union,EUU,1977,5671
-European Union,EUU,1978,6027
-European Union,EUU,1979,5821
-European Union,EUU,1980,5822
-European Union,EUU,1981,5540
-European Union,EUU,1982,5337
-European Union,EUU,1983,5208
-European Union,EUU,1984,5253
-European Union,EUU,1985,5168
-European Union,EUU,1986,5311
-European Union,EUU,1987,5517
-European Union,EUU,1988,5258
-European Union,EUU,1989,5247
-European Union,EUU,1990,5293
-European Union,EUU,1991,6341
-European Union,EUU,1992,6006
-European Union,EUU,1993,6015
-European Union,EUU,1994,5206
-European Union,EUU,1995,6449
-European Union,EUU,1996,6659
-European Union,EUU,1997,7000
-European Union,EUU,1998,7979
-European Union,EUU,1999,8611
-European Union,EUU,2000,9283
-European Union,EUU,2001,10529
-European Union,EUU,2002,10217
-European Union,EUU,2003,9941
-European Union,EUU,2004,6703
-European Union,EUU,2005,6549
-European Union,EUU,2006,10213
-European Union,EUU,2007,10361
-European Union,EUU,2008,10240
-European Union,EUU,2009,9694
-European Union,EUU,2010,9450
-European Union,EUU,2011,9440
-European Union,EUU,2012,9160
-European Union,EUU,2013,8979
-European Union,EUU,2014,8681
-European Union,EUU,2017,5893
-Fragile and conflict affected situations,FCS,2017,58
-High income,HIC,1980,15559
-High income,HIC,1981,15610
-High income,HIC,1982,15273
-High income,HIC,1983,16018
-High income,HIC,1984,16794
-High income,HIC,1985,17252
-High income,HIC,1986,18166
-High income,HIC,1987,19319
-High income,HIC,1988,18944
-High income,HIC,1989,18743
-High income,HIC,1990,18414
-High income,HIC,1991,19450
-High income,HIC,1992,19412
-High income,HIC,1993,20405
-High income,HIC,1994,20488
-High income,HIC,1995,21996
-High income,HIC,1996,23097
-High income,HIC,1997,23591
-High income,HIC,1998,24246
-High income,HIC,1999,24261
-High income,HIC,2000,25709
-High income,HIC,2001,25992
-High income,HIC,2002,25671
-High income,HIC,2003,27711
-High income,HIC,2004,25037
-High income,HIC,2005,25288
-High income,HIC,2006,29213
-High income,HIC,2007,29367
-High income,HIC,2008,28902
-High income,HIC,2009,28015
-High income,HIC,2010,27833
-High income,HIC,2011,28351
-High income,HIC,2012,27991
-High income,HIC,2013,28926
-High income,HIC,2014,29400
-High income,HIC,2015,27562
-High income,HIC,2016,27036
-High income,HIC,2017,26790
-IBRD only,IBD,1993,7528
-IBRD only,IBD,1994,10339
-IBRD only,IBD,1995,10877
-IBRD only,IBD,1996,11926
-IBRD only,IBD,1997,12820
-IBRD only,IBD,1998,13138
-IBRD only,IBD,1999,13409
-IBRD only,IBD,2000,13521
-IBRD only,IBD,2001,13709
-IBRD only,IBD,2002,13580
-IBRD only,IBD,2003,13666
-IBRD only,IBD,2004,12986
-IBRD only,IBD,2005,13085
-IBRD only,IBD,2006,13181
-IBRD only,IBD,2007,14004
-IBRD only,IBD,2008,14418
-IBRD only,IBD,2009,14010
-IBRD only,IBD,2010,14972
-IBRD only,IBD,2011,15561
-IBRD only,IBD,2012,15261
-IBRD only,IBD,2013,15242
-IBRD only,IBD,2014,15548
-IBRD only,IBD,2015,16191
-IBRD only,IBD,2016,16351
-IBRD only,IBD,2017,16558
-IDA & IBRD total,IBT,1993,8613
-IDA & IBRD total,IBT,1994,11519
-IDA & IBRD total,IBT,1995,12288
-IDA & IBRD total,IBT,1996,13444
-IDA & IBRD total,IBT,1997,14379
-IDA & IBRD total,IBT,1998,14711
-IDA & IBRD total,IBT,1999,14824
-IDA & IBRD total,IBT,2000,14745
-IDA & IBRD total,IBT,2001,14761
-IDA & IBRD total,IBT,2002,14402
-IDA & IBRD total,IBT,2003,14458
-IDA & IBRD total,IBT,2004,14134
-IDA & IBRD total,IBT,2005,14252
-IDA & IBRD total,IBT,2006,14336
-IDA & IBRD total,IBT,2007,15173
-IDA & IBRD total,IBT,2008,15601
-IDA & IBRD total,IBT,2009,15169
-IDA & IBRD total,IBT,2010,16119
-IDA & IBRD total,IBT,2011,16947
-IDA & IBRD total,IBT,2012,16573
-IDA & IBRD total,IBT,2013,16562
-IDA & IBRD total,IBT,2014,16638
-IDA & IBRD total,IBT,2015,16987
-IDA & IBRD total,IBT,2016,17148
-IDA & IBRD total,IBT,2017,17296
-IDA blend,IDB,1993,927
-IDA blend,IDB,1994,1006
-IDA blend,IDB,1995,1066
-IDA blend,IDB,1996,1085
-IDA blend,IDB,1997,1084
-IDA blend,IDB,1998,1083
-IDA blend,IDB,1999,1028
-IDA blend,IDB,2004,924
-IDA blend,IDB,2005,933
-IDA blend,IDB,2006,913
-IDA blend,IDB,2007,929
-IDA blend,IDB,2008,931
-IDA blend,IDB,2009,931
-IDA blend,IDB,2010,924
-IDA blend,IDB,2011,904
-IDA blend,IDB,2012,830
-IDA blend,IDB,2013,810
-IDA blend,IDB,2014,816
-IDA blend,IDB,2017,166
-IDA only,IDX,2017,572
-IDA total,IDA,2017,738
-Late-demographic dividend,LTE,1995,3359
-Late-demographic dividend,LTE,1996,3712
-Late-demographic dividend,LTE,1997,4042
-Late-demographic dividend,LTE,1998,4320
-Late-demographic dividend,LTE,1999,4239
-Late-demographic dividend,LTE,2000,4451
-Late-demographic dividend,LTE,2001,4542
-Late-demographic dividend,LTE,2002,4472
-Late-demographic dividend,LTE,2003,4711
-Late-demographic dividend,LTE,2004,5199
-Late-demographic dividend,LTE,2005,5310
-Late-demographic dividend,LTE,2006,5760
-Late-demographic dividend,LTE,2007,6067
-Late-demographic dividend,LTE,2008,6536
-Late-demographic dividend,LTE,2009,6216
-Late-demographic dividend,LTE,2010,7134
-Late-demographic dividend,LTE,2011,7963
-Late-demographic dividend,LTE,2012,7543
-Late-demographic dividend,LTE,2013,7453
-Late-demographic dividend,LTE,2014,7360
-Late-demographic dividend,LTE,2015,7595
-Late-demographic dividend,LTE,2016,7831
-Late-demographic dividend,LTE,2017,8328
-Latin America & Caribbean,LCN,1981,979
-Latin America & Caribbean,LCN,1984,1143
-Latin America & Caribbean,LCN,1985,1186
-Latin America & Caribbean,LCN,1986,1274
-Latin America & Caribbean,LCN,1987,1266
-Latin America & Caribbean,LCN,1988,1294
-Latin America & Caribbean,LCN,1989,1342
-Latin America & Caribbean,LCN,1990,1585
-Latin America & Caribbean,LCN,1991,1419
-Latin America & Caribbean,LCN,1992,1423
-Latin America & Caribbean,LCN,1993,1801
-Latin America & Caribbean,LCN,1994,1855
-Latin America & Caribbean,LCN,1995,1972
-Latin America & Caribbean,LCN,1996,2032
-Latin America & Caribbean,LCN,1997,2017
-Latin America & Caribbean,LCN,1998,1909
-Latin America & Caribbean,LCN,1999,1785
-Latin America & Caribbean,LCN,2000,1627
-Latin America & Caribbean,LCN,2001,1526
-Latin America & Caribbean,LCN,2002,1374
-Latin America & Caribbean,LCN,2003,1280
-Latin America & Caribbean,LCN,2004,1249
-Latin America & Caribbean,LCN,2005,1227
-Latin America & Caribbean,LCN,2006,1207
-Latin America & Caribbean,LCN,2007,1243
-Latin America & Caribbean,LCN,2008,1236
-Latin America & Caribbean,LCN,2009,1222
-Latin America & Caribbean,LCN,2010,1283
-Latin America & Caribbean,LCN,2011,1265
-Latin America & Caribbean,LCN,2012,1242
-Latin America & Caribbean,LCN,2013,1236
-Latin America & Caribbean,LCN,2014,1254
-Latin America & Caribbean,LCN,2015,1203
-Latin America & Caribbean,LCN,2016,1190
-Latin America & Caribbean,LCN,2017,1197
-Latin America & Caribbean (excluding high income),LAC,1979,1036
-Latin America & Caribbean (excluding high income),LAC,1980,974
-Latin America & Caribbean (excluding high income),LAC,1981,979
-Latin America & Caribbean (excluding high income),LAC,1982,940
-Latin America & Caribbean (excluding high income),LAC,1983,931
-Latin America & Caribbean (excluding high income),LAC,1984,935
-Latin America & Caribbean (excluding high income),LAC,1985,971
-Latin America & Caribbean (excluding high income),LAC,1986,1059
-Latin America & Caribbean (excluding high income),LAC,1987,1055
-Latin America & Caribbean (excluding high income),LAC,1988,1091
-Latin America & Caribbean (excluding high income),LAC,1989,1129
-Latin America & Caribbean (excluding high income),LAC,1990,1369
-Latin America & Caribbean (excluding high income),LAC,1991,1196
-Latin America & Caribbean (excluding high income),LAC,1992,1179
-Latin America & Caribbean (excluding high income),LAC,1993,1522
-Latin America & Caribbean (excluding high income),LAC,1994,1555
-Latin America & Caribbean (excluding high income),LAC,1995,1654
-Latin America & Caribbean (excluding high income),LAC,1996,1705
-Latin America & Caribbean (excluding high income),LAC,1997,1704
-Latin America & Caribbean (excluding high income),LAC,1998,1584
-Latin America & Caribbean (excluding high income),LAC,1999,1467
-Latin America & Caribbean (excluding high income),LAC,2000,1344
-Latin America & Caribbean (excluding high income),LAC,2001,1230
-Latin America & Caribbean (excluding high income),LAC,2002,1128
-Latin America & Caribbean (excluding high income),LAC,2003,1040
-Latin America & Caribbean (excluding high income),LAC,2004,1009
-Latin America & Caribbean (excluding high income),LAC,2005,981
-Latin America & Caribbean (excluding high income),LAC,2006,962
-Latin America & Caribbean (excluding high income),LAC,2007,1003
-Latin America & Caribbean (excluding high income),LAC,2008,999
-Latin America & Caribbean (excluding high income),LAC,2009,988
-Latin America & Caribbean (excluding high income),LAC,2010,1033
-Latin America & Caribbean (excluding high income),LAC,2011,1011
-Latin America & Caribbean (excluding high income),LAC,2012,995
-Latin America & Caribbean (excluding high income),LAC,2013,992
-Latin America & Caribbean (excluding high income),LAC,2014,1002
-Latin America & Caribbean (excluding high income),LAC,2015,954
-Latin America & Caribbean (excluding high income),LAC,2016,957
-Latin America & Caribbean (excluding high income),LAC,2017,968
-Latin America & the Caribbean (IDA & IBRD countries),TLA,1979,1036
-Latin America & the Caribbean (IDA & IBRD countries),TLA,1980,974
-Latin America & the Caribbean (IDA & IBRD countries),TLA,1981,979
-Latin America & the Caribbean (IDA & IBRD countries),TLA,1982,940
-Latin America & the Caribbean (IDA & IBRD countries),TLA,1984,1143
-Latin America & the Caribbean (IDA & IBRD countries),TLA,1985,1186
-Latin America & the Caribbean (IDA & IBRD countries),TLA,1986,1274
-Latin America & the Caribbean (IDA & IBRD countries),TLA,1987,1266
-Latin America & the Caribbean (IDA & IBRD countries),TLA,1988,1294
-Latin America & the Caribbean (IDA & IBRD countries),TLA,1989,1342
-Latin America & the Caribbean (IDA & IBRD countries),TLA,1990,1585
-Latin America & the Caribbean (IDA & IBRD countries),TLA,1991,1419
-Latin America & the Caribbean (IDA & IBRD countries),TLA,1992,1423
-Latin America & the Caribbean (IDA & IBRD countries),TLA,1993,1785
-Latin America & the Caribbean (IDA & IBRD countries),TLA,1994,1836
-Latin America & the Caribbean (IDA & IBRD countries),TLA,1995,1954
-Latin America & the Caribbean (IDA & IBRD countries),TLA,1996,2013
-Latin America & the Caribbean (IDA & IBRD countries),TLA,1997,1998
-Latin America & the Caribbean (IDA & IBRD countries),TLA,1998,1889
-Latin America & the Caribbean (IDA & IBRD countries),TLA,1999,1766
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2000,1604
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2001,1505
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2002,1373
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2003,1279
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2004,1248
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2005,1226
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2006,1206
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2007,1241
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2008,1234
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2009,1220
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2010,1260
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2011,1240
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2012,1220
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2013,1219
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2014,1232
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2015,1177
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2016,1171
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2017,1180
-Least developed countries: UN classification,LDC,2017,572
-Low & middle income,LMY,1993,8328
-Low & middle income,LMY,1994,11194
-Low & middle income,LMY,1995,11923
-Low & middle income,LMY,1996,13053
-Low & middle income,LMY,1997,13942
-Low & middle income,LMY,1998,14208
-Low & middle income,LMY,1999,14328
-Low & middle income,LMY,2000,14285
-Low & middle income,LMY,2001,14281
-Low & middle income,LMY,2002,13983
-Low & middle income,LMY,2003,14057
-Low & middle income,LMY,2004,13711
-Low & middle income,LMY,2005,13801
-Low & middle income,LMY,2006,13871
-Low & middle income,LMY,2007,14617
-Low & middle income,LMY,2008,14970
-Low & middle income,LMY,2009,14505
-Low & middle income,LMY,2010,15361
-Low & middle income,LMY,2011,16006
-Low & middle income,LMY,2012,15551
-Low & middle income,LMY,2013,15513
-Low & middle income,LMY,2014,15582
-Low & middle income,LMY,2015,15938
-Low & middle income,LMY,2016,16113
-Low & middle income,LMY,2017,16249
-Lower middle income,LMC,1993,4998
-Lower middle income,LMC,1994,6320
-Lower middle income,LMC,1995,7610
-Lower middle income,LMC,1996,8369
-Lower middle income,LMC,1997,8957
-Lower middle income,LMC,1998,9092
-Lower middle income,LMC,1999,9183
-Lower middle income,LMC,2000,9192
-Lower middle income,LMC,2001,9026
-Lower middle income,LMC,2002,8715
-Lower middle income,LMC,2003,8513
-Lower middle income,LMC,2004,7796
-Lower middle income,LMC,2005,7818
-Lower middle income,LMC,2006,7741
-Lower middle income,LMC,2007,7760
-Lower middle income,LMC,2008,7939
-Lower middle income,LMC,2009,7927
-Lower middle income,LMC,2010,8032
-Lower middle income,LMC,2011,8410
-Lower middle income,LMC,2012,8461
-Lower middle income,LMC,2013,8609
-Lower middle income,LMC,2014,8849
-Lower middle income,LMC,2015,8852
-Lower middle income,LMC,2016,8828
-Lower middle income,LMC,2017,8565
-Middle East & North Africa,MEA,2002,2545
-Middle East & North Africa,MEA,2003,2410
-Middle East & North Africa,MEA,2004,2556
-Middle East & North Africa,MEA,2005,2583
-Middle East & North Africa,MEA,2006,2420
-Middle East & North Africa,MEA,2008,2254
-Middle East & North Africa,MEA,2009,2200
-Middle East & North Africa,MEA,2010,2119
-Middle East & North Africa,MEA,2011,2283
-Middle East & North Africa,MEA,2012,2209
-Middle East & North Africa,MEA,2013,2183
-Middle East & North Africa,MEA,2014,1981
-Middle East & North Africa,MEA,2015,1969
-Middle East & North Africa,MEA,2016,1962
-Middle East & North Africa,MEA,2017,1952
-Middle East & North Africa (excluding high income),MNA,1997,1132
-Middle East & North Africa (excluding high income),MNA,1998,1396
-Middle East & North Africa (excluding high income),MNA,1999,1612
-Middle East & North Africa (excluding high income),MNA,2000,1657
-Middle East & North Africa (excluding high income),MNA,2001,1705
-Middle East & North Africa (excluding high income),MNA,2002,1755
-Middle East & North Africa (excluding high income),MNA,2003,1617
-Middle East & North Africa (excluding high income),MNA,2004,1526
-Middle East & North Africa (excluding high income),MNA,2009,1124
-Middle East & North Africa (excluding high income),MNA,2010,1051
-Middle East & North Africa (excluding high income),MNA,2011,1013
-Middle East & North Africa (excluding high income),MNA,2012,991
-Middle East & North Africa (excluding high income),MNA,2013,992
-Middle East & North Africa (excluding high income),MNA,2014,1006
-Middle East & North Africa (excluding high income),MNA,2015,1007
-Middle East & North Africa (excluding high income),MNA,2016,1011
-Middle East & North Africa (excluding high income),MNA,2017,984
-Middle East & North Africa (IDA & IBRD countries),TMN,1997,1132
-Middle East & North Africa (IDA & IBRD countries),TMN,1998,1396
-Middle East & North Africa (IDA & IBRD countries),TMN,1999,1588
-Middle East & North Africa (IDA & IBRD countries),TMN,2000,1632
-Middle East & North Africa (IDA & IBRD countries),TMN,2001,1680
-Middle East & North Africa (IDA & IBRD countries),TMN,2002,1727
-Middle East & North Africa (IDA & IBRD countries),TMN,2003,1591
-Middle East & North Africa (IDA & IBRD countries),TMN,2004,1499
-Middle East & North Africa (IDA & IBRD countries),TMN,2009,1086
-Middle East & North Africa (IDA & IBRD countries),TMN,2010,1012
-Middle East & North Africa (IDA & IBRD countries),TMN,2011,968
-Middle East & North Africa (IDA & IBRD countries),TMN,2012,944
-Middle East & North Africa (IDA & IBRD countries),TMN,2013,944
-Middle East & North Africa (IDA & IBRD countries),TMN,2015,958
-Middle East & North Africa (IDA & IBRD countries),TMN,2016,963
-Middle East & North Africa (IDA & IBRD countries),TMN,2017,936
-Middle income,MIC,1993,8266
-Middle income,MIC,1994,11129
-Middle income,MIC,1995,11858
-Middle income,MIC,1996,12990
-Middle income,MIC,1997,13878
-Middle income,MIC,1998,14141
-Middle income,MIC,1999,14256
-Middle income,MIC,2000,14281
-Middle income,MIC,2001,14277
-Middle income,MIC,2002,13983
-Middle income,MIC,2003,14057
-Middle income,MIC,2004,13711
-Middle income,MIC,2005,13801
-Middle income,MIC,2006,13871
-Middle income,MIC,2007,14617
-Middle income,MIC,2008,14970
-Middle income,MIC,2009,14505
-Middle income,MIC,2010,15361
-Middle income,MIC,2011,16006
-Middle income,MIC,2012,15551
-Middle income,MIC,2013,15513
-Middle income,MIC,2014,15582
-Middle income,MIC,2015,15938
-Middle income,MIC,2016,16113
-Middle income,MIC,2017,16249
-North America,NAC,1980,6288
-North America,NAC,1981,6757
-North America,NAC,1982,6576
-North America,NAC,1983,7383
-North America,NAC,1984,7533
-North America,NAC,1985,7643
-North America,NAC,1986,8236
-North America,NAC,1987,8862
-North America,NAC,1988,8651
-North America,NAC,1989,8440
-North America,NAC,1990,8192
-North America,NAC,1991,8162
-North America,NAC,1992,8167
-North America,NAC,1993,8585
-North America,NAC,1994,9002
-North America,NAC,1995,9251
-North America,NAC,1996,9918
-North America,NAC,1997,9868
-North America,NAC,1998,9515
-North America,NAC,1999,8789
-North America,NAC,2000,8446
-North America,NAC,2001,7477
-North America,NAC,2002,6959
-North America,NAC,2003,8895
-North America,NAC,2004,8844
-North America,NAC,2005,8883
-North America,NAC,2006,8939
-North America,NAC,2007,9006
-North America,NAC,2008,8518
-North America,NAC,2009,8144
-North America,NAC,2010,8064
-North America,NAC,2011,8164
-North America,NAC,2012,8145
-North America,NAC,2013,8003
-North America,NAC,2014,8331
-North America,NAC,2015,8194
-North America,NAC,2016,7712
-North America,NAC,2017,7627
-OECD members,OED,1980,15494
-OECD members,OED,1981,15640
-OECD members,OED,1982,15263
-OECD members,OED,1983,15955
-OECD members,OED,1984,16728
-OECD members,OED,1985,16931
-OECD members,OED,1986,17981
-OECD members,OED,1987,19129
-OECD members,OED,1988,18755
-OECD members,OED,1989,18568
-OECD members,OED,1990,18275
-OECD members,OED,1991,19071
-OECD members,OED,1992,18933
-OECD members,OED,1993,19635
-OECD members,OED,1994,19467
-OECD members,OED,1995,20971
-OECD members,OED,1996,21980
-OECD members,OED,1997,22359
-OECD members,OED,1998,22930
-OECD members,OED,1999,22896
-OECD members,OED,2000,24038
-OECD members,OED,2001,24139
-OECD members,OED,2002,23442
-OECD members,OED,2003,25096
-OECD members,OED,2004,22052
-OECD members,OED,2005,22154
-OECD members,OED,2006,26067
-OECD members,OED,2007,26368
-OECD members,OED,2008,25718
-OECD members,OED,2009,24734
-OECD members,OED,2010,24435
-OECD members,OED,2011,24603
-OECD members,OED,2012,24207
-OECD members,OED,2013,25001
-OECD members,OED,2014,25502
-OECD members,OED,2015,23683
-OECD members,OED,2016,23025
-OECD members,OED,2017,22624
-Other small states,OSS,1998,247
-Other small states,OSS,2012,387
-Other small states,OSS,2013,275
-Other small states,OSS,2014,281
-Other small states,OSS,2015,276
-Other small states,OSS,2017,290
-Post-demographic dividend,PST,1980,15340
-Post-demographic dividend,PST,1981,15367
-Post-demographic dividend,PST,1982,14948
-Post-demographic dividend,PST,1983,15641
-Post-demographic dividend,PST,1984,16194
-Post-demographic dividend,PST,1985,16643
-Post-demographic dividend,PST,1986,17566
-Post-demographic dividend,PST,1987,18699
-Post-demographic dividend,PST,1988,18313
-Post-demographic dividend,PST,1989,18137
-Post-demographic dividend,PST,1990,17777
-Post-demographic dividend,PST,1991,18721
-Post-demographic dividend,PST,1992,18526
-Post-demographic dividend,PST,1993,19097
-Post-demographic dividend,PST,1994,18974
-Post-demographic dividend,PST,1995,20310
-Post-demographic dividend,PST,1996,21297
-Post-demographic dividend,PST,1997,21662
-Post-demographic dividend,PST,1998,22156
-Post-demographic dividend,PST,1999,22151
-Post-demographic dividend,PST,2000,23447
-Post-demographic dividend,PST,2001,24035
-Post-demographic dividend,PST,2002,23475
-Post-demographic dividend,PST,2003,25556
-Post-demographic dividend,PST,2004,22663
-Post-demographic dividend,PST,2005,22841
-Post-demographic dividend,PST,2006,26504
-Post-demographic dividend,PST,2007,26979
-Post-demographic dividend,PST,2008,26348
-Post-demographic dividend,PST,2009,25344
-Post-demographic dividend,PST,2010,25038
-Post-demographic dividend,PST,2011,25056
-Post-demographic dividend,PST,2012,24692
-Post-demographic dividend,PST,2013,25578
-Post-demographic dividend,PST,2014,26155
-Post-demographic dividend,PST,2015,24279
-Post-demographic dividend,PST,2016,23695
-Post-demographic dividend,PST,2017,23323
-Pre-demographic dividend,PRE,2017,166
-Small states,SST,2017,378
-South Asia,SAS,1983,1151
-South Asia,SAS,1984,1295
-South Asia,SAS,1985,1529
-South Asia,SAS,1986,1911
-South Asia,SAS,1987,2095
-South Asia,SAS,1988,2240
-South Asia,SAS,1989,2407
-South Asia,SAS,1990,2435
-South Asia,SAS,1991,2556
-South Asia,SAS,1992,2781
-South Asia,SAS,1993,4256
-South Asia,SAS,1994,5505
-South Asia,SAS,1995,6619
-South Asia,SAS,1996,7318
-South Asia,SAS,1997,7204
-South Asia,SAS,1998,7092
-South Asia,SAS,1999,7139
-South Asia,SAS,2000,7218
-South Asia,SAS,2001,6943
-South Asia,SAS,2002,6600
-South Asia,SAS,2003,6589
-South Asia,SAS,2004,5813
-South Asia,SAS,2005,5858
-South Asia,SAS,2006,5883
-South Asia,SAS,2007,5987
-South Asia,SAS,2008,6030
-South Asia,SAS,2009,6034
-South Asia,SAS,2010,6111
-South Asia,SAS,2011,6455
-South Asia,SAS,2012,6504
-South Asia,SAS,2013,6614
-South Asia,SAS,2014,6666
-South Asia,SAS,2015,6672
-South Asia,SAS,2016,6672
-South Asia,SAS,2017,6483
-South Asia (IDA & IBRD),TSA,1983,1151
-South Asia (IDA & IBRD),TSA,1984,1295
-South Asia (IDA & IBRD),TSA,1985,1529
-South Asia (IDA & IBRD),TSA,1986,1911
-South Asia (IDA & IBRD),TSA,1987,2095
-South Asia (IDA & IBRD),TSA,1988,2240
-South Asia (IDA & IBRD),TSA,1989,2407
-South Asia (IDA & IBRD),TSA,1990,2435
-South Asia (IDA & IBRD),TSA,1991,2556
-South Asia (IDA & IBRD),TSA,1992,2781
-South Asia (IDA & IBRD),TSA,1993,4256
-South Asia (IDA & IBRD),TSA,1994,5505
-South Asia (IDA & IBRD),TSA,1995,6619
-South Asia (IDA & IBRD),TSA,1996,7318
-South Asia (IDA & IBRD),TSA,1997,7204
-South Asia (IDA & IBRD),TSA,1998,7092
-South Asia (IDA & IBRD),TSA,1999,7139
-South Asia (IDA & IBRD),TSA,2000,7218
-South Asia (IDA & IBRD),TSA,2001,6943
-South Asia (IDA & IBRD),TSA,2002,6600
-South Asia (IDA & IBRD),TSA,2003,6589
-South Asia (IDA & IBRD),TSA,2004,5813
-South Asia (IDA & IBRD),TSA,2005,5858
-South Asia (IDA & IBRD),TSA,2006,5883
-South Asia (IDA & IBRD),TSA,2007,5987
-South Asia (IDA & IBRD),TSA,2008,6030
-South Asia (IDA & IBRD),TSA,2009,6034
-South Asia (IDA & IBRD),TSA,2010,6111
-South Asia (IDA & IBRD),TSA,2011,6455
-South Asia (IDA & IBRD),TSA,2012,6504
-South Asia (IDA & IBRD),TSA,2013,6614
-South Asia (IDA & IBRD),TSA,2014,6666
-South Asia (IDA & IBRD),TSA,2015,6672
-South Asia (IDA & IBRD),TSA,2016,6672
-South Asia (IDA & IBRD),TSA,2017,6483
-Sub-Saharan Africa,SSF,1995,989
-Sub-Saharan Africa,SSF,2017,566
-Sub-Saharan Africa (excluding high income),SSA,1995,989
-Sub-Saharan Africa (excluding high income),SSA,2017,544
-Sub-Saharan Africa (IDA & IBRD countries),TSS,1995,989
-Sub-Saharan Africa (IDA & IBRD countries),TSS,2017,566
-Upper middle income,UMC,1993,3268
-Upper middle income,UMC,1994,4809
-Upper middle income,UMC,1995,4248
-Upper middle income,UMC,1996,4621
-Upper middle income,UMC,1997,4921
-Upper middle income,UMC,1998,5049
-Upper middle income,UMC,1999,5073
-Upper middle income,UMC,2000,5089
-Upper middle income,UMC,2001,5251
-Upper middle income,UMC,2002,5268
-Upper middle income,UMC,2003,5544
-Upper middle income,UMC,2004,5915
-Upper middle income,UMC,2005,5983
-Upper middle income,UMC,2006,6130
-Upper middle income,UMC,2007,6857
-Upper middle income,UMC,2008,7031
-Upper middle income,UMC,2009,6578
-Upper middle income,UMC,2010,7329
-Upper middle income,UMC,2011,7596
-Upper middle income,UMC,2012,7090
-Upper middle income,UMC,2013,6904
-Upper middle income,UMC,2014,6733
-Upper middle income,UMC,2015,7086
-Upper middle income,UMC,2016,7285
-Upper middle income,UMC,2017,7684
-World,WLD,1980,17273
-World,WLD,1981,17335
-World,WLD,1982,16968
-World,WLD,1983,18876
-World,WLD,1984,19829
-World,WLD,1985,20555
-World,WLD,1986,22094
-World,WLD,1987,23783
-World,WLD,1988,23634
-World,WLD,1989,23686
-World,WLD,1990,23771
-World,WLD,1991,25019
-World,WLD,1992,25277
-World,WLD,1993,28733
-World,WLD,1994,31682
-World,WLD,1995,33919
-World,WLD,1996,36150
-World,WLD,1997,37533
-World,WLD,1998,38454
-World,WLD,1999,38589
-World,WLD,2000,39994
-World,WLD,2001,40273
-World,WLD,2002,39654
-World,WLD,2003,41768
-World,WLD,2004,38748
-World,WLD,2005,39089
-World,WLD,2006,43084
-World,WLD,2007,43984
-World,WLD,2008,43872
-World,WLD,2009,42520
-World,WLD,2010,43194
-World,WLD,2011,44357
-World,WLD,2012,43542
-World,WLD,2013,44439
-World,WLD,2014,44982
-World,WLD,2015,43500
-World,WLD,2016,43149
-World,WLD,2017,43039
+Arab World,ARB,2018,1189
+Arab World,ARB,2019,1349
+Arab World,ARB,2020,1283
+Arab World,ARB,2021,1350
+Arab World,ARB,2022,1383
+Arab World,ARB,2023,1303
+Arab World,ARB,2024,1341
+United Arab Emirates,ARE,2003,28
+United Arab Emirates,ARE,2004,32
+United Arab Emirates,ARE,2005,55
+United Arab Emirates,ARE,2006,55
+United Arab Emirates,ARE,2007,60
+United Arab Emirates,ARE,2008,103
+United Arab Emirates,ARE,2009,104
+United Arab Emirates,ARE,2010,104
+United Arab Emirates,ARE,2011,108
+United Arab Emirates,ARE,2012,107
+United Arab Emirates,ARE,2013,117
+United Arab Emirates,ARE,2014,120
+United Arab Emirates,ARE,2015,125
+United Arab Emirates,ARE,2016,125
+United Arab Emirates,ARE,2017,127
+United Arab Emirates,ARE,2018,130
+United Arab Emirates,ARE,2019,130
+United Arab Emirates,ARE,2020,130
+United Arab Emirates,ARE,2021,143
+United Arab Emirates,ARE,2022,153
+United Arab Emirates,ARE,2023,147
+United Arab Emirates,ARE,2024,154
 Argentina,ARG,1975,321
 Argentina,ARG,1976,308
 Argentina,ARG,1977,302
@@ -1001,6 +114,17 @@ Argentina,ARG,2014,95
 Argentina,ARG,2015,93
 Argentina,ARG,2016,93
 Argentina,ARG,2017,96
+Argentina,ARG,2018,93
+Argentina,ARG,2019,91
+Argentina,ARG,2020,91
+Argentina,ARG,2021,85
+Armenia,ARM,2018,10
+Armenia,ARM,2019,10
+Armenia,ARM,2020,11
+Armenia,ARM,2021,10
+Armenia,ARM,2022,12
+Armenia,ARM,2023,12
+Armenia,ARM,2024,12
 Australia,AUS,1975,1319
 Australia,AUS,1976,1229
 Australia,AUS,1977,1185
@@ -1044,6 +168,13 @@ Australia,AUS,2014,1967
 Australia,AUS,2015,1989
 Australia,AUS,2016,1969
 Australia,AUS,2017,2013
+Australia,AUS,2018,2004
+Australia,AUS,2019,1952
+Australia,AUS,2020,1902
+Australia,AUS,2021,1977
+Australia,AUS,2022,1976
+Australia,AUS,2023,1914
+Australia,AUS,2024,1853
 Austria,AUT,1975,76
 Austria,AUT,1976,74
 Austria,AUT,1977,71
@@ -1087,74 +218,22 @@ Austria,AUT,2014,82
 Austria,AUT,2015,79
 Austria,AUT,2016,71
 Austria,AUT,2017,67
+Austria,AUT,2018,67
+Austria,AUT,2019,71
+Austria,AUT,2020,68
+Austria,AUT,2021,69
+Austria,AUT,2022,66
+Austria,AUT,2023,69
+Austria,AUT,2024,68
 Azerbaijan,AZE,1997,1
 Azerbaijan,AZE,1998,2
 Azerbaijan,AZE,1999,2
-Bahrain,BHR,1995,35
-Bahrain,BHR,1996,35
-Bahrain,BHR,1997,38
-Bahrain,BHR,1998,38
-Bahrain,BHR,1999,37
-Bahrain,BHR,2000,36
-Bahrain,BHR,2001,36
-Bahrain,BHR,2003,38
-Bahrain,BHR,2004,38
-Bahrain,BHR,2005,40
-Bahrain,BHR,2006,43
-Bahrain,BHR,2007,44
-Bahrain,BHR,2008,45
-Bahrain,BHR,2009,44
-Bahrain,BHR,2010,44
-Bahrain,BHR,2011,44
-Bahrain,BHR,2012,43
-Bahrain,BHR,2013,43
-Bahrain,BHR,2014,44
-Bahrain,BHR,2015,44
-Bahrain,BHR,2016,43
-Bahrain,BHR,2017,42
-Bangladesh,BGD,1993,143
-Bangladesh,BGD,1994,157
-Bangladesh,BGD,1995,231
-Bangladesh,BGD,1996,302
-Bangladesh,BGD,1997,341
-Bangladesh,BGD,1998,355
-Bangladesh,BGD,1999,348
-Bangladesh,BGD,2000,364
-Bangladesh,BGD,2001,163
-Bangladesh,BGD,2004,185
-Bangladesh,BGD,2005,195
-Bangladesh,BGD,2006,199
-Bangladesh,BGD,2007,211
-Bangladesh,BGD,2008,221
-Bangladesh,BGD,2009,197
-Bangladesh,BGD,2010,192
-Bangladesh,BGD,2011,433
-Bangladesh,BGD,2012,453
-Bangladesh,BGD,2013,481
-Bangladesh,BGD,2014,274
-Bangladesh,BGD,2015,543
-Bangladesh,BGD,2016,557
-Bangladesh,BGD,2017,572
-Barbados,BRB,1993,16
-Barbados,BRB,1994,19
-Barbados,BRB,1995,18
-Barbados,BRB,1996,19
-Barbados,BRB,1997,18
-Barbados,BRB,1998,18
-Barbados,BRB,1999,18
-Barbados,BRB,2000,22
-Barbados,BRB,2001,20
-Barbados,BRB,2010,21
-Barbados,BRB,2011,20
-Barbados,BRB,2012,19
-Barbados,BRB,2013,17
-Barbados,BRB,2014,22
-Barbados,BRB,2015,20
-Barbados,BRB,2016,19
-Barbados,BRB,2017,17
-Belarus,BLR,2014,67
-Belarus,BLR,2015,62
-Belarus,BLR,2016,55
+Azerbaijan,AZE,2019,951
+Azerbaijan,AZE,2020,13
+Azerbaijan,AZE,2021,28
+Azerbaijan,AZE,2022,29
+Azerbaijan,AZE,2023,23
+Azerbaijan,AZE,2024,36
 Belgium,BEL,1975,290
 Belgium,BEL,1976,277
 Belgium,BEL,1977,253
@@ -1179,25 +258,121 @@ Belgium,BEL,1995,150
 Belgium,BEL,1996,143
 Belgium,BEL,1997,138
 Belgium,BEL,1998,156
-Belgium,BEL,1999,278
-Belgium,BEL,2000,265
-Belgium,BEL,2001,275
-Belgium,BEL,2002,256
-Belgium,BEL,2003,250
-Belgium,BEL,2004,235
-Belgium,BEL,2005,222
-Belgium,BEL,2006,205
-Belgium,BEL,2007,175
-Belgium,BEL,2008,171
-Belgium,BEL,2009,165
-Belgium,BEL,2010,161
-Belgium,BEL,2011,151
-Belgium,BEL,2012,147
+Belgium,BEL,1999,159
+Belgium,BEL,2000,161
+Belgium,BEL,2001,159
+Belgium,BEL,2002,148
+Belgium,BEL,2003,145
+Belgium,BEL,2004,141
+Belgium,BEL,2005,138
+Belgium,BEL,2006,137
+Belgium,BEL,2007,135
+Belgium,BEL,2008,131
+Belgium,BEL,2009,128
+Belgium,BEL,2010,124
+Belgium,BEL,2011,120
+Belgium,BEL,2012,118
 Belgium,BEL,2013,117
 Belgium,BEL,2014,113
 Belgium,BEL,2015,117
-Belgium,BEL,2016,116
-Belgium,BEL,2017,116
+Bangladesh,BGD,1993,143
+Bangladesh,BGD,1994,157
+Bangladesh,BGD,1995,231
+Bangladesh,BGD,1996,302
+Bangladesh,BGD,1997,341
+Bangladesh,BGD,1998,355
+Bangladesh,BGD,1999,348
+Bangladesh,BGD,2000,364
+Bangladesh,BGD,2001,163
+Bangladesh,BGD,2004,185
+Bangladesh,BGD,2005,195
+Bangladesh,BGD,2006,199
+Bangladesh,BGD,2007,211
+Bangladesh,BGD,2008,221
+Bangladesh,BGD,2009,197
+Bangladesh,BGD,2010,192
+Bangladesh,BGD,2011,433
+Bangladesh,BGD,2012,453
+Bangladesh,BGD,2013,481
+Bangladesh,BGD,2014,517
+Bangladesh,BGD,2015,543
+Bangladesh,BGD,2016,557
+Bangladesh,BGD,2017,572
+Bangladesh,BGD,2018,593
+Bangladesh,BGD,2019,611
+Bangladesh,BGD,2020,628
+Bangladesh,BGD,2021,660
+Bangladesh,BGD,2022,678
+Bangladesh,BGD,2023,680
+Bangladesh,BGD,2024,691
+Bulgaria,BGR,1993,8
+Bulgaria,BGR,1994,13
+Bulgaria,BGR,1995,15
+Bulgaria,BGR,1996,9
+Bulgaria,BGR,1997,0
+Bulgaria,BGR,1998,18
+Bulgaria,BGR,1999,28
+Bulgaria,BGR,2000,23
+Bulgaria,BGR,2001,404
+Bulgaria,BGR,2002,351
+Bulgaria,BGR,2003,326
+Bulgaria,BGR,2004,332
+Bulgaria,BGR,2005,331
+Bulgaria,BGR,2006,347
+Bulgaria,BGR,2007,369
+Bulgaria,BGR,2008,404
+Bulgaria,BGR,2009,398
+Bulgaria,BGR,2010,390
+Bulgaria,BGR,2011,393
+Bulgaria,BGR,2012,387
+Bulgaria,BGR,2013,381
+Bulgaria,BGR,2014,372
+Bulgaria,BGR,2015,365
+Bulgaria,BGR,2016,354
+Bulgaria,BGR,2018,274
+Bulgaria,BGR,2019,262
+Bulgaria,BGR,2020,259
+Bulgaria,BGR,2021,206
+Bulgaria,BGR,2022,201
+Bulgaria,BGR,2023,204
+Bulgaria,BGR,2024,204
+Bahrain,BHR,1995,35
+Bahrain,BHR,1996,35
+Bahrain,BHR,1997,38
+Bahrain,BHR,1998,38
+Bahrain,BHR,1999,37
+Bahrain,BHR,2000,36
+Bahrain,BHR,2001,36
+Bahrain,BHR,2003,38
+Bahrain,BHR,2004,38
+Bahrain,BHR,2005,40
+Bahrain,BHR,2006,43
+Bahrain,BHR,2007,44
+Bahrain,BHR,2008,45
+Bahrain,BHR,2009,44
+Bahrain,BHR,2010,44
+Bahrain,BHR,2011,44
+Bahrain,BHR,2012,43
+Bahrain,BHR,2013,43
+Bahrain,BHR,2014,44
+Bahrain,BHR,2015,44
+Bahrain,BHR,2016,43
+Bahrain,BHR,2017,42
+Bahrain,BHR,2018,43
+Bahrain,BHR,2019,43
+Bahrain,BHR,2020,42
+Bahrain,BHR,2021,41
+Bahrain,BHR,2022,41
+Bahrain,BHR,2023,40
+Bahrain,BHR,2024,39
+Belarus,BLR,2014,67
+Belarus,BLR,2015,62
+Belarus,BLR,2016,55
+Belarus,BLR,2020,12
+Belarus,BLR,2021,14
+Belarus,BLR,2022,14
+Belarus,BLR,2023,13
+Belarus,BLR,2024,12
 Bermuda,BMU,1995,28
 Bermuda,BMU,1996,27
 Bermuda,BMU,1997,26
@@ -1221,14 +396,13 @@ Bermuda,BMU,2014,14
 Bermuda,BMU,2015,14
 Bermuda,BMU,2016,13
 Bermuda,BMU,2017,13
-Botswana,BWA,1993,9
-Botswana,BWA,1994,10
-Botswana,BWA,1995,12
-Botswana,BWA,1996,12
-Botswana,BWA,1997,12
-Botswana,BWA,1998,14
-Botswana,BWA,1999,15
-Botswana,BWA,2000,16
+Bermuda,BMU,2018,13
+Bermuda,BMU,2019,13
+Bermuda,BMU,2020,12
+Bermuda,BMU,2021,11
+Bermuda,BMU,2022,10
+Bermuda,BMU,2023,10
+Bermuda,BMU,2024,10
 Brazil,BRA,1979,404
 Brazil,BRA,1980,426
 Brazil,BRA,1981,477
@@ -1268,26 +442,56 @@ Brazil,BRA,2014,351
 Brazil,BRA,2015,345
 Brazil,BRA,2016,338
 Brazil,BRA,2017,335
-Bulgaria,BGR,1993,8
-Bulgaria,BGR,1994,13
-Bulgaria,BGR,1995,15
-Bulgaria,BGR,1996,9
-Bulgaria,BGR,1998,18
-Bulgaria,BGR,1999,28
-Bulgaria,BGR,2000,23
-Bulgaria,BGR,2001,404
-Bulgaria,BGR,2002,351
-Bulgaria,BGR,2003,326
-Bulgaria,BGR,2004,332
-Bulgaria,BGR,2005,331
-Bulgaria,BGR,2006,347
-Bulgaria,BGR,2007,369
-Bulgaria,BGR,2008,404
-Bulgaria,BGR,2009,398
-Bulgaria,BGR,2010,390
-Bulgaria,BGR,2011,393
-Bulgaria,BGR,2012,387
-Bulgaria,BGR,2013,381
+Brazil,BRA,2018,334
+Brazil,BRA,2019,324
+Brazil,BRA,2020,345
+Brazil,BRA,2021,381
+Brazil,BRA,2022,361
+Brazil,BRA,2023,345
+Brazil,BRA,2024,331
+Barbados,BRB,1993,16
+Barbados,BRB,1994,19
+Barbados,BRB,1995,18
+Barbados,BRB,1996,19
+Barbados,BRB,1997,18
+Barbados,BRB,1998,18
+Barbados,BRB,1999,18
+Barbados,BRB,2000,22
+Barbados,BRB,2001,20
+Barbados,BRB,2002,22
+Barbados,BRB,2003,22
+Barbados,BRB,2004,21
+Barbados,BRB,2005,19
+Barbados,BRB,2006,16
+Barbados,BRB,2007,16
+Barbados,BRB,2008,16
+Barbados,BRB,2009,16
+Barbados,BRB,2010,21
+Barbados,BRB,2011,20
+Barbados,BRB,2012,19
+Barbados,BRB,2013,17
+Barbados,BRB,2014,22
+Barbados,BRB,2015,20
+Barbados,BRB,2016,19
+Barbados,BRB,2017,17
+Barbados,BRB,2018,16
+Barbados,BRB,2019,16
+Barbados,BRB,2020,15
+Botswana,BWA,1993,9
+Botswana,BWA,1994,10
+Botswana,BWA,1995,12
+Botswana,BWA,1996,12
+Botswana,BWA,1997,12
+Botswana,BWA,1998,14
+Botswana,BWA,1999,15
+Botswana,BWA,2000,16
+Botswana,BWA,2017,24
+Botswana,BWA,2018,26
+Botswana,BWA,2019,25
+Botswana,BWA,2020,24
+Botswana,BWA,2021,23
+Botswana,BWA,2022,23
+Botswana,BWA,2023,23
 Canada,CAN,1975,1488
 Canada,CAN,1976,1381
 Canada,CAN,1977,1304
@@ -1310,8 +514,8 @@ Canada,CAN,1993,1673
 Canada,CAN,1994,1747
 Canada,CAN,1995,1736
 Canada,CAN,1996,1801
-Canada,CAN,1997,1937
-Canada,CAN,1998,1991
+Canada,CAN,1997,1907
+Canada,CAN,1998,1956
 Canada,CAN,1999,1538
 Canada,CAN,2000,1507
 Canada,CAN,2001,1278
@@ -1321,33 +525,105 @@ Canada,CAN,2004,3597
 Canada,CAN,2005,3719
 Canada,CAN,2006,3790
 Canada,CAN,2007,3881
-Canada,CAN,2008,3836
-Canada,CAN,2009,3727
-Canada,CAN,2010,3771
-Canada,CAN,2011,3980
-Canada,CAN,2012,4030
+Canada,CAN,2008,3755
+Canada,CAN,2009,3624
+Canada,CAN,2010,3654
+Canada,CAN,2011,3845
+Canada,CAN,2012,3874
 Canada,CAN,2013,3810
-Canada,CAN,2014,3948
-Canada,CAN,2015,3799
+Canada,CAN,2014,3691
+Canada,CAN,2015,3501
 Canada,CAN,2016,3368
 Canada,CAN,2017,3278
-Cayman Islands,CYM,1997,1
-Cayman Islands,CYM,1998,2
-Cayman Islands,CYM,1999,1
-Cayman Islands,CYM,2000,1
-Cayman Islands,CYM,2001,1
-Cayman Islands,CYM,2002,1
-Cayman Islands,CYM,2003,1
-Cayman Islands,CYM,2004,1
-Cayman Islands,CYM,2005,1
-Cayman Islands,CYM,2006,1
-Cayman Islands,CYM,2007,2
-Cayman Islands,CYM,2008,2
-Cayman Islands,CYM,2009,2
-Cayman Islands,CYM,2010,2
-Cayman Islands,CYM,2011,5
-Cayman Islands,CYM,2012,3
-Cayman Islands,CYM,2015,6
+Canada,CAN,2018,3330
+Canada,CAN,2019,3358
+Canada,CAN,2020,3912
+Canada,CAN,2021,4132
+Canada,CAN,2022,4282
+Canada,CAN,2023,4312
+Canada,CAN,2024,4226
+Central Europe and the Baltics,CEB,1993,88
+Central Europe and the Baltics,CEB,1994,191
+Central Europe and the Baltics,CEB,1995,291
+Central Europe and the Baltics,CEB,1996,382
+Central Europe and the Baltics,CEB,1997,572
+Central Europe and the Baltics,CEB,1998,789
+Central Europe and the Baltics,CEB,1999,849
+Central Europe and the Baltics,CEB,2000,827
+Central Europe and the Baltics,CEB,2001,1144
+Central Europe and the Baltics,CEB,2002,1040
+Central Europe and the Baltics,CEB,2003,1073
+Central Europe and the Baltics,CEB,2004,992
+Central Europe and the Baltics,CEB,2005,991
+Central Europe and the Baltics,CEB,2006,1178
+Central Europe and the Baltics,CEB,2007,1433
+Central Europe and the Baltics,CEB,2008,1522
+Central Europe and the Baltics,CEB,2009,1448
+Central Europe and the Baltics,CEB,2010,1499
+Central Europe and the Baltics,CEB,2011,1740
+Central Europe and the Baltics,CEB,2012,1717
+Central Europe and the Baltics,CEB,2013,1710
+Central Europe and the Baltics,CEB,2014,1630
+Central Europe and the Baltics,CEB,2015,1611
+Central Europe and the Baltics,CEB,2016,1540
+Central Europe and the Baltics,CEB,2017,1178
+Central Europe and the Baltics,CEB,2018,1399
+Central Europe and the Baltics,CEB,2019,1350
+Central Europe and the Baltics,CEB,2020,1318
+Central Europe and the Baltics,CEB,2021,1267
+Central Europe and the Baltics,CEB,2022,1256
+Central Europe and the Baltics,CEB,2023,1243
+Central Europe and the Baltics,CEB,2024,1228
+Switzerland,CHE,1975,104
+Switzerland,CHE,1976,106
+Switzerland,CHE,1977,116
+Switzerland,CHE,1978,116
+Switzerland,CHE,1979,117
+Switzerland,CHE,1980,118
+Switzerland,CHE,1981,121
+Switzerland,CHE,1982,119
+Switzerland,CHE,1983,120
+Switzerland,CHE,1984,121
+Switzerland,CHE,1985,131
+Switzerland,CHE,1986,145
+Switzerland,CHE,1987,153
+Switzerland,CHE,1988,161
+Switzerland,CHE,1989,177
+Switzerland,CHE,1990,182
+Switzerland,CHE,1991,182
+Switzerland,CHE,1992,180
+Switzerland,CHE,1993,215
+Switzerland,CHE,1994,216
+Switzerland,CHE,1995,216
+Switzerland,CHE,1996,213
+Switzerland,CHE,1997,216
+Switzerland,CHE,1998,232
+Switzerland,CHE,1999,239
+Switzerland,CHE,2000,252
+Switzerland,CHE,2001,263
+Switzerland,CHE,2002,258
+Switzerland,CHE,2003,289
+Switzerland,CHE,2004,282
+Switzerland,CHE,2005,284
+Switzerland,CHE,2006,256
+Switzerland,CHE,2007,257
+Switzerland,CHE,2008,253
+Switzerland,CHE,2009,257
+Switzerland,CHE,2010,246
+Switzerland,CHE,2011,246
+Switzerland,CHE,2012,238
+Switzerland,CHE,2013,236
+Switzerland,CHE,2014,240
+Switzerland,CHE,2015,234
+Switzerland,CHE,2016,227
+Switzerland,CHE,2017,228
+Switzerland,CHE,2018,236
+Switzerland,CHE,2019,237
+Switzerland,CHE,2020,220
+Switzerland,CHE,2021,220
+Switzerland,CHE,2022,217
+Switzerland,CHE,2023,213
+Switzerland,CHE,2024,206
 Channel Islands,CHI,1998,1
 Channel Islands,CHI,1999,1
 Channel Islands,CHI,2000,1
@@ -1392,6 +668,13 @@ Chile,CHL,2014,230
 Chile,CHL,2015,223
 Chile,CHL,2016,214
 Chile,CHL,2017,212
+Chile,CHL,2018,205
+Chile,CHL,2019,410
+Chile,CHL,2020,401
+Chile,CHL,2021,402
+Chile,CHL,2022,400
+Chile,CHL,2023,399
+Chile,CHL,2024,437
 China,CHN,1995,323
 China,CHN,1996,524
 China,CHN,1997,799
@@ -1415,6 +698,40 @@ China,CHN,2014,2613
 China,CHN,2015,2827
 China,CHN,2016,3052
 China,CHN,2017,3485
+China,CHN,2018,3584
+China,CHN,2019,12730
+China,CHN,2020,12341
+China,CHN,2021,11629
+China,CHN,2022,11497
+China,CHN,2023,11348
+China,CHN,2024,11231
+Cote d'Ivoire,CIV,1993,30
+Cote d'Ivoire,CIV,1994,30
+Cote d'Ivoire,CIV,1995,31
+Cote d'Ivoire,CIV,1996,31
+Cote d'Ivoire,CIV,1998,35
+Cote d'Ivoire,CIV,1999,38
+Cote d'Ivoire,CIV,2000,41
+Cote d'Ivoire,CIV,2001,38
+Cote d'Ivoire,CIV,2002,38
+Cote d'Ivoire,CIV,2003,39
+Cote d'Ivoire,CIV,2004,39
+Cote d'Ivoire,CIV,2005,39
+Cote d'Ivoire,CIV,2006,40
+Cote d'Ivoire,CIV,2007,38
+Cote d'Ivoire,CIV,2008,38
+Cote d'Ivoire,CIV,2009,38
+Cote d'Ivoire,CIV,2010,39
+Cote d'Ivoire,CIV,2011,39
+Cote d'Ivoire,CIV,2012,37
+Cote d'Ivoire,CIV,2013,37
+Cote d'Ivoire,CIV,2014,38
+Cote d'Ivoire,CIV,2015,39
+Cote d'Ivoire,CIV,2016,43
+Cote d'Ivoire,CIV,2017,45
+Cote d'Ivoire,CIV,2018,45
+Cote d'Ivoire,CIV,2019,46
+Cote d'Ivoire,CIV,2020,46
 Colombia,COL,1990,80
 Colombia,COL,1991,83
 Colombia,COL,1992,83
@@ -1443,6 +760,13 @@ Colombia,COL,2014,70
 Colombia,COL,2015,69
 Colombia,COL,2016,68
 Colombia,COL,2017,67
+Colombia,COL,2018,66
+Colombia,COL,2019,66
+Colombia,COL,2020,65
+Colombia,COL,2021,64
+Colombia,COL,2022,63
+Colombia,COL,2023,62
+Colombia,COL,2024,60
 Costa Rica,CRI,1983,15
 Costa Rica,CRI,1985,16
 Costa Rica,CRI,1986,16
@@ -1474,31 +798,31 @@ Costa Rica,CRI,2014,9
 Costa Rica,CRI,2015,10
 Costa Rica,CRI,2016,10
 Costa Rica,CRI,2017,10
-Croatia,HRV,1993,2
-Croatia,HRV,1994,36
-Croatia,HRV,1995,61
-Croatia,HRV,1996,71
-Croatia,HRV,1997,77
-Croatia,HRV,1998,50
-Croatia,HRV,1999,61
-Croatia,HRV,2000,63
-Croatia,HRV,2001,63
-Croatia,HRV,2002,67
-Croatia,HRV,2003,157
-Croatia,HRV,2004,166
-Croatia,HRV,2005,177
-Croatia,HRV,2006,182
-Croatia,HRV,2007,359
-Croatia,HRV,2008,356
-Croatia,HRV,2009,271
-Croatia,HRV,2010,240
-Croatia,HRV,2011,233
-Croatia,HRV,2012,211
-Croatia,HRV,2013,192
-Croatia,HRV,2014,193
-Croatia,HRV,2015,186
-Croatia,HRV,2016,160
-Croatia,HRV,2017,155
+Costa Rica,CRI,2018,10
+Costa Rica,CRI,2019,10
+Costa Rica,CRI,2020,10
+Costa Rica,CRI,2021,10
+Costa Rica,CRI,2022,9
+Cayman Islands,CYM,1997,1
+Cayman Islands,CYM,1998,2
+Cayman Islands,CYM,1999,1
+Cayman Islands,CYM,2000,1
+Cayman Islands,CYM,2001,1
+Cayman Islands,CYM,2002,1
+Cayman Islands,CYM,2003,1
+Cayman Islands,CYM,2004,1
+Cayman Islands,CYM,2005,1
+Cayman Islands,CYM,2006,1
+Cayman Islands,CYM,2007,2
+Cayman Islands,CYM,2008,2
+Cayman Islands,CYM,2009,2
+Cayman Islands,CYM,2010,2
+Cayman Islands,CYM,2011,5
+Cayman Islands,CYM,2012,3
+Cayman Islands,CYM,2015,6
+Cayman Islands,CYM,2018,4
+Cayman Islands,CYM,2019,4
+Cayman Islands,CYM,2020,4
 Cyprus,CYP,1993,36
 Cyprus,CYP,1994,35
 Cyprus,CYP,1995,37
@@ -1524,29 +848,93 @@ Cyprus,CYP,2014,94
 Cyprus,CYP,2015,84
 Cyprus,CYP,2016,81
 Cyprus,CYP,2017,74
-Czech Republic,CZE,1993,3
-Czech Republic,CZE,1994,28
-Czech Republic,CZE,1995,54
-Czech Republic,CZE,1996,82
-Czech Republic,CZE,1997,91
-Czech Republic,CZE,1998,92
-Czech Republic,CZE,1999,74
-Czech Republic,CZE,2000,57
-Czech Republic,CZE,2001,47
-Czech Republic,CZE,2002,44
-Czech Republic,CZE,2003,37
-Czech Republic,CZE,2004,33
-Czech Republic,CZE,2005,23
-Czech Republic,CZE,2006,15
-Czech Republic,CZE,2007,13
-Czech Republic,CZE,2008,19
-Czech Republic,CZE,2009,16
-Czech Republic,CZE,2010,16
-Czech Republic,CZE,2011,15
-Czech Republic,CZE,2012,17
-Czech Republic,CZE,2013,15
-Czech Republic,CZE,2014,13
-Czech Republic,CZE,2015,15
+Cyprus,CYP,2018,91
+Cyprus,CYP,2019,96
+Cyprus,CYP,2020,92
+Cyprus,CYP,2021,92
+Cyprus,CYP,2022,92
+Cyprus,CYP,2023,94
+Cyprus,CYP,2024,93
+Czechia,CZE,1993,3
+Czechia,CZE,1994,28
+Czechia,CZE,1995,54
+Czechia,CZE,1996,82
+Czechia,CZE,1997,91
+Czechia,CZE,1998,92
+Czechia,CZE,1999,74
+Czechia,CZE,2000,57
+Czechia,CZE,2001,47
+Czechia,CZE,2002,44
+Czechia,CZE,2003,37
+Czechia,CZE,2004,33
+Czechia,CZE,2005,23
+Czechia,CZE,2006,15
+Czechia,CZE,2007,13
+Czechia,CZE,2008,19
+Czechia,CZE,2009,16
+Czechia,CZE,2010,16
+Czechia,CZE,2011,15
+Czechia,CZE,2012,17
+Czechia,CZE,2013,15
+Czechia,CZE,2014,13
+Czechia,CZE,2015,15
+Czechia,CZE,2018,16
+Czechia,CZE,2019,17
+Czechia,CZE,2020,20
+Czechia,CZE,2021,21
+Czechia,CZE,2022,24
+Czechia,CZE,2023,25
+Czechia,CZE,2024,25
+Germany,DEU,1975,471
+Germany,DEU,1976,469
+Germany,DEU,1977,465
+Germany,DEU,1978,459
+Germany,DEU,1979,458
+Germany,DEU,1980,459
+Germany,DEU,1981,456
+Germany,DEU,1982,450
+Germany,DEU,1983,442
+Germany,DEU,1984,449
+Germany,DEU,1985,472
+Germany,DEU,1986,492
+Germany,DEU,1987,574
+Germany,DEU,1988,609
+Germany,DEU,1989,408
+Germany,DEU,1990,413
+Germany,DEU,1991,665
+Germany,DEU,1992,665
+Germany,DEU,1993,664
+Germany,DEU,1994,666
+Germany,DEU,1995,678
+Germany,DEU,1996,681
+Germany,DEU,1997,700
+Germany,DEU,1998,741
+Germany,DEU,1999,617
+Germany,DEU,2000,744
+Germany,DEU,2001,749
+Germany,DEU,2002,715
+Germany,DEU,2003,684
+Germany,DEU,2004,660
+Germany,DEU,2005,648
+Germany,DEU,2006,656
+Germany,DEU,2007,761
+Germany,DEU,2008,742
+Germany,DEU,2009,704
+Germany,DEU,2010,690
+Germany,DEU,2011,670
+Germany,DEU,2012,665
+Germany,DEU,2013,639
+Germany,DEU,2014,595
+Germany,DEU,2015,555
+Germany,DEU,2016,531
+Germany,DEU,2017,450
+Germany,DEU,2018,465
+Germany,DEU,2019,470
+Germany,DEU,2020,438
+Germany,DEU,2021,443
+Germany,DEU,2022,429
+Germany,DEU,2023,453
+Germany,DEU,2024,435
 Denmark,DNK,1975,248
 Denmark,DNK,1976,247
 Denmark,DNK,1977,245
@@ -1577,6 +965,185 @@ Denmark,DNK,2001,208
 Denmark,DNK,2002,193
 Denmark,DNK,2003,188
 Denmark,DNK,2004,178
+East Asia & Pacific (excluding high income),EAP,1995,1704
+East Asia & Pacific (excluding high income),EAP,1996,2061
+East Asia & Pacific (excluding high income),EAP,1997,2432
+East Asia & Pacific (excluding high income),EAP,1998,2563
+East Asia & Pacific (excluding high income),EAP,1999,2590
+East Asia & Pacific (excluding high income),EAP,2000,2776
+East Asia & Pacific (excluding high income),EAP,2001,2894
+East Asia & Pacific (excluding high income),EAP,2002,3049
+East Asia & Pacific (excluding high income),EAP,2003,3177
+East Asia & Pacific (excluding high income),EAP,2004,3364
+East Asia & Pacific (excluding high income),EAP,2005,3476
+East Asia & Pacific (excluding high income),EAP,2006,3551
+East Asia & Pacific (excluding high income),EAP,2007,3670
+East Asia & Pacific (excluding high income),EAP,2008,4082
+East Asia & Pacific (excluding high income),EAP,2009,4287
+East Asia & Pacific (excluding high income),EAP,2010,4867
+East Asia & Pacific (excluding high income),EAP,2011,5209
+East Asia & Pacific (excluding high income),EAP,2012,5379
+East Asia & Pacific (excluding high income),EAP,2013,5399
+East Asia & Pacific (excluding high income),EAP,2014,5563
+East Asia & Pacific (excluding high income),EAP,2015,5831
+East Asia & Pacific (excluding high income),EAP,2016,6102
+East Asia & Pacific (excluding high income),EAP,2017,6625
+East Asia & Pacific (excluding high income),EAP,2018,6822
+East Asia & Pacific (excluding high income),EAP,2019,16052
+East Asia & Pacific (excluding high income),EAP,2020,15737
+East Asia & Pacific (excluding high income),EAP,2021,15133
+East Asia & Pacific (excluding high income),EAP,2022,14780
+East Asia & Pacific (excluding high income),EAP,2023,14752
+East Asia & Pacific (excluding high income),EAP,2024,13795
+Early-demographic dividend,EAR,1991,4596
+Early-demographic dividend,EAR,1992,4893
+Early-demographic dividend,EAR,1993,6858
+Early-demographic dividend,EAR,1994,8267
+Early-demographic dividend,EAR,1995,9599
+Early-demographic dividend,EAR,1996,10448
+Early-demographic dividend,EAR,1997,11114
+Early-demographic dividend,EAR,1998,11260
+Early-demographic dividend,EAR,1999,11502
+Early-demographic dividend,EAR,2000,11434
+Early-demographic dividend,EAR,2001,10978
+Early-demographic dividend,EAR,2002,9869
+Early-demographic dividend,EAR,2003,9626
+Early-demographic dividend,EAR,2004,9413
+Early-demographic dividend,EAR,2005,9422
+Early-demographic dividend,EAR,2006,9283
+Early-demographic dividend,EAR,2007,9384
+Early-demographic dividend,EAR,2008,9422
+Early-demographic dividend,EAR,2009,9364
+Early-demographic dividend,EAR,2010,9402
+Early-demographic dividend,EAR,2011,9662
+Early-demographic dividend,EAR,2012,9620
+Early-demographic dividend,EAR,2013,9706
+Early-demographic dividend,EAR,2014,9972
+Early-demographic dividend,EAR,2015,9854
+Early-demographic dividend,EAR,2016,9844
+Early-demographic dividend,EAR,2017,9685
+Early-demographic dividend,EAR,2018,11235
+Early-demographic dividend,EAR,2019,6280
+Early-demographic dividend,EAR,2020,7070
+Early-demographic dividend,EAR,2021,7342
+Early-demographic dividend,EAR,2022,7548
+Early-demographic dividend,EAR,2023,7917
+Early-demographic dividend,EAR,2024,7374
+East Asia & Pacific,EAS,1975,2853
+East Asia & Pacific,EAS,1976,2764
+East Asia & Pacific,EAS,1977,2722
+East Asia & Pacific,EAS,1978,2635
+East Asia & Pacific,EAS,1979,2992
+East Asia & Pacific,EAS,1980,3356
+East Asia & Pacific,EAS,1981,3218
+East Asia & Pacific,EAS,1982,3202
+East Asia & Pacific,EAS,1983,3248
+East Asia & Pacific,EAS,1984,3605
+East Asia & Pacific,EAS,1985,4013
+East Asia & Pacific,EAS,1986,4197
+East Asia & Pacific,EAS,1987,4667
+East Asia & Pacific,EAS,1988,4804
+East Asia & Pacific,EAS,1989,4931
+East Asia & Pacific,EAS,1990,4906
+East Asia & Pacific,EAS,1991,5042
+East Asia & Pacific,EAS,1992,5323
+East Asia & Pacific,EAS,1993,5602
+East Asia & Pacific,EAS,1994,6150
+East Asia & Pacific,EAS,1995,6518
+East Asia & Pacific,EAS,1996,7063
+East Asia & Pacific,EAS,1997,7628
+East Asia & Pacific,EAS,1998,7772
+East Asia & Pacific,EAS,1999,7945
+East Asia & Pacific,EAS,2000,9175
+East Asia & Pacific,EAS,2001,9625
+East Asia & Pacific,EAS,2002,10495
+East Asia & Pacific,EAS,2003,11074
+East Asia & Pacific,EAS,2004,11667
+East Asia & Pacific,EAS,2005,12095
+East Asia & Pacific,EAS,2006,12378
+East Asia & Pacific,EAS,2007,12828
+East Asia & Pacific,EAS,2008,13279
+East Asia & Pacific,EAS,2009,13464
+East Asia & Pacific,EAS,2010,14151
+East Asia & Pacific,EAS,2011,14716
+East Asia & Pacific,EAS,2012,14875
+East Asia & Pacific,EAS,2013,16175
+East Asia & Pacific,EAS,2014,16607
+East Asia & Pacific,EAS,2015,17201
+East Asia & Pacific,EAS,2016,17701
+East Asia & Pacific,EAS,2017,18532
+East Asia & Pacific,EAS,2018,19025
+East Asia & Pacific,EAS,2019,28442
+East Asia & Pacific,EAS,2020,28265
+East Asia & Pacific,EAS,2021,27905
+East Asia & Pacific,EAS,2022,27701
+East Asia & Pacific,EAS,2023,27794
+East Asia & Pacific,EAS,2024,26935
+Europe & Central Asia (excluding high income),ECA,1986,80
+Europe & Central Asia (excluding high income),ECA,1997,270
+Europe & Central Asia (excluding high income),ECA,1998,282
+Europe & Central Asia (excluding high income),ECA,1999,288
+Europe & Central Asia (excluding high income),ECA,2000,315
+Europe & Central Asia (excluding high income),ECA,2002,338
+Europe & Central Asia (excluding high income),ECA,2003,312
+Europe & Central Asia (excluding high income),ECA,2004,328
+Europe & Central Asia (excluding high income),ECA,2005,319
+Europe & Central Asia (excluding high income),ECA,2006,326
+Europe & Central Asia (excluding high income),ECA,2007,656
+Europe & Central Asia (excluding high income),ECA,2010,685
+Europe & Central Asia (excluding high income),ECA,2014,533
+Europe & Central Asia (excluding high income),ECA,2015,690
+Europe & Central Asia (excluding high income),ECA,2016,641
+Europe & Central Asia (excluding high income),ECA,2017,558
+Europe & Central Asia (excluding high income),ECA,2018,562
+Europe & Central Asia (excluding high income),ECA,2019,1443
+Europe & Central Asia (excluding high income),ECA,2020,660
+Europe & Central Asia (excluding high income),ECA,2021,678
+Europe & Central Asia (excluding high income),ECA,2022,730
+Europe & Central Asia (excluding high income),ECA,2023,768
+Europe & Central Asia (excluding high income),ECA,2024,779
+Europe & Central Asia,ECS,1975,6245
+Europe & Central Asia,ECS,1976,6004
+Europe & Central Asia,ECS,1977,5787
+Europe & Central Asia,ECS,1978,6143
+Europe & Central Asia,ECS,1979,5938
+Europe & Central Asia,ECS,1980,6057
+Europe & Central Asia,ECS,1981,5770
+Europe & Central Asia,ECS,1982,5568
+Europe & Central Asia,ECS,1983,5441
+Europe & Central Asia,ECS,1984,5514
+Europe & Central Asia,ECS,1985,5455
+Europe & Central Asia,ECS,1986,5685
+Europe & Central Asia,ECS,1987,5891
+Europe & Central Asia,ECS,1988,5626
+Europe & Central Asia,ECS,1989,5607
+Europe & Central Asia,ECS,1990,5658
+Europe & Central Asia,ECS,1991,6407
+Europe & Central Asia,ECS,1992,6116
+Europe & Central Asia,ECS,1993,6114
+Europe & Central Asia,ECS,1994,5707
+Europe & Central Asia,ECS,1995,6849
+Europe & Central Asia,ECS,1996,6994
+Europe & Central Asia,ECS,1997,7242
+Europe & Central Asia,ECS,1998,8283
+Europe & Central Asia,ECS,1999,9178
+Europe & Central Asia,ECS,2000,10013
+Europe & Central Asia,ECS,2001,11248
+Europe & Central Asia,ECS,2002,10995
+Europe & Central Asia,ECS,2003,10899
+Europe & Central Asia,ECS,2004,7819
+Europe & Central Asia,ECS,2005,7664
+Europe & Central Asia,ECS,2006,11457
+Europe & Central Asia,ECS,2007,12019
+Europe & Central Asia,ECS,2008,11946
+Europe & Central Asia,ECS,2009,10952
+Europe & Central Asia,ECS,2010,11074
+Europe & Central Asia,ECS,2011,10834
+Europe & Central Asia,ECS,2012,10251
+Europe & Central Asia,ECS,2013,9933
+Europe & Central Asia,ECS,2014,10229
+Europe & Central Asia,ECS,2015,8358
+Europe & Central Asia,ECS,2017,6950
 Ecuador,ECU,1995,37
 Ecuador,ECU,1996,42
 Ecuador,ECU,1997,41
@@ -1604,12 +1171,155 @@ Ecuador,ECU,2000,26
 "Egypt, Arab Rep.",EGY,2015,250
 "Egypt, Arab Rep.",EGY,2016,251
 "Egypt, Arab Rep.",EGY,2017,252
+"Egypt, Arab Rep.",EGY,2018,250
+"Egypt, Arab Rep.",EGY,2019,246
+"Egypt, Arab Rep.",EGY,2020,240
+"Egypt, Arab Rep.",EGY,2021,241
+"Egypt, Arab Rep.",EGY,2022,239
+"Egypt, Arab Rep.",EGY,2023,241
+"Egypt, Arab Rep.",EGY,2024,246
+Euro area,EMU,1975,2972
+Euro area,EMU,1976,2985
+Euro area,EMU,1977,2477
+Euro area,EMU,1978,2907
+Euro area,EMU,1979,2779
+Euro area,EMU,1980,2842
+Euro area,EMU,1981,2797
+Euro area,EMU,1982,2714
+Euro area,EMU,1983,2640
+Euro area,EMU,1984,2692
+Euro area,EMU,1985,2645
+Euro area,EMU,1986,2782
+Euro area,EMU,1987,3037
+Euro area,EMU,1988,2863
+Euro area,EMU,1989,2870
+Euro area,EMU,1990,2908
+Euro area,EMU,1991,3564
+Euro area,EMU,1992,3361
+Euro area,EMU,1993,3161
+Euro area,EMU,1994,2754
+Euro area,EMU,1995,3314
+Euro area,EMU,1996,3421
+Euro area,EMU,1997,3597
+Euro area,EMU,1998,4067
+Euro area,EMU,1999,5087
+Euro area,EMU,2000,5762
+Euro area,EMU,2001,6686
+Euro area,EMU,2002,6528
+Euro area,EMU,2003,6679
+Euro area,EMU,2004,3267
+Euro area,EMU,2005,3017
+Euro area,EMU,2006,6523
+Euro area,EMU,2007,6906
+Euro area,EMU,2008,6828
+Euro area,EMU,2009,6484
+Euro area,EMU,2010,6211
+Euro area,EMU,2011,6128
+Euro area,EMU,2012,5876
+Euro area,EMU,2013,5726
+Euro area,EMU,2014,5809
+Euro area,EMU,2015,5656
+Euro area,EMU,2016,5298
+Euro area,EMU,2017,4789
+Euro area,EMU,2018,4639
+Spain,ESP,1975,941
+Spain,ESP,1976,1019
+Spain,ESP,1977,519
+Spain,ESP,1978,1034
+Spain,ESP,1979,978
+Spain,ESP,1980,943
+Spain,ESP,1981,944
+Spain,ESP,1982,874
+Spain,ESP,1983,772
+Spain,ESP,1984,750
+Spain,ESP,1985,687
+Spain,ESP,1986,636
+Spain,ESP,1987,642
+Spain,ESP,1988,691
+Spain,ESP,1989,851
+Spain,ESP,1990,867
+Spain,ESP,1991,868
+Spain,ESP,1992,801
+Spain,ESP,1993,612
+Spain,ESP,1994,607
+Spain,ESP,1995,604
+Spain,ESP,1996,605
+Spain,ESP,1997,670
+Spain,ESP,1998,897
+Spain,ESP,1999,1394
+Spain,ESP,2000,1720
+Spain,ESP,2001,2959
+Spain,ESP,2002,2986
+Spain,ESP,2003,3191
+Spain,ESP,2006,3339
+Spain,ESP,2007,3498
+Spain,ESP,2008,3538
+Spain,ESP,2009,3435
+Spain,ESP,2010,3310
+Spain,ESP,2011,3241
+Spain,ESP,2012,3167
+Spain,ESP,2013,3213
+Spain,ESP,2014,3419
+Spain,ESP,2015,3623
+Spain,ESP,2016,3480
+Spain,ESP,2017,3110
+Spain,ESP,2018,2980
+Spain,ESP,2019,2870
+Spain,ESP,2020,2711
+Spain,ESP,2021,2558
+Spain,ESP,2022,1472
+Spain,ESP,2023,773
+Spain,ESP,2024,277
 Estonia,EST,1998,25
 Estonia,EST,1999,23
 Estonia,EST,2000,20
 Estonia,EST,2001,17
 Estonia,EST,2002,14
 Estonia,EST,2003,14
+European Union,EUU,1975,3321
+European Union,EUU,1976,3330
+European Union,EUU,1977,2818
+European Union,EUU,1978,3232
+European Union,EUU,1979,3099
+European Union,EUU,1980,3163
+European Union,EUU,1981,3137
+European Union,EUU,1982,3058
+European Union,EUU,1983,2991
+European Union,EUU,1984,3082
+European Union,EUU,1985,3052
+European Union,EUU,1986,3210
+European Union,EUU,1987,3456
+European Union,EUU,1988,3265
+European Union,EUU,1989,3277
+European Union,EUU,1990,3308
+European Union,EUU,1991,3961
+European Union,EUU,1992,3758
+European Union,EUU,1993,3625
+European Union,EUU,1994,3337
+European Union,EUU,1995,3944
+European Union,EUU,1996,4093
+European Union,EUU,1997,4436
+European Union,EUU,1998,5054
+European Union,EUU,1999,6106
+European Union,EUU,2000,6751
+European Union,EUU,2001,7975
+European Union,EUU,2002,7704
+European Union,EUU,2003,7525
+European Union,EUU,2004,4123
+European Union,EUU,2005,3708
+European Union,EUU,2006,7232
+European Union,EUU,2007,7733
+European Union,EUU,2008,7785
+European Union,EUU,2009,7478
+European Union,EUU,2010,7308
+European Union,EUU,2011,7422
+European Union,EUU,2012,7252
+European Union,EUU,2013,7122
+European Union,EUU,2014,7195
+European Union,EUU,2015,7035
+European Union,EUU,2016,6640
+European Union,EUU,2017,5777
+European Union,EUU,2018,5880
 Finland,FIN,1983,48
 Finland,FIN,1984,52
 Finland,FIN,1985,50
@@ -1675,49 +1385,49 @@ France,FRA,2014,495
 France,FRA,2015,490
 France,FRA,2016,485
 France,FRA,2017,465
-Germany,DEU,1975,471
-Germany,DEU,1976,469
-Germany,DEU,1977,465
-Germany,DEU,1978,459
-Germany,DEU,1979,458
-Germany,DEU,1980,459
-Germany,DEU,1981,456
-Germany,DEU,1982,450
-Germany,DEU,1983,442
-Germany,DEU,1984,449
-Germany,DEU,1985,472
-Germany,DEU,1986,492
-Germany,DEU,1987,574
-Germany,DEU,1988,609
-Germany,DEU,1989,408
-Germany,DEU,1990,413
-Germany,DEU,1991,665
-Germany,DEU,1992,665
-Germany,DEU,1993,664
-Germany,DEU,1994,666
-Germany,DEU,1995,678
-Germany,DEU,1996,681
-Germany,DEU,1997,700
-Germany,DEU,1998,741
-Germany,DEU,1999,617
-Germany,DEU,2000,744
-Germany,DEU,2001,749
-Germany,DEU,2002,715
-Germany,DEU,2003,684
-Germany,DEU,2004,660
-Germany,DEU,2005,648
-Germany,DEU,2006,656
-Germany,DEU,2007,761
-Germany,DEU,2008,742
-Germany,DEU,2009,704
-Germany,DEU,2010,690
-Germany,DEU,2011,670
-Germany,DEU,2012,665
-Germany,DEU,2013,639
-Germany,DEU,2014,595
-Germany,DEU,2015,555
-Germany,DEU,2016,531
-Germany,DEU,2017,450
+France,FRA,2018,457
+United Kingdom,GBR,1975,2820
+United Kingdom,GBR,1976,2568
+United Kingdom,GBR,1977,2853
+United Kingdom,GBR,1978,2795
+United Kingdom,GBR,1979,2722
+United Kingdom,GBR,1980,2659
+United Kingdom,GBR,1981,2403
+United Kingdom,GBR,1982,2279
+United Kingdom,GBR,1983,2217
+United Kingdom,GBR,1984,2171
+United Kingdom,GBR,1985,2116
+United Kingdom,GBR,1986,2101
+United Kingdom,GBR,1987,2061
+United Kingdom,GBR,1988,1993
+United Kingdom,GBR,1989,1955
+United Kingdom,GBR,1990,1946
+United Kingdom,GBR,1991,2027
+United Kingdom,GBR,1992,1918
+United Kingdom,GBR,1993,1927
+United Kingdom,GBR,1994,1747
+United Kingdom,GBR,1995,1971
+United Kingdom,GBR,1996,2041
+United Kingdom,GBR,1997,2046
+United Kingdom,GBR,1998,2399
+United Kingdom,GBR,1999,2292
+United Kingdom,GBR,2000,2428
+United Kingdom,GBR,2001,2438
+United Kingdom,GBR,2002,2405
+United Kingdom,GBR,2003,2311
+United Kingdom,GBR,2004,2486
+United Kingdom,GBR,2005,2757
+United Kingdom,GBR,2006,2913
+United Kingdom,GBR,2007,2588
+United Kingdom,GBR,2008,2415
+United Kingdom,GBR,2009,2179
+United Kingdom,GBR,2010,2105
+United Kingdom,GBR,2011,1987
+United Kingdom,GBR,2012,1879
+United Kingdom,GBR,2013,1857
+United Kingdom,GBR,2014,1858
+United Kingdom,GBR,2021,1646
+United Kingdom,GBR,2022,1606
 Ghana,GHA,1993,15
 Ghana,GHA,1994,17
 Ghana,GHA,1995,19
@@ -1739,6 +1449,12 @@ Ghana,GHA,2010,31
 Ghana,GHA,2011,29
 Ghana,GHA,2012,29
 Ghana,GHA,2013,29
+Ghana,GHA,2019,33
+Ghana,GHA,2020,31
+Ghana,GHA,2021,30
+Ghana,GHA,2022,30
+Ghana,GHA,2023,30
+Ghana,GHA,2024,30
 Greece,GRC,1980,116
 Greece,GRC,1981,111
 Greece,GRC,1982,113
@@ -1777,11 +1493,63 @@ Greece,GRC,2014,240
 Greece,GRC,2015,236
 Greece,GRC,2016,213
 Greece,GRC,2017,196
-Honduras,HND,1995,93
-Honduras,HND,1996,105
-Honduras,HND,1997,107
-Honduras,HND,1998,104
-Honduras,HND,2001,41
+Greece,GRC,2018,183
+Greece,GRC,2019,176
+Greece,GRC,2020,171
+Greece,GRC,2021,155
+Greece,GRC,2022,154
+Greece,GRC,2023,152
+Greece,GRC,2024,143
+High income,HIC,1975,13256
+High income,HIC,1976,12829
+High income,HIC,1977,12395
+High income,HIC,1978,12455
+High income,HIC,1979,12572
+High income,HIC,1980,15559
+High income,HIC,1981,15610
+High income,HIC,1982,15273
+High income,HIC,1983,16033
+High income,HIC,1984,16794
+High income,HIC,1985,17268
+High income,HIC,1986,18182
+High income,HIC,1987,19319
+High income,HIC,1988,18944
+High income,HIC,1989,18728
+High income,HIC,1990,18399
+High income,HIC,1991,19114
+High income,HIC,1992,19105
+High income,HIC,1993,20090
+High income,HIC,1994,20602
+High income,HIC,1995,22000
+High income,HIC,1996,22935
+High income,HIC,1997,23283
+High income,HIC,1998,23969
+High income,HIC,1999,24420
+High income,HIC,2000,25995
+High income,HIC,2001,26479
+High income,HIC,2002,26173
+High income,HIC,2003,28512
+High income,HIC,2004,26009
+High income,HIC,2005,26306
+High income,HIC,2006,30381
+High income,HIC,2007,30817
+High income,HIC,2008,30212
+High income,HIC,2009,29219
+High income,HIC,2010,28981
+High income,HIC,2011,29468
+High income,HIC,2012,28802
+High income,HIC,2013,29870
+High income,HIC,2014,30081
+High income,HIC,2015,28188
+High income,HIC,2016,27800
+High income,HIC,2017,27185
+High income,HIC,2018,27136
+High income,HIC,2019,26827
+High income,HIC,2020,27427
+High income,HIC,2021,30138
+High income,HIC,2022,29177
+High income,HIC,2023,26595
+High income,HIC,2024,25640
 "Hong Kong SAR, China",HKG,1975,136
 "Hong Kong SAR, China",HKG,1976,134
 "Hong Kong SAR, China",HKG,1977,130
@@ -1821,6 +1589,50 @@ Honduras,HND,2001,41
 "Hong Kong SAR, China",HKG,2015,1770
 "Hong Kong SAR, China",HKG,2016,1872
 "Hong Kong SAR, China",HKG,2017,1987
+"Hong Kong SAR, China",HKG,2018,2161
+"Hong Kong SAR, China",HKG,2019,2272
+"Hong Kong SAR, China",HKG,2020,2353
+"Hong Kong SAR, China",HKG,2021,2388
+"Hong Kong SAR, China",HKG,2022,2414
+"Hong Kong SAR, China",HKG,2023,2428
+"Hong Kong SAR, China",HKG,2024,2449
+Honduras,HND,1995,93
+Honduras,HND,1996,105
+Honduras,HND,1997,107
+Honduras,HND,1998,104
+Honduras,HND,2001,41
+Croatia,HRV,1993,2
+Croatia,HRV,1994,36
+Croatia,HRV,1995,61
+Croatia,HRV,1996,71
+Croatia,HRV,1997,77
+Croatia,HRV,1998,50
+Croatia,HRV,1999,61
+Croatia,HRV,2000,63
+Croatia,HRV,2001,63
+Croatia,HRV,2002,67
+Croatia,HRV,2003,157
+Croatia,HRV,2004,166
+Croatia,HRV,2005,177
+Croatia,HRV,2006,182
+Croatia,HRV,2007,359
+Croatia,HRV,2008,356
+Croatia,HRV,2009,271
+Croatia,HRV,2010,240
+Croatia,HRV,2011,233
+Croatia,HRV,2012,211
+Croatia,HRV,2013,192
+Croatia,HRV,2014,193
+Croatia,HRV,2015,186
+Croatia,HRV,2016,160
+Croatia,HRV,2017,155
+Croatia,HRV,2018,127
+Croatia,HRV,2019,119
+Croatia,HRV,2020,104
+Croatia,HRV,2021,98
+Croatia,HRV,2022,91
+Croatia,HRV,2023,90
+Croatia,HRV,2024,81
 Hungary,HUN,1990,6
 Hungary,HUN,1991,20
 Hungary,HUN,1992,23
@@ -1849,53 +1661,103 @@ Hungary,HUN,2014,48
 Hungary,HUN,2015,45
 Hungary,HUN,2016,43
 Hungary,HUN,2017,41
-Iceland,ISL,1993,17
-Iceland,ISL,1994,24
-Iceland,ISL,1995,27
-Iceland,ISL,1996,26
-Iceland,ISL,1997,41
-Iceland,ISL,1998,67
-Iceland,ISL,1999,64
-Iceland,ISL,2000,64
-Iceland,ISL,2001,62
-Iceland,ISL,2002,64
-Iceland,ISL,2003,48
-Iceland,ISL,2004,34
-India,IND,1983,1151
-India,IND,1984,1295
-India,IND,1985,1529
-India,IND,1986,1911
-India,IND,1987,2095
-India,IND,1988,2240
-India,IND,1989,2407
-India,IND,1990,2435
-India,IND,1991,2556
-India,IND,1992,2781
-India,IND,1993,3263
-India,IND,1994,4413
-India,IND,1995,5398
-India,IND,1996,5999
-India,IND,1997,5843
-India,IND,1998,5724
-India,IND,1999,5789
-India,IND,2000,5853
-India,IND,2001,5795
-India,IND,2002,5650
-India,IND,2003,5644
-India,IND,2004,4725
-India,IND,2005,4763
-India,IND,2006,4796
-India,IND,2007,4887
-India,IND,2008,4921
-India,IND,2009,4955
-India,IND,2010,5034
-India,IND,2011,5112
-India,IND,2012,5191
-India,IND,2013,5294
-India,IND,2014,5541
-India,IND,2015,5835
-India,IND,2016,5820
-India,IND,2017,5615
+Hungary,HUN,2018,43
+Hungary,HUN,2019,44
+Hungary,HUN,2020,45
+Hungary,HUN,2021,50
+Hungary,HUN,2022,62
+Hungary,HUN,2023,66
+Hungary,HUN,2024,68
+IBRD only,IBD,1993,7343
+IBRD only,IBD,1994,8843
+IBRD only,IBD,1995,10665
+IBRD only,IBD,1996,11705
+IBRD only,IBD,1997,12595
+IBRD only,IBD,1998,12910
+IBRD only,IBD,1999,13183
+IBRD only,IBD,2000,13298
+IBRD only,IBD,2001,13486
+IBRD only,IBD,2002,13359
+IBRD only,IBD,2003,13439
+IBRD only,IBD,2004,12759
+IBRD only,IBD,2005,12859
+IBRD only,IBD,2006,12954
+IBRD only,IBD,2007,13779
+IBRD only,IBD,2008,14367
+IBRD only,IBD,2009,14052
+IBRD only,IBD,2010,15119
+IBRD only,IBD,2011,15419
+IBRD only,IBD,2012,15389
+IBRD only,IBD,2013,15347
+IBRD only,IBD,2014,16013
+IBRD only,IBD,2015,16659
+IBRD only,IBD,2016,16805
+IBRD only,IBD,2017,16687
+IBRD only,IBD,2018,18580
+IBRD only,IBD,2019,23786
+IBRD only,IBD,2020,22573
+IBRD only,IBD,2021,22044
+IBRD only,IBD,2022,21713
+IBRD only,IBD,2023,21859
+IBRD only,IBD,2024,21045
+IDA & IBRD total,IBT,1993,8659
+IDA & IBRD total,IBT,1994,10268
+IDA & IBRD total,IBT,1995,12300
+IDA & IBRD total,IBT,1996,13455
+IDA & IBRD total,IBT,1997,14358
+IDA & IBRD total,IBT,1998,14764
+IDA & IBRD total,IBT,1999,14880
+IDA & IBRD total,IBT,2000,14769
+IDA & IBRD total,IBT,2001,14781
+IDA & IBRD total,IBT,2002,13750
+IDA & IBRD total,IBT,2003,13818
+IDA & IBRD total,IBT,2004,14172
+IDA & IBRD total,IBT,2005,14288
+IDA & IBRD total,IBT,2006,14369
+IDA & IBRD total,IBT,2007,15203
+IDA & IBRD total,IBT,2008,15799
+IDA & IBRD total,IBT,2009,15458
+IDA & IBRD total,IBT,2010,16527
+IDA & IBRD total,IBT,2011,17099
+IDA & IBRD total,IBT,2012,17007
+IDA & IBRD total,IBT,2013,16993
+IDA & IBRD total,IBT,2014,17678
+IDA & IBRD total,IBT,2015,17788
+IDA & IBRD total,IBT,2016,17940
+IDA & IBRD total,IBT,2017,17830
+IDA & IBRD total,IBT,2018,19683
+IDA & IBRD total,IBT,2019,25030
+IDA & IBRD total,IBT,2020,24523
+IDA & IBRD total,IBT,2021,23980
+IDA & IBRD total,IBT,2022,23630
+IDA & IBRD total,IBT,2023,23778
+IDA & IBRD total,IBT,2024,22944
+IDA total,IDA,1996,1750
+IDA total,IDA,1998,1854
+IDA total,IDA,2020,1950
+IDA blend,IDB,1993,961
+IDA blend,IDB,1994,1040
+IDA blend,IDB,1995,1064
+IDA blend,IDB,1996,1082
+IDA blend,IDB,1997,1049
+IDA blend,IDB,1998,1124
+IDA blend,IDB,1999,1073
+IDA blend,IDB,2004,947
+IDA blend,IDB,2005,956
+IDA blend,IDB,2006,936
+IDA blend,IDB,2007,949
+IDA blend,IDB,2008,945
+IDA blend,IDB,2009,947
+IDA blend,IDB,2010,944
+IDA blend,IDB,2011,926
+IDA blend,IDB,2012,849
+IDA blend,IDB,2013,847
+IDA blend,IDB,2014,854
+IDA blend,IDB,2020,958
+IDA blend,IDB,2021,901
+IDA blend,IDB,2022,870
+IDA blend,IDB,2023,870
+IDA blend,IDB,2024,847
 Indonesia,IDN,1980,6
 Indonesia,IDN,1981,8
 Indonesia,IDN,1982,13
@@ -1934,6 +1796,78 @@ Indonesia,IDN,2014,506
 Indonesia,IDN,2015,521
 Indonesia,IDN,2016,537
 Indonesia,IDN,2017,566
+Indonesia,IDN,2018,619
+Indonesia,IDN,2019,668
+Indonesia,IDN,2020,713
+Indonesia,IDN,2021,766
+Indonesia,IDN,2022,825
+Indonesia,IDN,2023,903
+India,IND,1983,1151
+India,IND,1984,1295
+India,IND,1985,1529
+India,IND,1986,1911
+India,IND,1987,2095
+India,IND,1988,2240
+India,IND,1989,2407
+India,IND,1990,2435
+India,IND,1991,2556
+India,IND,1992,2781
+India,IND,1993,3263
+India,IND,1994,4413
+India,IND,1995,5398
+India,IND,1996,5999
+India,IND,1997,5843
+India,IND,1998,5724
+India,IND,1999,5789
+India,IND,2000,5853
+India,IND,2001,5795
+India,IND,2002,5650
+India,IND,2003,5644
+India,IND,2004,4725
+India,IND,2005,4763
+India,IND,2006,4796
+India,IND,2007,4887
+India,IND,2008,4921
+India,IND,2009,4955
+India,IND,2010,5034
+India,IND,2011,5112
+India,IND,2012,5191
+India,IND,2013,5294
+India,IND,2014,5541
+India,IND,2015,5835
+India,IND,2016,5820
+India,IND,2017,5615
+India,IND,2018,6988
+India,IND,2019,1955
+India,IND,2020,1962
+India,IND,2021,2053
+India,IND,2022,2168
+India,IND,2023,2370
+India,IND,2024,2673
+Ireland,IRL,1995,80
+Ireland,IRL,1996,93
+Ireland,IRL,1997,83
+Ireland,IRL,1998,78
+Ireland,IRL,1999,84
+Ireland,IRL,2000,76
+Ireland,IRL,2001,68
+Ireland,IRL,2002,62
+Ireland,IRL,2003,55
+Ireland,IRL,2004,53
+Ireland,IRL,2005,53
+Ireland,IRL,2006,57
+Ireland,IRL,2007,60
+Ireland,IRL,2008,58
+Ireland,IRL,2009,55
+Ireland,IRL,2010,50
+Ireland,IRL,2011,48
+Ireland,IRL,2012,42
+Ireland,IRL,2013,41
+Ireland,IRL,2014,43
+Ireland,IRL,2015,43
+Ireland,IRL,2016,40
+Ireland,IRL,2017,41
+Ireland,IRL,2018,43
 "Iran, Islamic Rep.",IRN,1975,54
 "Iran, Islamic Rep.",IRN,1976,60
 "Iran, Islamic Rep.",IRN,1977,84
@@ -1965,29 +1899,25 @@ Indonesia,IDN,2017,566
 "Iran, Islamic Rep.",IRN,2015,318
 "Iran, Islamic Rep.",IRN,2016,325
 "Iran, Islamic Rep.",IRN,2017,326
-Ireland,IRL,1995,80
-Ireland,IRL,1996,93
-Ireland,IRL,1997,83
-Ireland,IRL,1998,78
-Ireland,IRL,1999,84
-Ireland,IRL,2000,76
-Ireland,IRL,2001,68
-Ireland,IRL,2002,62
-Ireland,IRL,2003,55
-Ireland,IRL,2004,53
-Ireland,IRL,2005,53
-Ireland,IRL,2006,57
-Ireland,IRL,2007,60
-Ireland,IRL,2008,58
-Ireland,IRL,2009,55
-Ireland,IRL,2010,50
-Ireland,IRL,2011,48
-Ireland,IRL,2012,42
-Ireland,IRL,2013,41
-Ireland,IRL,2014,43
-Ireland,IRL,2015,43
-Ireland,IRL,2016,40
-Ireland,IRL,2017,41
+"Iran, Islamic Rep.",IRN,2018,437
+"Iran, Islamic Rep.",IRN,2019,452
+"Iran, Islamic Rep.",IRN,2020,511
+"Iran, Islamic Rep.",IRN,2021,534
+"Iran, Islamic Rep.",IRN,2022,546
+"Iran, Islamic Rep.",IRN,2023,575
+"Iran, Islamic Rep.",IRN,2024,594
+Iceland,ISL,1993,17
+Iceland,ISL,1994,24
+Iceland,ISL,1995,27
+Iceland,ISL,1996,26
+Iceland,ISL,1997,41
+Iceland,ISL,1998,67
+Iceland,ISL,1999,64
+Iceland,ISL,2000,64
+Iceland,ISL,2001,62
+Iceland,ISL,2002,64
+Iceland,ISL,2003,48
+Iceland,ISL,2004,34
 Israel,ISR,1979,107
 Israel,ISR,1980,117
 Israel,ISR,1981,136
@@ -2027,6 +1957,13 @@ Israel,ISR,2014,458
 Israel,ISR,2015,440
 Israel,ISR,2016,427
 Israel,ISR,2017,431
+Israel,ISR,2018,420
+Israel,ISR,2019,414
+Israel,ISR,2020,426
+Israel,ISR,2021,512
+Israel,ISR,2022,518
+Israel,ISR,2023,512
+Israel,ISR,2024,511
 Italy,ITA,1975,152
 Italy,ITA,1976,154
 Italy,ITA,1977,154
@@ -2085,6 +2022,45 @@ Jamaica,JAM,2014,59
 Jamaica,JAM,2015,59
 Jamaica,JAM,2016,64
 Jamaica,JAM,2017,71
+Jamaica,JAM,2018,76
+Jamaica,JAM,2019,87
+Jamaica,JAM,2020,89
+Jamaica,JAM,2021,90
+Jamaica,JAM,2022,95
+Jamaica,JAM,2023,98
+Jamaica,JAM,2024,101
+Jordan,JOR,1993,101
+Jordan,JOR,1994,95
+Jordan,JOR,1995,126
+Jordan,JOR,1996,132
+Jordan,JOR,1997,139
+Jordan,JOR,1998,150
+Jordan,JOR,1999,151
+Jordan,JOR,2000,163
+Jordan,JOR,2001,161
+Jordan,JOR,2002,158
+Jordan,JOR,2003,161
+Jordan,JOR,2004,192
+Jordan,JOR,2005,201
+Jordan,JOR,2006,227
+Jordan,JOR,2007,245
+Jordan,JOR,2008,262
+Jordan,JOR,2009,272
+Jordan,JOR,2010,277
+Jordan,JOR,2011,247
+Jordan,JOR,2012,243
+Jordan,JOR,2013,239
+Jordan,JOR,2014,236
+Jordan,JOR,2015,228
+Jordan,JOR,2016,224
+Jordan,JOR,2017,194
+Jordan,JOR,2018,195
+Jordan,JOR,2019,191
+Jordan,JOR,2020,179
+Jordan,JOR,2021,172
+Jordan,JOR,2022,170
+Jordan,JOR,2023,167
+Jordan,JOR,2024,162
 Japan,JPN,1975,1398
 Japan,JPN,1976,1401
 Japan,JPN,1977,1407
@@ -2128,31 +2104,13 @@ Japan,JPN,2014,3458
 Japan,JPN,2015,3504
 Japan,JPN,2016,3535
 Japan,JPN,2017,3598
-Jordan,JOR,1993,101
-Jordan,JOR,1994,95
-Jordan,JOR,1995,126
-Jordan,JOR,1996,132
-Jordan,JOR,1997,139
-Jordan,JOR,1998,150
-Jordan,JOR,1999,151
-Jordan,JOR,2000,163
-Jordan,JOR,2001,161
-Jordan,JOR,2002,158
-Jordan,JOR,2003,161
-Jordan,JOR,2004,192
-Jordan,JOR,2005,201
-Jordan,JOR,2006,227
-Jordan,JOR,2007,245
-Jordan,JOR,2008,262
-Jordan,JOR,2009,272
-Jordan,JOR,2010,277
-Jordan,JOR,2011,247
-Jordan,JOR,2012,243
-Jordan,JOR,2013,239
-Jordan,JOR,2014,236
-Jordan,JOR,2015,228
-Jordan,JOR,2016,224
-Jordan,JOR,2017,194
+Japan,JPN,2018,3652
+Japan,JPN,2019,3704
+Japan,JPN,2020,3754
+Japan,JPN,2021,3818
+Japan,JPN,2022,3865
+Japan,JPN,2023,3929
+Japan,JPN,2024,3971
 Kazakhstan,KAZ,1997,11
 Kazakhstan,KAZ,1998,18
 Kazakhstan,KAZ,2002,50
@@ -2171,6 +2129,13 @@ Kazakhstan,KAZ,2014,68
 Kazakhstan,KAZ,2015,78
 Kazakhstan,KAZ,2016,85
 Kazakhstan,KAZ,2017,90
+Kazakhstan,KAZ,2018,97
+Kazakhstan,KAZ,2019,104
+Kazakhstan,KAZ,2020,109
+Kazakhstan,KAZ,2021,112
+Kazakhstan,KAZ,2022,105
+Kazakhstan,KAZ,2023,91
+Kazakhstan,KAZ,2024,79
 Kenya,KEN,1993,38
 Kenya,KEN,1994,40
 Kenya,KEN,1995,56
@@ -2194,6 +2159,13 @@ Kenya,KEN,2013,61
 Kenya,KEN,2014,65
 Kenya,KEN,2015,64
 Kenya,KEN,2016,65
+Kenya,KEN,2017,64
+Kenya,KEN,2019,59
+Kenya,KEN,2020,60
+Kenya,KEN,2021,59
+Kenya,KEN,2022,59
+Kenya,KEN,2023,59
+Kenya,KEN,2024,59
 "Korea, Rep.",KOR,1979,355
 "Korea, Rep.",KOR,1980,352
 "Korea, Rep.",KOR,1981,343
@@ -2233,6 +2205,13 @@ Kenya,KEN,2016,65
 "Korea, Rep.",KOR,2015,1948
 "Korea, Rep.",KOR,2016,2039
 "Korea, Rep.",KOR,2017,2114
+"Korea, Rep.",KOR,2018,2186
+"Korea, Rep.",KOR,2019,2262
+"Korea, Rep.",KOR,2020,2318
+"Korea, Rep.",KOR,2021,2383
+"Korea, Rep.",KOR,2022,2446
+"Korea, Rep.",KOR,2023,2536
+"Korea, Rep.",KOR,2024,2599
 Kuwait,KWT,1993,40
 Kuwait,KWT,1994,41
 Kuwait,KWT,1995,45
@@ -2250,15 +2229,58 @@ Kuwait,KWT,2006,164
 Kuwait,KWT,2011,215
 Kuwait,KWT,2012,199
 Kuwait,KWT,2013,196
-Latvia,LVA,1995,17
-Latvia,LVA,1996,34
-Latvia,LVA,1997,50
-Latvia,LVA,1998,67
-Latvia,LVA,1999,66
-Latvia,LVA,2000,63
-Latvia,LVA,2001,63
-Latvia,LVA,2002,62
-Latvia,LVA,2003,56
+Kuwait,KWT,2019,164
+Kuwait,KWT,2020,163
+Kuwait,KWT,2021,159
+Kuwait,KWT,2022,148
+Kuwait,KWT,2023,145
+Kuwait,KWT,2024,138
+Latin America & Caribbean (excluding high income),LAC,1979,1036
+Latin America & Caribbean (excluding high income),LAC,1980,974
+Latin America & Caribbean (excluding high income),LAC,1981,979
+Latin America & Caribbean (excluding high income),LAC,1982,940
+Latin America & Caribbean (excluding high income),LAC,1983,916
+Latin America & Caribbean (excluding high income),LAC,1984,935
+Latin America & Caribbean (excluding high income),LAC,1985,955
+Latin America & Caribbean (excluding high income),LAC,1986,1043
+Latin America & Caribbean (excluding high income),LAC,1987,1055
+Latin America & Caribbean (excluding high income),LAC,1988,1091
+Latin America & Caribbean (excluding high income),LAC,1989,1129
+Latin America & Caribbean (excluding high income),LAC,1990,1227
+Latin America & Caribbean (excluding high income),LAC,1991,1029
+Latin America & Caribbean (excluding high income),LAC,1992,1017
+Latin America & Caribbean (excluding high income),LAC,1993,1279
+Latin America & Caribbean (excluding high income),LAC,1994,1292
+Latin America & Caribbean (excluding high income),LAC,1995,1446
+Latin America & Caribbean (excluding high income),LAC,1996,1508
+Latin America & Caribbean (excluding high income),LAC,1997,1502
+Latin America & Caribbean (excluding high income),LAC,1998,1462
+Latin America & Caribbean (excluding high income),LAC,1999,1236
+Latin America & Caribbean (excluding high income),LAC,2000,1104
+Latin America & Caribbean (excluding high income),LAC,2001,1112
+Latin America & Caribbean (excluding high income),LAC,2002,1018
+Latin America & Caribbean (excluding high income),LAC,2003,936
+Latin America & Caribbean (excluding high income),LAC,2004,909
+Latin America & Caribbean (excluding high income),LAC,2005,883
+Latin America & Caribbean (excluding high income),LAC,2006,863
+Latin America & Caribbean (excluding high income),LAC,2007,904
+Latin America & Caribbean (excluding high income),LAC,2008,905
+Latin America & Caribbean (excluding high income),LAC,2009,885
+Latin America & Caribbean (excluding high income),LAC,2010,935
+Latin America & Caribbean (excluding high income),LAC,2011,924
+Latin America & Caribbean (excluding high income),LAC,2012,925
+Latin America & Caribbean (excluding high income),LAC,2013,924
+Latin America & Caribbean (excluding high income),LAC,2014,927
+Latin America & Caribbean (excluding high income),LAC,2015,914
+Latin America & Caribbean (excluding high income),LAC,2016,917
+Latin America & Caribbean (excluding high income),LAC,2017,928
+Latin America & Caribbean (excluding high income),LAC,2018,918
+Latin America & Caribbean (excluding high income),LAC,2019,903
+Latin America & Caribbean (excluding high income),LAC,2020,929
+Latin America & Caribbean (excluding high income),LAC,2021,947
+Latin America & Caribbean (excluding high income),LAC,2022,838
+Latin America & Caribbean (excluding high income),LAC,2023,811
+Latin America & Caribbean (excluding high income),LAC,2024,797
 Lebanon,LBN,1996,6
 Lebanon,LBN,1997,8
 Lebanon,LBN,1998,11
@@ -2281,6 +2303,179 @@ Lebanon,LBN,2014,10
 Lebanon,LBN,2015,10
 Lebanon,LBN,2016,10
 Lebanon,LBN,2017,10
+Lebanon,LBN,2018,10
+Lebanon,LBN,2019,10
+Lebanon,LBN,2020,10
+Lebanon,LBN,2021,10
+Latin America & Caribbean,LCN,1980,974
+Latin America & Caribbean,LCN,1981,979
+Latin America & Caribbean,LCN,1984,1143
+Latin America & Caribbean,LCN,1985,1186
+Latin America & Caribbean,LCN,1986,1274
+Latin America & Caribbean,LCN,1987,1266
+Latin America & Caribbean,LCN,1988,1294
+Latin America & Caribbean,LCN,1989,1342
+Latin America & Caribbean,LCN,1990,1585
+Latin America & Caribbean,LCN,1991,1419
+Latin America & Caribbean,LCN,1992,1423
+Latin America & Caribbean,LCN,1993,1801
+Latin America & Caribbean,LCN,1994,1855
+Latin America & Caribbean,LCN,1995,1972
+Latin America & Caribbean,LCN,1996,2032
+Latin America & Caribbean,LCN,1997,2017
+Latin America & Caribbean,LCN,1998,1909
+Latin America & Caribbean,LCN,1999,1785
+Latin America & Caribbean,LCN,2000,1627
+Latin America & Caribbean,LCN,2001,1526
+Latin America & Caribbean,LCN,2002,1396
+Latin America & Caribbean,LCN,2003,1302
+Latin America & Caribbean,LCN,2004,1270
+Latin America & Caribbean,LCN,2005,1246
+Latin America & Caribbean,LCN,2006,1223
+Latin America & Caribbean,LCN,2007,1259
+Latin America & Caribbean,LCN,2008,1252
+Latin America & Caribbean,LCN,2009,1238
+Latin America & Caribbean,LCN,2010,1283
+Latin America & Caribbean,LCN,2011,1265
+Latin America & Caribbean,LCN,2012,1242
+Latin America & Caribbean,LCN,2013,1236
+Latin America & Caribbean,LCN,2014,1254
+Latin America & Caribbean,LCN,2015,1203
+Latin America & Caribbean,LCN,2016,1190
+Latin America & Caribbean,LCN,2017,1197
+Latin America & Caribbean,LCN,2018,1183
+Latin America & Caribbean,LCN,2019,1375
+Latin America & Caribbean,LCN,2020,1394
+Latin America & Caribbean,LCN,2021,1395
+Latin America & Caribbean,LCN,2022,1280
+Latin America & Caribbean,LCN,2023,1244
+Latin America & Caribbean,LCN,2024,1270
+Sri Lanka,LKA,1993,197
+Sri Lanka,LKA,1994,211
+Sri Lanka,LKA,1995,226
+Sri Lanka,LKA,1996,235
+Sri Lanka,LKA,1997,239
+Sri Lanka,LKA,1998,240
+Sri Lanka,LKA,1999,237
+Sri Lanka,LKA,2000,239
+Sri Lanka,LKA,2001,238
+Sri Lanka,LKA,2002,238
+Sri Lanka,LKA,2003,244
+Sri Lanka,LKA,2004,242
+Sri Lanka,LKA,2005,239
+Sri Lanka,LKA,2006,237
+Sri Lanka,LKA,2007,235
+Sri Lanka,LKA,2008,235
+Sri Lanka,LKA,2009,231
+Sri Lanka,LKA,2010,241
+Sri Lanka,LKA,2011,272
+Sri Lanka,LKA,2012,287
+Sri Lanka,LKA,2013,289
+Sri Lanka,LKA,2014,294
+Sri Lanka,LKA,2015,294
+Sri Lanka,LKA,2016,295
+Sri Lanka,LKA,2017,296
+Sri Lanka,LKA,2018,297
+Sri Lanka,LKA,2019,289
+Sri Lanka,LKA,2020,283
+Sri Lanka,LKA,2021,296
+Sri Lanka,LKA,2022,290
+Sri Lanka,LKA,2023,290
+Sri Lanka,LKA,2024,284
+Lower middle income,LMC,1993,4922
+Lower middle income,LMC,1994,6206
+Lower middle income,LMC,1995,7442
+Lower middle income,LMC,1996,8190
+Lower middle income,LMC,1997,8722
+Lower middle income,LMC,1998,8933
+Lower middle income,LMC,1999,9043
+Lower middle income,LMC,2000,8936
+Lower middle income,LMC,2001,8741
+Lower middle income,LMC,2002,7734
+Lower middle income,LMC,2003,7540
+Lower middle income,LMC,2004,7502
+Lower middle income,LMC,2005,7519
+Lower middle income,LMC,2006,7434
+Lower middle income,LMC,2007,7409
+Lower middle income,LMC,2008,7743
+Lower middle income,LMC,2009,7819
+Lower middle income,LMC,2010,8016
+Lower middle income,LMC,2011,8401
+Lower middle income,LMC,2012,8434
+Lower middle income,LMC,2013,8558
+Lower middle income,LMC,2014,8835
+Lower middle income,LMC,2015,8607
+Lower middle income,LMC,2016,8607
+Lower middle income,LMC,2017,8418
+Lower middle income,LMC,2018,9770
+Lower middle income,LMC,2019,4866
+Lower middle income,LMC,2020,5563
+Lower middle income,LMC,2021,5645
+Lower middle income,LMC,2022,5394
+Lower middle income,LMC,2023,5582
+Lower middle income,LMC,2024,5858
+Low & middle income,LMY,1993,8053
+Low & middle income,LMY,1994,9533
+Low & middle income,LMY,1995,11293
+Low & middle income,LMY,1996,12528
+Low & middle income,LMY,1997,13505
+Low & middle income,LMY,1998,13886
+Low & middle income,LMY,1999,13924
+Low & middle income,LMY,2000,13831
+Low & middle income,LMY,2001,13615
+Low & middle income,LMY,2002,12664
+Low & middle income,LMY,2003,12485
+Low & middle income,LMY,2004,12663
+Low & middle income,LMY,2005,12739
+Low & middle income,LMY,2006,12668
+Low & middle income,LMY,2007,13158
+Low & middle income,LMY,2008,13675
+Low & middle income,LMY,2009,13388
+Low & middle income,LMY,2010,14391
+Low & middle income,LMY,2011,14814
+Low & middle income,LMY,2012,14929
+Low & middle income,LMY,2013,14944
+Low & middle income,LMY,2014,15625
+Low & middle income,LMY,2015,15795
+Low & middle income,LMY,2016,16006
+Low & middle income,LMY,2017,16255
+Low & middle income,LMY,2018,17914
+Low & middle income,LMY,2019,23104
+Low & middle income,LMY,2020,22629
+Low & middle income,LMY,2021,22151
+Low & middle income,LMY,2022,21850
+Low & middle income,LMY,2023,22047
+Low & middle income,LMY,2024,21379
+Late-demographic dividend,LTE,1995,3359
+Late-demographic dividend,LTE,1996,3712
+Late-demographic dividend,LTE,1997,4042
+Late-demographic dividend,LTE,1998,4320
+Late-demographic dividend,LTE,1999,4239
+Late-demographic dividend,LTE,2000,4451
+Late-demographic dividend,LTE,2001,4542
+Late-demographic dividend,LTE,2002,4472
+Late-demographic dividend,LTE,2003,4739
+Late-demographic dividend,LTE,2004,5231
+Late-demographic dividend,LTE,2005,5365
+Late-demographic dividend,LTE,2006,5815
+Late-demographic dividend,LTE,2007,6127
+Late-demographic dividend,LTE,2008,6704
+Late-demographic dividend,LTE,2009,6473
+Late-demographic dividend,LTE,2010,7501
+Late-demographic dividend,LTE,2011,8073
+Late-demographic dividend,LTE,2012,7939
+Late-demographic dividend,LTE,2013,7830
+Late-demographic dividend,LTE,2014,7725
+Late-demographic dividend,LTE,2015,7972
+Late-demographic dividend,LTE,2016,8207
+Late-demographic dividend,LTE,2017,8712
+Late-demographic dividend,LTE,2018,8875
+Late-demographic dividend,LTE,2019,19303
+Late-demographic dividend,LTE,2020,17952
+Late-demographic dividend,LTE,2021,17419
+Late-demographic dividend,LTE,2022,16927
+Late-demographic dividend,LTE,2023,16626
+Late-demographic dividend,LTE,2024,16390
 Lithuania,LTU,1998,60
 Lithuania,LTU,1999,52
 Lithuania,LTU,2000,53
@@ -2330,94 +2525,76 @@ Luxembourg,LUX,2014,25
 Luxembourg,LUX,2015,27
 Luxembourg,LUX,2016,28
 Luxembourg,LUX,2017,28
-Malaysia,MYS,1980,181
-Malaysia,MYS,1981,187
-Malaysia,MYS,1982,194
-Malaysia,MYS,1983,204
-Malaysia,MYS,1984,218
-Malaysia,MYS,1985,222
-Malaysia,MYS,1986,226
-Malaysia,MYS,1987,232
-Malaysia,MYS,1988,238
-Malaysia,MYS,1989,249
-Malaysia,MYS,1990,268
-Malaysia,MYS,1991,318
-Malaysia,MYS,1992,363
-Malaysia,MYS,1993,407
-Malaysia,MYS,1994,475
-Malaysia,MYS,1995,523
-Malaysia,MYS,1996,615
-Malaysia,MYS,1997,700
-Malaysia,MYS,1998,728
-Malaysia,MYS,1999,749
-Malaysia,MYS,2000,787
-Malaysia,MYS,2001,804
-Malaysia,MYS,2002,857
-Malaysia,MYS,2003,897
-Malaysia,MYS,2004,955
-Malaysia,MYS,2005,1015
-Malaysia,MYS,2006,1021
-Malaysia,MYS,2007,983
-Malaysia,MYS,2008,972
-Malaysia,MYS,2009,952
-Malaysia,MYS,2010,948
-Malaysia,MYS,2011,932
-Malaysia,MYS,2012,911
-Malaysia,MYS,2013,900
-Malaysia,MYS,2014,895
-Malaysia,MYS,2015,892
-Malaysia,MYS,2016,893
-Malaysia,MYS,2017,894
-Malta,MLT,1993,2
-Malta,MLT,1994,4
-Malta,MLT,1995,5
-Malta,MLT,1996,5
-Malta,MLT,1997,6
-Malta,MLT,1998,7
-Malta,MLT,1999,7
-Malta,MLT,2000,10
-Malta,MLT,2001,12
-Malta,MLT,2002,13
-Malta,MLT,2003,14
-Malta,MLT,2004,13
-Malta,MLT,2005,14
-Malta,MLT,2006,15
-Malta,MLT,2007,16
-Malta,MLT,2008,19
-Malta,MLT,2009,20
-Malta,MLT,2010,21
-Malta,MLT,2011,21
-Malta,MLT,2012,22
-Malta,MLT,2013,23
-Malta,MLT,2014,24
-Malta,MLT,2015,23
-Malta,MLT,2016,23
-Malta,MLT,2017,23
-Mauritius,MUS,1993,23
-Mauritius,MUS,1994,26
-Mauritius,MUS,1995,28
-Mauritius,MUS,1996,30
-Mauritius,MUS,1997,30
-Mauritius,MUS,1998,30
-Mauritius,MUS,1999,31
-Mauritius,MUS,2000,31
-Mauritius,MUS,2001,31
-Mauritius,MUS,2002,30
-Mauritius,MUS,2003,28
-Mauritius,MUS,2004,29
-Mauritius,MUS,2005,30
-Mauritius,MUS,2006,62
-Mauritius,MUS,2007,67
-Mauritius,MUS,2008,65
-Mauritius,MUS,2009,64
-Mauritius,MUS,2010,62
-Mauritius,MUS,2011,63
-Mauritius,MUS,2012,60
-Mauritius,MUS,2013,63
-Mauritius,MUS,2014,66
-Mauritius,MUS,2015,71
-Mauritius,MUS,2016,75
-Mauritius,MUS,2017,74
+Luxembourg,LUX,2018,27
+Luxembourg,LUX,2019,28
+Luxembourg,LUX,2020,29
+Luxembourg,LUX,2021,27
+Luxembourg,LUX,2022,28
+Luxembourg,LUX,2023,28
+Luxembourg,LUX,2024,28
+Latvia,LVA,1995,17
+Latvia,LVA,1996,34
+Latvia,LVA,1997,50
+Latvia,LVA,1998,67
+Latvia,LVA,1999,66
+Latvia,LVA,2000,63
+Latvia,LVA,2001,63
+Latvia,LVA,2002,62
+Latvia,LVA,2003,56
+Morocco,MAR,1993,60
+Morocco,MAR,1994,56
+Morocco,MAR,1995,44
+Morocco,MAR,1996,47
+Morocco,MAR,1997,49
+Morocco,MAR,1998,53
+Morocco,MAR,1999,54
+Morocco,MAR,2000,53
+Morocco,MAR,2001,55
+Morocco,MAR,2002,55
+Morocco,MAR,2003,52
+Morocco,MAR,2004,53
+Morocco,MAR,2005,54
+Morocco,MAR,2006,63
+Morocco,MAR,2007,73
+Morocco,MAR,2008,77
+Morocco,MAR,2009,76
+Morocco,MAR,2010,73
+Morocco,MAR,2011,75
+Morocco,MAR,2012,76
+Morocco,MAR,2013,75
+Morocco,MAR,2014,74
+Morocco,MAR,2015,74
+Morocco,MAR,2016,74
+Morocco,MAR,2017,73
+Morocco,MAR,2018,75
+Morocco,MAR,2019,74
+Morocco,MAR,2020,75
+Morocco,MAR,2021,75
+Morocco,MAR,2022,75
+Morocco,MAR,2023,76
+Morocco,MAR,2024,76
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2003,2438
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2004,3227
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2005,3277
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2006,3103
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2007,2802
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2008,2883
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2009,2829
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2010,2744
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2011,2904
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2012,2764
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2013,2733
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2014,2538
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2015,1969
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2016,1962
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2017,1952
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2018,2071
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2019,2242
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2020,2778
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2021,2959
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2022,3011
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2023,2951
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2024,3010
 Mexico,MEX,1975,369
 Mexico,MEX,1976,410
 Mexico,MEX,1978,349
@@ -2460,36 +2637,229 @@ Mexico,MEX,2014,141
 Mexico,MEX,2015,136
 Mexico,MEX,2016,137
 Mexico,MEX,2017,141
+Mexico,MEX,2018,140
+Mexico,MEX,2019,139
+Mexico,MEX,2020,140
+Mexico,MEX,2021,138
+Mexico,MEX,2022,133
+Mexico,MEX,2023,131
+Mexico,MEX,2024,129
+Middle income,MIC,1993,8053
+Middle income,MIC,1994,9533
+Middle income,MIC,1995,11293
+Middle income,MIC,1996,12528
+Middle income,MIC,1997,13505
+Middle income,MIC,1998,13886
+Middle income,MIC,1999,13924
+Middle income,MIC,2000,13831
+Middle income,MIC,2001,13615
+Middle income,MIC,2002,12664
+Middle income,MIC,2003,12485
+Middle income,MIC,2004,12663
+Middle income,MIC,2005,12739
+Middle income,MIC,2006,12668
+Middle income,MIC,2007,13158
+Middle income,MIC,2008,13675
+Middle income,MIC,2009,13388
+Middle income,MIC,2010,14391
+Middle income,MIC,2011,14814
+Middle income,MIC,2012,14929
+Middle income,MIC,2013,14944
+Middle income,MIC,2014,15625
+Middle income,MIC,2015,15795
+Middle income,MIC,2016,16006
+Middle income,MIC,2017,16255
+Middle income,MIC,2018,17910
+Middle income,MIC,2019,23100
+Middle income,MIC,2020,22624
+Middle income,MIC,2021,22146
+Middle income,MIC,2022,21845
+Middle income,MIC,2023,22042
+Middle income,MIC,2024,21374
+Malta,MLT,1993,2
+Malta,MLT,1994,4
+Malta,MLT,1995,5
+Malta,MLT,1996,5
+Malta,MLT,1997,6
+Malta,MLT,1998,7
+Malta,MLT,1999,7
+Malta,MLT,2000,10
+Malta,MLT,2001,12
+Malta,MLT,2002,13
+Malta,MLT,2003,14
+Malta,MLT,2004,13
+Malta,MLT,2005,14
+Malta,MLT,2006,15
+Malta,MLT,2007,16
+Malta,MLT,2008,19
+Malta,MLT,2009,20
+Malta,MLT,2010,21
+Malta,MLT,2011,21
+Malta,MLT,2012,22
+Malta,MLT,2013,23
+Malta,MLT,2014,24
+Malta,MLT,2015,23
+Malta,MLT,2016,23
+Malta,MLT,2017,23
+Malta,MLT,2018,25
+Malta,MLT,2019,27
+Malta,MLT,2020,27
+Malta,MLT,2021,30
+Malta,MLT,2022,33
+Malta,MLT,2023,34
+Malta,MLT,2024,34
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,1997,1874
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,1998,2169
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,1999,2377
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2000,2380
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2001,2414
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2004,2165
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2005,2130
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2006,1924
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2007,1808
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2009,1753
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2010,1676
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2011,1634
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2012,1546
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2013,1542
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2014,1563
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2020,1672
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2021,1692
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2022,1692
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2023,1713
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2024,1730
 Montenegro,MNE,2007,331
 Montenegro,MNE,2008,420
 Montenegro,MNE,2010,361
 Montenegro,MNE,2011,146
 Montenegro,MNE,2012,112
-Morocco,MAR,1993,60
-Morocco,MAR,1994,56
-Morocco,MAR,1995,44
-Morocco,MAR,1996,47
-Morocco,MAR,1997,49
-Morocco,MAR,1998,53
-Morocco,MAR,1999,54
-Morocco,MAR,2000,53
-Morocco,MAR,2001,55
-Morocco,MAR,2002,55
-Morocco,MAR,2003,52
-Morocco,MAR,2004,53
-Morocco,MAR,2005,54
-Morocco,MAR,2006,63
-Morocco,MAR,2007,73
-Morocco,MAR,2008,77
-Morocco,MAR,2009,76
-Morocco,MAR,2010,73
-Morocco,MAR,2011,75
-Morocco,MAR,2012,76
-Morocco,MAR,2013,75
-Morocco,MAR,2014,74
-Morocco,MAR,2015,74
-Morocco,MAR,2016,74
-Morocco,MAR,2017,73
+Mauritius,MUS,1993,23
+Mauritius,MUS,1994,26
+Mauritius,MUS,1995,28
+Mauritius,MUS,1996,30
+Mauritius,MUS,1997,30
+Mauritius,MUS,1998,30
+Mauritius,MUS,1999,31
+Mauritius,MUS,2000,31
+Mauritius,MUS,2001,31
+Mauritius,MUS,2002,30
+Mauritius,MUS,2003,28
+Mauritius,MUS,2004,29
+Mauritius,MUS,2005,30
+Mauritius,MUS,2006,62
+Mauritius,MUS,2007,67
+Mauritius,MUS,2008,65
+Mauritius,MUS,2009,64
+Mauritius,MUS,2010,62
+Mauritius,MUS,2011,63
+Mauritius,MUS,2012,60
+Mauritius,MUS,2013,63
+Mauritius,MUS,2014,66
+Mauritius,MUS,2015,71
+Mauritius,MUS,2016,75
+Mauritius,MUS,2017,74
+Mauritius,MUS,2018,99
+Mauritius,MUS,2019,95
+Mauritius,MUS,2020,93
+Mauritius,MUS,2021,91
+Mauritius,MUS,2022,89
+Mauritius,MUS,2023,93
+Mauritius,MUS,2024,93
+Malaysia,MYS,1980,181
+Malaysia,MYS,1981,187
+Malaysia,MYS,1982,194
+Malaysia,MYS,1983,204
+Malaysia,MYS,1984,218
+Malaysia,MYS,1985,222
+Malaysia,MYS,1986,226
+Malaysia,MYS,1987,232
+Malaysia,MYS,1988,238
+Malaysia,MYS,1989,249
+Malaysia,MYS,1990,268
+Malaysia,MYS,1991,318
+Malaysia,MYS,1992,363
+Malaysia,MYS,1993,407
+Malaysia,MYS,1994,475
+Malaysia,MYS,1995,523
+Malaysia,MYS,1996,615
+Malaysia,MYS,1997,700
+Malaysia,MYS,1998,728
+Malaysia,MYS,1999,749
+Malaysia,MYS,2000,787
+Malaysia,MYS,2001,804
+Malaysia,MYS,2002,857
+Malaysia,MYS,2003,897
+Malaysia,MYS,2004,955
+Malaysia,MYS,2005,1015
+Malaysia,MYS,2006,1021
+Malaysia,MYS,2007,983
+Malaysia,MYS,2008,972
+Malaysia,MYS,2009,952
+Malaysia,MYS,2010,948
+Malaysia,MYS,2011,932
+Malaysia,MYS,2012,911
+Malaysia,MYS,2013,900
+Malaysia,MYS,2014,895
+Malaysia,MYS,2015,892
+Malaysia,MYS,2016,893
+Malaysia,MYS,2017,894
+Malaysia,MYS,2018,902
+Malaysia,MYS,2019,919
+Malaysia,MYS,2020,927
+Malaysia,MYS,2021,940
+Malaysia,MYS,2022,963
+Malaysia,MYS,2023,987
+Malaysia,MYS,2024,1031
+North America,NAC,1975,4158
+North America,NAC,1976,4061
+North America,NAC,1977,3886
+North America,NAC,1978,3677
+North America,NAC,1979,3535
+North America,NAC,1980,6288
+North America,NAC,1981,6757
+North America,NAC,1982,6576
+North America,NAC,1983,7383
+North America,NAC,1984,7533
+North America,NAC,1985,7643
+North America,NAC,1986,8236
+North America,NAC,1987,8862
+North America,NAC,1988,8651
+North America,NAC,1989,8440
+North America,NAC,1990,8192
+North America,NAC,1991,8162
+North America,NAC,1992,8167
+North America,NAC,1993,8585
+North America,NAC,1994,9002
+North America,NAC,1995,9251
+North America,NAC,1996,9918
+North America,NAC,1997,9838
+North America,NAC,1998,9480
+North America,NAC,1999,8789
+North America,NAC,2000,8446
+North America,NAC,2001,7477
+North America,NAC,2002,6959
+North America,NAC,2003,8895
+North America,NAC,2004,8844
+North America,NAC,2005,8883
+North America,NAC,2006,8939
+North America,NAC,2007,9006
+North America,NAC,2008,8437
+North America,NAC,2009,8041
+North America,NAC,2010,7947
+North America,NAC,2011,8029
+North America,NAC,2012,7989
+North America,NAC,2013,8003
+North America,NAC,2014,8074
+North America,NAC,2015,7896
+North America,NAC,2016,7712
+North America,NAC,2017,7627
+North America,NAC,2018,7356
+North America,NAC,2019,7281
+North America,NAC,2020,8028
+North America,NAC,2021,8917
+North America,NAC,2022,8934
+North America,NAC,2023,8639
+North America,NAC,2024,8246
 Namibia,NAM,1993,4
 Namibia,NAM,1994,8
 Namibia,NAM,1995,10
@@ -2515,6 +2885,41 @@ Namibia,NAM,2014,8
 Namibia,NAM,2015,8
 Namibia,NAM,2016,8
 Namibia,NAM,2017,10
+Namibia,NAM,2018,10
+Namibia,NAM,2019,11
+Namibia,NAM,2020,13
+Namibia,NAM,2021,14
+Namibia,NAM,2022,14
+Namibia,NAM,2023,13
+Namibia,NAM,2024,12
+Nigeria,NGA,1993,174
+Nigeria,NGA,1994,177
+Nigeria,NGA,1995,181
+Nigeria,NGA,1996,183
+Nigeria,NGA,1997,182
+Nigeria,NGA,1998,186
+Nigeria,NGA,1999,194
+Nigeria,NGA,2004,206
+Nigeria,NGA,2005,215
+Nigeria,NGA,2006,201
+Nigeria,NGA,2007,211
+Nigeria,NGA,2008,212
+Nigeria,NGA,2009,214
+Nigeria,NGA,2010,215
+Nigeria,NGA,2011,196
+Nigeria,NGA,2012,189
+Nigeria,NGA,2013,188
+Nigeria,NGA,2014,188
+Nigeria,NGA,2015,183
+Nigeria,NGA,2016,169
+Nigeria,NGA,2017,166
+Nigeria,NGA,2018,164
+Nigeria,NGA,2019,180
+Nigeria,NGA,2020,177
+Nigeria,NGA,2021,174
+Nigeria,NGA,2022,173
+Nigeria,NGA,2023,172
+Nigeria,NGA,2024,169
 Netherlands,NLD,1975,242
 Netherlands,NLD,1976,234
 Netherlands,NLD,1977,231
@@ -2558,61 +2963,7 @@ Netherlands,NLD,2014,98
 Netherlands,NLD,2015,100
 Netherlands,NLD,2016,103
 Netherlands,NLD,2017,102
-New Zealand,NZL,1984,237
-New Zealand,NZL,1985,317
-New Zealand,NZL,1986,339
-New Zealand,NZL,1987,289
-New Zealand,NZL,1988,235
-New Zealand,NZL,1989,247
-New Zealand,NZL,1990,171
-New Zealand,NZL,1991,139
-New Zealand,NZL,1992,123
-New Zealand,NZL,1993,132
-New Zealand,NZL,1994,144
-New Zealand,NZL,1995,135
-New Zealand,NZL,1996,132
-New Zealand,NZL,1997,120
-New Zealand,NZL,1998,122
-New Zealand,NZL,1999,113
-New Zealand,NZL,2000,131
-New Zealand,NZL,2001,145
-New Zealand,NZL,2002,149
-New Zealand,NZL,2003,166
-New Zealand,NZL,2004,158
-New Zealand,NZL,2005,153
-New Zealand,NZL,2006,151
-New Zealand,NZL,2007,152
-New Zealand,NZL,2008,147
-New Zealand,NZL,2009,143
-New Zealand,NZL,2010,137
-New Zealand,NZL,2011,144
-New Zealand,NZL,2012,141
-New Zealand,NZL,2013,143
-New Zealand,NZL,2014,154
-New Zealand,NZL,2015,171
-New Zealand,NZL,2016,173
-New Zealand,NZL,2017,164
-Nigeria,NGA,1993,174
-Nigeria,NGA,1994,177
-Nigeria,NGA,1995,181
-Nigeria,NGA,1996,183
-Nigeria,NGA,1997,182
-Nigeria,NGA,1998,186
-Nigeria,NGA,1999,194
-Nigeria,NGA,2004,206
-Nigeria,NGA,2005,215
-Nigeria,NGA,2006,201
-Nigeria,NGA,2007,211
-Nigeria,NGA,2008,212
-Nigeria,NGA,2009,214
-Nigeria,NGA,2010,215
-Nigeria,NGA,2011,196
-Nigeria,NGA,2012,189
-Nigeria,NGA,2013,188
-Nigeria,NGA,2014,188
-Nigeria,NGA,2015,183
-Nigeria,NGA,2016,169
-Nigeria,NGA,2017,166
+Netherlands,NLD,2018,103
 Norway,NOR,1980,117
 Norway,NOR,1981,109
 Norway,NOR,1982,112
@@ -2651,6 +3002,97 @@ Norway,NOR,2014,173
 Norway,NOR,2015,171
 Norway,NOR,2016,171
 Norway,NOR,2017,180
+New Zealand,NZL,1984,237
+New Zealand,NZL,1985,317
+New Zealand,NZL,1986,339
+New Zealand,NZL,1987,289
+New Zealand,NZL,1988,235
+New Zealand,NZL,1989,247
+New Zealand,NZL,1990,171
+New Zealand,NZL,1991,139
+New Zealand,NZL,1992,123
+New Zealand,NZL,1993,132
+New Zealand,NZL,1994,144
+New Zealand,NZL,1995,135
+New Zealand,NZL,1996,132
+New Zealand,NZL,1997,120
+New Zealand,NZL,1998,122
+New Zealand,NZL,1999,113
+New Zealand,NZL,2000,131
+New Zealand,NZL,2001,145
+New Zealand,NZL,2002,149
+New Zealand,NZL,2003,166
+New Zealand,NZL,2004,158
+New Zealand,NZL,2005,153
+New Zealand,NZL,2006,151
+New Zealand,NZL,2007,152
+New Zealand,NZL,2008,147
+New Zealand,NZL,2009,143
+New Zealand,NZL,2010,137
+New Zealand,NZL,2011,144
+New Zealand,NZL,2012,141
+New Zealand,NZL,2013,143
+New Zealand,NZL,2014,154
+New Zealand,NZL,2015,171
+New Zealand,NZL,2016,173
+New Zealand,NZL,2017,164
+New Zealand,NZL,2018,131
+New Zealand,NZL,2019,123
+New Zealand,NZL,2020,122
+New Zealand,NZL,2021,127
+New Zealand,NZL,2022,123
+New Zealand,NZL,2023,119
+New Zealand,NZL,2024,112
+OECD members,OED,1975,13489
+OECD members,OED,1976,13105
+OECD members,OED,1977,12265
+OECD members,OED,1978,12674
+OECD members,OED,1979,12681
+OECD members,OED,1980,15494
+OECD members,OED,1981,15640
+OECD members,OED,1982,15263
+OECD members,OED,1983,15970
+OECD members,OED,1984,16728
+OECD members,OED,1985,16947
+OECD members,OED,1986,17997
+OECD members,OED,1987,19129
+OECD members,OED,1988,18755
+OECD members,OED,1989,18553
+OECD members,OED,1990,18340
+OECD members,OED,1991,18818
+OECD members,OED,1992,18709
+OECD members,OED,1993,19290
+OECD members,OED,1994,19489
+OECD members,OED,1995,20579
+OECD members,OED,1996,21606
+OECD members,OED,1997,21962
+OECD members,OED,1998,22569
+OECD members,OED,1999,22841
+OECD members,OED,2000,24083
+OECD members,OED,2001,24213
+OECD members,OED,2002,23513
+OECD members,OED,2003,25168
+OECD members,OED,2004,22086
+OECD members,OED,2005,22188
+OECD members,OED,2006,26111
+OECD members,OED,2007,26430
+OECD members,OED,2008,25697
+OECD members,OED,2009,24690
+OECD members,OED,2010,24374
+OECD members,OED,2011,24525
+OECD members,OED,2012,24107
+OECD members,OED,2013,25082
+OECD members,OED,2014,25324
+OECD members,OED,2015,23464
+OECD members,OED,2016,22987
+OECD members,OED,2017,22585
+OECD members,OED,2018,22048
+OECD members,OED,2019,21466
+OECD members,OED,2020,22036
+OECD members,OED,2021,24717
+OECD members,OED,2022,23775
+OECD members,OED,2023,21302
+OECD members,OED,2024,20476
 Oman,OMN,1993,90
 Oman,OMN,1994,100
 Oman,OMN,1995,114
@@ -2674,28 +3116,42 @@ Oman,OMN,2014,117
 Oman,OMN,2015,116
 Oman,OMN,2016,113
 Oman,OMN,2017,112
+Oman,OMN,2018,110
+Oman,OMN,2019,111
+Oman,OMN,2020,111
+Oman,OMN,2021,110
+Oman,OMN,2022,110
+Other small states,OSS,1998,180
+Other small states,OSS,1999,180
+Other small states,OSS,2000,224
+Other small states,OSS,2001,247
+Other small states,OSS,2002,256
+Other small states,OSS,2003,242
 Pakistan,PAK,1993,653
 Pakistan,PAK,1994,724
-Pakistan,PAK,1995,764
-Pakistan,PAK,1996,782
-Pakistan,PAK,1997,781
+Pakistan,PAK,1995,727
+Pakistan,PAK,1996,743
+Pakistan,PAK,1997,742
 Pakistan,PAK,1998,773
 Pakistan,PAK,1999,765
-Pakistan,PAK,2000,762
-Pakistan,PAK,2001,747
-Pakistan,PAK,2002,712
-Pakistan,PAK,2003,701
-Pakistan,PAK,2004,661
-Pakistan,PAK,2005,661
-Pakistan,PAK,2006,651
-Pakistan,PAK,2007,654
-Pakistan,PAK,2008,653
-Pakistan,PAK,2009,651
-Pakistan,PAK,2010,644
-Pakistan,PAK,2011,638
-Pakistan,PAK,2012,573
+Pakistan,PAK,2000,723
+Pakistan,PAK,2001,709
+Pakistan,PAK,2004,639
+Pakistan,PAK,2005,639
+Pakistan,PAK,2006,628
+Pakistan,PAK,2007,630
+Pakistan,PAK,2008,629
+Pakistan,PAK,2009,629
+Pakistan,PAK,2010,625
+Pakistan,PAK,2011,621
+Pakistan,PAK,2012,555
 Pakistan,PAK,2013,550
 Pakistan,PAK,2014,557
+Pakistan,PAK,2020,531
+Pakistan,PAK,2021,533
+Pakistan,PAK,2022,531
+Pakistan,PAK,2023,527
+Pakistan,PAK,2024,530
 Panama,PAN,1993,57
 Panama,PAN,1994,77
 Panama,PAN,1995,97
@@ -2721,28 +3177,13 @@ Panama,PAN,2014,29
 Panama,PAN,2015,30
 Panama,PAN,2016,30
 Panama,PAN,2017,30
-Papua New Guinea,PNG,2000,8
-Papua New Guinea,PNG,2001,9
-Papua New Guinea,PNG,2002,8
-Papua New Guinea,PNG,2003,9
-Papua New Guinea,PNG,2004,9
-Papua New Guinea,PNG,2005,9
-Papua New Guinea,PNG,2006,9
-Papua New Guinea,PNG,2007,9
-Papua New Guinea,PNG,2008,11
-Papua New Guinea,PNG,2009,11
-Papua New Guinea,PNG,2010,10
-Papua New Guinea,PNG,2011,12
-Papua New Guinea,PNG,2012,8
-Papua New Guinea,PNG,2013,11
-Papua New Guinea,PNG,2014,6
-Papua New Guinea,PNG,2015,6
-Papua New Guinea,PNG,2016,6
-Paraguay,PRY,1995,30
-Paraguay,PRY,1996,60
-Paraguay,PRY,1997,59
-Paraguay,PRY,1998,59
-Paraguay,PRY,1999,55
+Panama,PAN,2018,30
+Panama,PAN,2019,32
+Panama,PAN,2020,35
+Panama,PAN,2021,36
+Panama,PAN,2022,33
+Panama,PAN,2023,34
+Panama,PAN,2024,36
 Peru,PER,1993,235
 Peru,PER,1994,220
 Peru,PER,1995,242
@@ -2768,6 +3209,13 @@ Peru,PER,2014,211
 Peru,PER,2015,212
 Peru,PER,2016,217
 Peru,PER,2017,218
+Peru,PER,2018,209
+Peru,PER,2019,196
+Peru,PER,2020,199
+Peru,PER,2021,189
+Peru,PER,2022,186
+Peru,PER,2023,175
+Peru,PER,2024,176
 Philippines,PHL,1987,140
 Philippines,PHL,1988,142
 Philippines,PHL,1989,144
@@ -2799,6 +3247,30 @@ Philippines,PHL,2014,260
 Philippines,PHL,2015,262
 Philippines,PHL,2016,262
 Philippines,PHL,2017,264
+Philippines,PHL,2018,264
+Philippines,PHL,2019,265
+Philippines,PHL,2020,268
+Philippines,PHL,2021,273
+Philippines,PHL,2022,283
+Philippines,PHL,2023,280
+Philippines,PHL,2024,280
+Papua New Guinea,PNG,2000,8
+Papua New Guinea,PNG,2001,9
+Papua New Guinea,PNG,2002,8
+Papua New Guinea,PNG,2003,9
+Papua New Guinea,PNG,2004,9
+Papua New Guinea,PNG,2005,9
+Papua New Guinea,PNG,2006,9
+Papua New Guinea,PNG,2007,9
+Papua New Guinea,PNG,2008,11
+Papua New Guinea,PNG,2009,11
+Papua New Guinea,PNG,2010,10
+Papua New Guinea,PNG,2011,12
+Papua New Guinea,PNG,2012,8
+Papua New Guinea,PNG,2013,11
+Papua New Guinea,PNG,2014,6
+Papua New Guinea,PNG,2015,6
+Papua New Guinea,PNG,2016,6
 Poland,POL,1992,9
 Poland,POL,1993,22
 Poland,POL,1994,44
@@ -2825,6 +3297,14 @@ Poland,POL,2014,872
 Poland,POL,2015,872
 Poland,POL,2016,861
 Poland,POL,2017,861
+Poland,POL,2018,823
+Poland,POL,2019,798
+Poland,POL,2020,782
+Poland,POL,2021,787
+Poland,POL,2022,773
+Poland,POL,2023,752
+Poland,POL,2024,749
+Pre-demographic dividend,PRE,1998,288
 Portugal,PRT,1977,37
 Portugal,PRT,1978,38
 Portugal,PRT,1979,24
@@ -2866,6 +3346,88 @@ Portugal,PRT,2014,47
 Portugal,PRT,2015,47
 Portugal,PRT,2016,45
 Portugal,PRT,2017,43
+Portugal,PRT,2018,40
+Paraguay,PRY,1995,30
+Paraguay,PRY,1996,60
+Paraguay,PRY,1997,59
+Paraguay,PRY,1998,59
+Paraguay,PRY,1999,55
+West Bank and Gaza,PSE,1999,24
+West Bank and Gaza,PSE,2000,25
+West Bank and Gaza,PSE,2001,25
+West Bank and Gaza,PSE,2002,28
+West Bank and Gaza,PSE,2003,26
+West Bank and Gaza,PSE,2004,27
+West Bank and Gaza,PSE,2005,28
+West Bank and Gaza,PSE,2006,32
+West Bank and Gaza,PSE,2007,34
+West Bank and Gaza,PSE,2008,36
+West Bank and Gaza,PSE,2009,38
+West Bank and Gaza,PSE,2010,39
+West Bank and Gaza,PSE,2011,45
+West Bank and Gaza,PSE,2012,47
+West Bank and Gaza,PSE,2013,48
+West Bank and Gaza,PSE,2014,48
+West Bank and Gaza,PSE,2015,49
+West Bank and Gaza,PSE,2016,48
+West Bank and Gaza,PSE,2017,48
+West Bank and Gaza,PSE,2018,48
+West Bank and Gaza,PSE,2019,48
+West Bank and Gaza,PSE,2020,46
+West Bank and Gaza,PSE,2021,47
+West Bank and Gaza,PSE,2022,49
+West Bank and Gaza,PSE,2023,49
+West Bank and Gaza,PSE,2024,48
+Post-demographic dividend,PST,1975,13256
+Post-demographic dividend,PST,1976,12829
+Post-demographic dividend,PST,1977,12395
+Post-demographic dividend,PST,1978,12455
+Post-demographic dividend,PST,1979,12465
+Post-demographic dividend,PST,1980,15340
+Post-demographic dividend,PST,1981,15367
+Post-demographic dividend,PST,1982,14948
+Post-demographic dividend,PST,1983,15641
+Post-demographic dividend,PST,1984,16194
+Post-demographic dividend,PST,1985,16643
+Post-demographic dividend,PST,1986,17566
+Post-demographic dividend,PST,1987,18699
+Post-demographic dividend,PST,1988,18313
+Post-demographic dividend,PST,1989,18122
+Post-demographic dividend,PST,1990,17738
+Post-demographic dividend,PST,1991,18368
+Post-demographic dividend,PST,1992,18196
+Post-demographic dividend,PST,1993,18634
+Post-demographic dividend,PST,1994,18852
+Post-demographic dividend,PST,1995,19776
+Post-demographic dividend,PST,1996,20772
+Post-demographic dividend,PST,1997,21114
+Post-demographic dividend,PST,1998,21595
+Post-demographic dividend,PST,1999,21938
+Post-demographic dividend,PST,2000,23343
+Post-demographic dividend,PST,2001,23919
+Post-demographic dividend,PST,2002,23389
+Post-demographic dividend,PST,2003,25473
+Post-demographic dividend,PST,2004,22590
+Post-demographic dividend,PST,2005,22776
+Post-demographic dividend,PST,2006,26452
+Post-demographic dividend,PST,2007,26955
+Post-demographic dividend,PST,2008,26243
+Post-demographic dividend,PST,2009,25220
+Post-demographic dividend,PST,2010,24884
+Post-demographic dividend,PST,2011,24890
+Post-demographic dividend,PST,2012,24507
+Post-demographic dividend,PST,2013,25578
+Post-demographic dividend,PST,2014,26270
+Post-demographic dividend,PST,2015,24346
+Post-demographic dividend,PST,2016,23933
+Post-demographic dividend,PST,2017,23207
+Post-demographic dividend,PST,2018,23127
+Post-demographic dividend,PST,2019,22417
+Post-demographic dividend,PST,2020,23070
+Post-demographic dividend,PST,2021,25603
+Post-demographic dividend,PST,2022,24594
+Post-demographic dividend,PST,2023,22110
+Post-demographic dividend,PST,2024,21219
 Qatar,QAT,2008,43
 Qatar,QAT,2009,44
 Qatar,QAT,2010,43
@@ -2876,6 +3438,13 @@ Qatar,QAT,2014,43
 Qatar,QAT,2015,43
 Qatar,QAT,2016,44
 Qatar,QAT,2017,45
+Qatar,QAT,2018,46
+Qatar,QAT,2019,47
+Qatar,QAT,2020,0
+Qatar,QAT,2021,48
+Qatar,QAT,2022,47
+Qatar,QAT,2023,51
+Qatar,QAT,2024,52
 Romania,ROU,1997,76
 Romania,ROU,1998,126
 Romania,ROU,1999,122
@@ -2897,6 +3466,13 @@ Romania,ROU,2014,81
 Romania,ROU,2015,82
 Romania,ROU,2016,84
 Romania,ROU,2017,86
+Romania,ROU,2018,85
+Romania,ROU,2019,81
+Romania,ROU,2020,81
+Romania,ROU,2021,80
+Romania,ROU,2022,81
+Romania,ROU,2023,83
+Romania,ROU,2024,83
 Russian Federation,RUS,1993,52
 Russian Federation,RUS,1994,79
 Russian Federation,RUS,1995,340
@@ -2914,13 +3490,68 @@ Russian Federation,RUS,2007,592
 Russian Federation,RUS,2008,561
 Russian Federation,RUS,2009,550
 Russian Federation,RUS,2010,556
-Russian Federation,RUS,2011,817
+Russian Federation,RUS,2011,534
 Russian Federation,RUS,2012,292
 Russian Federation,RUS,2013,261
 Russian Federation,RUS,2014,254
 Russian Federation,RUS,2015,251
 Russian Federation,RUS,2016,242
 Russian Federation,RUS,2017,230
+Russian Federation,RUS,2018,221
+Russian Federation,RUS,2019,213
+Russian Federation,RUS,2020,213
+Russian Federation,RUS,2021,210
+Russian Federation,RUS,2022,195
+Russian Federation,RUS,2023,194
+Rwanda,RWA,2018,4
+Rwanda,RWA,2019,4
+Rwanda,RWA,2020,5
+Rwanda,RWA,2021,5
+Rwanda,RWA,2022,5
+Rwanda,RWA,2023,5
+Rwanda,RWA,2024,5
+South Asia,SAS,1983,1151
+South Asia,SAS,1984,1295
+South Asia,SAS,1985,1529
+South Asia,SAS,1986,1911
+South Asia,SAS,1987,2095
+South Asia,SAS,1988,2240
+South Asia,SAS,1989,2407
+South Asia,SAS,1990,2435
+South Asia,SAS,1991,2556
+South Asia,SAS,1992,2781
+South Asia,SAS,1993,3603
+South Asia,SAS,1994,4781
+South Asia,SAS,1995,5855
+South Asia,SAS,1996,6536
+South Asia,SAS,1997,6423
+South Asia,SAS,1998,6319
+South Asia,SAS,1999,6374
+South Asia,SAS,2000,6456
+South Asia,SAS,2001,6196
+South Asia,SAS,2002,5888
+South Asia,SAS,2003,5888
+South Asia,SAS,2004,5152
+South Asia,SAS,2005,5197
+South Asia,SAS,2006,5232
+South Asia,SAS,2007,5333
+South Asia,SAS,2008,5377
+South Asia,SAS,2009,5383
+South Asia,SAS,2010,5467
+South Asia,SAS,2011,5817
+South Asia,SAS,2012,5931
+South Asia,SAS,2013,6064
+South Asia,SAS,2014,6352
+South Asia,SAS,2015,6672
+South Asia,SAS,2016,6672
+South Asia,SAS,2017,6483
+South Asia,SAS,2018,7878
+South Asia,SAS,2019,2855
+South Asia,SAS,2020,2873
+South Asia,SAS,2021,3009
+South Asia,SAS,2022,3136
+South Asia,SAS,2023,3340
+South Asia,SAS,2024,3648
 Saudi Arabia,SAU,2002,68
 Saudi Arabia,SAU,2003,70
 Saudi Arabia,SAU,2004,73
@@ -2937,11 +3568,13 @@ Saudi Arabia,SAU,2014,169
 Saudi Arabia,SAU,2015,171
 Saudi Arabia,SAU,2016,176
 Saudi Arabia,SAU,2017,188
-Seychelles,SYC,2013,1
-Seychelles,SYC,2014,2
-Seychelles,SYC,2015,3
-Seychelles,SYC,2016,8
-Seychelles,SYC,2017,22
+Saudi Arabia,SAU,2018,200
+Saudi Arabia,SAU,2019,204
+Saudi Arabia,SAU,2020,207
+Saudi Arabia,SAU,2021,224
+Saudi Arabia,SAU,2022,269
+Saudi Arabia,SAU,2023,309
+Saudi Arabia,SAU,2024,352
 Singapore,SGP,1979,95
 Singapore,SGP,1980,97
 Singapore,SGP,1981,103
@@ -2981,6 +3614,35 @@ Singapore,SGP,2014,484
 Singapore,SGP,2015,483
 Singapore,SGP,2016,479
 Singapore,SGP,2017,483
+Singapore,SGP,2018,482
+Singapore,SGP,2019,470
+Singapore,SGP,2020,459
+Singapore,SGP,2021,442
+Singapore,SGP,2022,425
+Singapore,SGP,2023,412
+Singapore,SGP,2024,400
+Sub-Saharan Africa (excluding high income),SSA,1993,974
+Sub-Saharan Africa (excluding high income),SSA,1994,977
+Sub-Saharan Africa (excluding high income),SSA,1995,1020
+Sub-Saharan Africa (excluding high income),SSA,1996,1018
+Sub-Saharan Africa (excluding high income),SSA,1997,1004
+Sub-Saharan Africa (excluding high income),SSA,1998,1091
+Sub-Saharan Africa (excluding high income),SSA,1999,1059
+Sub-Saharan Africa (excluding high income),SSA,2004,745
+Sub-Saharan Africa (excluding high income),SSA,2005,734
+Sub-Saharan Africa (excluding high income),SSA,2006,772
+Sub-Saharan Africa (excluding high income),SSA,2019,749
+Sub-Saharan Africa (excluding high income),SSA,2020,758
+Sub-Saharan Africa (excluding high income),SSA,2021,692
+Sub-Saharan Africa,SSF,1993,974
+Sub-Saharan Africa,SSF,1994,977
+Sub-Saharan Africa,SSF,1995,1020
+Sub-Saharan Africa,SSF,1996,1018
+Sub-Saharan Africa,SSF,1997,1004
+Sub-Saharan Africa,SSF,1998,1091
+Sub-Saharan Africa,SSF,1999,1059
+Sub-Saharan Africa,SSF,2019,782
+Sub-Saharan Africa,SSF,2020,798
 Slovak Republic,SVK,1993,9
 Slovak Republic,SVK,1994,13
 Slovak Republic,SVK,1995,15
@@ -3027,6 +3689,560 @@ Slovenia,SVN,2014,51
 Slovenia,SVN,2015,46
 Slovenia,SVN,2016,38
 Slovenia,SVN,2017,35
+Slovenia,SVN,2018,31
+Slovenia,SVN,2019,29
+Slovenia,SVN,2020,27
+Slovenia,SVN,2021,25
+Slovenia,SVN,2022,24
+Slovenia,SVN,2023,23
+Slovenia,SVN,2024,18
+Sweden,SWE,1975,101
+Sweden,SWE,1976,98
+Sweden,SWE,1977,96
+Sweden,SWE,1978,94
+Sweden,SWE,1979,96
+Sweden,SWE,1980,103
+Sweden,SWE,1981,130
+Sweden,SWE,1982,138
+Sweden,SWE,1983,145
+Sweden,SWE,1984,159
+Sweden,SWE,1985,164
+Sweden,SWE,1986,154
+Sweden,SWE,1987,150
+Sweden,SWE,1988,142
+Sweden,SWE,1989,135
+Sweden,SWE,1990,121
+Sweden,SWE,1991,117
+Sweden,SWE,1992,108
+Sweden,SWE,1993,197
+Sweden,SWE,1994,216
+Sweden,SWE,1995,212
+Sweden,SWE,1996,217
+Sweden,SWE,1997,245
+Sweden,SWE,1998,258
+Sweden,SWE,1999,277
+Sweden,SWE,2000,292
+Sweden,SWE,2001,285
+Sweden,SWE,2002,278
+Eswatini,SWZ,1993,4
+Eswatini,SWZ,1994,4
+Eswatini,SWZ,1995,4
+Eswatini,SWZ,1996,5
+Eswatini,SWZ,1997,4
+Eswatini,SWZ,1998,6
+Eswatini,SWZ,1999,7
+Eswatini,SWZ,2000,6
+Eswatini,SWZ,2001,5
+Eswatini,SWZ,2002,5
+Eswatini,SWZ,2003,5
+Eswatini,SWZ,2004,6
+Eswatini,SWZ,2005,6
+Eswatini,SWZ,2006,6
+Eswatini,SWZ,2007,6
+Seychelles,SYC,2013,1
+Seychelles,SYC,2014,2
+Seychelles,SYC,2015,3
+Seychelles,SYC,2016,8
+Seychelles,SYC,2017,22
+Seychelles,SYC,2018,26
+Seychelles,SYC,2019,33
+Seychelles,SYC,2020,40
+Seychelles,SYC,2021,47
+Seychelles,SYC,2022,46
+Seychelles,SYC,2023,24
+Seychelles,SYC,2024,23
+East Asia & Pacific (IDA & IBRD countries),TEA,1995,1704
+East Asia & Pacific (IDA & IBRD countries),TEA,1996,2061
+East Asia & Pacific (IDA & IBRD countries),TEA,1997,2432
+East Asia & Pacific (IDA & IBRD countries),TEA,1998,2563
+East Asia & Pacific (IDA & IBRD countries),TEA,1999,2590
+East Asia & Pacific (IDA & IBRD countries),TEA,2000,2776
+East Asia & Pacific (IDA & IBRD countries),TEA,2001,2894
+East Asia & Pacific (IDA & IBRD countries),TEA,2002,3049
+East Asia & Pacific (IDA & IBRD countries),TEA,2003,3177
+East Asia & Pacific (IDA & IBRD countries),TEA,2004,3364
+East Asia & Pacific (IDA & IBRD countries),TEA,2005,3476
+East Asia & Pacific (IDA & IBRD countries),TEA,2006,3551
+East Asia & Pacific (IDA & IBRD countries),TEA,2007,3670
+East Asia & Pacific (IDA & IBRD countries),TEA,2008,4082
+East Asia & Pacific (IDA & IBRD countries),TEA,2009,4287
+East Asia & Pacific (IDA & IBRD countries),TEA,2010,4867
+East Asia & Pacific (IDA & IBRD countries),TEA,2011,5209
+East Asia & Pacific (IDA & IBRD countries),TEA,2012,5379
+East Asia & Pacific (IDA & IBRD countries),TEA,2013,5399
+East Asia & Pacific (IDA & IBRD countries),TEA,2014,5563
+East Asia & Pacific (IDA & IBRD countries),TEA,2015,5831
+East Asia & Pacific (IDA & IBRD countries),TEA,2016,6102
+East Asia & Pacific (IDA & IBRD countries),TEA,2017,6625
+East Asia & Pacific (IDA & IBRD countries),TEA,2018,6822
+East Asia & Pacific (IDA & IBRD countries),TEA,2019,16052
+East Asia & Pacific (IDA & IBRD countries),TEA,2020,15737
+East Asia & Pacific (IDA & IBRD countries),TEA,2021,15133
+East Asia & Pacific (IDA & IBRD countries),TEA,2022,14780
+East Asia & Pacific (IDA & IBRD countries),TEA,2023,14752
+East Asia & Pacific (IDA & IBRD countries),TEA,2024,13795
+Europe & Central Asia (IDA & IBRD countries),TEC,1986,80
+Europe & Central Asia (IDA & IBRD countries),TEC,1993,244
+Europe & Central Asia (IDA & IBRD countries),TEC,1994,348
+Europe & Central Asia (IDA & IBRD countries),TEC,1995,686
+Europe & Central Asia (IDA & IBRD countries),TEC,1996,631
+Europe & Central Asia (IDA & IBRD countries),TEC,1997,609
+Europe & Central Asia (IDA & IBRD countries),TEC,1998,715
+Europe & Central Asia (IDA & IBRD countries),TEC,2000,756
+Europe & Central Asia (IDA & IBRD countries),TEC,2001,1088
+Europe & Central Asia (IDA & IBRD countries),TEC,2002,1075
+Europe & Central Asia (IDA & IBRD countries),TEC,2003,1306
+Europe & Central Asia (IDA & IBRD countries),TEC,2004,1504
+Europe & Central Asia (IDA & IBRD countries),TEC,2005,1534
+Europe & Central Asia (IDA & IBRD countries),TEC,2006,1700
+Europe & Central Asia (IDA & IBRD countries),TEC,2007,2382
+Europe & Central Asia (IDA & IBRD countries),TEC,2008,2557
+Europe & Central Asia (IDA & IBRD countries),TEC,2009,2075
+Europe & Central Asia (IDA & IBRD countries),TEC,2010,2514
+Europe & Central Asia (IDA & IBRD countries),TEC,2011,2466
+Europe & Central Asia (IDA & IBRD countries),TEC,2012,2239
+Europe & Central Asia (IDA & IBRD countries),TEC,2013,2091
+Europe & Central Asia (IDA & IBRD countries),TEC,2014,2305
+Europe & Central Asia (IDA & IBRD countries),TEC,2015,2446
+Europe & Central Asia (IDA & IBRD countries),TEC,2016,2342
+Europe & Central Asia (IDA & IBRD countries),TEC,2017,1890
+Europe & Central Asia (IDA & IBRD countries),TEC,2018,2092
+Europe & Central Asia (IDA & IBRD countries),TEC,2019,2916
+Europe & Central Asia (IDA & IBRD countries),TEC,2020,2099
+Europe & Central Asia (IDA & IBRD countries),TEC,2021,2059
+Europe & Central Asia (IDA & IBRD countries),TEC,2022,2071
+Europe & Central Asia (IDA & IBRD countries),TEC,2023,2091
+Thailand,THA,1980,72
+Thailand,THA,1981,76
+Thailand,THA,1982,78
+Thailand,THA,1983,85
+Thailand,THA,1984,93
+Thailand,THA,1985,95
+Thailand,THA,1986,92
+Thailand,THA,1987,102
+Thailand,THA,1988,122
+Thailand,THA,1989,145
+Thailand,THA,1990,159
+Thailand,THA,1991,270
+Thailand,THA,1992,315
+Thailand,THA,1993,347
+Thailand,THA,1994,389
+Thailand,THA,1995,416
+Thailand,THA,1996,454
+Thailand,THA,1997,431
+Thailand,THA,1998,418
+Thailand,THA,1999,392
+Thailand,THA,2000,381
+Thailand,THA,2001,382
+Thailand,THA,2002,398
+Thailand,THA,2003,419
+Thailand,THA,2004,463
+Thailand,THA,2005,504
+Thailand,THA,2006,518
+Thailand,THA,2007,523
+Thailand,THA,2008,525
+Thailand,THA,2009,535
+Thailand,THA,2010,541
+Thailand,THA,2011,545
+Thailand,THA,2012,558
+Thailand,THA,2013,584
+Thailand,THA,2014,613
+Thailand,THA,2015,639
+Thailand,THA,2016,656
+Thailand,THA,2017,688
+Thailand,THA,2018,704
+Thailand,THA,2019,725
+Thailand,THA,2020,743
+Thailand,THA,2021,776
+Thailand,THA,2022,810
+Thailand,THA,2023,840
+Thailand,THA,2024,860
+Latin America & the Caribbean (IDA & IBRD countries),TLA,1979,1036
+Latin America & the Caribbean (IDA & IBRD countries),TLA,1980,974
+Latin America & the Caribbean (IDA & IBRD countries),TLA,1981,979
+Latin America & the Caribbean (IDA & IBRD countries),TLA,1982,940
+Latin America & the Caribbean (IDA & IBRD countries),TLA,1984,1143
+Latin America & the Caribbean (IDA & IBRD countries),TLA,1985,1186
+Latin America & the Caribbean (IDA & IBRD countries),TLA,1986,1274
+Latin America & the Caribbean (IDA & IBRD countries),TLA,1987,1266
+Latin America & the Caribbean (IDA & IBRD countries),TLA,1988,1294
+Latin America & the Caribbean (IDA & IBRD countries),TLA,1989,1342
+Latin America & the Caribbean (IDA & IBRD countries),TLA,1990,1585
+Latin America & the Caribbean (IDA & IBRD countries),TLA,1991,1419
+Latin America & the Caribbean (IDA & IBRD countries),TLA,1992,1423
+Latin America & the Caribbean (IDA & IBRD countries),TLA,1993,1801
+Latin America & the Caribbean (IDA & IBRD countries),TLA,1994,1855
+Latin America & the Caribbean (IDA & IBRD countries),TLA,1995,1972
+Latin America & the Caribbean (IDA & IBRD countries),TLA,1996,2032
+Latin America & the Caribbean (IDA & IBRD countries),TLA,1997,2016
+Latin America & the Caribbean (IDA & IBRD countries),TLA,1998,1907
+Latin America & the Caribbean (IDA & IBRD countries),TLA,1999,1784
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2000,1626
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2001,1525
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2002,1395
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2003,1301
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2004,1269
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2005,1245
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2006,1222
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2007,1257
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2008,1250
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2009,1236
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2010,1281
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2011,1260
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2012,1239
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2013,1236
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2014,1254
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2015,1197
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2016,1190
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2017,1197
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2018,1179
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2019,1371
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2020,1390
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2021,1395
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2022,1280
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2023,1244
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2024,1270
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,1997,1874
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,1998,2169
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,1999,2353
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2000,2355
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2001,2389
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2004,2138
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2005,2102
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2006,1892
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2007,1774
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2009,1715
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2010,1637
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2011,1589
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2012,1499
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2013,1494
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2014,1515
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2020,1626
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2021,1645
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2022,1643
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2023,1664
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2024,1682
+South Asia (IDA & IBRD),TSA,1983,1151
+South Asia (IDA & IBRD),TSA,1984,1295
+South Asia (IDA & IBRD),TSA,1985,1529
+South Asia (IDA & IBRD),TSA,1986,1911
+South Asia (IDA & IBRD),TSA,1987,2095
+South Asia (IDA & IBRD),TSA,1988,2240
+South Asia (IDA & IBRD),TSA,1989,2407
+South Asia (IDA & IBRD),TSA,1990,2435
+South Asia (IDA & IBRD),TSA,1991,2556
+South Asia (IDA & IBRD),TSA,1992,2781
+South Asia (IDA & IBRD),TSA,1993,3603
+South Asia (IDA & IBRD),TSA,1994,4781
+South Asia (IDA & IBRD),TSA,1995,5855
+South Asia (IDA & IBRD),TSA,1996,6536
+South Asia (IDA & IBRD),TSA,1997,6423
+South Asia (IDA & IBRD),TSA,1998,6319
+South Asia (IDA & IBRD),TSA,1999,6374
+South Asia (IDA & IBRD),TSA,2000,6456
+South Asia (IDA & IBRD),TSA,2001,6196
+South Asia (IDA & IBRD),TSA,2002,5888
+South Asia (IDA & IBRD),TSA,2003,5888
+South Asia (IDA & IBRD),TSA,2004,5152
+South Asia (IDA & IBRD),TSA,2005,5197
+South Asia (IDA & IBRD),TSA,2006,5232
+South Asia (IDA & IBRD),TSA,2007,5333
+South Asia (IDA & IBRD),TSA,2008,5377
+South Asia (IDA & IBRD),TSA,2009,5383
+South Asia (IDA & IBRD),TSA,2010,5467
+South Asia (IDA & IBRD),TSA,2011,5817
+South Asia (IDA & IBRD),TSA,2012,5931
+South Asia (IDA & IBRD),TSA,2013,6064
+South Asia (IDA & IBRD),TSA,2014,6352
+South Asia (IDA & IBRD),TSA,2015,6672
+South Asia (IDA & IBRD),TSA,2016,6672
+South Asia (IDA & IBRD),TSA,2017,6483
+South Asia (IDA & IBRD),TSA,2018,7878
+South Asia (IDA & IBRD),TSA,2019,2855
+South Asia (IDA & IBRD),TSA,2020,2873
+South Asia (IDA & IBRD),TSA,2021,3009
+South Asia (IDA & IBRD),TSA,2022,3136
+South Asia (IDA & IBRD),TSA,2023,3340
+South Asia (IDA & IBRD),TSA,2024,3648
+Sub-Saharan Africa (IDA & IBRD countries),TSS,1993,974
+Sub-Saharan Africa (IDA & IBRD countries),TSS,1994,977
+Sub-Saharan Africa (IDA & IBRD countries),TSS,1995,1020
+Sub-Saharan Africa (IDA & IBRD countries),TSS,1996,1018
+Sub-Saharan Africa (IDA & IBRD countries),TSS,1997,1004
+Sub-Saharan Africa (IDA & IBRD countries),TSS,1998,1091
+Sub-Saharan Africa (IDA & IBRD countries),TSS,1999,1059
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2019,782
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2020,798
+Trinidad and Tobago,TTO,2001,26
+Tunisia,TUN,1994,20
+Tunisia,TUN,1995,24
+Tunisia,TUN,1996,28
+Tunisia,TUN,1997,32
+Tunisia,TUN,1998,36
+Tunisia,TUN,1999,44
+Tunisia,TUN,2000,44
+Tunisia,TUN,2001,45
+Tunisia,TUN,2002,46
+Tunisia,TUN,2003,45
+Tunisia,TUN,2004,44
+Tunisia,TUN,2005,45
+Tunisia,TUN,2006,48
+Tunisia,TUN,2007,51
+Tunisia,TUN,2008,50
+Tunisia,TUN,2009,52
+Tunisia,TUN,2010,56
+Tunisia,TUN,2011,57
+Tunisia,TUN,2012,59
+Tunisia,TUN,2013,71
+Tunisia,TUN,2014,77
+Tunisia,TUN,2015,78
+Tunisia,TUN,2016,79
+Tunisia,TUN,2017,81
+Tunisia,TUN,2018,82
+Tunisia,TUN,2019,81
+Tunisia,TUN,2020,80
+Tunisia,TUN,2021,80
+Tunisia,TUN,2022,82
+Tunisia,TUN,2023,78
+Tunisia,TUN,2024,74
+Turkiye,TUR,1986,80
+Turkiye,TUR,1987,82
+Turkiye,TUR,1988,79
+Turkiye,TUR,1989,76
+Turkiye,TUR,1990,110
+Turkiye,TUR,1991,134
+Turkiye,TUR,1992,145
+Turkiye,TUR,1993,160
+Turkiye,TUR,1994,176
+Turkiye,TUR,1995,205
+Turkiye,TUR,1996,228
+Turkiye,TUR,1997,258
+Turkiye,TUR,1998,262
+Turkiye,TUR,1999,286
+Turkiye,TUR,2000,315
+Turkiye,TUR,2001,310
+Turkiye,TUR,2002,288
+Turkiye,TUR,2003,244
+Turkiye,TUR,2004,253
+Turkiye,TUR,2005,257
+Turkiye,TUR,2006,259
+Turkiye,TUR,2007,259
+Turkiye,TUR,2008,250
+Turkiye,TUR,2009,248
+Turkiye,TUR,2010,263
+Turkiye,TUR,2011,263
+Turkiye,TUR,2012,242
+Turkiye,TUR,2013,235
+Turkiye,TUR,2014,226
+Turkiye,TUR,2015,392
+Turkiye,TUR,2016,380
+Turkiye,TUR,2017,374
+Turkiye,TUR,2018,377
+Turkiye,TUR,2019,378
+Turkiye,TUR,2020,371
+Turkiye,TUR,2021,379
+Turkiye,TUR,2022,463
+Turkiye,TUR,2023,517
+Turkiye,TUR,2024,551
+Tanzania,TZA,1999,3
+Tanzania,TZA,2000,4
+Tanzania,TZA,2001,4
+Tanzania,TZA,2019,22
+Tanzania,TZA,2020,22
+Tanzania,TZA,2021,22
+Tanzania,TZA,2022,22
+Tanzania,TZA,2023,22
+Tanzania,TZA,2024,22
+Ukraine,UKR,2014,172
+Ukraine,UKR,2015,158
+Ukraine,UKR,2016,121
+Ukraine,UKR,2017,94
+Ukraine,UKR,2018,78
+Upper middle income,UMC,1991,2685
+Upper middle income,UMC,1992,2753
+Upper middle income,UMC,1993,3131
+Upper middle income,UMC,1994,3327
+Upper middle income,UMC,1995,3851
+Upper middle income,UMC,1996,4338
+Upper middle income,UMC,1997,4783
+Upper middle income,UMC,1998,4953
+Upper middle income,UMC,1999,4881
+Upper middle income,UMC,2000,4895
+Upper middle income,UMC,2001,4874
+Upper middle income,UMC,2002,4930
+Upper middle income,UMC,2003,4945
+Upper middle income,UMC,2004,5161
+Upper middle income,UMC,2005,5220
+Upper middle income,UMC,2006,5234
+Upper middle income,UMC,2007,5749
+Upper middle income,UMC,2008,5932
+Upper middle income,UMC,2009,5569
+Upper middle income,UMC,2010,6375
+Upper middle income,UMC,2011,6413
+Upper middle income,UMC,2012,6495
+Upper middle income,UMC,2013,6386
+Upper middle income,UMC,2014,6790
+Upper middle income,UMC,2015,7188
+Upper middle income,UMC,2016,7399
+Upper middle income,UMC,2017,7837
+Upper middle income,UMC,2018,8140
+Upper middle income,UMC,2019,18234
+Upper middle income,UMC,2020,17061
+Upper middle income,UMC,2021,16501
+Upper middle income,UMC,2022,16451
+Upper middle income,UMC,2023,16460
+Upper middle income,UMC,2024,15516
+Uruguay,URY,1995,18
+Uruguay,URY,1996,18
+Uruguay,URY,1998,18
+Uruguay,URY,1999,17
+United States,USA,1975,2670
+United States,USA,1976,2680
+United States,USA,1977,2582
+United States,USA,1978,2489
+United States,USA,1979,2401
+United States,USA,1980,5164
+United States,USA,1981,5590
+United States,USA,1982,5430
+United States,USA,1983,6175
+United States,USA,1984,6230
+United States,USA,1985,6260
+United States,USA,1986,6580
+United States,USA,1987,7001
+United States,USA,1988,6795
+United States,USA,1989,6627
+United States,USA,1990,6429
+United States,USA,1991,6513
+United States,USA,1992,6562
+United States,USA,1993,6912
+United States,USA,1994,7255
+United States,USA,1995,7487
+United States,USA,1996,8090
+United States,USA,1997,7905
+United States,USA,1998,7499
+United States,USA,1999,7229
+United States,USA,2000,6917
+United States,USA,2001,6177
+United States,USA,2002,5685
+United States,USA,2003,5295
+United States,USA,2004,5226
+United States,USA,2005,5145
+United States,USA,2006,5133
+United States,USA,2007,5109
+United States,USA,2008,4666
+United States,USA,2009,4401
+United States,USA,2010,4279
+United States,USA,2011,4171
+United States,USA,2012,4102
+United States,USA,2013,4180
+United States,USA,2014,4369
+United States,USA,2015,4381
+United States,USA,2016,4331
+United States,USA,2017,4336
+United States,USA,2018,4013
+United States,USA,2019,3910
+United States,USA,2020,4104
+United States,USA,2021,4774
+United States,USA,2022,4642
+United States,USA,2023,4317
+United States,USA,2024,4010
+Uzbekistan,UZB,2020,144
+Uzbekistan,UZB,2021,135
+Uzbekistan,UZB,2022,107
+Uzbekistan,UZB,2023,112
+Uzbekistan,UZB,2024,89
+"Venezuela, RB",VEN,1990,118
+"Venezuela, RB",VEN,1991,150
+"Venezuela, RB",VEN,1992,139
+"Venezuela, RB",VEN,1993,157
+"Venezuela, RB",VEN,1994,155
+"Venezuela, RB",VEN,1995,86
+"Venezuela, RB",VEN,1996,154
+"Venezuela, RB",VEN,1997,158
+"Venezuela, RB",VEN,1998,73
+"Venezuela, RB",VEN,1999,70
+"Venezuela, RB",VEN,2000,66
+"Venezuela, RB",VEN,2001,63
+"Venezuela, RB",VEN,2002,57
+"Venezuela, RB",VEN,2003,54
+"Venezuela, RB",VEN,2004,52
+"Venezuela, RB",VEN,2005,51
+"Venezuela, RB",VEN,2006,55
+"Venezuela, RB",VEN,2007,59
+"Venezuela, RB",VEN,2008,62
+"Venezuela, RB",VEN,2009,62
+"Venezuela, RB",VEN,2010,55
+"Venezuela, RB",VEN,2011,41
+"Venezuela, RB",VEN,2012,41
+"Venezuela, RB",VEN,2013,39
+"Venezuela, RB",VEN,2014,37
+Viet Nam,VNM,2008,330
+Viet Nam,VNM,2009,445
+Viet Nam,VNM,2010,634
+Viet Nam,VNM,2011,687
+Viet Nam,VNM,2012,697
+Viet Nam,VNM,2013,678
+Viet Nam,VNM,2014,670
+Viet Nam,VNM,2015,684
+Viet Nam,VNM,2016,696
+Viet Nam,VNM,2017,728
+Viet Nam,VNM,2018,749
+Viet Nam,VNM,2019,745
+Viet Nam,VNM,2020,745
+Viet Nam,VNM,2021,749
+Viet Nam,VNM,2022,402
+Viet Nam,VNM,2023,394
+Viet Nam,VNM,2024,393
+World,WLD,1975,14577
+World,WLD,1976,14152
+World,WLD,1977,13328
+World,WLD,1978,13712
+World,WLD,1979,14099
+World,WLD,1980,17273
+World,WLD,1981,17335
+World,WLD,1982,16968
+World,WLD,1983,18876
+World,WLD,1984,19829
+World,WLD,1985,20555
+World,WLD,1986,22094
+World,WLD,1987,23783
+World,WLD,1988,23634
+World,WLD,1989,23671
+World,WLD,1990,23732
+World,WLD,1991,24666
+World,WLD,1992,24947
+World,WLD,1993,28300
+World,WLD,1994,30290
+World,WLD,1995,33379
+World,WLD,1996,35617
+World,WLD,1997,36946
+World,WLD,1998,37928
+World,WLD,1999,38414
+World,WLD,2000,39892
+World,WLD,2001,40157
+World,WLD,2002,38894
+World,WLD,2003,41051
+World,WLD,2004,38724
+World,WLD,2005,39096
+World,WLD,2006,43104
+World,WLD,2007,44034
+World,WLD,2008,43949
+World,WLD,2009,42669
+World,WLD,2010,43427
+World,WLD,2011,44323
+World,WLD,2012,43772
+World,WLD,2013,44853
+World,WLD,2014,45743
+World,WLD,2015,43983
+World,WLD,2016,43806
+World,WLD,2017,43440
+World,WLD,2018,45050
+World,WLD,2019,49931
+World,WLD,2020,50056
+World,WLD,2021,52289
+World,WLD,2022,51027
+World,WLD,2023,48642
+World,WLD,2024,47019
 South Africa,ZAF,1975,577
 South Africa,ZAF,1976,545
 South Africa,ZAF,1977,547
@@ -3070,406 +4286,13 @@ South Africa,ZAF,2014,322
 South Africa,ZAF,2015,316
 South Africa,ZAF,2016,303
 South Africa,ZAF,2017,294
-Spain,ESP,1975,941
-Spain,ESP,1976,1019
-Spain,ESP,1977,519
-Spain,ESP,1978,1034
-Spain,ESP,1979,978
-Spain,ESP,1980,943
-Spain,ESP,1981,944
-Spain,ESP,1982,874
-Spain,ESP,1983,772
-Spain,ESP,1984,750
-Spain,ESP,1985,687
-Spain,ESP,1986,636
-Spain,ESP,1987,642
-Spain,ESP,1988,691
-Spain,ESP,1989,866
-Spain,ESP,1990,906
-Spain,ESP,1991,1221
-Spain,ESP,1992,1131
-Spain,ESP,1993,1075
-Spain,ESP,1994,729
-Spain,ESP,1995,1138
-Spain,ESP,1996,1130
-Spain,ESP,1997,1188
-Spain,ESP,1998,1423
-Spain,ESP,1999,1488
-Spain,ESP,2000,1720
-Spain,ESP,2001,2959
-Spain,ESP,2002,2986
-Spain,ESP,2003,3191
-Spain,ESP,2006,3339
-Spain,ESP,2007,3498
-Spain,ESP,2008,3538
-Spain,ESP,2009,3435
-Spain,ESP,2010,3310
-Spain,ESP,2011,3241
-Spain,ESP,2012,3167
-Spain,ESP,2013,3213
-Spain,ESP,2014,3419
-Spain,ESP,2015,3623
-Spain,ESP,2016,3480
-Spain,ESP,2017,3110
-Sri Lanka,LKA,1993,197
-Sri Lanka,LKA,1994,211
-Sri Lanka,LKA,1995,226
-Sri Lanka,LKA,1996,235
-Sri Lanka,LKA,1997,239
-Sri Lanka,LKA,1998,240
-Sri Lanka,LKA,1999,237
-Sri Lanka,LKA,2000,239
-Sri Lanka,LKA,2001,238
-Sri Lanka,LKA,2002,238
-Sri Lanka,LKA,2003,244
-Sri Lanka,LKA,2004,242
-Sri Lanka,LKA,2005,239
-Sri Lanka,LKA,2006,237
-Sri Lanka,LKA,2007,235
-Sri Lanka,LKA,2008,235
-Sri Lanka,LKA,2009,231
-Sri Lanka,LKA,2010,241
-Sri Lanka,LKA,2011,272
-Sri Lanka,LKA,2012,287
-Sri Lanka,LKA,2013,289
-Sri Lanka,LKA,2014,294
-Sri Lanka,LKA,2015,294
-Sri Lanka,LKA,2016,295
-Sri Lanka,LKA,2017,296
-Swaziland,SWZ,1993,4
-Swaziland,SWZ,1994,4
-Swaziland,SWZ,1995,4
-Swaziland,SWZ,1996,5
-Swaziland,SWZ,1997,4
-Swaziland,SWZ,1998,6
-Swaziland,SWZ,1999,7
-Swaziland,SWZ,2000,6
-Swaziland,SWZ,2001,5
-Swaziland,SWZ,2002,5
-Swaziland,SWZ,2003,5
-Swaziland,SWZ,2004,6
-Swaziland,SWZ,2005,6
-Swaziland,SWZ,2006,6
-Swaziland,SWZ,2007,6
-Sweden,SWE,1975,101
-Sweden,SWE,1976,98
-Sweden,SWE,1977,96
-Sweden,SWE,1978,94
-Sweden,SWE,1979,96
-Sweden,SWE,1980,103
-Sweden,SWE,1981,130
-Sweden,SWE,1982,138
-Sweden,SWE,1983,145
-Sweden,SWE,1984,159
-Sweden,SWE,1985,164
-Sweden,SWE,1986,154
-Sweden,SWE,1987,150
-Sweden,SWE,1988,142
-Sweden,SWE,1989,135
-Sweden,SWE,1990,121
-Sweden,SWE,1991,117
-Sweden,SWE,1992,108
-Sweden,SWE,1993,197
-Sweden,SWE,1994,216
-Sweden,SWE,1995,212
-Sweden,SWE,1996,217
-Sweden,SWE,1997,245
-Sweden,SWE,1998,258
-Sweden,SWE,1999,277
-Sweden,SWE,2000,292
-Sweden,SWE,2001,285
-Sweden,SWE,2002,278
-Switzerland,CHE,1975,104
-Switzerland,CHE,1976,106
-Switzerland,CHE,1977,116
-Switzerland,CHE,1978,116
-Switzerland,CHE,1979,117
-Switzerland,CHE,1980,118
-Switzerland,CHE,1981,121
-Switzerland,CHE,1982,119
-Switzerland,CHE,1983,120
-Switzerland,CHE,1984,121
-Switzerland,CHE,1985,131
-Switzerland,CHE,1986,145
-Switzerland,CHE,1987,153
-Switzerland,CHE,1988,161
-Switzerland,CHE,1989,177
-Switzerland,CHE,1990,182
-Switzerland,CHE,1991,182
-Switzerland,CHE,1992,180
-Switzerland,CHE,1993,215
-Switzerland,CHE,1994,216
-Switzerland,CHE,1995,216
-Switzerland,CHE,1996,213
-Switzerland,CHE,1997,216
-Switzerland,CHE,1998,232
-Switzerland,CHE,1999,239
-Switzerland,CHE,2000,252
-Switzerland,CHE,2001,263
-Switzerland,CHE,2002,258
-Switzerland,CHE,2003,289
-Switzerland,CHE,2004,282
-Switzerland,CHE,2005,284
-Switzerland,CHE,2006,256
-Switzerland,CHE,2007,257
-Switzerland,CHE,2008,253
-Switzerland,CHE,2009,257
-Switzerland,CHE,2010,246
-Switzerland,CHE,2011,246
-Switzerland,CHE,2012,238
-Switzerland,CHE,2013,236
-Switzerland,CHE,2014,240
-Switzerland,CHE,2015,234
-Switzerland,CHE,2016,227
-Switzerland,CHE,2017,228
-Tanzania,TZA,1999,3
-Tanzania,TZA,2000,4
-Tanzania,TZA,2001,4
-Thailand,THA,1980,72
-Thailand,THA,1981,76
-Thailand,THA,1982,78
-Thailand,THA,1983,85
-Thailand,THA,1984,93
-Thailand,THA,1985,95
-Thailand,THA,1986,92
-Thailand,THA,1987,102
-Thailand,THA,1988,122
-Thailand,THA,1989,145
-Thailand,THA,1990,159
-Thailand,THA,1991,270
-Thailand,THA,1992,315
-Thailand,THA,1993,347
-Thailand,THA,1994,1689
-Thailand,THA,1995,416
-Thailand,THA,1996,454
-Thailand,THA,1997,431
-Thailand,THA,1998,418
-Thailand,THA,1999,392
-Thailand,THA,2000,381
-Thailand,THA,2001,382
-Thailand,THA,2002,398
-Thailand,THA,2003,419
-Thailand,THA,2004,463
-Thailand,THA,2005,504
-Thailand,THA,2006,518
-Thailand,THA,2007,523
-Thailand,THA,2008,525
-Thailand,THA,2009,535
-Thailand,THA,2010,541
-Thailand,THA,2011,545
-Thailand,THA,2012,558
-Thailand,THA,2013,584
-Thailand,THA,2014,613
-Thailand,THA,2015,639
-Thailand,THA,2016,656
-Thailand,THA,2017,688
-Trinidad and Tobago,TTO,2001,26
-Tunisia,TUN,1994,20
-Tunisia,TUN,1995,24
-Tunisia,TUN,1996,28
-Tunisia,TUN,1997,32
-Tunisia,TUN,1998,36
-Tunisia,TUN,1999,44
-Tunisia,TUN,2000,44
-Tunisia,TUN,2001,45
-Tunisia,TUN,2002,46
-Tunisia,TUN,2003,45
-Tunisia,TUN,2004,44
-Tunisia,TUN,2005,45
-Tunisia,TUN,2006,48
-Tunisia,TUN,2007,51
-Tunisia,TUN,2008,50
-Tunisia,TUN,2009,52
-Tunisia,TUN,2010,56
-Tunisia,TUN,2011,57
-Tunisia,TUN,2012,59
-Tunisia,TUN,2013,71
-Tunisia,TUN,2014,77
-Tunisia,TUN,2015,78
-Tunisia,TUN,2016,79
-Tunisia,TUN,2017,81
-Turkey,TUR,1986,80
-Turkey,TUR,1987,82
-Turkey,TUR,1988,79
-Turkey,TUR,1989,76
-Turkey,TUR,1990,110
-Turkey,TUR,1991,134
-Turkey,TUR,1992,145
-Turkey,TUR,1993,160
-Turkey,TUR,1994,176
-Turkey,TUR,1995,205
-Turkey,TUR,1996,228
-Turkey,TUR,1997,258
-Turkey,TUR,1998,262
-Turkey,TUR,1999,286
-Turkey,TUR,2000,315
-Turkey,TUR,2001,310
-Turkey,TUR,2002,288
-Turkey,TUR,2003,244
-Turkey,TUR,2004,253
-Turkey,TUR,2005,257
-Turkey,TUR,2006,259
-Turkey,TUR,2007,259
-Turkey,TUR,2008,250
-Turkey,TUR,2009,248
-Turkey,TUR,2010,263
-Turkey,TUR,2011,263
-Turkey,TUR,2012,242
-Turkey,TUR,2013,235
-Turkey,TUR,2014,226
-Turkey,TUR,2015,392
-Turkey,TUR,2016,380
-Turkey,TUR,2017,374
-Ukraine,UKR,2014,172
-Ukraine,UKR,2015,158
-Ukraine,UKR,2016,121
-Ukraine,UKR,2017,94
-United Arab Emirates,ARE,2008,103
-United Arab Emirates,ARE,2009,104
-United Arab Emirates,ARE,2010,104
-United Arab Emirates,ARE,2011,108
-United Arab Emirates,ARE,2012,107
-United Arab Emirates,ARE,2013,117
-United Arab Emirates,ARE,2014,120
-United Arab Emirates,ARE,2015,125
-United Arab Emirates,ARE,2016,125
-United Arab Emirates,ARE,2017,127
-United Kingdom,GBR,1975,2820
-United Kingdom,GBR,1976,2568
-United Kingdom,GBR,1977,2853
-United Kingdom,GBR,1978,2795
-United Kingdom,GBR,1979,2722
-United Kingdom,GBR,1980,2659
-United Kingdom,GBR,1981,2403
-United Kingdom,GBR,1982,2279
-United Kingdom,GBR,1983,2217
-United Kingdom,GBR,1984,2171
-United Kingdom,GBR,1985,2116
-United Kingdom,GBR,1986,2101
-United Kingdom,GBR,1987,2061
-United Kingdom,GBR,1988,1993
-United Kingdom,GBR,1989,1955
-United Kingdom,GBR,1990,1946
-United Kingdom,GBR,1991,2027
-United Kingdom,GBR,1992,1918
-United Kingdom,GBR,1993,1927
-United Kingdom,GBR,1994,1747
-United Kingdom,GBR,1995,1971
-United Kingdom,GBR,1996,2041
-United Kingdom,GBR,1997,2046
-United Kingdom,GBR,1998,2399
-United Kingdom,GBR,1999,2292
-United Kingdom,GBR,2000,2428
-United Kingdom,GBR,2001,2438
-United Kingdom,GBR,2002,2405
-United Kingdom,GBR,2003,2311
-United Kingdom,GBR,2004,2486
-United Kingdom,GBR,2005,2757
-United Kingdom,GBR,2006,2913
-United Kingdom,GBR,2007,2588
-United Kingdom,GBR,2008,2415
-United Kingdom,GBR,2009,2179
-United Kingdom,GBR,2010,2105
-United Kingdom,GBR,2011,1987
-United Kingdom,GBR,2012,1879
-United Kingdom,GBR,2013,1857
-United Kingdom,GBR,2014,1858
-United States,USA,1980,5164
-United States,USA,1981,5590
-United States,USA,1982,5430
-United States,USA,1983,6175
-United States,USA,1984,6230
-United States,USA,1985,6260
-United States,USA,1986,6580
-United States,USA,1987,7001
-United States,USA,1988,6795
-United States,USA,1989,6627
-United States,USA,1990,6429
-United States,USA,1991,6513
-United States,USA,1992,6562
-United States,USA,1993,6912
-United States,USA,1994,7255
-United States,USA,1995,7487
-United States,USA,1996,8090
-United States,USA,1997,7905
-United States,USA,1998,7499
-United States,USA,1999,7229
-United States,USA,2000,6917
-United States,USA,2001,6177
-United States,USA,2002,5685
-United States,USA,2003,5295
-United States,USA,2004,5226
-United States,USA,2005,5145
-United States,USA,2006,5133
-United States,USA,2007,5109
-United States,USA,2008,4666
-United States,USA,2009,4401
-United States,USA,2010,4279
-United States,USA,2011,4171
-United States,USA,2012,4102
-United States,USA,2013,4180
-United States,USA,2014,4369
-United States,USA,2015,4381
-United States,USA,2016,4331
-United States,USA,2017,4336
-Uruguay,URY,1995,18
-Uruguay,URY,1996,18
-Uruguay,URY,1998,18
-Uruguay,URY,1999,17
-"Venezuela, RB",VEN,1990,118
-"Venezuela, RB",VEN,1991,150
-"Venezuela, RB",VEN,1992,139
-"Venezuela, RB",VEN,1993,157
-"Venezuela, RB",VEN,1994,155
-"Venezuela, RB",VEN,1995,86
-"Venezuela, RB",VEN,1996,154
-"Venezuela, RB",VEN,1997,158
-"Venezuela, RB",VEN,1998,73
-"Venezuela, RB",VEN,1999,70
-"Venezuela, RB",VEN,2000,66
-"Venezuela, RB",VEN,2001,63
-"Venezuela, RB",VEN,2002,57
-"Venezuela, RB",VEN,2003,54
-"Venezuela, RB",VEN,2004,52
-"Venezuela, RB",VEN,2005,51
-"Venezuela, RB",VEN,2006,55
-"Venezuela, RB",VEN,2007,59
-"Venezuela, RB",VEN,2008,62
-"Venezuela, RB",VEN,2009,62
-"Venezuela, RB",VEN,2010,55
-"Venezuela, RB",VEN,2011,41
-"Venezuela, RB",VEN,2012,41
-"Venezuela, RB",VEN,2013,39
-"Venezuela, RB",VEN,2014,37
-Vietnam,VNM,2008,162
-Vietnam,VNM,2009,188
-Vietnam,VNM,2010,267
-Vietnam,VNM,2011,294
-Vietnam,VNM,2012,301
-Vietnam,VNM,2013,301
-Vietnam,VNM,2014,305
-Vietnam,VNM,2015,307
-Vietnam,VNM,2016,320
-Vietnam,VNM,2017,344
-West Bank and Gaza,PSE,1999,24
-West Bank and Gaza,PSE,2000,25
-West Bank and Gaza,PSE,2001,25
-West Bank and Gaza,PSE,2002,28
-West Bank and Gaza,PSE,2003,26
-West Bank and Gaza,PSE,2004,27
-West Bank and Gaza,PSE,2005,28
-West Bank and Gaza,PSE,2006,32
-West Bank and Gaza,PSE,2007,34
-West Bank and Gaza,PSE,2008,36
-West Bank and Gaza,PSE,2009,38
-West Bank and Gaza,PSE,2010,39
-West Bank and Gaza,PSE,2011,45
-West Bank and Gaza,PSE,2012,47
-West Bank and Gaza,PSE,2013,48
-West Bank and Gaza,PSE,2014,48
-West Bank and Gaza,PSE,2015,49
-West Bank and Gaza,PSE,2016,48
-West Bank and Gaza,PSE,2017,48
+South Africa,ZAF,2018,289
+South Africa,ZAF,2019,274
+South Africa,ZAF,2020,264
+South Africa,ZAF,2021,252
+South Africa,ZAF,2022,237
+South Africa,ZAF,2023,224
+South Africa,ZAF,2024,220
 Zambia,ZMB,1995,2
 Zambia,ZMB,1996,5
 Zambia,ZMB,1997,6
@@ -3483,6 +4306,11 @@ Zambia,ZMB,2004,11
 Zambia,ZMB,2005,12
 Zambia,ZMB,2006,14
 Zambia,ZMB,2011,20
+Zambia,ZMB,2020,23
+Zambia,ZMB,2021,22
+Zambia,ZMB,2022,22
+Zambia,ZMB,2023,22
+Zambia,ZMB,2024,20
 Zimbabwe,ZWE,1993,62
 Zimbabwe,ZWE,1994,65
 Zimbabwe,ZWE,1995,65

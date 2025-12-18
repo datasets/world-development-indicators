@@ -1,0 +1,1 @@
+Prevalence of severe wasting is the proportion of children under age 5 whose weight for height is more than three standard deviations below the median for the international reference population ages 0-59 months.

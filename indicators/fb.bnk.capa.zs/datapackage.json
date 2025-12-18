@@ -1,1 +1,50 @@
-{"title": "Bank capital to assets ratio (%)", "name": "fb.bnk.capa.zs", "worldbank": {"indicator": "fb.bnk.capa.zs"}, "readme": "Bank capital to assets is the ratio of bank capital and reserves to total assets. Capital and reserves include funds contributed by owners, retained earnings, general and special reserves, provisions, and valuation adjustments. Capital includes tier 1 capital (paid-up shares and common stock), which is a common feature in all countries banking systems, and total regulatory capital, which includes several specified types of subordinated debt instruments that need not be repaid if the funds are required to maintain minimum capital levels (these comprise tier 2 and tier 3 capital). Total assets include all nonfinancial and financial assets.", "licenses": [{"name": "CC-BY-4.0"}], "keywords": ["Financial Sector "], "resources": [{"name": "data", "title": "Indicator data", "path": "data.csv", "format": "csv", "mediatype": "text/csv", "encoding": "utf-8", "schema": {"fields": [{"name": "Country Name", "type": "string", "description": "Country or Region name"}, {"name": "Country Code", "type": "string", "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"}, {"name": "Year", "type": "year", "description": "Year"}, {"name": "Value", "type": "number", "description": "Bank capital to assets is the ratio of bank capital and reserves to total assets. Capital and reserves include funds contributed by owners, retained earnings, general and special reserves, provisions, and valuation adjustments. Capital includes tier 1 capital (paid-up shares and common stock), which is a common feature in all countries banking systems, and total regulatory capital, which includes several specified types of subordinated debt instruments that need not be repaid if the funds are required to maintain minimum capital levels (these comprise tier 2 and tier 3 capital). Total assets include all nonfinancial and financial assets."}]}, "dialect": {"delimiter": ",", "quoteChar": "\""}}]}
+{
+  "title": "Bank capital to assets ratio (%)",
+  "name": "fb.bnk.capa.zs",
+  "worldbank": {
+    "indicator": "fb.bnk.capa.zs"
+  },
+  "readme": "The indicator is a measure of capital adequacy that evaluates the financial strength of deposit takers by comparing Tier 1 capital to total assets. Tier 1 capital, often referred to as core capital, includes the most stable and readily available forms of capital, such as common equity, disclosed reserves, retained earnings, and certain other instruments that meet regulatory requirements under the Basel framework. This capital is considered the highest quality because it is fully available to cover losses and does not need to be repaid.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Financial Sector "
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "The indicator is a measure of capital adequacy that evaluates the financial strength of deposit takers by comparing Tier 1 capital to total assets. Tier 1 capital, often referred to as core capital, includes the most stable and readily available forms of capital, such as common equity, disclosed reserves, retained earnings, and certain other instruments that meet regulatory requirements under the Basel framework. This capital is considered the highest quality because it is fully available to cover losses and does not need to be repaid."
+          }
+        ]
+      }
+    }
+  ]
+}

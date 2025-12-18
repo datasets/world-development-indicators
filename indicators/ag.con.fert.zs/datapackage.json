@@ -21,10 +21,6 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "dialect": {
-        "delimiter": ",",
-        "quoteChar": "\""
-      },
       "schema": {
         "fields": [
           {

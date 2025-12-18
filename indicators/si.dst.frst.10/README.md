@@ -1,0 +1,1 @@
+Percentage share of income or consumption is the share that accrues to subgroups of population indicated by deciles or quintiles.

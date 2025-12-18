@@ -1,1 +1,1 @@
-Mean consumption or income per capita (2011 PPP $ per day) used in calculating the growth rate in the welfare aggregate of total population.
+Mean consumption or income per capita (2021 PPP $ per day) used in calculating the growth rate in the welfare aggregate of total population.
