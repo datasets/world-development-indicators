@@ -1,5 +1,5 @@
 {
-  "title": "Statistical Capacity score (Overall average)",
+  "title": "Overall level of statistical capacity (scale 0 - 100)",
   "name": "iq.sci.ovrl",
   "worldbank": {
     "indicator": "iq.sci.ovrl"

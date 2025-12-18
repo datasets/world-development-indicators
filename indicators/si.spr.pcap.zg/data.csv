@@ -1,92 +1,124 @@
 Country Name,Country Code,Year,Value
-Albania,ALB,2012,-1.31
-Argentina,ARG,2016,0
-Armenia,ARM,2016,4.58
-Austria,AUT,2015,-0.28
+Albania,ALB,2020,2.36
+United Arab Emirates,ARE,2018,1.84
+Argentina,ARG,2024,-1.44
+Armenia,ARM,2023,-0.66
+Australia,AUS,2018,-0.26
+Austria,AUT,2023,1.14
+Belgium,BEL,2023,1.12
+Benin,BEN,2021,2.31
+Burkina Faso,BFA,2021,-1.1
 Bangladesh,BGD,2016,1.54
-Belarus,BLR,2016,3.46
-Belgium,BEL,2015,0.48
-Benin,BEN,2015,0.04
-Bolivia,BOL,2016,1.06
-Bosnia and Herzegovina,BIH,2015,-0.79
-Brazil,BRA,2015,2.19
-Bulgaria,BGR,2014,2.11
-Burkina Faso,BFA,2014,2.93
-Chile,CHL,2015,5.49
-China,CHN,2012,8.23
-Colombia,COL,2016,1.48
-Costa Rica,CRI,2016,1.95
-Cote d'Ivoire,CIV,2015,-0.22
-Croatia,HRV,2015,-0.65
-Cyprus,CYP,2015,-3.04
-Czech Republic,CZE,2015,1.03
-Denmark,DNK,2015,0.45
-Dominican Republic,DOM,2016,3.53
-Ecuador,ECU,2016,1.92
-"Egypt, Arab Rep.",EGY,2012,0.78
-El Salvador,SLV,2016,2.93
-Estonia,EST,2015,6.62
-Ethiopia,ETH,2015,4.91
-Fiji,FJI,2013,-0.86
-Finland,FIN,2015,0.17
-France,FRA,2015,0.21
-"Gambia, The",GMB,2015,-0.48
-Georgia,GEO,2016,4.32
-Germany,DEU,2011,-0.29
-Greece,GRC,2015,-6.98
-Honduras,HND,2016,-1.95
-Hungary,HUN,2015,1.73
-Iceland,ISL,2014,-1.91
-Indonesia,IDN,2014,3.62
-"Iran, Islamic Rep.",IRN,2014,-1.26
-Ireland,IRL,2014,-0.23
-Italy,ITA,2014,-1.9
-Jordan,JOR,2010,5.66
-Kazakhstan,KAZ,2015,3.47
-Kosovo,XKX,2015,1.57
-Kyrgyz Republic,KGZ,2016,-0.03
-Latvia,LVA,2015,6.47
-Lithuania,LTU,2015,8.1
-Luxembourg,LUX,2014,-0.28
-"Macedonia, FYR",MKD,2014,1.9
-Madagascar,MDG,2012,-1.05
-Malta,MLT,2014,3.67
-Mauritania,MRT,2014,1.44
-Mexico,MEX,2014,0.74
-Moldova,MDA,2016,0.39
-Mongolia,MNG,2016,-0.03
-Montenegro,MNE,2014,-2.27
-Mozambique,MOZ,2014,5.25
-Netherlands,NLD,2015,0.85
+Bulgaria,BGR,2023,6.19
+Belarus,BLR,2020,2.6
+Bolivia,BOL,2023,1.6
+Brazil,BRA,2023,1.25
+Bhutan,BTN,2017,1.67
+Botswana,BWA,2015,-0.79
+Canada,CAN,2021,1.91
+Switzerland,CHE,2022,0.18
+Chile,CHL,2022,2.17
+China,CHN,2021,5.19
+Cote d'Ivoire,CIV,2021,-0.67
+Cameroon,CMR,2014,3.84
+"Congo, Dem. Rep.",COD,2012,9.78
+"Congo, Rep.",COG,2011,4.65
+Colombia,COL,2020,-2.65
+Costa Rica,CRI,2024,1.9
+Cyprus,CYP,2023,2.19
+Czechia,CZE,2023,0.36
+Germany,DEU,2020,2.86
+Denmark,DNK,2023,0.45
+Dominican Republic,DOM,2024,2.02
+Ecuador,ECU,2024,-1.41
+"Egypt, Arab Rep.",EGY,2021,1.95
+Spain,ESP,2023,1.78
+Estonia,EST,2023,0.96
+Ethiopia,ETH,2021,-2.4
+Finland,FIN,2023,-0.2
+Fiji,FJI,2013,-0.51
+France,FRA,2023,-0.44
+United Kingdom,GBR,2021,0.56
+Georgia,GEO,2024,4.69
+Ghana,GHA,2016,1.27
+Guinea,GIN,2012,5.02
+"Gambia, The",GMB,2020,-0.06
+Guinea-Bissau,GNB,2021,-2.35
+Greece,GRC,2023,3.33
+Honduras,HND,2024,1.04
+Croatia,HRV,2023,6.49
+Hungary,HUN,2017,4.61
+Indonesia,IDN,2024,1.87
+Ireland,IRL,2023,1.33
+"Iran, Islamic Rep.",IRN,2023,0.9
+Iraq,IRQ,2012,1.11
+Iceland,ISL,2019,2.83
+Israel,ISR,2021,1.02
+Italy,ITA,2023,0.88
+Jamaica,JAM,2021,2.27
+Jordan,JOR,2010,5.77
+Japan,JPN,2020,0.36
+Kazakhstan,KAZ,2021,4.18
+Kenya,KEN,2021,-3.09
+Kyrgyz Republic,KGZ,2023,2.54
+"Korea, Rep.",KOR,2021,3.71
+Lao PDR,LAO,2018,3.07
+Sri Lanka,LKA,2019,0.65
+Lithuania,LTU,2023,3.65
+Luxembourg,LUX,2023,3.19
+Latvia,LVA,2023,2.75
+Moldova,MDA,2023,-1.53
+Mexico,MEX,2022,1.95
+North Macedonia,MKD,2019,5.25
+Mali,MLI,2021,-3.99
+Malta,MLT,2022,4.42
+Myanmar,MMR,2017,1.28
+Montenegro,MNE,2021,1.31
+Mongolia,MNG,2018,3.11
+Mozambique,MOZ,2022,0.3
+Mauritania,MRT,2019,-0.08
+Mauritius,MUS,2017,2.02
+Malawi,MWI,2019,-6.11
+Malaysia,MYS,2021,3.06
+Namibia,NAM,2015,6.64
+Niger,NER,2021,-1.97
 Nicaragua,NIC,2014,6.52
-Norway,NOR,2015,2.95
-Pakistan,PAK,2013,2.62
-Panama,PAN,2016,3.89
-Paraguay,PRY,2016,1.65
-Peru,PER,2016,2.18
-Philippines,PHL,2015,1.38
-Poland,POL,2015,2.07
-Portugal,PRT,2015,-0.74
-Romania,ROU,2015,1.14
-Russian Federation,RUS,2015,0.48
-Rwanda,RWA,2013,0.07
-Serbia,SRB,2015,-0.88
-Slovak Republic,SVK,2015,-0.61
-Slovenia,SVN,2015,-0.56
-South Africa,ZAF,2014,-1.43
-Spain,ESP,2015,-1.53
-Sri Lanka,LKA,2016,5.28
-Sweden,SWE,2015,1.91
-Switzerland,CHE,2014,0.99
-Tajikistan,TJK,2015,3.58
-Thailand,THA,2013,3.49
-Togo,TGO,2015,0.82
-Turkey,TUR,2016,3.47
-Uganda,UGA,2012,1.85
-Ukraine,UKR,2016,-0.69
-United Kingdom,GBR,2015,0.11
-United States,USA,2016,1.65
-Uruguay,URY,2016,1.76
-Vietnam,VNM,2014,2.3
-West Bank and Gaza,PSE,2011,0.35
-Zambia,ZMB,2015,2.93
+Netherlands,NLD,2021,1.77
+Norway,NOR,2023,0.42
+Pakistan,PAK,2018,1.25
+Panama,PAN,2024,-1.13
+Peru,PER,2024,-1.64
+Philippines,PHL,2023,-0.05
+Poland,POL,2023,3.97
+Portugal,PRT,2023,2.4
+Paraguay,PRY,2021,-1.24
+West Bank and Gaza,PSE,2023,0.56
+Romania,ROU,2023,7.87
+Russian Federation,RUS,2023,1.92
+Rwanda,RWA,2016,-0.16
+Senegal,SEN,2021,-1.09
+Sierra Leone,SLE,2018,2.86
+El Salvador,SLV,2023,3.62
+Serbia,SRB,2022,7.77
+Slovak Republic,SVK,2023,-2.28
+Slovenia,SVN,2023,2.79
+Sweden,SWE,2023,0.19
+Eswatini,SWZ,2016,6.14
+Seychelles,SYC,2018,-1.57
+Chad,TCD,2022,0.53
+Togo,TGO,2021,-2.56
+Thailand,THA,2023,1.91
+Tajikistan,TJK,2015,2.67
+Tonga,TON,2015,-3.7
+Tunisia,TUN,2021,1.03
+Turkiye,TUR,2022,4.09
+Tanzania,TZA,2018,0.92
+Uganda,UGA,2019,-0.09
+Ukraine,UKR,2020,4.12
+Uruguay,URY,2019,0
+United States,USA,2023,1.04
+Viet Nam,VNM,2022,2.78
+Kosovo,XKX,2022,2.46
+South Africa,ZAF,2014,-1.24
+Zambia,ZMB,2022,-2.31
+Zimbabwe,ZWE,2019,1.03

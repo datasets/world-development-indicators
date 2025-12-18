@@ -1,0 +1,1 @@
+Percentage of firms that were visited or inspected by tax officials or were required to meet with them over the last year.

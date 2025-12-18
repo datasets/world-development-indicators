@@ -4,7 +4,7 @@
   "worldbank": {
     "indicator": "en.urb.mcty.tl.zs"
   },
-  "readme": "Population in urban agglomerations of more than one million is the percentage of a countrys population living in metropolitan areas that in 2000 had a population of more than one million people.",
+  "readme": "Population in urban agglomerations of more than one million is the percentage of a country's population living in metropolitan areas that in 2018 had a population of more than one million people.",
   "licenses": [
     {
       "name": "CC-BY-4.0"
@@ -42,7 +42,7 @@
           {
             "name": "Value",
             "type": "number",
-            "description": "Population in urban agglomerations of more than one million is the percentage of a countrys population living in metropolitan areas that in 2000 had a population of more than one million people."
+            "description": "Population in urban agglomerations of more than one million is the percentage of a country's population living in metropolitan areas that in 2018 had a population of more than one million people."
           }
         ]
       }

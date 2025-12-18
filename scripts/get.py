@@ -12,8 +12,9 @@ import io
 
 class Processor(object):
 
-    def __init__(self, indicator):
+    def __init__(self, indicator, force=False):
         self.indicator = indicator
+        self.force = force
         if 'http' in self.indicator:
             # https://data.worldbank.org/indicator/SL.GDP.PCAP.EM.KD?locations=BR&view=chart
             path = urllib.parse.urlparse(self.indicator)[2]
@@ -66,7 +67,7 @@ class Processor(object):
         
         # Check if cache files already exist and are valid
         cache_exists = os.path.exists(self.meta_dest) and os.path.exists(self.data_dest)
-        if cache_exists:
+        if cache_exists and not self.force:
             print(f"Using cached files for {self.indicator}")
             return
         
@@ -280,8 +281,9 @@ Example:
 ''')
         sys.exit(1)
 
-    indicator = sys.argv[1] 
-    processor = Processor(indicator)
+    indicator = sys.argv[1]
+    force = '--force' in sys.argv
+    processor = Processor(indicator, force)
     out = processor.execute()
     print('Indicator data package written to: %s' % out)
 

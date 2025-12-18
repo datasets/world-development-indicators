@@ -29,7 +29,7 @@ hrefList = list(map(lambda x: x.find("a").get("href"), liList))
 links = list(map(lambda x: 'https://data.worldbank.org' + removeQuestMarkAndAfter(x), hrefList))
 links = list(set(links))
 for index, link in enumerate(links):
-    os.system('python3 scripts/get.py ' + link)
+    os.system('python3 scripts/get.py ' + link + ' --force')
     time.sleep(3)
     if index % 20 == 0:
         status = str(round(index*100/len(links))) + ' %  completed'

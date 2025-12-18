@@ -1,917 +1,925 @@
 Country Name,Country Code,Year,Value
-Arab World,ARB,2000,58.4313547768309
-Arab World,ARB,2005,61.6388073911037
-Arab World,ARB,2010,65.9221727887904
-Arab World,ARB,2015,65.8297882192382
-Caribbean small states,CSS,2000,73.2573428389282
-Caribbean small states,CSS,2005,73.6847986899915
-Caribbean small states,CSS,2010,76.1838684859168
-Caribbean small states,CSS,2015,77.6738304776086
-Central Europe and the Baltics,CEB,2000,89.7623884399987
-Central Europe and the Baltics,CEB,2005,90.5522116834292
-Central Europe and the Baltics,CEB,2010,91.2259370384996
-Central Europe and the Baltics,CEB,2015,91.5945833430712
-Early-demographic dividend,EAR,2000,48.9867937245438
-Early-demographic dividend,EAR,2005,53.1695134654598
-Early-demographic dividend,EAR,2010,58.5191639822987
-Early-demographic dividend,EAR,2015,63.5831455927215
-East Asia & Pacific,EAS,2000,75.5968250436068
-East Asia & Pacific,EAS,2005,78.5408373127285
-East Asia & Pacific,EAS,2010,81.191251580698
-East Asia & Pacific,EAS,2015,83.082198697094
-East Asia & Pacific (excluding high income),EAP,2000,74.9173403407714
-East Asia & Pacific (excluding high income),EAP,2005,78.2120435068911
-East Asia & Pacific (excluding high income),EAP,2010,81.1595546493783
-East Asia & Pacific (excluding high income),EAP,2015,83.2103143684198
-East Asia & Pacific (IDA & IBRD countries),TEA,2000,75.1785657406525
-East Asia & Pacific (IDA & IBRD countries),TEA,2005,78.1750818402278
-East Asia & Pacific (IDA & IBRD countries),TEA,2010,81.1707504775221
-East Asia & Pacific (IDA & IBRD countries),TEA,2015,83.2461914400175
-Euro area,EMU,2000,89.7141959123983
-Euro area,EMU,2005,89.9163695381417
-Euro area,EMU,2010,90.5796912556827
-Euro area,EMU,2015,90.4098610380984
-Europe & Central Asia,ECS,2000,85.9796215164305
-Europe & Central Asia,ECS,2005,86.694377093616
-Europe & Central Asia,ECS,2010,88.3206539411101
-Europe & Central Asia,ECS,2015,88.7754829846359
-Europe & Central Asia (excluding high income),ECA,2000,83.0753075845417
-Europe & Central Asia (excluding high income),ECA,2005,83.9712378372221
-Europe & Central Asia (excluding high income),ECA,2010,86.3158580148524
-Europe & Central Asia (excluding high income),ECA,2015,87.1759910416131
-Europe & Central Asia (IDA & IBRD countries),TEC,2000,83.5076098779975
-Europe & Central Asia (IDA & IBRD countries),TEC,2005,84.3376815666969
-Europe & Central Asia (IDA & IBRD countries),TEC,2010,86.5722529890792
-Europe & Central Asia (IDA & IBRD countries),TEC,2015,87.4230788361727
-European Union,EUU,2000,89.2116846755118
-European Union,EUU,2005,89.9104176118029
-European Union,EUU,2010,90.588634339993
-European Union,EUU,2015,90.575784779745
-Fragile and conflict affected situations,FCS,2000,29.4040542688369
-Fragile and conflict affected situations,FCS,2005,32.4029165120869
-Fragile and conflict affected situations,FCS,2010,35.5748859792677
-Fragile and conflict affected situations,FCS,2015,40.8952198459884
-Heavily indebted poor countries (HIPC),HPC,2000,22.7752112730815
-Heavily indebted poor countries (HIPC),HPC,2005,26.3579694180571
-Heavily indebted poor countries (HIPC),HPC,2010,30.4100104123789
-Heavily indebted poor countries (HIPC),HPC,2015,35.9952869118826
-High income,HIC,2000,87.1932001230063
-High income,HIC,2005,87.2357558608028
-High income,HIC,2010,87.7543206109362
-High income,HIC,2015,87.8094005187399
-IBRD only,IBD,2000,66.4149334710503
-IBRD only,IBD,2005,68.9119540985538
-IBRD only,IBD,2010,72.6626323317373
-IBRD only,IBD,2015,75.5456479398038
-IDA & IBRD total,IBT,2000,54.8727931164639
-IDA & IBRD total,IBT,2005,58.0889539499231
-IDA & IBRD total,IBT,2010,62.6537489310611
-IDA & IBRD total,IBT,2015,66.3728181576887
-IDA blend,IDB,2000,29.0210550748271
-IDA blend,IDB,2005,30.8990369355583
-IDA blend,IDB,2010,36.0897141244354
-IDA blend,IDB,2015,39.5430707379491
-IDA only,IDX,2000,27.9229939995011
-IDA only,IDX,2005,32.5917326648647
-IDA only,IDX,2010,37.4448852035834
-IDA only,IDX,2015,42.9490087805817
-IDA total,IDA,2000,28.3039320846548
-IDA total,IDA,2005,31.9760660411278
-IDA total,IDA,2010,36.9576891810838
-IDA total,IDA,2015,41.7020670107339
-Late-demographic dividend,LTE,2000,79.7538217258671
-Late-demographic dividend,LTE,2005,82.1009293730688
-Late-demographic dividend,LTE,2010,84.2276668005622
-Late-demographic dividend,LTE,2015,85.4965295661068
-Latin America & Caribbean,LCN,2000,67.6636013120967
-Latin America & Caribbean,LCN,2005,70.8191734384483
-Latin America & Caribbean,LCN,2010,68.8387743497317
-Latin America & Caribbean,LCN,2015,73.8958763278036
-Latin America & Caribbean (excluding high income),LAC,2000,67.1066355923409
-Latin America & Caribbean (excluding high income),LAC,2005,70.2705553896955
-Latin America & Caribbean (excluding high income),LAC,2010,68.2190905069515
-Latin America & Caribbean (excluding high income),LAC,2015,73.46553442389
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2000,67.2956481010418
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2005,70.493999690439
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2010,68.409075077408
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2015,73.6226769333917
-Least developed countries: UN classification,LDC,2000,26.7631554230835
-Least developed countries: UN classification,LDC,2005,31.255362878888
-Least developed countries: UN classification,LDC,2010,35.9354936854434
-Least developed countries: UN classification,LDC,2015,41.8343745873313
-Low & middle income,LMY,2000,54.5750118963788
-Low & middle income,LMY,2005,57.8992364394187
-Low & middle income,LMY,2010,62.4900817853766
-Low & middle income,LMY,2015,66.2252201095367
-Low income,LIC,2000,23.0016650681086
-Low income,LIC,2005,27.0012476585317
-Low income,LIC,2010,31.0936535529397
-Low income,LIC,2015,36.8945701503004
-Lower middle income,LMC,2000,46.1308100221224
-Lower middle income,LMC,2005,49.8551684560393
-Lower middle income,LMC,2010,55.1962960691413
-Lower middle income,LMC,2015,59.0165592907279
-Middle East & North Africa,MEA,2000,68.9353435697229
-Middle East & North Africa,MEA,2005,71.1438091149579
-Middle East & North Africa,MEA,2010,75.242437536814
-Middle East & North Africa,MEA,2015,74.0231639042107
-Middle East & North Africa (excluding high income),MNA,2000,68.5616476849898
-Middle East & North Africa (excluding high income),MNA,2005,70.8858119893715
-Middle East & North Africa (excluding high income),MNA,2010,75.3208923309838
-Middle East & North Africa (excluding high income),MNA,2015,73.8582649384708
-Middle East & North Africa (IDA & IBRD countries),TMN,2000,68.5616476849898
-Middle East & North Africa (IDA & IBRD countries),TMN,2005,70.8858119893715
-Middle East & North Africa (IDA & IBRD countries),TMN,2010,75.3208923309838
-Middle East & North Africa (IDA & IBRD countries),TMN,2015,73.8582649384708
-Middle income,MIC,2000,59.7432427368032
-Middle income,MIC,2005,62.58213092598
-Middle income,MIC,2010,67.0364588098888
-Middle income,MIC,2015,70.1291668404356
-North America,NAC,2000,88.0413891861017
-North America,NAC,2005,87.4287452985278
-North America,NAC,2010,88.2531197977588
-North America,NAC,2015,88.3742359781304
-OECD members,OED,2000,86.2945128519751
-OECD members,OED,2005,86.7056186533785
-OECD members,OED,2010,87.2547500340175
-OECD members,OED,2015,87.5568189375961
-Other small states,OSS,2000,40.5336073525148
-Other small states,OSS,2005,41.0704052878878
-Other small states,OSS,2010,48.0591549513315
-Other small states,OSS,2015,51.2904472124891
-Pacific island small states,PSS,2000,70.0426803416154
-Pacific island small states,PSS,2005,72.1598140239762
-Pacific island small states,PSS,2010,74.1992505009257
-Pacific island small states,PSS,2015,77.4611503124483
-Post-demographic dividend,PST,2000,87.4240713818154
-Post-demographic dividend,PST,2005,87.4142995753309
-Post-demographic dividend,PST,2010,88.137918799578
-Post-demographic dividend,PST,2015,88.2187918498513
-Pre-demographic dividend,PRE,2000,21.6471306302382
-Pre-demographic dividend,PRE,2005,23.9536903369798
-Pre-demographic dividend,PRE,2010,28.1601609039436
-Pre-demographic dividend,PRE,2015,31.7584631809393
-Small states,SST,2000,47.1951995900974
-Small states,SST,2005,47.7557316512618
-Small states,SST,2010,54.3973606593559
-Small states,SST,2015,57.5710103066995
-South Asia,SAS,2000,45.4151694534533
-South Asia,SAS,2005,49.5946110564551
-South Asia,SAS,2010,55.4746312125201
-South Asia,SAS,2015,60.63026085254
-South Asia (IDA & IBRD),TSA,2000,45.4151694534533
-South Asia (IDA & IBRD),TSA,2005,49.5946110564551
-South Asia (IDA & IBRD),TSA,2010,55.4746312125201
-South Asia (IDA & IBRD),TSA,2015,60.63026085254
-Sub-Saharan Africa,SSF,2000,21.8789355000438
-Sub-Saharan Africa,SSF,2005,24.1861115802074
-Sub-Saharan Africa,SSF,2010,29.0049683508947
-Sub-Saharan Africa,SSF,2015,33.0168351913084
-Sub-Saharan Africa (excluding high income),SSA,2000,21.8755544519911
-Sub-Saharan Africa (excluding high income),SSA,2005,24.1827546048946
-Sub-Saharan Africa (excluding high income),SSA,2010,29.001388566557
-Sub-Saharan Africa (excluding high income),SSA,2015,33.0132762416446
-Sub-Saharan Africa (IDA & IBRD countries),TSS,2000,21.8789355000438
-Sub-Saharan Africa (IDA & IBRD countries),TSS,2005,24.1861115802074
-Sub-Saharan Africa (IDA & IBRD countries),TSS,2010,29.0049683508947
-Sub-Saharan Africa (IDA & IBRD countries),TSS,2015,33.0168351913084
-Upper middle income,UMC,2000,77.6240192140383
-Upper middle income,UMC,2005,78.9482962895875
-Upper middle income,UMC,2010,81.6268069241104
-Upper middle income,UMC,2015,83.4357166045753
-World,WLD,2000,60.1120603729316
-World,WLD,2005,62.8659610842902
-World,WLD,2010,66.7996603744512
-World,WLD,2015,69.9737703532751
-Afghanistan,AFG,2000,27.4
-Afghanistan,AFG,2005,33.5
-Afghanistan,AFG,2010,36.5
-Afghanistan,AFG,2015,42.3
-Albania,ALB,2000,84.9
-Albania,ALB,2005,89.7
-Albania,ALB,2010,91.6
-Albania,ALB,2015,92.4
-Algeria,DZA,2000,66.9
-Algeria,DZA,2005,70
-Algeria,DZA,2010,71.1
-Algeria,DZA,2015,73.8
-Angola,AGO,2000,18.9
-Angola,AGO,2005,21.1
-Angola,AGO,2010,24
-Angola,AGO,2015,27.4
-Antigua and Barbuda,ATG,2000,79.7
-Antigua and Barbuda,ATG,2005,82.3
-Antigua and Barbuda,ATG,2010,78.7
-Antigua and Barbuda,ATG,2015,79.5
-Argentina,ARG,2000,80.9
-Argentina,ARG,2005,80.2
-Argentina,ARG,2010,80.2
-Argentina,ARG,2015,80.5
-Armenia,ARM,2000,88.7
-Armenia,ARM,2005,90.3
-Armenia,ARM,2010,91.7
-Armenia,ARM,2015,93.2
-Australia,AUS,2000,89.6
-Australia,AUS,2005,90.2
-Australia,AUS,2010,90.3
-Australia,AUS,2015,89.5
-Austria,AUT,2000,91.6
-Austria,AUT,2005,91
-Austria,AUT,2010,92.2
-Austria,AUT,2015,92.4
-Azerbaijan,AZE,2000,75.3
-Azerbaijan,AZE,2005,81.6
-Azerbaijan,AZE,2010,84.8
-Azerbaijan,AZE,2015,85.7
-"Bahamas, The",BHS,2000,64.6
-"Bahamas, The",BHS,2005,70.9
-"Bahamas, The",BHS,2010,72.7
-"Bahamas, The",BHS,2015,73.9
-Bahrain,BHR,2000,77.8
-Bahrain,BHR,2005,78.7
-Bahrain,BHR,2010,81.3
-Bahrain,BHR,2015,84.4
-Bangladesh,BGD,2000,43.4
-Bangladesh,BGD,2005,52.1
-Bangladesh,BGD,2010,60.9
-Bangladesh,BGD,2015,66.9
-Barbados,BRB,2000,85.1
-Barbados,BRB,2005,81.1
-Barbados,BRB,2010,82.5
-Barbados,BRB,2015,82.7
-Belarus,BLR,2000,87.2
-Belarus,BLR,2005,87.3
-Belarus,BLR,2010,87.6
-Belarus,BLR,2015,89.1
-Belgium,BEL,2000,86.1
-Belgium,BEL,2005,85.9
-Belgium,BEL,2010,86.5
-Belgium,BEL,2015,85.9
-Belize,BLZ,2000,64.6
-Belize,BLZ,2005,60.9
-Belize,BLZ,2010,67.1
-Belize,BLZ,2015,66.3
-Benin,BEN,2000,25.1
-Benin,BEN,2005,29.3
-Benin,BEN,2010,32.9
-Benin,BEN,2015,37.2
-Bhutan,BTN,2000,48.6
-Bhutan,BTN,2005,57.9
-Bhutan,BTN,2010,62
-Bhutan,BTN,2015,67.8
-Bolivia,BOL,2000,51.5
-Bolivia,BOL,2005,55.2
-Bolivia,BOL,2010,58.6
-Bolivia,BOL,2015,61.8
-Bosnia and Herzegovina,BIH,2000,90.6
-Bosnia and Herzegovina,BIH,2005,92.7
-Bosnia and Herzegovina,BIH,2010,92.7
-Bosnia and Herzegovina,BIH,2015,93.7
-Botswana,BWA,2000,16.8
-Botswana,BWA,2005,21.9
-Botswana,BWA,2010,32.8
-Botswana,BWA,2015,42.2
-Brazil,BRA,2000,70.1
-Brazil,BRA,2005,73
-Brazil,BRA,2010,74.2
-Brazil,BRA,2015,73.3
-Brunei Darussalam,BRN,2000,79.7
-Brunei Darussalam,BRN,2005,80.6
-Brunei Darussalam,BRN,2010,81.4
-Brunei Darussalam,BRN,2015,80.1
-Bulgaria,BGR,2000,92.4
-Bulgaria,BGR,2005,93.6
-Bulgaria,BGR,2010,94.3
-Bulgaria,BGR,2015,94.7
-Burkina Faso,BFA,2000,18.2
-Burkina Faso,BFA,2005,22.2
-Burkina Faso,BFA,2010,26.5
-Burkina Faso,BFA,2015,32.7
-Burundi,BDI,2000,20.7
-Burundi,BDI,2005,23.8
-Burundi,BDI,2010,27.3
-Burundi,BDI,2015,31
-Cabo Verde,CPV,2000,59.5
-Cabo Verde,CPV,2005,63.6
-Cabo Verde,CPV,2010,66.4
-Cabo Verde,CPV,2015,67.5
-Cambodia,KHM,2000,33.4
-Cambodia,KHM,2005,42.7
-Cambodia,KHM,2010,53
-Cambodia,KHM,2015,61.3
-Cameroon,CMR,2000,23.8
-Cameroon,CMR,2005,27.3
-Cameroon,CMR,2010,31.4
-Cameroon,CMR,2015,34.4
-Canada,CAN,2000,89.6
-Canada,CAN,2005,88.8
-Canada,CAN,2010,88.8
-Canada,CAN,2015,88.1
-Central African Republic,CAF,2000,19.8
-Central African Republic,CAF,2005,21.8
-Central African Republic,CAF,2010,27.1
-Central African Republic,CAF,2015,29.5
-Chad,TCD,2000,18.5
-Chad,TCD,2005,19.3
-Chad,TCD,2010,22.3
-Chad,TCD,2015,24.8
-Chile,CHL,2000,78.8
-Chile,CHL,2005,82.6
-Chile,CHL,2010,83.3
-Chile,CHL,2015,83.8
-China,CHN,2000,82.1
-China,CHN,2005,84.8
-China,CHN,2010,87.1
-China,CHN,2015,88.7
-Colombia,COL,2000,60.8
-Colombia,COL,2005,66.8
-Colombia,COL,2010,69.9
-Colombia,COL,2015,72.5
-Comoros,COM,2000,33.5
-Comoros,COM,2005,33.7
-Comoros,COM,2010,36.3
-Comoros,COM,2015,40.7
-"Congo, Dem. Rep.",COD,2000,20.6
-"Congo, Dem. Rep.",COD,2005,22.5
-"Congo, Dem. Rep.",COD,2010,25.8
-"Congo, Dem. Rep.",COD,2015,29.6
-"Congo, Rep.",COG,2000,27.4
-"Congo, Rep.",COG,2005,29.6
-"Congo, Rep.",COG,2010,34.8
-"Congo, Rep.",COG,2015,36.7
-Costa Rica,CRI,2000,78.8
-Costa Rica,CRI,2005,80.2
-Costa Rica,CRI,2010,81.9
-Costa Rica,CRI,2015,83.1
-Cote d'Ivoire,CIV,2000,23.7
-Cote d'Ivoire,CIV,2005,27
-Cote d'Ivoire,CIV,2010,32.1
-Cote d'Ivoire,CIV,2015,35.9
-Croatia,HRV,2000,90.8
-Croatia,HRV,2005,90.4
-Croatia,HRV,2010,92.8
-Croatia,HRV,2015,92.8
-Cuba,CUB,2000,80.9
-Cuba,CUB,2005,82.1
-Cuba,CUB,2010,85
-Cuba,CUB,2015,84
-Cyprus,CYP,2000,90.8
-Cyprus,CYP,2005,89.7
-Cyprus,CYP,2010,91.7
-Cyprus,CYP,2015,91.3
-Czech Republic,CZE,2000,90.5
-Czech Republic,CZE,2005,90.5
-Czech Republic,CZE,2010,89.9
-Czech Republic,CZE,2015,90.1
-Denmark,DNK,2000,90.6
-Denmark,DNK,2005,89.8
-Denmark,DNK,2010,89.8
-Denmark,DNK,2015,89.7
-Djibouti,DJI,2000,30.5
-Djibouti,DJI,2005,32.4
-Djibouti,DJI,2010,37.1
-Djibouti,DJI,2015,43.1
-Dominican Republic,DOM,2000,58.2
-Dominican Republic,DOM,2005,60.9
-Dominican Republic,DOM,2010,64.8
-Dominican Republic,DOM,2015,68.9
-Ecuador,ECU,2000,61.7
-Ecuador,ECU,2005,65.1
-Ecuador,ECU,2010,66.5
-Ecuador,ECU,2015,71.2
-"Egypt, Arab Rep.",EGY,2000,76.6
-"Egypt, Arab Rep.",EGY,2005,81
-"Egypt, Arab Rep.",EGY,2010,83.4
-"Egypt, Arab Rep.",EGY,2015,83.3
-El Salvador,SLV,2000,62.8
-El Salvador,SLV,2005,64.7
-El Salvador,SLV,2010,68.4
-El Salvador,SLV,2015,71
-Equatorial Guinea,GNQ,2000,33.2
-Equatorial Guinea,GNQ,2005,33.4
-Equatorial Guinea,GNQ,2010,36.8
-Equatorial Guinea,GNQ,2015,39.3
-Eritrea,ERI,2000,16.3
-Eritrea,ERI,2005,33.9
-Eritrea,ERI,2010,37.8
-Eritrea,ERI,2015,41.8
-Estonia,EST,2000,88.2
-Estonia,EST,2005,90.4
-Estonia,EST,2010,92.5
-Estonia,EST,2015,92.5
-Ethiopia,ETH,2000,20.9
-Ethiopia,ETH,2005,25.8
-Ethiopia,ETH,2010,34.1
-Ethiopia,ETH,2015,39.4
-Fiji,FJI,2000,78.5
-Fiji,FJI,2005,80.5
-Fiji,FJI,2010,82
-Fiji,FJI,2015,84.1
-Finland,FIN,2000,85.8
-Finland,FIN,2005,89.5
-Finland,FIN,2010,91.6
-Finland,FIN,2015,92.9
-France,FRA,2000,85.4
-France,FRA,2005,86.4
-France,FRA,2010,87.1
-France,FRA,2015,87.1
-Gabon,GAB,2000,35.7
-Gabon,GAB,2005,36.3
-Gabon,GAB,2010,38.9
-Gabon,GAB,2015,45.2
-"Gambia, The",GMB,2000,27.3
-"Gambia, The",GMB,2005,29.1
-"Gambia, The",GMB,2010,30.3
-"Gambia, The",GMB,2015,33.2
-Georgia,GEO,2000,90.9
-Georgia,GEO,2005,91.3
-Georgia,GEO,2010,92.5
-Georgia,GEO,2015,93.4
-Germany,DEU,2000,91.9
-Germany,DEU,2005,91.4
-Germany,DEU,2010,91.6
-Germany,DEU,2015,91.5
-Ghana,GHA,2000,30.4
-Ghana,GHA,2005,34.7
-Ghana,GHA,2010,40
-Ghana,GHA,2015,43.9
-Greece,GRC,2000,91.5
-Greece,GRC,2005,92
-Greece,GRC,2010,93.1
-Greece,GRC,2015,94
-Grenada,GRD,2000,80.4
-Grenada,GRD,2005,81.4
-Grenada,GRD,2010,83.3
-Grenada,GRD,2015,80.7
-Guatemala,GTM,2000,43.7
-Guatemala,GTM,2005,48.3
-Guatemala,GTM,2010,53
-Guatemala,GTM,2015,56.7
-Guinea,GIN,2000,20.5
-Guinea,GIN,2005,25
-Guinea,GIN,2010,29.6
-Guinea,GIN,2015,31.4
-Guinea-Bissau,GNB,2000,23.8
-Guinea-Bissau,GNB,2005,26.1
-Guinea-Bissau,GNB,2010,29.2
-Guinea-Bissau,GNB,2015,29.9
-Guyana,GUY,2000,59.4
-Guyana,GUY,2005,61.8
-Guyana,GUY,2010,65.6
-Guyana,GUY,2015,67.1
-Haiti,HTI,2000,38.6
-Haiti,HTI,2005,41.3
-Haiti,HTI,2010,15.2
-Haiti,HTI,2015,56.2
-Honduras,HND,2000,51.1
-Honduras,HND,2005,56.5
-Honduras,HND,2010,57.6
-Honduras,HND,2015,59.7
-Hungary,HUN,2000,91.3
-Hungary,HUN,2005,92.5
-Hungary,HUN,2010,93.3
-Hungary,HUN,2015,93.6
-Iceland,ISL,2000,87.4
-Iceland,ISL,2005,89.1
-Iceland,ISL,2010,89.2
-Iceland,ISL,2015,89.5
-India,IND,2000,46.1
-India,IND,2005,50
-India,IND,2010,55.7
-India,IND,2015,60.8
-Indonesia,IDN,2000,63.2
-Indonesia,IDN,2005,66.8
-Indonesia,IDN,2010,70.3
-Indonesia,IDN,2015,72.7
-"Iran, Islamic Rep.",IRN,2000,70.5
-"Iran, Islamic Rep.",IRN,2005,73.8
-"Iran, Islamic Rep.",IRN,2010,77.6
-"Iran, Islamic Rep.",IRN,2015,80.5
-Iraq,IRQ,2000,59.5
-Iraq,IRQ,2005,46.6
-Iraq,IRQ,2010,59.1
-Iraq,IRQ,2015,53.7
-Ireland,IRL,2000,85.3
-Ireland,IRL,2005,86.1
-Ireland,IRL,2010,88.6
-Ireland,IRL,2015,90.3
-Israel,ISR,2000,87.5
-Israel,ISR,2005,87.8
-Israel,ISR,2010,86.9
-Israel,ISR,2015,86
-Italy,ITA,2000,91.8
-Italy,ITA,2005,92.3
-Italy,ITA,2010,92.6
-Italy,ITA,2015,91.7
-Jamaica,JAM,2000,73.4
-Jamaica,JAM,2005,73
-Jamaica,JAM,2010,75.9
-Jamaica,JAM,2015,78.8
-Japan,JPN,2000,80.1
-Japan,JPN,2005,79.9
-Japan,JPN,2010,80.6
-Japan,JPN,2015,81.8
-Jordan,JOR,2000,70.4
-Jordan,JOR,2005,71.8
-Jordan,JOR,2010,75.4
-Jordan,JOR,2015,77.7
-Kazakhstan,KAZ,2000,77.5
-Kazakhstan,KAZ,2005,78.2
-Kazakhstan,KAZ,2010,81.2
-Kazakhstan,KAZ,2015,81.8
-Kenya,KEN,2000,19.1
-Kenya,KEN,2005,20.9
-Kenya,KEN,2010,28.2
-Kenya,KEN,2015,33.4
-Kiribati,KIR,2000,56.7
-Kiribati,KIR,2005,62.3
-Kiribati,KIR,2010,59.5
-Kiribati,KIR,2015,64.6
-"Korea, Dem. People’s Rep.",PRK,2000,60
-"Korea, Dem. People’s Rep.",PRK,2005,80.4
-"Korea, Dem. People’s Rep.",PRK,2010,80.5
-"Korea, Dem. People’s Rep.",PRK,2015,81
-"Korea, Rep.",KOR,2000,81.6
-"Korea, Rep.",KOR,2005,81.5
-"Korea, Rep.",KOR,2010,79.9
-"Korea, Rep.",KOR,2015,79
-Kuwait,KWT,2000,74.4
-Kuwait,KWT,2005,75.3
-Kuwait,KWT,2010,75.4
-Kuwait,KWT,2015,77.2
-Kyrgyz Republic,KGZ,2000,74.3
-Kyrgyz Republic,KGZ,2005,79.2
-Kyrgyz Republic,KGZ,2010,77.9
-Kyrgyz Republic,KGZ,2015,81.4
-Lao PDR,LAO,2000,38.8
-Lao PDR,LAO,2005,43.8
-Lao PDR,LAO,2010,48.7
-Lao PDR,LAO,2015,55
-Latvia,LVA,2000,86.7
-Latvia,LVA,2005,88.9
-Latvia,LVA,2010,91.8
-Latvia,LVA,2015,91.9
-Lebanon,LBN,2000,85.3
-Lebanon,LBN,2005,87.2
-Lebanon,LBN,2010,89.1
-Lebanon,LBN,2015,88.7
-Lesotho,LSO,2000,25.3
-Lesotho,LSO,2005,22.1
-Lesotho,LSO,2010,28.8
-Lesotho,LSO,2015,28.7
-Liberia,LBR,2000,16.9
-Liberia,LBR,2005,23.9
-Liberia,LBR,2010,27.3
-Liberia,LBR,2015,30.7
-Libya,LBY,2000,74.2
-Libya,LBY,2005,77
-Libya,LBY,2010,78
-Libya,LBY,2015,76.1
-Lithuania,LTU,2000,85.9
-Lithuania,LTU,2005,86.7
-Lithuania,LTU,2010,89.6
-Lithuania,LTU,2015,90.4
-Luxembourg,LUX,2000,88.4
-Luxembourg,LUX,2005,87.6
-Luxembourg,LUX,2010,87.2
-Luxembourg,LUX,2015,87.7
-"Macedonia, FYR",MKD,2000,92.3
-"Macedonia, FYR",MKD,2005,94.3
-"Macedonia, FYR",MKD,2010,95
-"Macedonia, FYR",MKD,2015,95.4
-Madagascar,MDG,2000,29.2
-Madagascar,MDG,2005,34.3
-Madagascar,MDG,2010,39.2
-Madagascar,MDG,2015,42.7
-Malawi,MWI,2000,16.6
-Malawi,MWI,2005,17.9
-Malawi,MWI,2010,23.3
-Malawi,MWI,2015,31.2
-Malaysia,MYS,2000,66.5
-Malaysia,MYS,2005,68.1
-Malaysia,MYS,2010,69.2
-Malaysia,MYS,2015,71.1
-Maldives,MDV,2000,65.5
-Maldives,MDV,2005,73.1
-Maldives,MDV,2010,77.2
-Maldives,MDV,2015,78.4
-Mali,MLI,2000,22.3
-Mali,MLI,2005,24.7
-Mali,MLI,2010,27.3
-Mali,MLI,2015,30.5
-Malta,MLT,2000,88.2
-Malta,MLT,2005,90.5
-Malta,MLT,2010,91.2
-Malta,MLT,2015,89.9
-Mauritania,MRT,2000,26.9
-Mauritania,MRT,2005,29
-Mauritania,MRT,2010,31.2
-Mauritania,MRT,2015,37.1
-Mauritius,MUS,2000,85.6
-Mauritius,MUS,2005,87.8
-Mauritius,MUS,2010,85.9
-Mauritius,MUS,2015,87
-Mexico,MEX,2000,70.3
-Mexico,MEX,2005,75.1
-Mexico,MEX,2010,75.8
-Mexico,MEX,2015,79.1
-"Micronesia, Fed. Sts.",FSM,2000,62.1
-"Micronesia, Fed. Sts.",FSM,2005,69.6
-"Micronesia, Fed. Sts.",FSM,2010,71.4
-"Micronesia, Fed. Sts.",FSM,2015,73.8
-Moldova,MDA,2000,86.9
-Moldova,MDA,2005,87.8
-Moldova,MDA,2010,88.9
-Moldova,MDA,2015,90.5
-Mongolia,MNG,2000,71.5
-Mongolia,MNG,2005,73.3
-Mongolia,MNG,2010,75.8
-Mongolia,MNG,2015,77.8
-Montenegro,MNE,2000,91.8
-Montenegro,MNE,2005,93.2
-Montenegro,MNE,2010,93.8
-Montenegro,MNE,2015,94.6
-Morocco,MAR,2000,67.9
-Morocco,MAR,2005,72.5
-Morocco,MAR,2010,75
-Morocco,MAR,2015,77.8
-Mozambique,MOZ,2000,21.6
-Mozambique,MOZ,2005,22
-Mozambique,MOZ,2010,26.9
-Mozambique,MOZ,2015,31.6
-Myanmar,MMR,2000,48.6
-Myanmar,MMR,2005,55.8
-Myanmar,MMR,2010,62.4
-Myanmar,MMR,2015,68
-Namibia,NAM,2000,29.2
-Namibia,NAM,2005,25.2
-Namibia,NAM,2010,36.2
-Namibia,NAM,2015,40.1
-Nepal,NPL,2000,45.5
-Nepal,NPL,2005,54
-Nepal,NPL,2010,61.9
-Nepal,NPL,2015,64.5
-Netherlands,NLD,2000,89.1
-Netherlands,NLD,2005,89
-Netherlands,NLD,2010,89.4
-Netherlands,NLD,2015,89.2
-New Zealand,NZL,2000,91.2
-New Zealand,NZL,2005,90.9
-New Zealand,NZL,2010,89.8
-New Zealand,NZL,2015,89.6
-Nicaragua,NIC,2000,59.4
-Nicaragua,NIC,2005,65.4
-Nicaragua,NIC,2010,71.2
-Nicaragua,NIC,2015,75.7
-Niger,NER,2000,15.5
-Niger,NER,2005,19.1
-Niger,NER,2010,23.1
-Niger,NER,2015,26.1
-Nigeria,NGA,2000,20.1
-Nigeria,NGA,2005,20.9
-Nigeria,NGA,2010,24
-Nigeria,NGA,2015,25.9
-Norway,NOR,2000,87.1
-Norway,NOR,2005,87.3
-Norway,NOR,2010,87.8
-Norway,NOR,2015,87.3
-Oman,OMN,2000,67.5
-Oman,OMN,2005,69.4
-Oman,OMN,2010,69.7
-Oman,OMN,2015,70
-Pakistan,PAK,2000,42.7
-Pakistan,PAK,2005,45
-Pakistan,PAK,2010,51
-Pakistan,PAK,2015,56.4
-Panama,PAN,2000,68.9
-Panama,PAN,2005,71.8
-Panama,PAN,2010,70.1
-Panama,PAN,2015,74
-Papua New Guinea,PNG,2000,42.1
-Papua New Guinea,PNG,2005,45.2
-Papua New Guinea,PNG,2010,49.2
-Papua New Guinea,PNG,2015,55.9
-Paraguay,PRY,2000,64
-Paraguay,PRY,2005,67.3
-Paraguay,PRY,2010,70.1
-Paraguay,PRY,2015,73.3
-Peru,PER,2000,58.6
-Peru,PER,2005,61.7
-Peru,PER,2010,65.2
-Peru,PER,2015,67
-Philippines,PHL,2000,57.3
-Philippines,PHL,2005,62.3
-Philippines,PHL,2010,67
-Philippines,PHL,2015,68.2
-Poland,POL,2000,89.1
-Poland,POL,2005,89.2
-Poland,POL,2010,89.7
-Poland,POL,2015,90.3
-Portugal,PRT,2000,87.1
-Portugal,PRT,2005,87.2
-Portugal,PRT,2010,86.6
-Portugal,PRT,2015,85.9
-Qatar,QAT,2000,69.1
-Qatar,QAT,2005,66.7
-Qatar,QAT,2010,64
-Qatar,QAT,2015,66.2
-Romania,ROU,2000,89.5
-Romania,ROU,2005,91.4
-Romania,ROU,2010,92
-Romania,ROU,2015,92.5
-Russian Federation,RUS,2000,82.5
-Russian Federation,RUS,2005,82.4
-Russian Federation,RUS,2010,85.2
-Russian Federation,RUS,2015,85.9
-Rwanda,RWA,2000,22.9
-Rwanda,RWA,2005,27.9
-Rwanda,RWA,2010,36.4
-Rwanda,RWA,2015,44.6
-Samoa,WSM,2000,75.5
-Samoa,WSM,2005,77
-Samoa,WSM,2010,77.1
-Samoa,WSM,2015,80.6
-Sao Tome and Principe,STP,2000,39.9
-Sao Tome and Principe,STP,2005,39.9
-Sao Tome and Principe,STP,2010,44.8
-Sao Tome and Principe,STP,2015,48.4
-Saudi Arabia,SAU,2000,66.5
-Saudi Arabia,SAU,2005,68.4
-Saudi Arabia,SAU,2010,69.8
-Saudi Arabia,SAU,2015,71.6
-Senegal,SEN,2000,28
-Senegal,SEN,2005,33.4
-Senegal,SEN,2010,37.5
-Senegal,SEN,2015,40.7
-Serbia,SRB,2000,93.1
-Serbia,SRB,2005,94.5
-Serbia,SRB,2010,95
-Serbia,SRB,2015,94.4
-Seychelles,SYC,2000,78.4
-Seychelles,SYC,2005,77.5
-Seychelles,SYC,2010,77.4
-Seychelles,SYC,2015,78.7
-Sierra Leone,SLE,2000,21.1
-Sierra Leone,SLE,2005,25
-Sierra Leone,SLE,2010,27.6
-Sierra Leone,SLE,2015,30.8
-Singapore,SGP,2000,80.3
-Singapore,SGP,2005,76.6
-Singapore,SGP,2010,77.1
-Singapore,SGP,2015,74.8
-Slovak Republic,SVK,2000,90
-Slovak Republic,SVK,2005,90.1
-Slovak Republic,SVK,2010,89.5
-Slovak Republic,SVK,2015,89.2
-Slovenia,SVN,2000,86.3
-Slovenia,SVN,2005,87
-Slovenia,SVN,2010,88.5
-Slovenia,SVN,2015,88.3
-Solomon Islands,SLB,2000,56.7
-Solomon Islands,SLB,2005,57.3
-Solomon Islands,SLB,2010,63.5
-Solomon Islands,SLB,2015,68
-Somalia,SOM,2000,16.2
-Somalia,SOM,2005,18.6
-Somalia,SOM,2010,19.8
-Somalia,SOM,2015,21.8
-South Africa,ZAF,2000,36.8
-South Africa,ZAF,2005,32.2
-South Africa,ZAF,2010,39.7
-South Africa,ZAF,2015,48.3
-South Sudan,SSD,2000,20
-South Sudan,SSD,2005,22.7
-South Sudan,SSD,2010,25.5
-South Sudan,SSD,2015,27.5
-Spain,ESP,2000,90.7
-Spain,ESP,2005,90.3
-Spain,ESP,2010,91.9
-Spain,ESP,2015,91.8
-Sri Lanka,LKA,2000,71.5
-Sri Lanka,LKA,2005,75.3
-Sri Lanka,LKA,2010,78.4
-Sri Lanka,LKA,2015,79.7
-St. Lucia,LCA,2000,80
-St. Lucia,LCA,2005,80
-St. Lucia,LCA,2010,82.3
-St. Lucia,LCA,2015,81.6
-St. Vincent and the Grenadines,VCT,2000,77.1
-St. Vincent and the Grenadines,VCT,2005,75.9
-St. Vincent and the Grenadines,VCT,2010,76.4
-St. Vincent and the Grenadines,VCT,2015,79.3
-Sudan,SDN,2000,37.1
-Sudan,SDN,2005,42.1
-Sudan,SDN,2010,46.1
-Sudan,SDN,2015,50.2
-Suriname,SUR,2000,69.9
-Suriname,SUR,2005,72
-Suriname,SUR,2010,72.8
-Suriname,SUR,2015,75
-Swaziland,SWZ,2000,24.3
-Swaziland,SWZ,2005,22.5
-Swaziland,SWZ,2010,30.4
-Swaziland,SWZ,2015,38.1
-Sweden,SWE,2000,90.1
-Sweden,SWE,2005,89.8
-Sweden,SWE,2010,90.7
-Sweden,SWE,2015,89.1
-Switzerland,CHE,2000,88.4
-Switzerland,CHE,2005,89.6
-Switzerland,CHE,2010,90.7
-Switzerland,CHE,2015,89.7
-Syrian Arab Republic,SYR,2000,73.5
-Syrian Arab Republic,SYR,2005,77.3
-Syrian Arab Republic,SYR,2010,80.1
-Syrian Arab Republic,SYR,2015,47.6
-Tajikistan,TJK,2000,50.5
-Tajikistan,TJK,2005,61.3
-Tajikistan,TJK,2010,63.8
-Tajikistan,TJK,2015,64
-Tanzania,TZA,2000,19.5
-Tanzania,TZA,2005,20.8
-Tanzania,TZA,2010,26.9
-Tanzania,TZA,2015,34.3
-Thailand,THA,2000,64
-Thailand,THA,2005,64.6
-Thailand,THA,2010,67.7
-Thailand,THA,2015,71.3
-Timor-Leste,TLS,2000,27.9
-Timor-Leste,TLS,2005,36.3
-Timor-Leste,TLS,2010,51.3
-Timor-Leste,TLS,2015,47
-Togo,TGO,2000,27.4
-Togo,TGO,2005,29.4
-Togo,TGO,2010,32
-Togo,TGO,2015,36.6
-Tonga,TON,2000,77.8
-Tonga,TON,2005,78.5
-Tonga,TON,2010,79.6
-Tonga,TON,2015,80.4
-Trinidad and Tobago,TTO,2000,79.1
-Trinidad and Tobago,TTO,2005,80.1
-Trinidad and Tobago,TTO,2010,82
-Trinidad and Tobago,TTO,2015,82.6
-Tunisia,TUN,2000,79.1
-Tunisia,TUN,2005,82.3
-Tunisia,TUN,2010,83.9
-Tunisia,TUN,2015,84.7
-Turkey,TUR,2000,79.2
-Turkey,TUR,2005,83.5
-Turkey,TUR,2010,86.3
-Turkey,TUR,2015,87.8
-Turkmenistan,TKM,2000,65.5
-Turkmenistan,TKM,2005,68.8
-Turkmenistan,TKM,2010,74.7
-Turkmenistan,TKM,2015,78.5
-Uganda,UGA,2000,17.5
-Uganda,UGA,2005,22.2
-Uganda,UGA,2010,27.8
-Uganda,UGA,2015,34.6
-Ukraine,UKR,2000,86.8
-Ukraine,UKR,2005,86.5
-Ukraine,UKR,2010,89
-Ukraine,UKR,2015,89.8
-United Arab Emirates,ARE,2000,66.7
-United Arab Emirates,ARE,2005,64.7
-United Arab Emirates,ARE,2010,69.4
-United Arab Emirates,ARE,2015,76.3
-United Kingdom,GBR,2000,84.9
-United Kingdom,GBR,2005,88.2
-United Kingdom,GBR,2010,89.2
-United Kingdom,GBR,2015,89.6
-United States,USA,2000,87.9
-United States,USA,2005,87.3
-United States,USA,2010,88.2
-United States,USA,2015,88.4
-Uruguay,URY,2000,85.3
-Uruguay,URY,2005,86.1
-Uruguay,URY,2010,85
-Uruguay,URY,2015,84.1
-Uzbekistan,UZB,2000,69.1
-Uzbekistan,UZB,2005,74.5
-Uzbekistan,UZB,2010,76.1
-Uzbekistan,UZB,2015,78.4
-Vanuatu,VUT,2000,65.5
-Vanuatu,VUT,2005,65.4
-Vanuatu,VUT,2010,68.1
-Vanuatu,VUT,2015,72.8
-"Venezuela, RB",VEN,2000,65.4
-"Venezuela, RB",VEN,2005,67.4
-"Venezuela, RB",VEN,2010,67.8
-"Venezuela, RB",VEN,2015,69.3
-Vietnam,VNM,2000,68.6
-Vietnam,VNM,2005,71.3
-Vietnam,VNM,2010,73.8
-Vietnam,VNM,2015,75.9
-"Yemen, Rep.",YEM,2000,44.4
-"Yemen, Rep.",YEM,2005,49
-"Yemen, Rep.",YEM,2010,55.8
-"Yemen, Rep.",YEM,2015,60.6
-Zambia,ZMB,2000,15.2
-Zambia,ZMB,2005,18
-Zambia,ZMB,2010,24.3
-Zambia,ZMB,2015,29.4
-Zimbabwe,ZWE,2000,15.6
-Zimbabwe,ZWE,2005,15.6
-Zimbabwe,ZWE,2010,22.5
-Zimbabwe,ZWE,2015,29.7
+Africa Eastern and Southern,AFE,2000,24.6203943512119
+Africa Eastern and Southern,AFE,2010,31.8964045021644
+Africa Eastern and Southern,AFE,2015,36.8597650618163
+Africa Eastern and Southern,AFE,2019,40.0824977547467
+Afghanistan,AFG,2000,32.0097632220991
+Afghanistan,AFG,2010,40.8191640676136
+Afghanistan,AFG,2015,44.2190527205372
+Afghanistan,AFG,2019,49.7810848710223
+Africa Western and Central,AFW,2000,22.4289887256293
+Africa Western and Central,AFW,2010,27.2458392934965
+Africa Western and Central,AFW,2015,29.555019563736
+Africa Western and Central,AFW,2019,31.643845372917
+Angola,AGO,2000,20.2088537719893
+Angola,AGO,2010,25.8443997114823
+Angola,AGO,2015,29.9384422979868
+Angola,AGO,2019,31.7494401531339
+Albania,ALB,2000,84.1423460009506
+Albania,ALB,2010,90.5993497247237
+Albania,ALB,2015,92.9178058274323
+Albania,ALB,2019,93.9408931427863
+Arab World,ARB,2000,58.5076009199945
+Arab World,ARB,2010,65.9235262244774
+Arab World,ARB,2015,66.085928775638
+Arab World,ARB,2019,71.0539443533865
+United Arab Emirates,ARE,2000,68.8419090044936
+United Arab Emirates,ARE,2010,66.9737121941481
+United Arab Emirates,ARE,2015,71.6400237119771
+United Arab Emirates,ARE,2019,77.0996232320676
+Argentina,ARG,2000,80.7265511680202
+Argentina,ARG,2010,79.9626676608716
+Argentina,ARG,2015,78.2957693035364
+Argentina,ARG,2019,76.6944625404959
+Armenia,ARM,2000,89.0871240096704
+Armenia,ARM,2010,90.8004349005465
+Armenia,ARM,2015,90.7738683089306
+Armenia,ARM,2019,88.6277513245613
+Antigua and Barbuda,ATG,2000,79.8403541165084
+Antigua and Barbuda,ATG,2010,80.9807593437051
+Antigua and Barbuda,ATG,2015,83.5051057233273
+Antigua and Barbuda,ATG,2019,84.7928092808798
+Australia,AUS,2000,89.7690707850361
+Australia,AUS,2010,90.4568900838594
+Australia,AUS,2015,89.5734193050277
+Australia,AUS,2019,89.1143536670652
+Austria,AUT,2000,91.6583429370005
+Austria,AUT,2010,91.7936864361137
+Austria,AUT,2015,91.9487576964715
+Austria,AUT,2019,90.9847050700664
+Azerbaijan,AZE,2000,76.0546502622718
+Azerbaijan,AZE,2010,84.9605525199572
+Azerbaijan,AZE,2015,88.1960947386513
+Azerbaijan,AZE,2019,90.2481711224634
+Burundi,BDI,2000,19.9317656386051
+Burundi,BDI,2010,29.7279796994411
+Burundi,BDI,2015,33.59066288402
+Burundi,BDI,2019,36.7638905790271
+Belgium,BEL,2000,85.9962660709499
+Belgium,BEL,2010,86.4912296118674
+Belgium,BEL,2015,85.9018536923863
+Belgium,BEL,2019,85.9811278647269
+Benin,BEN,2000,29.1952440998455
+Benin,BEN,2010,33.9334140521826
+Benin,BEN,2015,36.8872587942422
+Benin,BEN,2019,38.9765291553727
+Burkina Faso,BFA,2000,21.141390762208
+Burkina Faso,BFA,2010,27.0059366908127
+Burkina Faso,BFA,2015,32.3012217024077
+Burkina Faso,BFA,2019,34.7652014223855
+Bangladesh,BGD,2000,43.1124581022785
+Bangladesh,BGD,2010,59.4311989454775
+Bangladesh,BGD,2015,63.7038514843619
+Bangladesh,BGD,2019,70.2556717831391
+Bulgaria,BGR,2000,92.8468902770684
+Bulgaria,BGR,2010,94.8588737690579
+Bulgaria,BGR,2015,95.1678185348543
+Bulgaria,BGR,2019,95.3110776571572
+Bahrain,BHR,2000,81.9647121011627
+Bahrain,BHR,2010,83.4659429966405
+Bahrain,BHR,2015,84.4277939063933
+Bahrain,BHR,2019,86.0990092950325
+"Bahamas, The",BHS,2000,60.0708294641301
+"Bahamas, The",BHS,2010,74.1595133621496
+"Bahamas, The",BHS,2015,72.6464497620165
+"Bahamas, The",BHS,2019,75.4340380076986
+Bosnia and Herzegovina,BIH,2000,90.5703673900243
+Bosnia and Herzegovina,BIH,2010,93.344101873251
+Bosnia and Herzegovina,BIH,2015,93.8700800763315
+Bosnia and Herzegovina,BIH,2019,94.4236633469105
+Belarus,BLR,2000,87.3540978652613
+Belarus,BLR,2010,89.1114618287848
+Belarus,BLR,2015,91.7818640866265
+Belarus,BLR,2019,92.6768424325138
+Belize,BLZ,2000,61.5070941614487
+Belize,BLZ,2010,62.2199218731043
+Belize,BLZ,2015,61.6749641537824
+Belize,BLZ,2019,65.2188110018724
+Bolivia,BOL,2000,53.1977972353665
+Bolivia,BOL,2010,64.6162738997523
+Bolivia,BOL,2015,70.2540013069343
+Bolivia,BOL,2019,72.6759001252702
+Brazil,BRA,2000,69.1397667969442
+Brazil,BRA,2010,73.0184281962182
+Brazil,BRA,2015,73.369855341327
+Brazil,BRA,2019,74.7376983511031
+Barbados,BRB,2000,80.6347339456326
+Barbados,BRB,2010,81.5377874670786
+Barbados,BRB,2015,81.7714232670374
+Barbados,BRB,2019,82.790270878622
+Brunei Darussalam,BRN,2000,80.0946584349011
+Brunei Darussalam,BRN,2010,81.7066076948468
+Brunei Darussalam,BRN,2015,80.1370601929221
+Brunei Darussalam,BRN,2019,84.6690303548102
+Bhutan,BTN,2000,47.1285647623814
+Bhutan,BTN,2010,63.5239192364032
+Bhutan,BTN,2015,69.4315555800482
+Bhutan,BTN,2019,72.7433195327289
+Botswana,BWA,2000,26.7788945128453
+Botswana,BWA,2010,38.1681160922247
+Botswana,BWA,2015,44.5386614095687
+Botswana,BWA,2019,45.7103277474811
+Central African Republic,CAF,2000,26.6897041043094
+Central African Republic,CAF,2010,28.6204147295789
+Central African Republic,CAF,2015,30.3689737545268
+Central African Republic,CAF,2019,31.9181186711719
+Canada,CAN,2000,89.7698146205131
+Canada,CAN,2010,88.7360795967705
+Canada,CAN,2015,88.6363987933695
+Canada,CAN,2019,89.8086329490656
+Central Europe and the Baltics,CEB,2000,89.8861145844393
+Central Europe and the Baltics,CEB,2010,91.3034622633269
+Central Europe and the Baltics,CEB,2015,91.5356767971222
+Central Europe and the Baltics,CEB,2019,91.1277680450432
+Switzerland,CHE,2000,88.4722119004469
+Switzerland,CHE,2010,90.6957485730542
+Switzerland,CHE,2015,89.7083775891724
+Switzerland,CHE,2019,89.5529243677502
+Chile,CHL,2000,79.072196748813
+Chile,CHL,2010,83.4808943138178
+Chile,CHL,2015,84.6785711422917
+Chile,CHL,2019,85.1251257357857
+China,CHN,2000,81.0437980147124
+China,CHN,2010,86.4467666901341
+China,CHN,2015,88.3413091635005
+China,CHN,2019,89.6330763010546
+Cote d'Ivoire,CIV,2000,24.0332205828772
+Cote d'Ivoire,CIV,2010,30.0540830023275
+Cote d'Ivoire,CIV,2015,32.9619530367746
+Cote d'Ivoire,CIV,2019,35.6599009600282
+Cameroon,CMR,2000,27.3798242134524
+Cameroon,CMR,2010,31.3353581312445
+Cameroon,CMR,2015,33.4817708467219
+Cameroon,CMR,2019,37.7262566860188
+"Congo, Dem. Rep.",COD,2000,23.2901252489806
+"Congo, Dem. Rep.",COD,2010,28.4470948046941
+"Congo, Dem. Rep.",COD,2015,31.0491482539882
+"Congo, Dem. Rep.",COD,2019,34.1320653169829
+"Congo, Rep.",COG,2000,30.7847985254864
+"Congo, Rep.",COG,2010,36.7408231155986
+"Congo, Rep.",COG,2015,36.348042882852
+"Congo, Rep.",COG,2019,38.5735094747127
+Colombia,COL,2000,58.0425715321001
+Colombia,COL,2010,68.3482972289314
+Colombia,COL,2015,73.3244708620116
+Colombia,COL,2019,75.6457144242242
+Comoros,COM,2000,35.3305380357828
+Comoros,COM,2010,38.1365822132766
+Comoros,COM,2015,42.4693391511457
+Comoros,COM,2019,44.6818800906545
+Cabo Verde,CPV,2000,53.6556946665509
+Cabo Verde,CPV,2010,62.1703714159242
+Cabo Verde,CPV,2015,65.7525173788183
+Cabo Verde,CPV,2019,70.1204552332968
+Costa Rica,CRI,2000,78.9165545748899
+Costa Rica,CRI,2010,81.2426753069014
+Costa Rica,CRI,2015,81.0247387375876
+Costa Rica,CRI,2019,81.9929907443709
+Caribbean small states,CSS,2000,71.6224607692265
+Caribbean small states,CSS,2010,74.9885715740925
+Caribbean small states,CSS,2015,76.1390573538409
+Caribbean small states,CSS,2019,77.4522178368892
+Cuba,CUB,2000,81.2520436121103
+Cuba,CUB,2010,85.0240003075382
+Cuba,CUB,2015,83.6672134750582
+Cuba,CUB,2019,83.3072850613784
+Cyprus,CYP,2000,89.5138173042377
+Cyprus,CYP,2010,90.4474462803766
+Cyprus,CYP,2015,90.7245350697746
+Cyprus,CYP,2019,89.8616486277654
+Czechia,CZE,2000,90.3795859040048
+Czechia,CZE,2010,89.9221699012801
+Czechia,CZE,2015,89.9278531709988
+Czechia,CZE,2019,89.3967236941536
+Germany,DEU,2000,91.8692448137765
+Germany,DEU,2010,91.500669582915
+Germany,DEU,2015,91.0462466946146
+Germany,DEU,2019,90.5983327596301
+Djibouti,DJI,2000,31.4491024174878
+Djibouti,DJI,2010,39.8981942595174
+Djibouti,DJI,2015,46.312715142862
+Djibouti,DJI,2019,51.7746300342238
+Denmark,DNK,2000,90.6256745695065
+Denmark,DNK,2010,89.8342157756743
+Denmark,DNK,2015,90.1347060017041
+Denmark,DNK,2019,89.6578412938322
+Dominican Republic,DOM,2000,51.4967114899394
+Dominican Republic,DOM,2010,64.3635443434705
+Dominican Republic,DOM,2015,72.641001183748
+Dominican Republic,DOM,2019,71.9343488283774
+Algeria,DZA,2000,68.2861420363165
+Algeria,DZA,2010,74.8315188708989
+Algeria,DZA,2015,76.9701279297424
+Algeria,DZA,2019,79.3555504278759
+East Asia & Pacific (excluding high income),EAP,2000,74.3902964526053
+East Asia & Pacific (excluding high income),EAP,2010,81.0232258884542
+East Asia & Pacific (excluding high income),EAP,2015,83.32446486131
+East Asia & Pacific (excluding high income),EAP,2019,85.0127739025204
+Early-demographic dividend,EAR,2000,47.6202698107809
+Early-demographic dividend,EAR,2010,57.7089617736953
+Early-demographic dividend,EAR,2015,64.1107094902228
+Early-demographic dividend,EAR,2019,67.7579516971546
+East Asia & Pacific,EAS,2000,75.0771286863527
+East Asia & Pacific,EAS,2010,81.0506092137838
+East Asia & Pacific,EAS,2015,83.1850839955063
+East Asia & Pacific,EAS,2019,84.9033261574998
+Europe & Central Asia (excluding high income),ECA,2000,83.4235970182615
+Europe & Central Asia (excluding high income),ECA,2010,87.7607974468835
+Europe & Central Asia (excluding high income),ECA,2015,88.5688724681486
+Europe & Central Asia (excluding high income),ECA,2019,89.8395078716786
+Europe & Central Asia,ECS,2000,86.5000680553919
+Europe & Central Asia,ECS,2010,88.9335685819092
+Europe & Central Asia,ECS,2015,89.2177444710862
+Europe & Central Asia,ECS,2019,89.5954844157238
+Ecuador,ECU,2000,62.3722956850809
+Ecuador,ECU,2010,69.9286421272243
+Ecuador,ECU,2015,73.8297049028354
+Ecuador,ECU,2019,76.2035026213013
+"Egypt, Arab Rep.",EGY,2000,74.1158068999397
+"Egypt, Arab Rep.",EGY,2010,81.9617087171341
+"Egypt, Arab Rep.",EGY,2015,84.1887281782163
+"Egypt, Arab Rep.",EGY,2019,85.6078303042361
+Euro area,EMU,2000,89.7456325998262
+Euro area,EMU,2010,90.4090347787696
+Euro area,EMU,2015,89.8664412951041
+Euro area,EMU,2019,89.4380831604979
+Eritrea,ERI,2000,36.7129223822857
+Eritrea,ERI,2010,42.8209945191882
+Eritrea,ERI,2015,46.5720444669907
+Eritrea,ERI,2019,49.4781866614906
+Spain,ESP,2000,90.5963025440401
+Spain,ESP,2010,91.8079354653356
+Spain,ESP,2015,91.2594543710255
+Spain,ESP,2019,90.7674536252155
+Estonia,EST,2000,87.3785010700081
+Estonia,EST,2010,92.005940590055
+Estonia,EST,2015,92.8377821930748
+Estonia,EST,2019,92.1948909762529
+Ethiopia,ETH,2000,22.4813976906069
+Ethiopia,ETH,2010,32.7501686912737
+Ethiopia,ETH,2015,38.2774493240118
+Ethiopia,ETH,2019,43.2587026475636
+European Union,EUU,2000,89.883736745672
+European Union,EUU,2010,90.6514243885462
+European Union,EUU,2015,90.2512808951489
+European Union,EUU,2019,89.823485545283
+Fragile and conflict affected situations,FCS,2000,33.8150350837546
+Fragile and conflict affected situations,FCS,2010,38.7465153741994
+Fragile and conflict affected situations,FCS,2015,41.8539401881507
+Fragile and conflict affected situations,FCS,2019,44.9422023850673
+Finland,FIN,2000,85.7218360887158
+Finland,FIN,2010,91.4489463285919
+Finland,FIN,2015,93.3228448057592
+Finland,FIN,2019,92.9328258466129
+Fiji,FJI,2000,80.30473882388
+Fiji,FJI,2010,83.9361708363845
+Fiji,FJI,2015,84.1868223579273
+Fiji,FJI,2019,84.7051796587893
+France,FRA,2000,85.4616270746668
+France,FRA,2010,87.1560813588257
+France,FRA,2015,86.829738874205
+France,FRA,2019,87.2761033734964
+"Micronesia, Fed. Sts.",FSM,2000,66.3024145757636
+"Micronesia, Fed. Sts.",FSM,2010,74.2664292932901
+"Micronesia, Fed. Sts.",FSM,2015,76.8663596898965
+"Micronesia, Fed. Sts.",FSM,2019,79.4845909465401
+Gabon,GAB,2000,42.5910715724015
+Gabon,GAB,2010,42.5783697143894
+Gabon,GAB,2015,45.502949424311
+Gabon,GAB,2019,45.0063092378199
+United Kingdom,GBR,2000,85.2153410464502
+United Kingdom,GBR,2010,89.3427633545594
+United Kingdom,GBR,2015,88.4900017661646
+United Kingdom,GBR,2019,88.1570765293416
+Georgia,GEO,2000,91.334871641155
+Georgia,GEO,2010,92.3965711104472
+Georgia,GEO,2015,92.4565350351342
+Georgia,GEO,2019,93.3455004497632
+Ghana,GHA,2000,29.2925570459229
+Ghana,GHA,2010,38.5272085965894
+Ghana,GHA,2015,42.8451174308924
+Ghana,GHA,2019,45.3861391861051
+Guinea,GIN,2000,21.5912896277697
+Guinea,GIN,2010,29.1475524000434
+Guinea,GIN,2015,31.5859447732273
+Guinea,GIN,2019,33.2732838664995
+"Gambia, The",GMB,2000,27.2226352527285
+"Gambia, The",GMB,2010,32.5637311852131
+"Gambia, The",GMB,2015,35.4321333029728
+"Gambia, The",GMB,2019,37.0967169269006
+Guinea-Bissau,GNB,2000,25.0084748748094
+Guinea-Bissau,GNB,2010,29.5112890818905
+Guinea-Bissau,GNB,2015,30.2956418377657
+Guinea-Bissau,GNB,2019,33.173239929153
+Equatorial Guinea,GNQ,2000,30.2478249124902
+Equatorial Guinea,GNQ,2010,30.6886669242047
+Equatorial Guinea,GNQ,2015,32.7604028268351
+Equatorial Guinea,GNQ,2019,32.7808875315218
+Greece,GRC,2000,92.1401640738214
+Greece,GRC,2010,91.2738889074434
+Greece,GRC,2015,86.8109194729314
+Greece,GRC,2019,83.2361672454401
+Grenada,GRD,2000,80.5048017853893
+Grenada,GRD,2010,84.9670600319015
+Grenada,GRD,2015,81.9714660422648
+Grenada,GRD,2019,82.8045358893799
+Guatemala,GTM,2000,42.8343329876322
+Guatemala,GTM,2010,54.5800602362564
+Guatemala,GTM,2015,60.9542203396235
+Guatemala,GTM,2019,61.5661164563163
+Guyana,GUY,2000,60.2892551262086
+Guyana,GUY,2010,65.6094943855358
+Guyana,GUY,2015,67.2872967941811
+Guyana,GUY,2019,69.648005383792
+High income,HIC,2000,86.4977145789929
+High income,HIC,2010,87.532418553554
+High income,HIC,2015,87.670901930042
+High income,HIC,2019,88.0486887089078
+Honduras,HND,2000,53.9820909704351
+Honduras,HND,2010,62.6194172292613
+Honduras,HND,2015,69.4524016113305
+Honduras,HND,2019,71.4312565119184
+Heavily indebted poor countries (HIPC),HPC,2000,25.01517024126
+Heavily indebted poor countries (HIPC),HPC,2010,31.0702977494112
+Heavily indebted poor countries (HIPC),HPC,2015,36.4227999012189
+Heavily indebted poor countries (HIPC),HPC,2019,39.9181413242392
+Croatia,HRV,2000,90.8111443185263
+Croatia,HRV,2010,92.7766093279369
+Croatia,HRV,2015,92.7005529948632
+Croatia,HRV,2019,91.5384707848712
+Haiti,HTI,2000,46.6550631893473
+Haiti,HTI,2010,16.3212192582758
+Haiti,HTI,2015,61.0969736296395
+Haiti,HTI,2019,64.7169351587221
+Hungary,HUN,2000,91.2859706478452
+Hungary,HUN,2010,92.9856166280788
+Hungary,HUN,2015,93.3431936021452
+Hungary,HUN,2019,93.8859147873012
+IBRD only,IBD,2000,65.574518565903
+IBRD only,IBD,2010,72.9002596585283
+IBRD only,IBD,2015,76.4718937486672
+IBRD only,IBD,2019,78.7056486083024
+IDA & IBRD total,IBT,2000,55.6647819850845
+IDA & IBRD total,IBT,2010,63.5023350293038
+IDA & IBRD total,IBT,2015,67.5918028339546
+IDA & IBRD total,IBT,2019,70.5277971701809
+IDA total,IDA,2000,30.924882169173
+IDA total,IDA,2010,38.512280967006
+IDA total,IDA,2015,42.7832382490312
+IDA total,IDA,2019,46.6100160798803
+IDA blend,IDB,2000,31.8470494500664
+IDA blend,IDB,2010,38.5249048528538
+IDA blend,IDB,2015,41.7316455629769
+IDA blend,IDB,2019,44.5346760274662
+Indonesia,IDN,2000,60.5310370938515
+Indonesia,IDN,2010,69.0694680236578
+Indonesia,IDN,2015,73.0713752539611
+Indonesia,IDN,2019,76.3264256879934
+IDA only,IDX,2000,30.4219398891103
+IDA only,IDX,2010,38.5049511868734
+IDA only,IDX,2015,43.4302736956138
+IDA only,IDX,2019,47.8843486763432
+India,IND,2000,44.0172142322494
+India,IND,2010,54.7948740551498
+India,IND,2015,62.042953140371
+India,IND,2019,65.9332019454579
+Ireland,IRL,2000,85.0614990035855
+Ireland,IRL,2010,88.5883114015248
+Ireland,IRL,2015,89.9654186700796
+Ireland,IRL,2019,90.4058687318321
+"Iran, Islamic Rep.",IRN,2000,69.7345370642722
+"Iran, Islamic Rep.",IRN,2010,74.6220121885318
+"Iran, Islamic Rep.",IRN,2015,79.2810327531216
+"Iran, Islamic Rep.",IRN,2019,81.3071549864524
+Iraq,IRQ,2000,58.7984260883905
+Iraq,IRQ,2010,60.4232720654822
+Iraq,IRQ,2015,55.6317198717159
+Iraq,IRQ,2019,66.8927788998746
+Iceland,ISL,2000,87.8793278407564
+Iceland,ISL,2010,89.8244503819077
+Iceland,ISL,2015,89.667495100966
+Iceland,ISL,2019,89.4710659502945
+Israel,ISR,2000,87.1683504624956
+Israel,ISR,2010,86.8961751004377
+Israel,ISR,2015,85.6170227148356
+Israel,ISR,2019,85.4465034349679
+Italy,ITA,2000,91.9503694446995
+Italy,ITA,2010,92.2468466267496
+Italy,ITA,2015,91.1489832076112
+Italy,ITA,2019,90.6385058588077
+Jamaica,JAM,2000,72.9266310502698
+Jamaica,JAM,2010,76.2039739680013
+Jamaica,JAM,2015,79.223943626019
+Jamaica,JAM,2019,79.297063590575
+Jordan,JOR,2000,69.6909366774968
+Jordan,JOR,2010,72.6674428356556
+Jordan,JOR,2015,75.0102153184574
+Jordan,JOR,2019,79.6060658555472
+Japan,JPN,2000,79.8169503103041
+Japan,JPN,2010,80.277952877026
+Japan,JPN,2015,81.5693594983226
+Japan,JPN,2019,84.7905248056048
+Kazakhstan,KAZ,2000,79.6021177981181
+Kazakhstan,KAZ,2010,81.5175133754637
+Kazakhstan,KAZ,2015,84.0231057567219
+Kazakhstan,KAZ,2019,86.6754521201012
+Kenya,KEN,2000,20.5633076182304
+Kenya,KEN,2010,28.9693306154506
+Kenya,KEN,2015,34.1938073267532
+Kenya,KEN,2019,40.856479221944
+Kyrgyz Republic,KGZ,2000,73.5834119926739
+Kyrgyz Republic,KGZ,2010,76.9412100012404
+Kyrgyz Republic,KGZ,2015,80.1115287592888
+Kyrgyz Republic,KGZ,2019,81.5861780638101
+Cambodia,KHM,2000,39.119970481486
+Cambodia,KHM,2010,57.270761623233
+Cambodia,KHM,2015,63.8302577255094
+Cambodia,KHM,2019,67.7209576492285
+Kiribati,KIR,2000,64.3223432520124
+Kiribati,KIR,2010,67.8289103602091
+Kiribati,KIR,2015,69.5397914017234
+Kiribati,KIR,2019,72.8134553298564
+"Korea, Rep.",KOR,2000,81.5814307874377
+"Korea, Rep.",KOR,2010,80.1622548279412
+"Korea, Rep.",KOR,2015,79.9542233154575
+"Korea, Rep.",KOR,2019,77.9104186148433
+Kuwait,KWT,2000,71.4340540832012
+Kuwait,KWT,2010,71.7650198580962
+Kuwait,KWT,2015,72.9796457509454
+Kuwait,KWT,2019,79.3692717439555
+Latin America & Caribbean (excluding high income),LAC,2000,66.6172135300063
+Latin America & Caribbean (excluding high income),LAC,2010,67.3588035489169
+Latin America & Caribbean (excluding high income),LAC,2015,74.4670208279744
+Latin America & Caribbean (excluding high income),LAC,2019,75.5429015000298
+Lao PDR,LAO,2000,39.8022664725572
+Lao PDR,LAO,2010,52.6833242380408
+Lao PDR,LAO,2015,59.3029459573512
+Lao PDR,LAO,2019,65.3429480560114
+Lebanon,LBN,2000,80.7170111008676
+Lebanon,LBN,2010,87.0527498622529
+Lebanon,LBN,2015,87.323590658767
+Lebanon,LBN,2019,88.5511303769937
+Liberia,LBR,2000,20.1296224502384
+Liberia,LBR,2010,28.07753381067
+Liberia,LBR,2015,26.9196484485278
+Liberia,LBR,2019,31.6550622520222
+Libya,LBY,2000,70.2815872772267
+Libya,LBY,2010,74.8492232308695
+Libya,LBY,2015,65.8972816547574
+Libya,LBY,2019,75.050321329237
+St. Lucia,LCA,2000,79.7742839617519
+St. Lucia,LCA,2010,80.5400401176861
+St. Lucia,LCA,2015,81.5992830536705
+St. Lucia,LCA,2019,82.096785253246
+Latin America & Caribbean,LCN,2000,67.1705563142978
+Latin America & Caribbean,LCN,2010,68.074467146962
+Latin America & Caribbean,LCN,2015,74.5560545202185
+Latin America & Caribbean,LCN,2019,75.5031496469108
+Least developed countries: UN classification,LDC,2000,28.3983843410479
+Least developed countries: UN classification,LDC,2010,36.1848395656122
+Least developed countries: UN classification,LDC,2015,41.4521764592658
+Least developed countries: UN classification,LDC,2019,45.5460940091181
+Low income,LIC,2000,26.979995898506
+Low income,LIC,2010,34.5349351346682
+Low income,LIC,2015,37.5563626248176
+Low income,LIC,2019,41.3273211297981
+Sri Lanka,LKA,2000,74.362985313725
+Sri Lanka,LKA,2010,75.9677535655116
+Sri Lanka,LKA,2015,82.6731105390946
+Sri Lanka,LKA,2019,82.5187048538365
+Lower middle income,LMC,2000,42.0042972283611
+Lower middle income,LMC,2010,51.4681299673464
+Lower middle income,LMC,2015,57.7723647336084
+Lower middle income,LMC,2019,61.4016674961941
+Low & middle income,LMY,2000,54.1000037409777
+Low & middle income,LMY,2010,62.3078783972651
+Low & middle income,LMY,2015,66.6663022338298
+Low & middle income,LMY,2019,69.7790737944993
+Lesotho,LSO,2000,27.6395141047242
+Lesotho,LSO,2010,38.4108948408623
+Lesotho,LSO,2015,44.3618020731498
+Lesotho,LSO,2019,45.0802861409139
+Late-demographic dividend,LTE,2000,79.2681132744805
+Late-demographic dividend,LTE,2010,84.1974175059404
+Late-demographic dividend,LTE,2015,85.7921265275194
+Late-demographic dividend,LTE,2019,86.9925367511463
+Lithuania,LTU,2000,85.1298971440617
+Lithuania,LTU,2010,88.5451191272801
+Lithuania,LTU,2015,89.6883443365829
+Lithuania,LTU,2019,91.1542757580292
+Luxembourg,LUX,2000,88.3081133301625
+Luxembourg,LUX,2010,87.2570759409712
+Luxembourg,LUX,2015,88.47320102911
+Luxembourg,LUX,2019,88.5966262598026
+Latvia,LVA,2000,86.1944225165947
+Latvia,LVA,2010,91.0629932597049
+Latvia,LVA,2015,91.6897535035995
+Latvia,LVA,2019,91.9936098302222
+Morocco,MAR,2000,67.7181925489051
+Morocco,MAR,2010,77.0622552195819
+Morocco,MAR,2015,81.4320974162168
+Morocco,MAR,2019,84.1902894663775
+Moldova,MDA,2000,86.8337416640148
+Moldova,MDA,2010,87.1707665522437
+Moldova,MDA,2015,88.7341249966908
+Moldova,MDA,2019,89.484237974785
+Madagascar,MDG,2000,31.3989187707194
+Madagascar,MDG,2010,40.033065782203
+Madagascar,MDG,2015,42.7857032203935
+Madagascar,MDG,2019,45.0253641794136
+Maldives,MDV,2000,71.8580921092811
+Maldives,MDV,2010,82.865854476024
+Maldives,MDV,2015,84.4802550736946
+Maldives,MDV,2019,85.1781921618113
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2000,55.6497966255682
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2010,63.2486805268623
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2015,65.1203490340867
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2019,69.338496612076
+Mexico,MEX,2000,70.155572012689
+Mexico,MEX,2010,76.0637841319078
+Mexico,MEX,2015,79.8132340601764
+Mexico,MEX,2019,80.4103092072542
+Middle income,MIC,2000,57.2118711463144
+Middle income,MIC,2010,65.2500217395689
+Middle income,MIC,2015,69.7405764481391
+Middle income,MIC,2019,72.6222782383464
+North Macedonia,MKD,2000,92.8276720338903
+North Macedonia,MKD,2010,95.2420564501999
+North Macedonia,MKD,2015,95.3425098262177
+North Macedonia,MKD,2019,96.131870575848
+Mali,MLI,2000,22.1953707650169
+Mali,MLI,2010,25.9261433981711
+Mali,MLI,2015,28.2175333617775
+Mali,MLI,2019,30.3222602495614
+Malta,MLT,2000,88.1959554883808
+Malta,MLT,2010,91.2402010522648
+Malta,MLT,2015,90.5477892834769
+Malta,MLT,2019,89.7452088059069
+Myanmar,MMR,2000,49.0467834349826
+Myanmar,MMR,2010,59.4292630610747
+Myanmar,MMR,2015,66.459484986708
+Myanmar,MMR,2019,71.1445252140296
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2000,54.7103666692501
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2010,62.5331703432649
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2015,64.4956837529176
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2019,68.841477146342
+Montenegro,MNE,2000,90.0055429740938
+Montenegro,MNE,2010,92.6493649507084
+Montenegro,MNE,2015,93.8632321411354
+Montenegro,MNE,2019,94.1059452107939
+Mongolia,MNG,2000,71.9135577587071
+Mongolia,MNG,2010,78.0406409339238
+Mongolia,MNG,2015,79.8013034670979
+Mongolia,MNG,2019,82.7159926018599
+Mozambique,MOZ,2000,24.1952514172206
+Mozambique,MOZ,2010,30.2106519355533
+Mozambique,MOZ,2015,33.0677058020347
+Mozambique,MOZ,2019,36.1641671601934
+Mauritania,MRT,2000,27.1324263713957
+Mauritania,MRT,2010,29.7623917035575
+Mauritania,MRT,2015,33.6381326390159
+Mauritania,MRT,2019,37.0647597305999
+Mauritius,MUS,2000,85.4721736830647
+Mauritius,MUS,2010,85.9628306743642
+Mauritius,MUS,2015,87.9902962314023
+Mauritius,MUS,2019,88.3814838404028
+Malawi,MWI,2000,21.540996425637
+Malawi,MWI,2010,29.9916007372789
+Malawi,MWI,2015,36.9963238937741
+Malawi,MWI,2019,40.1883723817408
+Malaysia,MYS,2000,73.1667674271091
+Malaysia,MYS,2010,71.474978464192
+Malaysia,MYS,2015,71.0097997668116
+Malaysia,MYS,2019,73.4429783304743
+North America,NAC,2000,88.0302481019989
+North America,NAC,2010,88.16027701029
+North America,NAC,2015,88.0955223591383
+North America,NAC,2019,88.2883765535651
+Namibia,NAM,2000,30.4425979417479
+Namibia,NAM,2010,40.2558829934852
+Namibia,NAM,2015,42.8480491024387
+Namibia,NAM,2019,43.0371729362929
+Niger,NER,2000,16.5713719708882
+Niger,NER,2010,23.4406588654639
+Niger,NER,2015,27.6083491304185
+Niger,NER,2019,30.3541425963808
+Nigeria,NGA,2000,20.5302890701461
+Nigeria,NGA,2010,24.0613185693917
+Nigeria,NGA,2015,25.6790307111329
+Nigeria,NGA,2019,27.1317098254344
+Nicaragua,NIC,2000,64.6399439411355
+Nicaragua,NIC,2010,74.753246199966
+Nicaragua,NIC,2015,79.0984911479853
+Nicaragua,NIC,2019,81.6398958837988
+Netherlands,NLD,2000,89.1711885771062
+Netherlands,NLD,2010,89.4243499756617
+Netherlands,NLD,2015,89.2953055269509
+Netherlands,NLD,2019,88.234188813408
+Norway,NOR,2000,87.0904518928513
+Norway,NOR,2010,87.6724112288554
+Norway,NOR,2015,87.1864695254935
+Norway,NOR,2019,86.7221299287588
+Nepal,NPL,2000,33.9406227826907
+Nepal,NPL,2010,54.2148861914656
+Nepal,NPL,2015,59.8492417290464
+Nepal,NPL,2019,66.4573216682287
+New Zealand,NZL,2000,91.2871645980186
+New Zealand,NZL,2010,89.8081729064488
+New Zealand,NZL,2015,89.9333668359445
+New Zealand,NZL,2019,89.6018985474786
+OECD members,OED,2000,85.8068548253615
+OECD members,OED,2010,86.8632548416436
+OECD members,OED,2015,87.0814062103587
+OECD members,OED,2019,87.355098826393
+Oman,OMN,2000,73.85881198433
+Oman,OMN,2010,76.1814068878104
+Oman,OMN,2015,78.4870922992034
+Oman,OMN,2019,79.7897919025766
+Other small states,OSS,2000,61.6179148506262
+Other small states,OSS,2010,67.7398031894637
+Other small states,OSS,2015,71.6984622923713
+Other small states,OSS,2019,73.9899871611765
+Pakistan,PAK,2000,45.6594271497745
+Pakistan,PAK,2010,53.0217057656377
+Pakistan,PAK,2015,56.7799413924832
+Pakistan,PAK,2019,59.8558675161075
+Panama,PAN,2000,69.2478295646373
+Panama,PAN,2010,69.8754188149835
+Panama,PAN,2015,75.3093581640921
+Panama,PAN,2019,77.859990559681
+Peru,PER,2000,55.3383009101423
+Peru,PER,2010,67.2530838970562
+Peru,PER,2015,70.4288657487505
+Peru,PER,2019,72.5860849365678
+Philippines,PHL,2000,55.1808796351004
+Philippines,PHL,2010,64.0094112000817
+Philippines,PHL,2015,67.2160919773446
+Philippines,PHL,2019,69.7491443602475
+Papua New Guinea,PNG,2000,43.4220808003914
+Papua New Guinea,PNG,2010,52.7042982870165
+Papua New Guinea,PNG,2015,59.3541962737704
+Papua New Guinea,PNG,2019,62.3545333786307
+Poland,POL,2000,89.2901926794164
+Poland,POL,2010,90.0074379648155
+Poland,POL,2015,90.3762185546728
+Poland,POL,2019,89.906897649352
+Pre-demographic dividend,PRE,2000,23.4702164897273
+Pre-demographic dividend,PRE,2010,29.1922971798013
+Pre-demographic dividend,PRE,2015,32.2191763747548
+Pre-demographic dividend,PRE,2019,35.2431982623352
+"Korea, Dem. People's Rep.",PRK,2000,48.0942922038412
+"Korea, Dem. People's Rep.",PRK,2010,76.1848543659944
+"Korea, Dem. People's Rep.",PRK,2015,82.1618805915635
+"Korea, Dem. People's Rep.",PRK,2019,80.4000006804435
+Portugal,PRT,2000,87.1152901134679
+Portugal,PRT,2010,86.5873776278381
+Portugal,PRT,2015,86.2288183970629
+Portugal,PRT,2019,86.6892779439777
+Paraguay,PRY,2000,61.1316350643343
+Paraguay,PRY,2010,69.0770586906766
+Paraguay,PRY,2015,72.9770802057947
+Paraguay,PRY,2019,74.9383368877686
+Pacific island small states,PSS,2000,69.4272076741317
+Pacific island small states,PSS,2010,74.8917807523706
+Pacific island small states,PSS,2015,76.099508272239
+Pacific island small states,PSS,2019,77.2273841931995
+Post-demographic dividend,PST,2000,87.5354279226652
+Post-demographic dividend,PST,2010,88.156488413283
+Post-demographic dividend,PST,2015,88.024563259101
+Post-demographic dividend,PST,2019,88.2560126317295
+Qatar,QAT,2000,74.6882399379053
+Qatar,QAT,2010,68.4669247694012
+Qatar,QAT,2015,71.979183715229
+Qatar,QAT,2019,76.8900092385815
+Romania,ROU,2000,89.8473020947602
+Romania,ROU,2010,92.0908813318928
+Romania,ROU,2015,92.2490251411109
+Romania,ROU,2019,91.037146163309
+Russian Federation,RUS,2000,83.1349770178675
+Russian Federation,RUS,2010,86.3387714394784
+Russian Federation,RUS,2015,87.6423258537981
+Russian Federation,RUS,2019,89.3053298873847
+Rwanda,RWA,2000,29.9407543211874
+Rwanda,RWA,2010,39.3308944428683
+Rwanda,RWA,2015,46.4104608241861
+Rwanda,RWA,2019,50.3926880607269
+South Asia,SAS,2000,44.1238247957761
+South Asia,SAS,2010,55.4637576318689
+South Asia,SAS,2015,62.4089437372692
+South Asia,SAS,2019,66.5160065532581
+Saudi Arabia,SAU,2000,69.510232817456
+Saudi Arabia,SAU,2010,72.3839809615052
+Saudi Arabia,SAU,2015,71.9486598459108
+Saudi Arabia,SAU,2019,73.410221100722
+Sudan,SDN,2000,36.0058771691834
+Sudan,SDN,2010,44.7198507244728
+Sudan,SDN,2015,50.4399559629139
+Sudan,SDN,2019,53.9452462094465
+Senegal,SEN,2000,28.16164980022
+Senegal,SEN,2010,37.7096935961074
+Senegal,SEN,2015,42.1009145300258
+Senegal,SEN,2019,44.9103407806288
+Singapore,SGP,2000,80.1492391006494
+Singapore,SGP,2010,77.4535588216906
+Singapore,SGP,2015,75.7505045757304
+Singapore,SGP,2019,75.0212481147359
+Solomon Islands,SLB,2000,49.0584246697194
+Solomon Islands,SLB,2010,61.5463995637396
+Solomon Islands,SLB,2015,65.1417040132327
+Solomon Islands,SLB,2019,66.8316987763344
+Sierra Leone,SLE,2000,18.6684428825435
+Sierra Leone,SLE,2010,25.4982239956513
+Sierra Leone,SLE,2015,27.201110114753
+Sierra Leone,SLE,2019,34.0743981626212
+El Salvador,SLV,2000,55.518769361975
+El Salvador,SLV,2010,64.4802425556674
+El Salvador,SLV,2015,64.8850273974443
+El Salvador,SLV,2019,65.1075874676011
+"Somalia, Fed. Rep.",SOM,2000,22.5137086738549
+"Somalia, Fed. Rep.",SOM,2010,25.0603698272262
+"Somalia, Fed. Rep.",SOM,2015,27.5345039305578
+"Somalia, Fed. Rep.",SOM,2019,29.8790260671022
+Serbia,SRB,2000,92.7250815540223
+Serbia,SRB,2010,94.8317607913052
+Serbia,SRB,2015,94.2980186195303
+Serbia,SRB,2019,94.9158841872602
+Sub-Saharan Africa (excluding high income),SSA,2000,23.904388909474
+Sub-Saharan Africa (excluding high income),SSA,2010,29.6907072321661
+Sub-Saharan Africa (excluding high income),SSA,2015,33.2701979271351
+Sub-Saharan Africa (excluding high income),SSA,2019,35.8063652187655
+South Sudan,SSD,2000,17.835256275336
+South Sudan,SSD,2010,23.5594449637212
+South Sudan,SSD,2015,25.2822524764756
+South Sudan,SSD,2019,27.9405168965776
+Sub-Saharan Africa,SSF,2000,23.7515414088384
+Sub-Saharan Africa,SSF,2010,29.9502744941624
+Sub-Saharan Africa,SSF,2015,33.6700609023314
+Sub-Saharan Africa,SSF,2019,36.3951606968453
+Small states,SST,2000,64.595216431234
+Small states,SST,2010,70.1975488864729
+Small states,SST,2015,73.2559551018118
+Small states,SST,2019,75.222661160252
+Sao Tome and Principe,STP,2000,36.8501502210663
+Sao Tome and Principe,STP,2010,49.5167624708706
+Sao Tome and Principe,STP,2015,53.8409570467063
+Sao Tome and Principe,STP,2019,57.630449772173
+Suriname,SUR,2000,65.9205013244477
+Suriname,SUR,2010,71.1446309297372
+Suriname,SUR,2015,75.4763602128576
+Suriname,SUR,2019,78.6097363921946
+Slovak Republic,SVK,2000,90.0352979976277
+Slovak Republic,SVK,2010,89.637049547929
+Slovak Republic,SVK,2015,89.1914720545025
+Slovak Republic,SVK,2019,88.6085086359974
+Slovenia,SVN,2000,86.200623199443
+Slovenia,SVN,2010,88.3301317318423
+Slovenia,SVN,2015,88.5042685787872
+Slovenia,SVN,2019,89.9880996804389
+Sweden,SWE,2000,90.1130865690947
+Sweden,SWE,2010,90.6386642834919
+Sweden,SWE,2015,88.9668585102809
+Sweden,SWE,2019,89.0470759204382
+Eswatini,SWZ,2000,28.7238389296415
+Eswatini,SWZ,2010,38.1898817652234
+Eswatini,SWZ,2015,42.3668466194942
+Eswatini,SWZ,2019,45.8623399494381
+Seychelles,SYC,2000,79.0443707372243
+Seychelles,SYC,2010,78.0997482789742
+Seychelles,SYC,2015,77.5994421518793
+Seychelles,SYC,2019,78.9806538080804
+Syrian Arab Republic,SYR,2000,76.7509007238488
+Syrian Arab Republic,SYR,2010,78.3291443451884
+Syrian Arab Republic,SYR,2015,40.1611584087959
+Syrian Arab Republic,SYR,2019,75.2126624215035
+Chad,TCD,2000,19.535418424743
+Chad,TCD,2010,23.2731350349084
+Chad,TCD,2015,25.5950533243489
+Chad,TCD,2019,26.9854526457781
+East Asia & Pacific (IDA & IBRD countries),TEA,2000,74.8763928147885
+East Asia & Pacific (IDA & IBRD countries),TEA,2010,81.0976830909822
+East Asia & Pacific (IDA & IBRD countries),TEA,2015,83.3428468124855
+East Asia & Pacific (IDA & IBRD countries),TEA,2019,85.0833054886331
+Europe & Central Asia (IDA & IBRD countries),TEC,2000,84.331684901633
+Europe & Central Asia (IDA & IBRD countries),TEC,2010,87.7841356568659
+Europe & Central Asia (IDA & IBRD countries),TEC,2015,88.752567047513
+Europe & Central Asia (IDA & IBRD countries),TEC,2019,89.8503640892921
+Togo,TGO,2000,28.84450650751
+Togo,TGO,2010,34.3515136449908
+Togo,TGO,2015,38.2114976442517
+Togo,TGO,2019,41.1204738449955
+Thailand,THA,2000,63.2751835038187
+Thailand,THA,2010,71.2369035991596
+Thailand,THA,2015,73.817462877219
+Thailand,THA,2019,76.5819668572181
+Tajikistan,TJK,2000,52.6285131371009
+Tajikistan,TJK,2010,69.7221127404227
+Tajikistan,TJK,2015,71.5525987616323
+Tajikistan,TJK,2019,73.1880151836871
+Turkmenistan,TKM,2000,69.2201244298595
+Turkmenistan,TKM,2010,73.1601437467736
+Turkmenistan,TKM,2015,70.6714914415714
+Turkmenistan,TKM,2019,72.3043873152797
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2000,66.7856220441659
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2010,67.6250498914195
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2015,74.3009481572038
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2019,75.2767783275729
+Timor-Leste,TLS,2000,30.1577169654065
+Timor-Leste,TLS,2010,47.2373252982921
+Timor-Leste,TLS,2015,48.3678514959676
+Timor-Leste,TLS,2019,53.083942403429
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2000,54.7103666692501
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2010,62.533170343265
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2015,64.4956837529176
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2019,68.841477146342
+Tonga,TON,2000,78.4535140291176
+Tonga,TON,2010,80.588770852297
+Tonga,TON,2015,81.7975014034956
+Tonga,TON,2019,79.4010784668366
+South Asia (IDA & IBRD),TSA,2000,44.1238247957761
+South Asia (IDA & IBRD),TSA,2010,55.4637576318689
+South Asia (IDA & IBRD),TSA,2015,62.4089437372692
+South Asia (IDA & IBRD),TSA,2019,66.5160065532581
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2000,23.7515414088384
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2010,29.9502744941624
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2015,33.6700609023314
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2019,36.3951606968453
+Trinidad and Tobago,TTO,2000,79.3390905798923
+Trinidad and Tobago,TTO,2010,79.925659311535
+Trinidad and Tobago,TTO,2015,82.3669985102435
+Trinidad and Tobago,TTO,2019,82.6593998696751
+Tunisia,TUN,2000,78.6895742205093
+Tunisia,TUN,2010,83.5345114502486
+Tunisia,TUN,2015,84.1575813119377
+Tunisia,TUN,2019,85.9446988729274
+Turkiye,TUR,2000,80.1155068237135
+Turkiye,TUR,2010,88.822879774528
+Turkiye,TUR,2015,88.7629454068832
+Turkiye,TUR,2019,90.1666080124334
+Tanzania,TZA,2000,21.0173748724489
+Tanzania,TZA,2010,25.791025907589
+Tanzania,TZA,2015,30.3140745714475
+Tanzania,TZA,2019,34.3811377618399
+Uganda,UGA,2000,19.1574075104212
+Uganda,UGA,2010,25.2838361938874
+Uganda,UGA,2015,30.9851503785501
+Uganda,UGA,2019,35.5809226467057
+Ukraine,UKR,2000,88.0351028660514
+Ukraine,UKR,2010,90.5780272296426
+Ukraine,UKR,2015,90.9317729841949
+Ukraine,UKR,2019,91.8551649320085
+Upper middle income,UMC,2000,75.2105919368116
+Upper middle income,UMC,2010,80.2058650564347
+Upper middle income,UMC,2015,82.3206518486875
+Upper middle income,UMC,2019,83.9943193361512
+Uruguay,URY,2000,85.5747070457557
+Uruguay,URY,2010,85.3175129602018
+Uruguay,URY,2015,85.424043442929
+Uruguay,URY,2019,85.51001841335
+United States,USA,2000,87.8724532736615
+United States,USA,2010,88.1043193118658
+United States,USA,2015,88.042831442106
+United States,USA,2019,88.1449804799197
+Uzbekistan,UZB,2000,72.5453161159014
+Uzbekistan,UZB,2010,80.3656006320119
+Uzbekistan,UZB,2015,82.8674507764608
+Uzbekistan,UZB,2019,85.1820186447499
+St. Vincent and the Grenadines,VCT,2000,76.7028484332608
+St. Vincent and the Grenadines,VCT,2010,77.0202156054384
+St. Vincent and the Grenadines,VCT,2015,78.8832247974609
+St. Vincent and the Grenadines,VCT,2019,79.0991011982907
+"Venezuela, RB",VEN,2000,63.6299637013558
+"Venezuela, RB",VEN,2010,66.5723342571832
+"Venezuela, RB",VEN,2015,66.3624966263331
+"Venezuela, RB",VEN,2019,65.0577003675068
+Viet Nam,VNM,2000,72.9083712782882
+Viet Nam,VNM,2010,78.4023051500846
+Viet Nam,VNM,2015,80.4074337526207
+Viet Nam,VNM,2019,81.3665708335802
+Vanuatu,VUT,2000,67.423034522382
+Vanuatu,VUT,2010,70.9249365499534
+Vanuatu,VUT,2015,72.1349900923867
+Vanuatu,VUT,2019,73.9255570040283
+World,WLD,2000,60.8006120668003
+World,WLD,2010,67.6295761782942
+World,WLD,2015,71.2206823083042
+World,WLD,2019,73.6338213036619
+Samoa,WSM,2000,76.4845367665219
+Samoa,WSM,2010,79.9433073721828
+Samoa,WSM,2015,80.9956891804565
+Samoa,WSM,2019,81.751376205632
+"Yemen, Rep.",YEM,2000,41.2572481393325
+"Yemen, Rep.",YEM,2010,51.2738135655353
+"Yemen, Rep.",YEM,2015,50.0367983958617
+"Yemen, Rep.",YEM,2019,50.3616968458699
+South Africa,ZAF,2000,39.2505854396478
+South Africa,ZAF,2010,40.8141965079597
+South Africa,ZAF,2015,50.3104679515096
+South Africa,ZAF,2019,51.3300565987341
+Zambia,ZMB,2000,20.3941126106144
+Zambia,ZMB,2010,28.8305322789141
+Zambia,ZMB,2015,33.1975246114857
+Zambia,ZMB,2019,34.7923815115643
+Zimbabwe,ZWE,2000,16.0093864697526
+Zimbabwe,ZWE,2010,28.8780396569393
+Zimbabwe,ZWE,2015,36.9465489799274
+Zimbabwe,ZWE,2019,39.2582275747306

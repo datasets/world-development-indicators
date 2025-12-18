@@ -1,0 +1,51 @@
+{
+  "title": "Medium and high-tech exports (% manufactured exports)",
+  "name": "tx.mnf.tech.zs.un",
+  "worldbank": {
+    "indicator": "tx.mnf.tech.zs.un"
+  },
+  "readme": "Share of medium and high-tech manufactured exports in total manufactured exports.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Private Sector",
+    "Trade"
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "Share of medium and high-tech manufactured exports in total manufactured exports."
+          }
+        ]
+      }
+    }
+  ]
+}
