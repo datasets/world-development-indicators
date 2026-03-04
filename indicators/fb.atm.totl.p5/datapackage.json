@@ -1,1 +1,50 @@
-{"title": "Automated teller machines (ATMs) (per 100,000 adults)", "name": "fb.atm.totl.p5", "worldbank": {"indicator": "fb.atm.totl.p5"}, "readme": "Automated teller machines are computerized telecommunications devices that provide clients of a financial institution with access to financial transactions in a public place.", "licenses": [{"name": "CC-BY-4.0"}], "keywords": ["Financial Sector "], "resources": [{"name": "data", "title": "Indicator data", "path": "data.csv", "format": "csv", "mediatype": "text/csv", "encoding": "utf-8", "schema": {"fields": [{"name": "Country Name", "type": "string", "description": "Country or Region name"}, {"name": "Country Code", "type": "string", "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"}, {"name": "Year", "type": "year", "description": "Year"}, {"name": "Value", "type": "number", "description": "Automated teller machines are computerized telecommunications devices that provide clients of a financial institution with access to financial transactions in a public place."}]}, "dialect": {"delimiter": ",", "quoteChar": "\""}}]}
+{
+  "title": "Automated teller machines (ATMs) (per 100,000 adults)",
+  "name": "fb.atm.totl.p5",
+  "worldbank": {
+    "indicator": "fb.atm.totl.p5"
+  },
+  "readme": "Automated teller machines (ATMs) are electromechanical devices which enable customers of financial institutions to perform financial transactions such as cash withdrawals, balance inquiries, deposits, transfer of funds, and obtaining account information, using an electronic card.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Financial Sector "
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "Automated teller machines (ATMs) are electromechanical devices which enable customers of financial institutions to perform financial transactions such as cash withdrawals, balance inquiries, deposits, transfer of funds, and obtaining account information, using an electronic card."
+          }
+        ]
+      }
+    }
+  ]
+}
