@@ -1,1 +1,50 @@
-{"title": "Technicians in R&D (per million people)", "name": "sp.pop.tech.rd.p6", "worldbank": {"indicator": "sp.pop.tech.rd.p6"}, "readme": "The number of technicians participated in Research & Development (R&D), expressed as per million. Technicians and equivalent staff are people who perform scientific and technical tasks involving the application of concepts and operational methods, normally under the supervision of researchers. R&D covers basic research, applied research, and experimental development.", "licenses": [{"name": "CC-BY-4.0"}], "keywords": ["Science & Technology "], "resources": [{"name": "data", "title": "Indicator data", "path": "data.csv", "format": "csv", "mediatype": "text/csv", "encoding": "utf-8", "schema": {"fields": [{"name": "Country Name", "type": "string", "description": "Country or Region name"}, {"name": "Country Code", "type": "string", "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"}, {"name": "Year", "type": "year", "description": "Year"}, {"name": "Value", "type": "number", "description": "The number of technicians participated in Research & Development (R&D), expressed as per million. Technicians and equivalent staff are people who perform scientific and technical tasks involving the application of concepts and operational methods, normally under the supervision of researchers. R&D covers basic research, applied research, and experimental development."}]}, "dialect": {"delimiter": ",", "quoteChar": "\""}}]}
+{
+  "title": "Technicians in R&D (per million people)",
+  "name": "sp.pop.tech.rd.p6",
+  "worldbank": {
+    "indicator": "sp.pop.tech.rd.p6"
+  },
+  "readme": "The number of technicians participated in Research & Development (R&D), expressed as per million. Technicians and equivalent staff are people who perform scientific and technical tasks involving the application of concepts and operational methods, normally under the supervision of researchers. R&D covers basic research, applied research, and experimental development.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Science & Technology "
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "The number of technicians participated in Research & Development (R&D), expressed as per million. Technicians and equivalent staff are people who perform scientific and technical tasks involving the application of concepts and operational methods, normally under the supervision of researchers. R&D covers basic research, applied research, and experimental development."
+          }
+        ]
+      }
+    }
+  ]
+}

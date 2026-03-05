@@ -1,1 +1,1 @@
-Automated teller machines are computerized telecommunications devices that provide clients of a financial institution with access to financial transactions in a public place.
+Automated teller machines (ATMs) are electromechanical devices which enable customers of financial institutions to perform financial transactions such as cash withdrawals, balance inquiries, deposits, transfer of funds, and obtaining account information, using an electronic card.

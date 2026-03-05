@@ -4,7 +4,7 @@
   "worldbank": {
     "indicator": "tx.val.tech.cd"
   },
-  "readme": "High-technology exports are products with high R&D intensity, such as in aerospace, computers, pharmaceuticals, scientific instruments, and electrical machinery. Data are in current U.S. dollars.",
+  "readme": "High-technology exports are products with high R&D intensity, such as aerospace, computers, pharmaceuticals, scientific instruments, and electrical machinery.",
   "licenses": [
     {
       "name": "CC-BY-4.0"
@@ -43,7 +43,7 @@
           {
             "name": "Value",
             "type": "number",
-            "description": "High-technology exports are products with high R&D intensity, such as in aerospace, computers, pharmaceuticals, scientific instruments, and electrical machinery. Data are in current U.S. dollars."
+            "description": "High-technology exports are products with high R&D intensity, such as aerospace, computers, pharmaceuticals, scientific instruments, and electrical machinery."
           }
         ]
       }
