@@ -1,5 +1,3 @@
-<a className="gh-badge" href=""><img src="https://badgen.net/badge/icon/View%20on%20datahub.io/orange?icon=https://datahub.io/datahub-cube-badge-icon.svg&label&scale=1.25" alt="badge" /></a>
-
 # World Development Indicators
 
 Python script for automated access to world-bank website and retreiving datasets with datapackages.
