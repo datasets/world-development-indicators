@@ -81,7 +81,7 @@ Africa Eastern and Southern,AFE,1974,49.7165087385753
 Africa Eastern and Southern,AFE,1975,49.9133776839612
 Africa Eastern and Southern,AFE,1976,50.6453193217896
 Africa Eastern and Southern,AFE,1977,50.986179008963
-Africa Eastern and Southern,AFE,1978,51.2458523803341
+Africa Eastern and Southern,AFE,1978,51.245852380334
 Africa Eastern and Southern,AFE,1979,51.6550098854036
 Africa Eastern and Southern,AFE,1980,52.057242005982
 Africa Eastern and Southern,AFE,1981,52.2894824172499
@@ -95,7 +95,7 @@ Africa Eastern and Southern,AFE,1988,53.0767511718914
 Africa Eastern and Southern,AFE,1989,53.4953551856157
 Africa Eastern and Southern,AFE,1990,53.3076446206773
 Africa Eastern and Southern,AFE,1991,52.8970805139701
-Africa Eastern and Southern,AFE,1992,52.6597535633317
+Africa Eastern and Southern,AFE,1992,52.6597535633316
 Africa Eastern and Southern,AFE,1993,53.0397827522353
 Africa Eastern and Southern,AFE,1994,52.8426706259964
 Africa Eastern and Southern,AFE,1995,53.301350609291
@@ -106,7 +106,7 @@ Africa Eastern and Southern,AFE,1999,53.7425408766332
 Africa Eastern and Southern,AFE,2000,54.1112309496375
 Africa Eastern and Southern,AFE,2001,54.3878364186547
 Africa Eastern and Southern,AFE,2002,54.741571542543
-Africa Eastern and Southern,AFE,2003,55.1849510514057
+Africa Eastern and Southern,AFE,2003,55.1849510514056
 Africa Eastern and Southern,AFE,2004,55.7420191157552
 Africa Eastern and Southern,AFE,2005,56.3577050139746
 Africa Eastern and Southern,AFE,2006,57.2536366582669
@@ -214,13 +214,13 @@ Africa Western and Central,AFW,1979,47.8881402823921
 Africa Western and Central,AFW,1980,48.2954832938715
 Africa Western and Central,AFW,1981,48.7041462310831
 Africa Western and Central,AFW,1982,49.022514990137
-Africa Western and Central,AFW,1983,49.2582462353311
+Africa Western and Central,AFW,1983,49.2582462353312
 Africa Western and Central,AFW,1984,49.440681481563
 Africa Western and Central,AFW,1985,49.5635319086833
 Africa Western and Central,AFW,1986,49.5929048243204
 Africa Western and Central,AFW,1987,49.7276173514395
 Africa Western and Central,AFW,1988,49.8574732400945
-Africa Western and Central,AFW,1989,49.9621903373605
+Africa Western and Central,AFW,1989,49.9621903373604
 Africa Western and Central,AFW,1990,49.9715438550449
 Africa Western and Central,AFW,1991,49.967336741081
 Africa Western and Central,AFW,1992,50.1047354566022
@@ -248,7 +248,7 @@ Africa Western and Central,AFW,2013,56.5132569476164
 Africa Western and Central,AFW,2014,56.7013733670951
 Africa Western and Central,AFW,2015,56.9951946399414
 Africa Western and Central,AFW,2016,57.3328305296981
-Africa Western and Central,AFW,2017,57.6162278555629
+Africa Western and Central,AFW,2017,57.6162278555628
 Africa Western and Central,AFW,2018,58.0296793848087
 Africa Western and Central,AFW,2019,58.2048173263905
 Africa Western and Central,AFW,2020,58.5536862406846
@@ -461,10 +461,10 @@ Arab World,ARB,1970,52.6175220716226
 Arab World,ARB,1971,53.1777704593449
 Arab World,ARB,1972,53.7437120921636
 Arab World,ARB,1973,54.3231203747569
-Arab World,ARB,1974,54.8782468075537
+Arab World,ARB,1974,54.8782468075538
 Arab World,ARB,1975,55.5088007992359
 Arab World,ARB,1976,55.8088483077069
-Arab World,ARB,1977,56.938553916484
+Arab World,ARB,1977,56.9385539164841
 Arab World,ARB,1978,57.6333724449116
 Arab World,ARB,1979,58.3660247881287
 Arab World,ARB,1980,59.1926368045577
@@ -507,7 +507,7 @@ Arab World,ARB,2016,73.1246960262716
 Arab World,ARB,2017,73.2310349975724
 Arab World,ARB,2018,73.5098368993471
 Arab World,ARB,2019,73.8579252362595
-Arab World,ARB,2020,72.9544176966871
+Arab World,ARB,2020,72.9544176966872
 Arab World,ARB,2021,72.3672117797234
 Arab World,ARB,2022,73.8783117926834
 Arab World,ARB,2023,74.4189102394527
@@ -2309,7 +2309,7 @@ Central Europe and the Baltics,CEB,1962,70.318715249132
 Central Europe and the Baltics,CEB,1963,71.3572816377735
 Central Europe and the Baltics,CEB,1964,71.8372440475218
 Central Europe and the Baltics,CEB,1965,72.0119025999843
-Central Europe and the Baltics,CEB,1966,72.6125402865808
+Central Europe and the Baltics,CEB,1966,72.6125402865807
 Central Europe and the Baltics,CEB,1967,72.2281682817498
 Central Europe and the Baltics,CEB,1968,72.5709690698616
 Central Europe and the Baltics,CEB,1969,72.1715351175146
@@ -2345,9 +2345,9 @@ Central Europe and the Baltics,CEB,1998,76.0906450094036
 Central Europe and the Baltics,CEB,1999,76.3480436396729
 Central Europe and the Baltics,CEB,2000,76.7805047870376
 Central Europe and the Baltics,CEB,2001,77.1317241142651
-Central Europe and the Baltics,CEB,2002,77.3331692070386
+Central Europe and the Baltics,CEB,2002,77.3331692070385
 Central Europe and the Baltics,CEB,2003,77.4583004054232
-Central Europe and the Baltics,CEB,2004,77.8063695890679
+Central Europe and the Baltics,CEB,2004,77.806369589068
 Central Europe and the Baltics,CEB,2005,77.9540501458372
 Central Europe and the Baltics,CEB,2006,78.1945594857095
 Central Europe and the Baltics,CEB,2007,78.3166323188602
@@ -2365,8 +2365,8 @@ Central Europe and the Baltics,CEB,2018,80.7834058744221
 Central Europe and the Baltics,CEB,2019,81.0158275787815
 Central Europe and the Baltics,CEB,2020,79.9030695131993
 Central Europe and the Baltics,CEB,2021,78.5636783539103
-Central Europe and the Baltics,CEB,2022,80.4083810304144
-Central Europe and the Baltics,CEB,2023,81.6246072411795
+Central Europe and the Baltics,CEB,2022,80.4083810304143
+Central Europe and the Baltics,CEB,2023,81.6246072411796
 Switzerland,CHE,1960,74.11
 Switzerland,CHE,1961,74.59
 Switzerland,CHE,1962,74.09
@@ -3143,7 +3143,7 @@ Caribbean small states,CSS,1964,64.2518577984132
 Caribbean small states,CSS,1965,64.6040811502721
 Caribbean small states,CSS,1966,64.9003444499144
 Caribbean small states,CSS,1967,65.1893929473081
-Caribbean small states,CSS,1968,65.4394036670371
+Caribbean small states,CSS,1968,65.439403667037
 Caribbean small states,CSS,1969,65.6706693286137
 Caribbean small states,CSS,1970,65.8585539795653
 Caribbean small states,CSS,1971,66.0658733500725
@@ -3157,7 +3157,7 @@ Caribbean small states,CSS,1978,67.7029920475722
 Caribbean small states,CSS,1979,67.8882340857526
 Caribbean small states,CSS,1980,68.0448587434918
 Caribbean small states,CSS,1981,68.2404090678973
-Caribbean small states,CSS,1982,68.3645392715118
+Caribbean small states,CSS,1982,68.3645392715119
 Caribbean small states,CSS,1983,68.5654607958119
 Caribbean small states,CSS,1984,68.8085059284615
 Caribbean small states,CSS,1985,68.9959455045133
@@ -3177,7 +3177,7 @@ Caribbean small states,CSS,1998,70.9142293159742
 Caribbean small states,CSS,1999,71.1396758632639
 Caribbean small states,CSS,2000,71.3637358961814
 Caribbean small states,CSS,2001,71.6668631247024
-Caribbean small states,CSS,2002,71.9191040986749
+Caribbean small states,CSS,2002,71.9191040986748
 Caribbean small states,CSS,2003,72.1493335943768
 Caribbean small states,CSS,2004,72.4744613194291
 Caribbean small states,CSS,2005,72.7154865108951
@@ -3903,11 +3903,11 @@ Algeria,DZA,2020,74.943
 Algeria,DZA,2021,76.65
 Algeria,DZA,2022,77.592
 Algeria,DZA,2023,77.696
-East Asia & Pacific (excluding high income),EAP,1960,39.5152487010483
+East Asia & Pacific (excluding high income),EAP,1960,39.5152487010482
 East Asia & Pacific (excluding high income),EAP,1961,44.9435247752567
 East Asia & Pacific (excluding high income),EAP,1962,53.3561138377132
 East Asia & Pacific (excluding high income),EAP,1963,53.9631506548938
-East Asia & Pacific (excluding high income),EAP,1964,54.6142197599292
+East Asia & Pacific (excluding high income),EAP,1964,54.6142197599293
 East Asia & Pacific (excluding high income),EAP,1965,54.7523533684811
 East Asia & Pacific (excluding high income),EAP,1966,55.6417706951562
 East Asia & Pacific (excluding high income),EAP,1967,56.5196039179883
@@ -3921,14 +3921,14 @@ East Asia & Pacific (excluding high income),EAP,1974,61.6108561106523
 East Asia & Pacific (excluding high income),EAP,1975,62.3082988372424
 East Asia & Pacific (excluding high income),EAP,1976,62.5884919025908
 East Asia & Pacific (excluding high income),EAP,1977,63.7676243611867
-East Asia & Pacific (excluding high income),EAP,1978,64.3793412905985
+East Asia & Pacific (excluding high income),EAP,1978,64.3793412905986
 East Asia & Pacific (excluding high income),EAP,1979,65.1070837270988
 East Asia & Pacific (excluding high income),EAP,1980,65.6293571697319
 East Asia & Pacific (excluding high income),EAP,1981,66.1336762413141
 East Asia & Pacific (excluding high income),EAP,1982,66.6218558798267
 East Asia & Pacific (excluding high income),EAP,1983,67.1088670292198
 East Asia & Pacific (excluding high income),EAP,1984,67.5396879320484
-East Asia & Pacific (excluding high income),EAP,1985,67.9581563247278
+East Asia & Pacific (excluding high income),EAP,1985,67.9581563247279
 East Asia & Pacific (excluding high income),EAP,1986,68.3456703122711
 East Asia & Pacific (excluding high income),EAP,1987,68.7606597060735
 East Asia & Pacific (excluding high income),EAP,1988,69.1110716066675
@@ -3948,7 +3948,7 @@ East Asia & Pacific (excluding high income),EAP,2001,73.7387563436332
 East Asia & Pacific (excluding high income),EAP,2002,74.0855811018784
 East Asia & Pacific (excluding high income),EAP,2003,74.5060116853295
 East Asia & Pacific (excluding high income),EAP,2004,74.5197445601791
-East Asia & Pacific (excluding high income),EAP,2005,75.1329340281193
+East Asia & Pacific (excluding high income),EAP,2005,75.1329340281194
 East Asia & Pacific (excluding high income),EAP,2006,75.3741118813316
 East Asia & Pacific (excluding high income),EAP,2007,75.6810287182896
 East Asia & Pacific (excluding high income),EAP,2008,75.5748424093896
@@ -3960,11 +3960,11 @@ East Asia & Pacific (excluding high income),EAP,2013,77.2676794507672
 East Asia & Pacific (excluding high income),EAP,2014,77.5277893577439
 East Asia & Pacific (excluding high income),EAP,2015,77.7726289288201
 East Asia & Pacific (excluding high income),EAP,2016,78.0106220514879
-East Asia & Pacific (excluding high income),EAP,2017,78.243744430375
+East Asia & Pacific (excluding high income),EAP,2017,78.2437444303751
 East Asia & Pacific (excluding high income),EAP,2018,78.4540320912186
 East Asia & Pacific (excluding high income),EAP,2019,78.6154262285222
 East Asia & Pacific (excluding high income),EAP,2020,78.6850460209711
-East Asia & Pacific (excluding high income),EAP,2021,78.0935932680503
+East Asia & Pacific (excluding high income),EAP,2021,78.0935932680504
 East Asia & Pacific (excluding high income),EAP,2022,78.8557055830998
 East Asia & Pacific (excluding high income),EAP,2023,78.8358178408631
 Early-demographic dividend,EAR,1960,47.3986708858177
@@ -3972,10 +3972,10 @@ Early-demographic dividend,EAR,1961,47.8922732692046
 Early-demographic dividend,EAR,1962,48.3485929872906
 Early-demographic dividend,EAR,1963,48.7454548543836
 Early-demographic dividend,EAR,1964,49.2818438190568
-Early-demographic dividend,EAR,1965,48.5722674702865
+Early-demographic dividend,EAR,1965,48.5722674702864
 Early-demographic dividend,EAR,1966,49.4203469063434
 Early-demographic dividend,EAR,1967,50.1527727255248
-Early-demographic dividend,EAR,1968,51.146812277921
+Early-demographic dividend,EAR,1968,51.1468122779209
 Early-demographic dividend,EAR,1969,51.5658537943357
 Early-demographic dividend,EAR,1970,51.4795884879798
 Early-demographic dividend,EAR,1971,51.4324661592266
@@ -3998,11 +3998,11 @@ Early-demographic dividend,EAR,1987,61.0364954446147
 Early-demographic dividend,EAR,1988,61.4390196216901
 Early-demographic dividend,EAR,1989,61.8763336989982
 Early-demographic dividend,EAR,1990,62.1669771759344
-Early-demographic dividend,EAR,1991,62.4473280837702
+Early-demographic dividend,EAR,1991,62.4473280837703
 Early-demographic dividend,EAR,1992,62.9486667705738
 Early-demographic dividend,EAR,1993,63.2994432396679
 Early-demographic dividend,EAR,1994,63.5154182457429
-Early-demographic dividend,EAR,1995,63.9425881363663
+Early-demographic dividend,EAR,1995,63.9425881363664
 Early-demographic dividend,EAR,1996,64.2895223988975
 Early-demographic dividend,EAR,1997,64.6594819844271
 Early-demographic dividend,EAR,1998,65.0142794530275
@@ -4021,7 +4021,7 @@ Early-demographic dividend,EAR,2010,69.8547688466467
 Early-demographic dividend,EAR,2011,70.3356488521668
 Early-demographic dividend,EAR,2012,70.7100311815113
 Early-demographic dividend,EAR,2013,71.0674398104679
-Early-demographic dividend,EAR,2014,71.4378136679706
+Early-demographic dividend,EAR,2014,71.4378136679705
 Early-demographic dividend,EAR,2015,71.7546534524729
 Early-demographic dividend,EAR,2016,72.0743315107001
 Early-demographic dividend,EAR,2017,72.3911822940031
@@ -4030,7 +4030,7 @@ Early-demographic dividend,EAR,2019,72.9419717954479
 Early-demographic dividend,EAR,2020,72.2128391946792
 Early-demographic dividend,EAR,2021,70.3353222319971
 Early-demographic dividend,EAR,2022,73.570267749594
-Early-demographic dividend,EAR,2023,73.9138639017253
+Early-demographic dividend,EAR,2023,73.9138639017254
 East Asia & Pacific,EAS,1960,43.6021402271782
 East Asia & Pacific,EAS,1961,48.3713613437392
 East Asia & Pacific,EAS,1962,55.6115532509861
@@ -4042,7 +4042,7 @@ East Asia & Pacific,EAS,1967,58.6889250003825
 East Asia & Pacific,EAS,1968,59.1612497533838
 East Asia & Pacific,EAS,1969,59.8529360551137
 East Asia & Pacific,EAS,1970,60.4645683199057
-East Asia & Pacific,EAS,1971,61.2082320970393
+East Asia & Pacific,EAS,1971,61.2082320970392
 East Asia & Pacific,EAS,1972,61.7914305174335
 East Asia & Pacific,EAS,1973,62.6300384205916
 East Asia & Pacific,EAS,1974,63.2904177048594
@@ -4083,7 +4083,7 @@ East Asia & Pacific,EAS,2008,76.5919563121001
 East Asia & Pacific,EAS,2009,77.1818019957869
 East Asia & Pacific,EAS,2010,77.4098305540615
 East Asia & Pacific,EAS,2011,77.6630544816523
-East Asia & Pacific,EAS,2012,77.9557698403125
+East Asia & Pacific,EAS,2012,77.9557698403124
 East Asia & Pacific,EAS,2013,78.1767642765935
 East Asia & Pacific,EAS,2014,78.4265862922923
 East Asia & Pacific,EAS,2015,78.6628110241074
@@ -4099,12 +4099,12 @@ Europe & Central Asia (excluding high income),ECA,1960,64.1867585641063
 Europe & Central Asia (excluding high income),ECA,1961,64.7471310984478
 Europe & Central Asia (excluding high income),ECA,1962,65.1133326634017
 Europe & Central Asia (excluding high income),ECA,1963,65.5232253869913
-Europe & Central Asia (excluding high income),ECA,1964,65.9507000697349
+Europe & Central Asia (excluding high income),ECA,1964,65.950700069735
 Europe & Central Asia (excluding high income),ECA,1965,66.2874794802086
 Europe & Central Asia (excluding high income),ECA,1966,66.5733775004011
 Europe & Central Asia (excluding high income),ECA,1967,66.8596342757963
 Europe & Central Asia (excluding high income),ECA,1968,67.0675858570836
-Europe & Central Asia (excluding high income),ECA,1969,67.3043143011783
+Europe & Central Asia (excluding high income),ECA,1969,67.3043143011784
 Europe & Central Asia (excluding high income),ECA,1970,67.5288287721825
 Europe & Central Asia (excluding high income),ECA,1971,67.7405363821287
 Europe & Central Asia (excluding high income),ECA,1972,68.0300125571826
@@ -4168,10 +4168,10 @@ Europe & Central Asia,ECS,1965,71.9212547724476
 Europe & Central Asia,ECS,1966,72.1979557848878
 Europe & Central Asia,ECS,1967,72.3094137558675
 Europe & Central Asia,ECS,1968,72.3516097255086
-Europe & Central Asia,ECS,1969,72.3118686697949
+Europe & Central Asia,ECS,1969,72.3118686697948
 Europe & Central Asia,ECS,1970,72.6419844872333
-Europe & Central Asia,ECS,1971,72.8727512908137
-Europe & Central Asia,ECS,1972,73.0864026011302
+Europe & Central Asia,ECS,1971,72.8727512908138
+Europe & Central Asia,ECS,1972,73.0864026011303
 Europe & Central Asia,ECS,1973,73.2070284623941
 Europe & Central Asia,ECS,1974,73.4808743587753
 Europe & Central Asia,ECS,1975,73.46369132503
@@ -4181,7 +4181,7 @@ Europe & Central Asia,ECS,1978,74.0421099801066
 Europe & Central Asia,ECS,1979,74.2120843881665
 Europe & Central Asia,ECS,1980,74.2988314012428
 Europe & Central Asia,ECS,1981,74.5790322123039
-Europe & Central Asia,ECS,1982,74.8581218142532
+Europe & Central Asia,ECS,1982,74.8581218142533
 Europe & Central Asia,ECS,1983,74.9057786482104
 Europe & Central Asia,ECS,1984,75.045991789611
 Europe & Central Asia,ECS,1985,75.174691283395
@@ -4189,7 +4189,7 @@ Europe & Central Asia,ECS,1986,75.5513922792858
 Europe & Central Asia,ECS,1987,75.7720425669404
 Europe & Central Asia,ECS,1988,75.9033543813758
 Europe & Central Asia,ECS,1989,76.0895645096804
-Europe & Central Asia,ECS,1990,76.151652152284
+Europe & Central Asia,ECS,1990,76.1516521522839
 Europe & Central Asia,ECS,1991,76.130002408865
 Europe & Central Asia,ECS,1992,75.9020160770549
 Europe & Central Asia,ECS,1993,75.776597696884
@@ -4352,7 +4352,7 @@ Ecuador,ECU,2023,80.139
 "Egypt, Arab Rep.",EGY,2022,73.24
 "Egypt, Arab Rep.",EGY,2023,73.809
 Euro area,EMU,1960,72.0572771686665
-Euro area,EMU,1961,72.5006329656117
+Euro area,EMU,1961,72.5006329656118
 Euro area,EMU,1962,72.5275554140462
 Euro area,EMU,1963,72.7424916280568
 Euro area,EMU,1964,73.3566059148107
@@ -4361,14 +4361,14 @@ Euro area,EMU,1966,73.7392715873482
 Euro area,EMU,1967,73.9621085201701
 Euro area,EMU,1968,73.9023902455555
 Euro area,EMU,1969,73.8971646308722
-Euro area,EMU,1970,74.3233590070959
+Euro area,EMU,1970,74.323359007096
 Euro area,EMU,1971,74.5313120408744
 Euro area,EMU,1972,74.9142156479057
 Euro area,EMU,1973,75.0395396891773
 Euro area,EMU,1974,75.4388499808342
 Euro area,EMU,1975,75.5490444173278
 Euro area,EMU,1976,75.9022114690064
-Euro area,EMU,1977,76.3915337771062
+Euro area,EMU,1977,76.3915337771061
 Euro area,EMU,1978,76.567178343621
 Euro area,EMU,1979,76.9267355140706
 Euro area,EMU,1980,77.0849901660296
@@ -4376,7 +4376,7 @@ Euro area,EMU,1981,77.3610002248657
 Euro area,EMU,1982,77.6951574912322
 Euro area,EMU,1983,77.7639098005241
 Euro area,EMU,1984,78.1887920959084
-Euro area,EMU,1985,78.3008387883553
+Euro area,EMU,1985,78.3008387883552
 Euro area,EMU,1986,78.5596873081591
 Euro area,EMU,1987,78.9120110563223
 Euro area,EMU,1988,79.1106345706854
@@ -4406,7 +4406,7 @@ Euro area,EMU,2011,84.1529418603369
 Euro area,EMU,2012,84.0707976221279
 Euro area,EMU,2013,84.3069983549638
 Euro area,EMU,2014,84.713728883554
-Euro area,EMU,2015,84.2419863910263
+Euro area,EMU,2015,84.2419863910264
 Euro area,EMU,2016,84.6468167688281
 Euro area,EMU,2017,84.5219529248641
 Euro area,EMU,2018,84.6445512895033
@@ -4684,16 +4684,16 @@ European Union,EUU,1969,73.5578387556343
 European Union,EUU,1970,73.9722550563477
 European Union,EUU,1971,74.1910561149302
 European Union,EUU,1972,74.5765684706395
-European Union,EUU,1973,74.7237925089353
+European Union,EUU,1973,74.7237925089352
 European Union,EUU,1974,75.0724768074852
 European Union,EUU,1975,75.1540919143917
 European Union,EUU,1976,75.4615290708092
-European Union,EUU,1977,75.8556687720036
+European Union,EUU,1977,75.8556687720035
 European Union,EUU,1978,75.9737735610455
 European Union,EUU,1979,76.2869010292607
 European Union,EUU,1980,76.3403688591403
 European Union,EUU,1981,76.6721153283119
-European Union,EUU,1982,76.9448222839615
+European Union,EUU,1982,76.9448222839616
 European Union,EUU,1983,77.0095767420972
 European Union,EUU,1984,77.332202116887
 European Union,EUU,1985,77.3972285334183
@@ -4706,7 +4706,7 @@ European Union,EUU,1991,78.5290337004926
 European Union,EUU,1992,78.8608462739259
 European Union,EUU,1993,78.9449933470451
 European Union,EUU,1994,79.2294240322503
-European Union,EUU,1995,79.3704529395901
+European Union,EUU,1995,79.3704529395902
 European Union,EUU,1996,79.5556842149798
 European Union,EUU,1997,79.8173924680033
 European Union,EUU,1998,80.0434714957671
@@ -4732,7 +4732,7 @@ European Union,EUU,2017,83.7458032448511
 European Union,EUU,2018,83.8568175502211
 European Union,EUU,2019,84.1126372113558
 European Union,EUU,2020,83.3021408381401
-European Union,EUU,2021,83.1872544638918
+European Union,EUU,2021,83.1872544638917
 European Union,EUU,2022,83.4400044992639
 European Union,EUU,2023,84.1586151146853
 Fragile and conflict affected situations,FCS,1960,48.6936311799677
@@ -4755,7 +4755,7 @@ Fragile and conflict affected situations,FCS,1976,53.4155743140036
 Fragile and conflict affected situations,FCS,1977,53.8724672272511
 Fragile and conflict affected situations,FCS,1978,54.0641172330025
 Fragile and conflict affected situations,FCS,1979,54.3522864783693
-Fragile and conflict affected situations,FCS,1980,54.6826657027869
+Fragile and conflict affected situations,FCS,1980,54.682665702787
 Fragile and conflict affected situations,FCS,1981,54.890792922502
 Fragile and conflict affected situations,FCS,1982,54.9298803824498
 Fragile and conflict affected situations,FCS,1983,54.2425751149333
@@ -4797,7 +4797,7 @@ Fragile and conflict affected situations,FCS,2018,64.0315622301149
 Fragile and conflict affected situations,FCS,2019,64.3646434645159
 Fragile and conflict affected situations,FCS,2020,64.4452068656149
 Fragile and conflict affected situations,FCS,2021,63.8887666203076
-Fragile and conflict affected situations,FCS,2022,64.9935006376082
+Fragile and conflict affected situations,FCS,2022,64.9935006376083
 Fragile and conflict affected situations,FCS,2023,65.6197472995927
 Finland,FIN,1960,72.4
 Finland,FIN,1961,72.24
@@ -6082,7 +6082,7 @@ Guyana,GUY,2023,73.944
 High income,HIC,1960,71.3865075004102
 High income,HIC,1961,71.7814357035338
 High income,HIC,1962,71.7902310153228
-High income,HIC,1963,72.1336221461902
+High income,HIC,1963,72.1336221461901
 High income,HIC,1964,72.6193408935884
 High income,HIC,1965,72.7341190481857
 High income,HIC,1966,73.0020255218774
@@ -6137,7 +6137,7 @@ High income,HIC,2014,82.591156997797
 High income,HIC,2015,82.4926100568891
 High income,HIC,2016,82.6870893069446
 High income,HIC,2017,82.7559164880761
-High income,HIC,2018,82.8680197498872
+High income,HIC,2018,82.8680197498871
 High income,HIC,2019,83.1004952762114
 High income,HIC,2020,82.239299834829
 High income,HIC,2021,81.7986022269748
@@ -6279,7 +6279,7 @@ Heavily indebted poor countries (HIPC),HPC,1964,43.9922997875489
 Heavily indebted poor countries (HIPC),HPC,1965,44.3394283927041
 Heavily indebted poor countries (HIPC),HPC,1966,44.3844971185549
 Heavily indebted poor countries (HIPC),HPC,1967,45.0888681886387
-Heavily indebted poor countries (HIPC),HPC,1968,45.4160836193748
+Heavily indebted poor countries (HIPC),HPC,1968,45.4160836193749
 Heavily indebted poor countries (HIPC),HPC,1969,45.7090958457011
 Heavily indebted poor countries (HIPC),HPC,1970,46.0321258057138
 Heavily indebted poor countries (HIPC),HPC,1971,46.2021568228471
@@ -6300,9 +6300,9 @@ Heavily indebted poor countries (HIPC),HPC,1985,49.0414533958033
 Heavily indebted poor countries (HIPC),HPC,1986,49.8106186649706
 Heavily indebted poor countries (HIPC),HPC,1987,51.0301064311619
 Heavily indebted poor countries (HIPC),HPC,1988,51.1748714216656
-Heavily indebted poor countries (HIPC),HPC,1989,51.3893411987635
+Heavily indebted poor countries (HIPC),HPC,1989,51.3893411987636
 Heavily indebted poor countries (HIPC),HPC,1990,51.4732714669969
-Heavily indebted poor countries (HIPC),HPC,1991,51.2367526910879
+Heavily indebted poor countries (HIPC),HPC,1991,51.236752691088
 Heavily indebted poor countries (HIPC),HPC,1992,51.4153036433107
 Heavily indebted poor countries (HIPC),HPC,1993,52.0105065622447
 Heavily indebted poor countries (HIPC),HPC,1994,51.7829039203812
@@ -6325,7 +6325,7 @@ Heavily indebted poor countries (HIPC),HPC,2010,60.4421202342783
 Heavily indebted poor countries (HIPC),HPC,2011,60.9962981105511
 Heavily indebted poor countries (HIPC),HPC,2012,61.9270161416237
 Heavily indebted poor countries (HIPC),HPC,2013,62.5612202269976
-Heavily indebted poor countries (HIPC),HPC,2014,63.0539603991579
+Heavily indebted poor countries (HIPC),HPC,2014,63.053960399158
 Heavily indebted poor countries (HIPC),HPC,2015,63.613116382252
 Heavily indebted poor countries (HIPC),HPC,2016,64.1160428979829
 Heavily indebted poor countries (HIPC),HPC,2017,64.5462851390504
@@ -6560,16 +6560,16 @@ IBRD only,IBD,1989,67.3335291375102
 IBRD only,IBD,1990,67.5459501334747
 IBRD only,IBD,1991,67.9291477980412
 IBRD only,IBD,1992,68.1757998945189
-IBRD only,IBD,1993,68.5122600055713
+IBRD only,IBD,1993,68.5122600055712
 IBRD only,IBD,1994,68.840831381234
 IBRD only,IBD,1995,69.2034795440326
-IBRD only,IBD,1996,69.5751203360909
+IBRD only,IBD,1996,69.575120336091
 IBRD only,IBD,1997,69.9221827000145
 IBRD only,IBD,1998,70.2502935682211
 IBRD only,IBD,1999,70.4955609332269
 IBRD only,IBD,2000,70.8492078263315
 IBRD only,IBD,2001,71.1617277504348
-IBRD only,IBD,2002,71.4988001464509
+IBRD only,IBD,2002,71.498800146451
 IBRD only,IBD,2003,71.7799234826275
 IBRD only,IBD,2004,72.0036997951809
 IBRD only,IBD,2005,72.4786688439568
@@ -6578,12 +6578,12 @@ IBRD only,IBD,2007,73.1607660750522
 IBRD only,IBD,2008,73.4115083227224
 IBRD only,IBD,2009,73.8078124522766
 IBRD only,IBD,2010,74.1286579173953
-IBRD only,IBD,2011,74.4912362885319
+IBRD only,IBD,2011,74.4912362885318
 IBRD only,IBD,2012,74.8189671869369
-IBRD only,IBD,2013,75.1033515200752
-IBRD only,IBD,2014,75.392697950033
+IBRD only,IBD,2013,75.1033515200753
+IBRD only,IBD,2014,75.3926979500329
 IBRD only,IBD,2015,75.6604042094282
-IBRD only,IBD,2016,75.9074563806132
+IBRD only,IBD,2016,75.9074563806133
 IBRD only,IBD,2017,76.1668373484523
 IBRD only,IBD,2018,76.4046883845135
 IBRD only,IBD,2019,76.6127007538138
@@ -6626,10 +6626,10 @@ IDA & IBRD total,IBT,1991,65.2122582024202
 IDA & IBRD total,IBT,1992,65.4773991309297
 IDA & IBRD total,IBT,1993,65.78940042287
 IDA & IBRD total,IBT,1994,66.0414348561495
-IDA & IBRD total,IBT,1995,66.3827804623061
+IDA & IBRD total,IBT,1995,66.3827804623062
 IDA & IBRD total,IBT,1996,66.6894717078243
 IDA & IBRD total,IBT,1997,67.0026722442847
-IDA & IBRD total,IBT,1998,67.2721591833583
+IDA & IBRD total,IBT,1998,67.2721591833582
 IDA & IBRD total,IBT,1999,67.5646802757018
 IDA & IBRD total,IBT,2000,67.9296030633586
 IDA & IBRD total,IBT,2001,68.2462217991678
@@ -6637,7 +6637,7 @@ IDA & IBRD total,IBT,2002,68.5915960995984
 IDA & IBRD total,IBT,2003,68.8949116176635
 IDA & IBRD total,IBT,2004,69.1337094246348
 IDA & IBRD total,IBT,2005,69.5842360439728
-IDA & IBRD total,IBT,2006,69.9769046212409
+IDA & IBRD total,IBT,2006,69.976904621241
 IDA & IBRD total,IBT,2007,70.347680358075
 IDA & IBRD total,IBT,2008,70.5667282727854
 IDA & IBRD total,IBT,2009,70.9953065361146
@@ -6649,16 +6649,16 @@ IDA & IBRD total,IBT,2014,72.5810327740572
 IDA & IBRD total,IBT,2015,72.8315222953906
 IDA & IBRD total,IBT,2016,73.0906648706616
 IDA & IBRD total,IBT,2017,73.3431262052838
-IDA & IBRD total,IBT,2018,73.6192943703806
+IDA & IBRD total,IBT,2018,73.6192943703807
 IDA & IBRD total,IBT,2019,73.8381710806263
 IDA & IBRD total,IBT,2020,73.3837408556596
 IDA & IBRD total,IBT,2021,72.1395084356756
-IDA & IBRD total,IBT,2022,74.1697300476945
+IDA & IBRD total,IBT,2022,74.1697300476944
 IDA & IBRD total,IBT,2023,74.4856881905807
 IDA total,IDA,1960,43.6334928834777
-IDA total,IDA,1961,44.1220251179128
+IDA total,IDA,1961,44.1220251179129
 IDA total,IDA,1962,44.6353829420998
-IDA total,IDA,1963,44.9905332981685
+IDA total,IDA,1963,44.9905332981686
 IDA total,IDA,1964,45.6390583787159
 IDA total,IDA,1965,45.8837448719852
 IDA total,IDA,1966,46.4230985007061
@@ -6674,7 +6674,7 @@ IDA total,IDA,1975,49.7560345825663
 IDA total,IDA,1976,50.3264382072769
 IDA total,IDA,1977,50.8130861126353
 IDA total,IDA,1978,51.2542566149368
-IDA total,IDA,1979,52.0446281146439
+IDA total,IDA,1979,52.0446281146438
 IDA total,IDA,1980,52.5365089905955
 IDA total,IDA,1981,52.925799249264
 IDA total,IDA,1982,53.2535434268016
@@ -6701,11 +6701,11 @@ IDA total,IDA,2002,58.7126747057726
 IDA total,IDA,2003,59.2223328642876
 IDA total,IDA,2004,59.6364451624982
 IDA total,IDA,2005,60.1318216415747
-IDA total,IDA,2006,60.8631855422481
+IDA total,IDA,2006,60.8631855422482
 IDA total,IDA,2007,61.4156202546859
 IDA total,IDA,2008,61.6586551084325
 IDA total,IDA,2009,62.3065503909516
-IDA total,IDA,2010,62.743878950432
+IDA total,IDA,2010,62.7438789504319
 IDA total,IDA,2011,63.1580129394335
 IDA total,IDA,2012,63.6826684250838
 IDA total,IDA,2013,64.0990034952015
@@ -6726,10 +6726,10 @@ IDA blend,IDB,1963,45.1320449899795
 IDA blend,IDB,1964,45.8540020466016
 IDA blend,IDB,1965,46.3603655004815
 IDA blend,IDB,1966,47.0851490320752
-IDA blend,IDB,1967,47.5147109495321
+IDA blend,IDB,1967,47.514710949532
 IDA blend,IDB,1968,48.4054327087144
 IDA blend,IDB,1969,48.9439073485551
-IDA blend,IDB,1970,49.5257622940993
+IDA blend,IDB,1970,49.5257622940994
 IDA blend,IDB,1971,49.2025186927481
 IDA blend,IDB,1972,50.7378595868123
 IDA blend,IDB,1973,51.2596762241248
@@ -6739,15 +6739,15 @@ IDA blend,IDB,1976,52.8365656516436
 IDA blend,IDB,1977,53.4103683087075
 IDA blend,IDB,1978,53.9886912782372
 IDA blend,IDB,1979,54.5415636500605
-IDA blend,IDB,1980,55.0946731609306
-IDA blend,IDB,1981,55.6192323346677
+IDA blend,IDB,1980,55.0946731609305
+IDA blend,IDB,1981,55.6192323346678
 IDA blend,IDB,1982,56.019553880713
 IDA blend,IDB,1983,56.2653123277312
 IDA blend,IDB,1984,56.4396067203525
 IDA blend,IDB,1985,56.5050254330213
 IDA blend,IDB,1986,56.4669308818283
-IDA blend,IDB,1987,56.5298247445153
-IDA blend,IDB,1988,56.578177212676
+IDA blend,IDB,1987,56.5298247445152
+IDA blend,IDB,1988,56.5781772126761
 IDA blend,IDB,1989,56.6015444402048
 IDA blend,IDB,1990,56.4211710951927
 IDA blend,IDB,1991,56.2864399719478
@@ -6764,8 +6764,8 @@ IDA blend,IDB,2001,56.8601026184786
 IDA blend,IDB,2002,57.2320578778368
 IDA blend,IDB,2003,57.5900342202869
 IDA blend,IDB,2004,58.0264168388871
-IDA blend,IDB,2005,58.1086277796658
-IDA blend,IDB,2006,58.9450201236742
+IDA blend,IDB,2005,58.1086277796659
+IDA blend,IDB,2006,58.9450201236741
 IDA blend,IDB,2007,59.4176137093454
 IDA blend,IDB,2008,59.8361446913718
 IDA blend,IDB,2009,60.2363278356018
@@ -6850,7 +6850,7 @@ Indonesia,IDN,2023,73.268
 IDA only,IDX,1960,43.7632547348444
 IDA only,IDX,1961,44.2158798563254
 IDA only,IDX,1962,44.6901704279593
-IDA only,IDX,1963,44.926490021308
+IDA only,IDX,1963,44.9264900213081
 IDA only,IDX,1964,45.5416351593104
 IDA only,IDX,1965,45.6673888929282
 IDA only,IDX,1966,46.1220993969118
@@ -6862,12 +6862,12 @@ IDA only,IDX,1971,45.1029057356166
 IDA only,IDX,1972,48.0648627625973
 IDA only,IDX,1973,48.5505741637448
 IDA only,IDX,1974,48.6093515304205
-IDA only,IDX,1975,48.5501589462386
+IDA only,IDX,1975,48.5501589462387
 IDA only,IDX,1976,49.1520478244711
 IDA only,IDX,1977,49.5898795223667
 IDA only,IDX,1978,49.9586360871149
 IDA only,IDX,1979,50.8541817629399
-IDA only,IDX,1980,51.3020488004368
+IDA only,IDX,1980,51.3020488004367
 IDA only,IDX,1981,51.6081095358001
 IDA only,IDX,1982,51.8888198772012
 IDA only,IDX,1983,51.4182515722869
@@ -6881,7 +6881,7 @@ IDA only,IDX,1990,54.3329591740901
 IDA only,IDX,1991,53.8015753212663
 IDA only,IDX,1992,54.5556589708238
 IDA only,IDX,1993,55.1127056969355
-IDA only,IDX,1994,55.3274420538674
+IDA only,IDX,1994,55.3274420538675
 IDA only,IDX,1995,55.9456919811902
 IDA only,IDX,1996,56.28147035698
 IDA only,IDX,1997,56.7449391262936
@@ -6889,19 +6889,19 @@ IDA only,IDX,1998,56.9795614638345
 IDA only,IDX,1999,57.7163268642044
 IDA only,IDX,2000,58.3311467796404
 IDA only,IDX,2001,58.9152367183997
-IDA only,IDX,2002,59.4931861017732
+IDA only,IDX,2002,59.4931861017731
 IDA only,IDX,2003,60.0832432583596
 IDA only,IDX,2004,60.486971090718
 IDA only,IDX,2005,61.2020959165218
-IDA only,IDX,2006,61.8790115316619
+IDA only,IDX,2006,61.879011531662
 IDA only,IDX,2007,62.4764871178575
-IDA only,IDX,2008,62.6295493711999
+IDA only,IDX,2008,62.6295493711998
 IDA only,IDX,2009,63.4126739563067
 IDA only,IDX,2010,63.9034455357805
-IDA only,IDX,2011,64.3661786128192
+IDA only,IDX,2011,64.3661786128193
 IDA only,IDX,2012,65.0221178224591
-IDA only,IDX,2013,65.5206010594552
-IDA only,IDX,2014,65.8227634924538
+IDA only,IDX,2013,65.5206010594551
+IDA only,IDX,2014,65.8227634924537
 IDA only,IDX,2015,66.1698673152003
 IDA only,IDX,2016,66.6130395926599
 IDA only,IDX,2017,66.973904600555
@@ -8123,7 +8123,7 @@ Kuwait,KWT,2020,80.4
 Kuwait,KWT,2021,79.3
 Kuwait,KWT,2022,81.1
 Kuwait,KWT,2023,83.7
-Latin America & Caribbean (excluding high income),LAC,1960,56.5159388165178
+Latin America & Caribbean (excluding high income),LAC,1960,56.5159388165179
 Latin America & Caribbean (excluding high income),LAC,1961,57.0031257393813
 Latin America & Caribbean (excluding high income),LAC,1962,57.4492260076531
 Latin America & Caribbean (excluding high income),LAC,1963,57.8638331124155
@@ -8131,7 +8131,7 @@ Latin America & Caribbean (excluding high income),LAC,1964,58.3833261749672
 Latin America & Caribbean (excluding high income),LAC,1965,58.9029141620454
 Latin America & Caribbean (excluding high income),LAC,1966,59.361533092171
 Latin America & Caribbean (excluding high income),LAC,1967,59.8510406351721
-Latin America & Caribbean (excluding high income),LAC,1968,60.1826459117554
+Latin America & Caribbean (excluding high income),LAC,1968,60.1826459117553
 Latin America & Caribbean (excluding high income),LAC,1969,60.5004112343487
 Latin America & Caribbean (excluding high income),LAC,1970,60.4006367789302
 Latin America & Caribbean (excluding high income),LAC,1971,61.3538819694641
@@ -8144,7 +8144,7 @@ Latin America & Caribbean (excluding high income),LAC,1977,64.3599395158317
 Latin America & Caribbean (excluding high income),LAC,1978,64.8437504648534
 Latin America & Caribbean (excluding high income),LAC,1979,65.2803245191126
 Latin America & Caribbean (excluding high income),LAC,1980,65.7317596360335
-Latin America & Caribbean (excluding high income),LAC,1981,66.1827282561329
+Latin America & Caribbean (excluding high income),LAC,1981,66.182728256133
 Latin America & Caribbean (excluding high income),LAC,1982,66.5265314781681
 Latin America & Caribbean (excluding high income),LAC,1983,67.0094513817884
 Latin America & Caribbean (excluding high income),LAC,1984,67.3866042189012
@@ -8509,12 +8509,12 @@ St. Lucia,LCA,2022,76.304
 St. Lucia,LCA,2023,76.304
 Latin America & Caribbean,LCN,1960,57.2485343363794
 Latin America & Caribbean,LCN,1961,57.715516881045
-Latin America & Caribbean,LCN,1962,58.1697477662301
+Latin America & Caribbean,LCN,1962,58.16974776623
 Latin America & Caribbean,LCN,1963,58.594408036404
 Latin America & Caribbean,LCN,1964,59.095023663166
 Latin America & Caribbean,LCN,1965,59.6228666399858
 Latin America & Caribbean,LCN,1966,60.1109188190204
-Latin America & Caribbean,LCN,1967,60.602130157991
+Latin America & Caribbean,LCN,1967,60.6021301579909
 Latin America & Caribbean,LCN,1968,60.939346318409
 Latin America & Caribbean,LCN,1969,61.230516058166
 Latin America & Caribbean,LCN,1970,61.2113585003867
@@ -8591,11 +8591,11 @@ Least developed countries: UN classification,LDC,1976,47.3581258303587
 Least developed countries: UN classification,LDC,1977,47.7782988951991
 Least developed countries: UN classification,LDC,1978,48.1386078620652
 Least developed countries: UN classification,LDC,1979,49.0784702882711
-Least developed countries: UN classification,LDC,1980,49.5217843272279
+Least developed countries: UN classification,LDC,1980,49.5217843272278
 Least developed countries: UN classification,LDC,1981,49.8503249111802
 Least developed countries: UN classification,LDC,1982,50.1797036638207
 Least developed countries: UN classification,LDC,1983,49.5262071209381
-Least developed countries: UN classification,LDC,1984,49.7207441254822
+Least developed countries: UN classification,LDC,1984,49.7207441254823
 Least developed countries: UN classification,LDC,1985,50.0497238624797
 Least developed countries: UN classification,LDC,1986,50.812207378224
 Least developed countries: UN classification,LDC,1987,51.636665539212
@@ -8616,7 +8616,7 @@ Least developed countries: UN classification,LDC,2001,57.386418034331
 Least developed countries: UN classification,LDC,2002,57.991059616834
 Least developed countries: UN classification,LDC,2003,58.6564664121089
 Least developed countries: UN classification,LDC,2004,59.2442081720424
-Least developed countries: UN classification,LDC,2005,59.8732650029564
+Least developed countries: UN classification,LDC,2005,59.8732650029565
 Least developed countries: UN classification,LDC,2006,60.6022796725487
 Least developed countries: UN classification,LDC,2007,61.2478740947684
 Least developed countries: UN classification,LDC,2008,61.4152853130157
@@ -8646,7 +8646,7 @@ Low income,LIC,1967,45.6909737337511
 Low income,LIC,1968,46.0821667108228
 Low income,LIC,1969,46.4545779384403
 Low income,LIC,1970,46.8765656249938
-Low income,LIC,1971,47.1680261077131
+Low income,LIC,1971,47.168026107713
 Low income,LIC,1972,47.1877337677291
 Low income,LIC,1973,47.8508444834543
 Low income,LIC,1974,48.3258585832772
@@ -8670,7 +8670,7 @@ Low income,LIC,1991,52.7920194855039
 Low income,LIC,1992,52.9233606878751
 Low income,LIC,1993,53.7344181952152
 Low income,LIC,1994,53.7674064160325
-Low income,LIC,1995,53.8166104726002
+Low income,LIC,1995,53.8166104726001
 Low income,LIC,1996,53.9624020233872
 Low income,LIC,1997,54.3423538127718
 Low income,LIC,1998,54.3550273770605
@@ -8678,14 +8678,14 @@ Low income,LIC,1999,55.2723613891768
 Low income,LIC,2000,55.7863638832392
 Low income,LIC,2001,56.3203641150577
 Low income,LIC,2002,56.7923027531532
-Low income,LIC,2003,57.9619896150826
+Low income,LIC,2003,57.9619896150825
 Low income,LIC,2004,58.4151312072336
 Low income,LIC,2005,58.9558024447036
 Low income,LIC,2006,59.6577315376107
 Low income,LIC,2007,60.2218169151209
 Low income,LIC,2008,60.7353538820474
 Low income,LIC,2009,60.9479504121981
-Low income,LIC,2010,61.6500162305752
+Low income,LIC,2010,61.6500162305753
 Low income,LIC,2011,61.6170485379895
 Low income,LIC,2012,62.3733842009037
 Low income,LIC,2013,62.8782644531259
@@ -8697,7 +8697,7 @@ Low income,LIC,2018,64.7350165106469
 Low income,LIC,2019,65.1550222976508
 Low income,LIC,2020,65.2787797211658
 Low income,LIC,2021,64.7481739733938
-Low income,LIC,2022,65.6789945104724
+Low income,LIC,2022,65.6789945104725
 Low income,LIC,2023,66.7315184265345
 Liechtenstein,LIE,1960,74.428
 Liechtenstein,LIE,1961,74.36
@@ -8835,7 +8835,7 @@ Lower middle income,LMC,1964,47.6997018846295
 Lower middle income,LMC,1965,47.2530831900479
 Lower middle income,LMC,1966,47.7680834530289
 Lower middle income,LMC,1967,48.1289735496387
-Lower middle income,LMC,1968,49.1450851580219
+Lower middle income,LMC,1968,49.1450851580218
 Lower middle income,LMC,1969,49.5836990380641
 Lower middle income,LMC,1970,49.4707274569809
 Lower middle income,LMC,1971,49.1815939674106
@@ -8849,13 +8849,13 @@ Lower middle income,LMC,1978,53.8457697457375
 Lower middle income,LMC,1979,54.6039591206732
 Lower middle income,LMC,1980,55.1929340946103
 Lower middle income,LMC,1981,55.764622155696
-Lower middle income,LMC,1982,56.2919472450448
+Lower middle income,LMC,1982,56.2919472450447
 Lower middle income,LMC,1983,56.8145973844049
 Lower middle income,LMC,1984,57.2867742049769
 Lower middle income,LMC,1985,57.7171268446811
 Lower middle income,LMC,1986,58.1591644599202
 Lower middle income,LMC,1987,58.5575017919631
-Lower middle income,LMC,1988,58.947676632479
+Lower middle income,LMC,1988,58.9476766324789
 Lower middle income,LMC,1989,59.3200457582244
 Lower middle income,LMC,1990,59.6495011409505
 Lower middle income,LMC,1991,59.7714855688244
@@ -8864,27 +8864,27 @@ Lower middle income,LMC,1993,60.54798583459
 Lower middle income,LMC,1994,60.8428255980388
 Lower middle income,LMC,1995,61.1656887112736
 Lower middle income,LMC,1996,61.5001452193016
-Lower middle income,LMC,1997,61.8675311579864
+Lower middle income,LMC,1997,61.8675311579865
 Lower middle income,LMC,1998,62.2282110200556
-Lower middle income,LMC,1999,62.7074797634125
+Lower middle income,LMC,1999,62.7074797634126
 Lower middle income,LMC,2000,63.1905986781119
 Lower middle income,LMC,2001,63.6095127517366
 Lower middle income,LMC,2002,64.1032310015807
 Lower middle income,LMC,2003,64.557951954153
 Lower middle income,LMC,2004,64.9170645344851
 Lower middle income,LMC,2005,65.3660324135908
-Lower middle income,LMC,2006,65.852137320355
-Lower middle income,LMC,2007,66.2871012384409
+Lower middle income,LMC,2006,65.8521373203549
+Lower middle income,LMC,2007,66.2871012384408
 Lower middle income,LMC,2008,66.5450977438309
-Lower middle income,LMC,2009,67.087862084028
+Lower middle income,LMC,2009,67.0878620840281
 Lower middle income,LMC,2010,67.4369693252665
-Lower middle income,LMC,2011,67.8999253579932
+Lower middle income,LMC,2011,67.8999253579933
 Lower middle income,LMC,2012,68.2826524689695
 Lower middle income,LMC,2013,68.624162343046
 Lower middle income,LMC,2014,68.9758822937237
 Lower middle income,LMC,2015,69.2729288831919
 Lower middle income,LMC,2016,69.5958554946752
-Lower middle income,LMC,2017,69.9127041679331
+Lower middle income,LMC,2017,69.912704167933
 Lower middle income,LMC,2018,70.1794815104495
 Lower middle income,LMC,2019,70.4565230547963
 Lower middle income,LMC,2020,70.1435873451693
@@ -8908,7 +8908,7 @@ Low & middle income,LMY,1973,56.8021625921552
 Low & middle income,LMY,1974,57.371705136614
 Low & middle income,LMY,1975,57.9492137013886
 Low & middle income,LMY,1976,58.2990446246836
-Low & middle income,LMY,1977,59.1109463891259
+Low & middle income,LMY,1977,59.110946389126
 Low & middle income,LMY,1978,59.6402747019076
 Low & middle income,LMY,1979,60.2518397838081
 Low & middle income,LMY,1980,60.7608275442484
@@ -8919,11 +8919,11 @@ Low & middle income,LMY,1984,62.564323764393
 Low & middle income,LMY,1985,62.9416573083234
 Low & middle income,LMY,1986,63.4023483073881
 Low & middle income,LMY,1987,63.7660000252885
-Low & middle income,LMY,1988,64.0674917859945
+Low & middle income,LMY,1988,64.0674917859946
 Low & middle income,LMY,1989,64.4338461676265
 Low & middle income,LMY,1990,64.6383482900971
 Low & middle income,LMY,1991,64.8809036866676
-Low & middle income,LMY,1992,65.238715133518
+Low & middle income,LMY,1992,65.2387151335179
 Low & middle income,LMY,1993,65.6012333068064
 Low & middle income,LMY,1994,65.8547520617409
 Low & middle income,LMY,1995,66.1712435121374
@@ -8933,13 +8933,13 @@ Low & middle income,LMY,1998,67.0601929772558
 Low & middle income,LMY,1999,67.3998254663292
 Low & middle income,LMY,2000,67.7792730647585
 Low & middle income,LMY,2001,68.1197868305208
-Low & middle income,LMY,2002,68.4806258684063
+Low & middle income,LMY,2002,68.4806258684064
 Low & middle income,LMY,2003,68.8477255296891
 Low & middle income,LMY,2004,69.0662301021767
 Low & middle income,LMY,2005,69.5314074229699
 Low & middle income,LMY,2006,69.905095781519
 Low & middle income,LMY,2007,70.2566918134697
-Low & middle income,LMY,2008,70.4650159681833
+Low & middle income,LMY,2008,70.4650159681834
 Low & middle income,LMY,2009,70.8866585620295
 Low & middle income,LMY,2010,71.2094136109117
 Low & middle income,LMY,2011,71.5406888132335
@@ -9029,7 +9029,7 @@ Late-demographic dividend,LTE,1966,59.7133284126261
 Late-demographic dividend,LTE,1967,60.1527717592055
 Late-demographic dividend,LTE,1968,60.592194325569
 Late-demographic dividend,LTE,1969,61.1132140783453
-Late-demographic dividend,LTE,1970,61.7070935025868
+Late-demographic dividend,LTE,1970,61.7070935025869
 Late-demographic dividend,LTE,1971,62.3407289766881
 Late-demographic dividend,LTE,1972,62.8552436189917
 Late-demographic dividend,LTE,1973,63.640521195491
@@ -9038,13 +9038,13 @@ Late-demographic dividend,LTE,1975,64.9368209615328
 Late-demographic dividend,LTE,1976,65.1354537541317
 Late-demographic dividend,LTE,1977,66.1456895890576
 Late-demographic dividend,LTE,1978,66.6586897100319
-Late-demographic dividend,LTE,1979,67.1334424776131
+Late-demographic dividend,LTE,1979,67.1334424776132
 Late-demographic dividend,LTE,1980,67.5703018674655
 Late-demographic dividend,LTE,1981,68.0763083647618
 Late-demographic dividend,LTE,1982,68.5121016660024
 Late-demographic dividend,LTE,1983,68.9203735041
 Late-demographic dividend,LTE,1984,69.2462037095529
-Late-demographic dividend,LTE,1985,69.5708511035177
+Late-demographic dividend,LTE,1985,69.5708511035178
 Late-demographic dividend,LTE,1986,70.0627761614776
 Late-demographic dividend,LTE,1987,70.4176784408431
 Late-demographic dividend,LTE,1988,70.7343890716192
@@ -9065,10 +9065,10 @@ Late-demographic dividend,LTE,2002,75.1413049910445
 Late-demographic dividend,LTE,2003,75.5602916116476
 Late-demographic dividend,LTE,2004,75.8208295424779
 Late-demographic dividend,LTE,2005,76.2391203704645
-Late-demographic dividend,LTE,2006,76.6016143979719
+Late-demographic dividend,LTE,2006,76.6016143979718
 Late-demographic dividend,LTE,2007,76.9455465559389
 Late-demographic dividend,LTE,2008,77.1010992910131
-Late-demographic dividend,LTE,2009,77.5275815088064
+Late-demographic dividend,LTE,2009,77.5275815088065
 Late-demographic dividend,LTE,2010,77.8395598707278
 Late-demographic dividend,LTE,2011,78.1843823367991
 Late-demographic dividend,LTE,2012,78.4781331694738
@@ -9726,7 +9726,7 @@ Maldives,MDV,2023,82.819
 "Middle East, North Africa, Afghanistan & Pakistan",MEA,1960,44.0868474639873
 "Middle East, North Africa, Afghanistan & Pakistan",MEA,1961,45.2798103062572
 "Middle East, North Africa, Afghanistan & Pakistan",MEA,1962,45.7909569292443
-"Middle East, North Africa, Afghanistan & Pakistan",MEA,1963,46.2763124199434
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,1963,46.2763124199433
 "Middle East, North Africa, Afghanistan & Pakistan",MEA,1964,47.1006479560787
 "Middle East, North Africa, Afghanistan & Pakistan",MEA,1965,47.738768173961
 "Middle East, North Africa, Afghanistan & Pakistan",MEA,1966,48.9502558514208
@@ -9735,7 +9735,7 @@ Maldives,MDV,2023,82.819
 "Middle East, North Africa, Afghanistan & Pakistan",MEA,1969,51.0469410962159
 "Middle East, North Africa, Afghanistan & Pakistan",MEA,1970,51.7039181172322
 "Middle East, North Africa, Afghanistan & Pakistan",MEA,1971,51.6400684939637
-"Middle East, North Africa, Afghanistan & Pakistan",MEA,1972,52.9323218458615
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,1972,52.9323218458616
 "Middle East, North Africa, Afghanistan & Pakistan",MEA,1973,53.6235570602393
 "Middle East, North Africa, Afghanistan & Pakistan",MEA,1974,54.2558939306537
 "Middle East, North Africa, Afghanistan & Pakistan",MEA,1975,54.9872472565917
@@ -9767,7 +9767,7 @@ Maldives,MDV,2023,82.819
 "Middle East, North Africa, Afghanistan & Pakistan",MEA,2001,68.3249158589157
 "Middle East, North Africa, Afghanistan & Pakistan",MEA,2002,68.6909575655873
 "Middle East, North Africa, Afghanistan & Pakistan",MEA,2003,68.8669812043544
-"Middle East, North Africa, Afghanistan & Pakistan",MEA,2004,69.4021242509993
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2004,69.4021242509994
 "Middle East, North Africa, Afghanistan & Pakistan",MEA,2005,69.4227450593976
 "Middle East, North Africa, Afghanistan & Pakistan",MEA,2006,70.1107674155541
 "Middle East, North Africa, Afghanistan & Pakistan",MEA,2007,70.4509255604142
@@ -9924,7 +9924,7 @@ Middle income,MIC,1965,52.529308400053
 Middle income,MIC,1966,53.1951405699028
 Middle income,MIC,1967,53.7951814753066
 Middle income,MIC,1968,54.5490262199649
-Middle income,MIC,1969,55.0942785531001
+Middle income,MIC,1969,55.0942785531
 Middle income,MIC,1970,55.3722564341125
 Middle income,MIC,1971,55.6937718931285
 Middle income,MIC,1972,56.6782426951829
@@ -9949,7 +9949,7 @@ Middle income,MIC,1990,65.3892563882318
 Middle income,MIC,1991,65.6815576797994
 Middle income,MIC,1992,66.0615714627888
 Middle income,MIC,1993,66.4047697071803
-Middle income,MIC,1994,66.6826224591341
+Middle income,MIC,1994,66.6826224591342
 Middle income,MIC,1995,67.0266638519774
 Middle income,MIC,1996,67.3499078085377
 Middle income,MIC,1997,67.6727380623676
@@ -10272,8 +10272,8 @@ Myanmar,MMR,2023,70.164
 "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,1994,65.3603124379496
 "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,1995,65.6025149900363
 "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,1996,65.9072387237236
-"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,1997,66.1805070813444
-"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,1998,66.5509758284215
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,1997,66.1805070813443
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,1998,66.5509758284216
 "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,1999,66.9929647414742
 "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2000,67.3949774193014
 "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2001,67.7818417745461
@@ -10289,9 +10289,9 @@ Myanmar,MMR,2023,70.164
 "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2011,70.8436889977394
 "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2012,70.9691812336736
 "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2013,71.1992384920263
-"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2014,71.4730452783778
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2014,71.4730452783777
 "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2015,71.6781896472253
-"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2016,71.984650054145
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2016,71.9846500541449
 "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2017,72.2742156149164
 "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2018,72.5102309625214
 "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2019,72.7830182850152
@@ -11534,18 +11534,18 @@ OECD members,OED,1975,74.2635865148553
 OECD members,OED,1976,74.5809830756755
 OECD members,OED,1977,75.047252542729
 OECD members,OED,1978,75.266689934584
-OECD members,OED,1979,75.6671623876955
+OECD members,OED,1979,75.6671623876954
 OECD members,OED,1980,75.6963876655111
 OECD members,OED,1981,76.0555495184979
 OECD members,OED,1982,76.384426265337
 OECD members,OED,1983,76.5033486683255
 OECD members,OED,1984,76.8069440045308
-OECD members,OED,1985,76.8387901209841
+OECD members,OED,1985,76.8387901209842
 OECD members,OED,1986,77.1649903881652
 OECD members,OED,1987,77.4577812758834
 OECD members,OED,1988,77.5998933297489
 OECD members,OED,1989,77.8551483438172
-OECD members,OED,1990,78.0642635524226
+OECD members,OED,1990,78.0642635524227
 OECD members,OED,1991,78.250390439202
 OECD members,OED,1992,78.5050722550445
 OECD members,OED,1993,78.552017171875
@@ -11558,23 +11558,23 @@ OECD members,OED,1999,79.6817814001028
 OECD members,OED,2000,79.9472870440898
 OECD members,OED,2001,80.2105907109047
 OECD members,OED,2002,80.3403494683033
-OECD members,OED,2003,80.4405189608956
-OECD members,OED,2004,80.8191584839406
+OECD members,OED,2003,80.4405189608957
+OECD members,OED,2004,80.8191584839407
 OECD members,OED,2005,80.9239643097453
 OECD members,OED,2006,81.2055839241005
 OECD members,OED,2007,81.4098282081595
 OECD members,OED,2008,81.5134405342577
 OECD members,OED,2009,81.7421686127232
-OECD members,OED,2010,81.8956981646645
+OECD members,OED,2010,81.8956981646644
 OECD members,OED,2011,82.1064301477087
-OECD members,OED,2012,82.2208890742933
+OECD members,OED,2012,82.2208890742934
 OECD members,OED,2013,82.3739273912798
 OECD members,OED,2014,82.6047138573645
 OECD members,OED,2015,82.4645278513826
 OECD members,OED,2016,82.6148735377411
 OECD members,OED,2017,82.6306263919158
 OECD members,OED,2018,82.7339360063398
-OECD members,OED,2019,82.9543623277064
+OECD members,OED,2019,82.9543623277063
 OECD members,OED,2020,81.8919932604511
 OECD members,OED,2021,81.5415911288592
 OECD members,OED,2022,82.2608161643923
@@ -11657,7 +11657,7 @@ Other small states,OSS,1970,63.4054428368493
 Other small states,OSS,1971,63.6350287899914
 Other small states,OSS,1972,63.8765034425714
 Other small states,OSS,1973,64.1659188262958
-Other small states,OSS,1974,64.1316173681521
+Other small states,OSS,1974,64.1316173681522
 Other small states,OSS,1975,63.8121038324528
 Other small states,OSS,1976,64.1221176377816
 Other small states,OSS,1977,64.1865585910917
@@ -11675,11 +11675,11 @@ Other small states,OSS,1988,67.842522905454
 Other small states,OSS,1989,68.0440920712613
 Other small states,OSS,1990,68.0694439521297
 Other small states,OSS,1991,68.1274448322837
-Other small states,OSS,1992,68.1657819973458
+Other small states,OSS,1992,68.1657819973457
 Other small states,OSS,1993,68.0474849560178
 Other small states,OSS,1994,67.8418256986539
 Other small states,OSS,1995,67.9717274087363
-Other small states,OSS,1996,68.2125412298158
+Other small states,OSS,1996,68.2125412298159
 Other small states,OSS,1997,68.2389335004645
 Other small states,OSS,1998,67.9901600238982
 Other small states,OSS,1999,68.1404669621278
@@ -12162,10 +12162,10 @@ Pre-demographic dividend,PRE,1963,42.7612935732228
 Pre-demographic dividend,PRE,1964,43.0944037205266
 Pre-demographic dividend,PRE,1965,43.4393315789041
 Pre-demographic dividend,PRE,1966,43.7750601944801
-Pre-demographic dividend,PRE,1967,44.006321536152
+Pre-demographic dividend,PRE,1967,44.0063215361521
 Pre-demographic dividend,PRE,1968,44.5554782852593
-Pre-demographic dividend,PRE,1969,44.8797237025493
-Pre-demographic dividend,PRE,1970,45.3169624342059
+Pre-demographic dividend,PRE,1969,44.8797237025494
+Pre-demographic dividend,PRE,1970,45.3169624342058
 Pre-demographic dividend,PRE,1971,45.7262570037947
 Pre-demographic dividend,PRE,1972,46.0138347839556
 Pre-demographic dividend,PRE,1973,46.6633930096393
@@ -12175,7 +12175,7 @@ Pre-demographic dividend,PRE,1976,48.0330216100923
 Pre-demographic dividend,PRE,1977,48.5219168836091
 Pre-demographic dividend,PRE,1978,48.8839845044994
 Pre-demographic dividend,PRE,1979,49.2374347257146
-Pre-demographic dividend,PRE,1980,49.6097328076398
+Pre-demographic dividend,PRE,1980,49.6097328076399
 Pre-demographic dividend,PRE,1981,49.8981213377024
 Pre-demographic dividend,PRE,1982,50.1335020852193
 Pre-demographic dividend,PRE,1983,50.0072618454275
@@ -12193,7 +12193,7 @@ Pre-demographic dividend,PRE,1994,51.733609342682
 Pre-demographic dividend,PRE,1995,51.7429867419674
 Pre-demographic dividend,PRE,1996,51.7467462048275
 Pre-demographic dividend,PRE,1997,51.9449100906959
-Pre-demographic dividend,PRE,1998,51.9204361467789
+Pre-demographic dividend,PRE,1998,51.920436146779
 Pre-demographic dividend,PRE,1999,52.590969053814
 Pre-demographic dividend,PRE,2000,53.0913916369658
 Pre-demographic dividend,PRE,2001,53.5706481238499
@@ -12515,8 +12515,8 @@ Pacific island small states,PSS,1962,58.4879174637329
 Pacific island small states,PSS,1963,59.1220117948675
 Pacific island small states,PSS,1964,59.2510169149945
 Pacific island small states,PSS,1965,60.1001826296198
-Pacific island small states,PSS,1966,61.0505872606352
-Pacific island small states,PSS,1967,61.156380734595
+Pacific island small states,PSS,1966,61.0505872606353
+Pacific island small states,PSS,1967,61.1563807345949
 Pacific island small states,PSS,1968,61.7456466077686
 Pacific island small states,PSS,1969,61.8244086106841
 Pacific island small states,PSS,1970,62.574056484005
@@ -12555,12 +12555,12 @@ Pacific island small states,PSS,2002,69.3396907622434
 Pacific island small states,PSS,2003,69.4795772026322
 Pacific island small states,PSS,2004,69.5535272488036
 Pacific island small states,PSS,2005,69.6999750883303
-Pacific island small states,PSS,2006,69.8048311187773
+Pacific island small states,PSS,2006,69.8048311187774
 Pacific island small states,PSS,2007,69.7984781020492
 Pacific island small states,PSS,2008,69.9565904415659
 Pacific island small states,PSS,2009,69.8232675517243
 Pacific island small states,PSS,2010,70.2532852819189
-Pacific island small states,PSS,2011,70.3679734508101
+Pacific island small states,PSS,2011,70.36797345081
 Pacific island small states,PSS,2012,70.0457830877356
 Pacific island small states,PSS,2013,70.2073598125371
 Pacific island small states,PSS,2014,70.3708475765781
@@ -12591,14 +12591,14 @@ Post-demographic dividend,PST,1974,75.294363548387
 Post-demographic dividend,PST,1975,75.6278054711485
 Post-demographic dividend,PST,1976,75.8916022876736
 Post-demographic dividend,PST,1977,76.3259249748578
-Post-demographic dividend,PST,1978,76.4891105853154
+Post-demographic dividend,PST,1978,76.4891105853155
 Post-demographic dividend,PST,1979,76.865462229961
 Post-demographic dividend,PST,1980,76.8639183266865
 Post-demographic dividend,PST,1981,77.1925721819474
 Post-demographic dividend,PST,1982,77.5062626767857
 Post-demographic dividend,PST,1983,77.5879776349835
 Post-demographic dividend,PST,1984,77.8756291494662
-Post-demographic dividend,PST,1985,77.9825631763795
+Post-demographic dividend,PST,1985,77.9825631763794
 Post-demographic dividend,PST,1986,78.2027325670492
 Post-demographic dividend,PST,1987,78.4798169590189
 Post-demographic dividend,PST,1988,78.5813786310922
@@ -12610,7 +12610,7 @@ Post-demographic dividend,PST,1993,79.2580811615416
 Post-demographic dividend,PST,1994,79.5696054635893
 Post-demographic dividend,PST,1995,79.5663284337394
 Post-demographic dividend,PST,1996,79.8472191817734
-Post-demographic dividend,PST,1997,80.1292991834564
+Post-demographic dividend,PST,1997,80.1292991834565
 Post-demographic dividend,PST,1998,80.2882801884986
 Post-demographic dividend,PST,1999,80.3618074379469
 Post-demographic dividend,PST,2000,80.5585979700087
@@ -12626,11 +12626,11 @@ Post-demographic dividend,PST,2009,82.4028970413417
 Post-demographic dividend,PST,2010,82.5656942798942
 Post-demographic dividend,PST,2011,82.813311023784
 Post-demographic dividend,PST,2012,82.9047278890397
-Post-demographic dividend,PST,2013,83.0640401435524
+Post-demographic dividend,PST,2013,83.0640401435525
 Post-demographic dividend,PST,2014,83.3203010153452
-Post-demographic dividend,PST,2015,83.1773540250469
+Post-demographic dividend,PST,2015,83.1773540250468
 Post-demographic dividend,PST,2016,83.3590741010332
-Post-demographic dividend,PST,2017,83.3744747104509
+Post-demographic dividend,PST,2017,83.374474710451
 Post-demographic dividend,PST,2018,83.4579009867053
 Post-demographic dividend,PST,2019,83.6910727929423
 Post-demographic dividend,PST,2020,82.9171726155671
@@ -12967,11 +12967,11 @@ South Asia,SAS,1966,45.7622229885926
 South Asia,SAS,1967,46.0897788173475
 South Asia,SAS,1968,47.5908072859584
 South Asia,SAS,1969,47.9280496841591
-South Asia,SAS,1970,47.4823016169409
+South Asia,SAS,1970,47.4823016169408
 South Asia,SAS,1971,46.9131455949144
 South Asia,SAS,1972,48.9127232645449
 South Asia,SAS,1973,49.3324243344332
-South Asia,SAS,1974,49.8578632889051
+South Asia,SAS,1974,49.857863288905
 South Asia,SAS,1975,50.4412894885367
 South Asia,SAS,1976,50.9939052463154
 South Asia,SAS,1977,51.5438544463821
@@ -13003,15 +13003,15 @@ South Asia,SAS,2002,65.0301983536011
 South Asia,SAS,2003,65.5694142196943
 South Asia,SAS,2004,65.9673745193455
 South Asia,SAS,2005,66.5977085957212
-South Asia,SAS,2006,67.1007444971862
+South Asia,SAS,2006,67.1007444971861
 South Asia,SAS,2007,67.5729766916877
 South Asia,SAS,2008,68.0744690893647
 South Asia,SAS,2009,68.5178403080799
 South Asia,SAS,2010,69.0418049363919
 South Asia,SAS,2011,69.5197085386451
 South Asia,SAS,2012,69.9848048457689
-South Asia,SAS,2013,70.4087644441131
-South Asia,SAS,2014,70.8327553252551
+South Asia,SAS,2013,70.4087644441132
+South Asia,SAS,2014,70.832755325255
 South Asia,SAS,2015,71.1987636807667
 South Asia,SAS,2016,71.5800297066357
 South Asia,SAS,2017,71.9227090877332
@@ -13681,7 +13681,7 @@ Sub-Saharan Africa (excluding high income),SSA,1976,49.2411707575612
 Sub-Saharan Africa (excluding high income),SSA,1977,49.7253238173302
 Sub-Saharan Africa (excluding high income),SSA,1978,50.1301324257063
 Sub-Saharan Africa (excluding high income),SSA,1979,50.528996500973
-Sub-Saharan Africa (excluding high income),SSA,1980,50.9212347035773
+Sub-Saharan Africa (excluding high income),SSA,1980,50.9212347035774
 Sub-Saharan Africa (excluding high income),SSA,1981,51.2279052966953
 Sub-Saharan Africa (excluding high income),SSA,1982,51.5527428816886
 Sub-Saharan Africa (excluding high income),SSA,1983,51.4883463745242
@@ -13704,7 +13704,7 @@ Sub-Saharan Africa (excluding high income),SSA,1999,52.8063834522336
 Sub-Saharan Africa (excluding high income),SSA,2000,53.1420778707416
 Sub-Saharan Africa (excluding high income),SSA,2001,53.3912587002236
 Sub-Saharan Africa (excluding high income),SSA,2002,53.690327369134
-Sub-Saharan Africa (excluding high income),SSA,2003,54.0873956243938
+Sub-Saharan Africa (excluding high income),SSA,2003,54.0873956243937
 Sub-Saharan Africa (excluding high income),SSA,2004,54.5536419114116
 Sub-Saharan Africa (excluding high income),SSA,2005,55.1157762542836
 Sub-Saharan Africa (excluding high income),SSA,2006,55.7697541959387
@@ -13796,9 +13796,9 @@ Sub-Saharan Africa,SSF,1963,44.3749107132269
 Sub-Saharan Africa,SSF,1964,44.7360867181642
 Sub-Saharan Africa,SSF,1965,45.0263612684023
 Sub-Saharan Africa,SSF,1966,45.0783314805137
-Sub-Saharan Africa,SSF,1967,45.5305432332715
+Sub-Saharan Africa,SSF,1967,45.5305432332716
 Sub-Saharan Africa,SSF,1968,46.0010609577705
-Sub-Saharan Africa,SSF,1969,46.2681917814684
+Sub-Saharan Africa,SSF,1969,46.2681917814683
 Sub-Saharan Africa,SSF,1970,46.6188530739391
 Sub-Saharan Africa,SSF,1971,46.9507265446913
 Sub-Saharan Africa,SSF,1972,47.0639788032842
@@ -13835,7 +13835,7 @@ Sub-Saharan Africa,SSF,2002,53.6167788343214
 Sub-Saharan Africa,SSF,2003,54.0583557563727
 Sub-Saharan Africa,SSF,2004,54.5891140683792
 Sub-Saharan Africa,SSF,2005,55.1724493853505
-Sub-Saharan Africa,SSF,2006,55.8841091034817
+Sub-Saharan Africa,SSF,2006,55.8841091034816
 Sub-Saharan Africa,SSF,2007,56.6145906933067
 Sub-Saharan Africa,SSF,2008,57.3070379960969
 Sub-Saharan Africa,SSF,2009,57.8629793883181
@@ -13844,7 +13844,7 @@ Sub-Saharan Africa,SSF,2011,59.030108816812
 Sub-Saharan Africa,SSF,2012,59.8456705840235
 Sub-Saharan Africa,SSF,2013,60.4209865926874
 Sub-Saharan Africa,SSF,2014,60.7809594716554
-Sub-Saharan Africa,SSF,2015,61.2092282357884
+Sub-Saharan Africa,SSF,2015,61.2092282357883
 Sub-Saharan Africa,SSF,2016,61.671020912152
 Sub-Saharan Africa,SSF,2017,62.067892433918
 Sub-Saharan Africa,SSF,2018,62.709877367141
@@ -13860,10 +13860,10 @@ Small states,SST,1963,61.6433340898186
 Small states,SST,1964,62.0466376893725
 Small states,SST,1965,62.6226803838918
 Small states,SST,1966,62.9523015906566
-Small states,SST,1967,63.187814278637
+Small states,SST,1967,63.1878142786369
 Small states,SST,1968,63.4217964868343
 Small states,SST,1969,63.6501110383451
-Small states,SST,1970,64.0381493435626
+Small states,SST,1970,64.0381493435625
 Small states,SST,1971,64.2778553417772
 Small states,SST,1972,64.5157215846276
 Small states,SST,1973,64.7087870281026
@@ -13897,11 +13897,11 @@ Small states,SST,2000,69.7926427155798
 Small states,SST,2001,70.020914524144
 Small states,SST,2002,70.1722109499603
 Small states,SST,2003,70.2854750912438
-Small states,SST,2004,70.5094859160742
-Small states,SST,2005,70.7623235007591
+Small states,SST,2004,70.5094859160741
+Small states,SST,2005,70.762323500759
 Small states,SST,2006,71.0414744089213
 Small states,SST,2007,71.3540401563145
-Small states,SST,2008,71.6734001444057
+Small states,SST,2008,71.6734001444056
 Small states,SST,2009,71.9951667891739
 Small states,SST,2010,72.4172409923513
 Small states,SST,2011,72.7312117632841
@@ -13911,12 +13911,12 @@ Small states,SST,2014,73.5862347722406
 Small states,SST,2015,73.8158673123229
 Small states,SST,2016,74.0635944017532
 Small states,SST,2017,74.3565045901313
-Small states,SST,2018,74.5587062327793
-Small states,SST,2019,74.6383638237909
+Small states,SST,2018,74.5587062327794
+Small states,SST,2019,74.6383638237908
 Small states,SST,2020,74.695261192581
 Small states,SST,2021,73.4793797401833
 Small states,SST,2022,75.0510697947003
-Small states,SST,2023,75.5641013426252
+Small states,SST,2023,75.5641013426253
 Sao Tome and Principe,STP,1960,44.997
 Sao Tome and Principe,STP,1961,46.701
 Sao Tome and Principe,STP,1962,48.403
@@ -14654,7 +14654,7 @@ East Asia & Pacific (IDA & IBRD countries),TEA,1989,69.3973047250675
 East Asia & Pacific (IDA & IBRD countries),TEA,1990,69.5829809546625
 East Asia & Pacific (IDA & IBRD countries),TEA,1991,70.0180791612063
 East Asia & Pacific (IDA & IBRD countries),TEA,1992,70.4356234834702
-East Asia & Pacific (IDA & IBRD countries),TEA,1993,70.9453662406013
+East Asia & Pacific (IDA & IBRD countries),TEA,1993,70.9453662406014
 East Asia & Pacific (IDA & IBRD countries),TEA,1994,71.2786366606952
 East Asia & Pacific (IDA & IBRD countries),TEA,1995,71.7827517639425
 East Asia & Pacific (IDA & IBRD countries),TEA,1996,72.1987983649666
@@ -14670,7 +14670,7 @@ East Asia & Pacific (IDA & IBRD countries),TEA,2005,75.1641934613905
 East Asia & Pacific (IDA & IBRD countries),TEA,2006,75.4095086139485
 East Asia & Pacific (IDA & IBRD countries),TEA,2007,75.7217621454872
 East Asia & Pacific (IDA & IBRD countries),TEA,2008,75.612073110733
-East Asia & Pacific (IDA & IBRD countries),TEA,2009,76.2386169205597
+East Asia & Pacific (IDA & IBRD countries),TEA,2009,76.2386169205596
 East Asia & Pacific (IDA & IBRD countries),TEA,2010,76.4973069071878
 East Asia & Pacific (IDA & IBRD countries),TEA,2011,76.7961997170156
 East Asia & Pacific (IDA & IBRD countries),TEA,2012,77.0870486150552
@@ -14679,7 +14679,7 @@ East Asia & Pacific (IDA & IBRD countries),TEA,2014,77.5648506911509
 East Asia & Pacific (IDA & IBRD countries),TEA,2015,77.8087173401797
 East Asia & Pacific (IDA & IBRD countries),TEA,2016,78.046981518068
 East Asia & Pacific (IDA & IBRD countries),TEA,2017,78.2795646454919
-East Asia & Pacific (IDA & IBRD countries),TEA,2018,78.490139030021
+East Asia & Pacific (IDA & IBRD countries),TEA,2018,78.4901390300211
 East Asia & Pacific (IDA & IBRD countries),TEA,2019,78.6506549271536
 East Asia & Pacific (IDA & IBRD countries),TEA,2020,78.7233137211864
 East Asia & Pacific (IDA & IBRD countries),TEA,2021,78.1268680843019
@@ -14696,12 +14696,12 @@ Europe & Central Asia (IDA & IBRD countries),TEC,1967,70.1961896319688
 Europe & Central Asia (IDA & IBRD countries),TEC,1968,70.4226199674639
 Europe & Central Asia (IDA & IBRD countries),TEC,1969,70.3390050826381
 Europe & Central Asia (IDA & IBRD countries),TEC,1970,70.6301945050407
-Europe & Central Asia (IDA & IBRD countries),TEC,1971,70.8903499338049
+Europe & Central Asia (IDA & IBRD countries),TEC,1971,70.8903499338048
 Europe & Central Asia (IDA & IBRD countries),TEC,1972,71.0292562959035
-Europe & Central Asia (IDA & IBRD countries),TEC,1973,71.1486411715609
+Europe & Central Asia (IDA & IBRD countries),TEC,1973,71.148641171561
 Europe & Central Asia (IDA & IBRD countries),TEC,1974,71.3717856552238
 Europe & Central Asia (IDA & IBRD countries),TEC,1975,71.1943330934448
-Europe & Central Asia (IDA & IBRD countries),TEC,1976,71.2450777383993
+Europe & Central Asia (IDA & IBRD countries),TEC,1976,71.2450777383994
 Europe & Central Asia (IDA & IBRD countries),TEC,1977,71.4090423833454
 Europe & Central Asia (IDA & IBRD countries),TEC,1978,71.5160957002251
 Europe & Central Asia (IDA & IBRD countries),TEC,1979,71.5645160195956
@@ -14712,7 +14712,7 @@ Europe & Central Asia (IDA & IBRD countries),TEC,1983,72.2111891180138
 Europe & Central Asia (IDA & IBRD countries),TEC,1984,72.1141680366374
 Europe & Central Asia (IDA & IBRD countries),TEC,1985,72.3440180577999
 Europe & Central Asia (IDA & IBRD countries),TEC,1986,72.8644721639678
-Europe & Central Asia (IDA & IBRD countries),TEC,1987,72.9817009812293
+Europe & Central Asia (IDA & IBRD countries),TEC,1987,72.9817009812292
 Europe & Central Asia (IDA & IBRD countries),TEC,1988,73.0898845249612
 Europe & Central Asia (IDA & IBRD countries),TEC,1989,73.2792301448439
 Europe & Central Asia (IDA & IBRD countries),TEC,1990,73.307911036003
@@ -14720,7 +14720,7 @@ Europe & Central Asia (IDA & IBRD countries),TEC,1991,73.0850647173102
 Europe & Central Asia (IDA & IBRD countries),TEC,1992,72.3188116046282
 Europe & Central Asia (IDA & IBRD countries),TEC,1993,72.0403175645023
 Europe & Central Asia (IDA & IBRD countries),TEC,1994,72.2996777877125
-Europe & Central Asia (IDA & IBRD countries),TEC,1995,72.3087845261906
+Europe & Central Asia (IDA & IBRD countries),TEC,1995,72.3087845261905
 Europe & Central Asia (IDA & IBRD countries),TEC,1996,72.7062772300101
 Europe & Central Asia (IDA & IBRD countries),TEC,1997,72.9994013758851
 Europe & Central Asia (IDA & IBRD countries),TEC,1998,73.2847534617694
@@ -14744,7 +14744,7 @@ Europe & Central Asia (IDA & IBRD countries),TEC,2015,77.5922183397251
 Europe & Central Asia (IDA & IBRD countries),TEC,2016,77.892726605635
 Europe & Central Asia (IDA & IBRD countries),TEC,2017,78.2391606607161
 Europe & Central Asia (IDA & IBRD countries),TEC,2018,78.4250420353893
-Europe & Central Asia (IDA & IBRD countries),TEC,2019,78.6867716632594
+Europe & Central Asia (IDA & IBRD countries),TEC,2019,78.6867716632595
 Europe & Central Asia (IDA & IBRD countries),TEC,2020,77.3319344174334
 Europe & Central Asia (IDA & IBRD countries),TEC,2021,76.0260265430474
 Europe & Central Asia (IDA & IBRD countries),TEC,2022,78.4805131704263
@@ -15035,7 +15035,7 @@ Latin America & the Caribbean (IDA & IBRD countries),TLA,1986,68.6661668120062
 Latin America & the Caribbean (IDA & IBRD countries),TLA,1987,69.0688278224022
 Latin America & the Caribbean (IDA & IBRD countries),TLA,1988,69.4713756669761
 Latin America & the Caribbean (IDA & IBRD countries),TLA,1989,69.9074234281721
-Latin America & the Caribbean (IDA & IBRD countries),TLA,1990,70.2784286298255
+Latin America & the Caribbean (IDA & IBRD countries),TLA,1990,70.2784286298254
 Latin America & the Caribbean (IDA & IBRD countries),TLA,1991,70.6931050699025
 Latin America & the Caribbean (IDA & IBRD countries),TLA,1992,71.0454667561795
 Latin America & the Caribbean (IDA & IBRD countries),TLA,1993,71.4063989763738
@@ -15057,7 +15057,7 @@ Latin America & the Caribbean (IDA & IBRD countries),TLA,2008,76.260984347994
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2009,76.4417727896307
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2010,76.3646448980124
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2011,76.9576240294939
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2012,77.1486864810037
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2012,77.1486864810038
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2013,77.318773937239
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2014,77.4999910763127
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2015,77.6684473054998
@@ -15067,7 +15067,7 @@ Latin America & the Caribbean (IDA & IBRD countries),TLA,2018,77.9924168111689
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2019,78.1019526424818
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2020,76.470564922146
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2021,75.1310094600796
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2022,77.5706567627933
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2022,77.5706567627934
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2023,78.4565461239632
 Timor-Leste,TLS,1960,33.882
 Timor-Leste,TLS,1961,34.278
@@ -15177,7 +15177,7 @@ Timor-Leste,TLS,2023,69.436
 "Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2001,67.7509060561973
 "Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2002,68.1129242647684
 "Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2003,68.2719226371209
-"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2004,68.8104600125885
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2004,68.8104600125884
 "Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2005,68.8087815564908
 "Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2006,69.5131373166383
 "Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2007,69.8479314634551
@@ -15275,7 +15275,7 @@ South Asia (IDA & IBRD),TSA,1970,47.4823016169408
 South Asia (IDA & IBRD),TSA,1971,46.9131455949144
 South Asia (IDA & IBRD),TSA,1972,48.9127232645449
 South Asia (IDA & IBRD),TSA,1973,49.3324243344332
-South Asia (IDA & IBRD),TSA,1974,49.8578632889051
+South Asia (IDA & IBRD),TSA,1974,49.857863288905
 South Asia (IDA & IBRD),TSA,1975,50.4412894885367
 South Asia (IDA & IBRD),TSA,1976,50.9939052463154
 South Asia (IDA & IBRD),TSA,1977,51.5438544463821
@@ -15285,11 +15285,11 @@ South Asia (IDA & IBRD),TSA,1980,53.472442368342
 South Asia (IDA & IBRD),TSA,1981,54.1150567590654
 South Asia (IDA & IBRD),TSA,1982,54.7510828690639
 South Asia (IDA & IBRD),TSA,1983,55.3754058044243
-South Asia (IDA & IBRD),TSA,1984,55.9825969873477
+South Asia (IDA & IBRD),TSA,1984,55.9825969873476
 South Asia (IDA & IBRD),TSA,1985,56.5349846154362
 South Asia (IDA & IBRD),TSA,1986,57.1378725646313
 South Asia (IDA & IBRD),TSA,1987,57.6658590721641
-South Asia (IDA & IBRD),TSA,1988,58.1602772637576
+South Asia (IDA & IBRD),TSA,1988,58.1602772637577
 South Asia (IDA & IBRD),TSA,1989,58.630767600194
 South Asia (IDA & IBRD),TSA,1990,59.1038502857765
 South Asia (IDA & IBRD),TSA,1991,59.2339516672682
@@ -15319,7 +15319,7 @@ South Asia (IDA & IBRD),TSA,2014,70.832755325255
 South Asia (IDA & IBRD),TSA,2015,71.1987636807667
 South Asia (IDA & IBRD),TSA,2016,71.5800297066357
 South Asia (IDA & IBRD),TSA,2017,71.9227090877332
-South Asia (IDA & IBRD),TSA,2018,72.2636397195214
+South Asia (IDA & IBRD),TSA,2018,72.2636397195213
 South Asia (IDA & IBRD),TSA,2019,72.5953541063795
 South Asia (IDA & IBRD),TSA,2020,72.1945134353036
 South Asia (IDA & IBRD),TSA,2021,69.4422159635494
@@ -15329,12 +15329,12 @@ Sub-Saharan Africa (IDA & IBRD countries),TSS,1960,43.3515335621693
 Sub-Saharan Africa (IDA & IBRD countries),TSS,1961,43.7003499790477
 Sub-Saharan Africa (IDA & IBRD countries),TSS,1962,44.0474522152634
 Sub-Saharan Africa (IDA & IBRD countries),TSS,1963,44.3749107132269
-Sub-Saharan Africa (IDA & IBRD countries),TSS,1964,44.7360867181642
+Sub-Saharan Africa (IDA & IBRD countries),TSS,1964,44.7360867181643
 Sub-Saharan Africa (IDA & IBRD countries),TSS,1965,45.0263612684023
 Sub-Saharan Africa (IDA & IBRD countries),TSS,1966,45.0783314805137
 Sub-Saharan Africa (IDA & IBRD countries),TSS,1967,45.5305432332715
 Sub-Saharan Africa (IDA & IBRD countries),TSS,1968,46.0010609577705
-Sub-Saharan Africa (IDA & IBRD countries),TSS,1969,46.2681917814684
+Sub-Saharan Africa (IDA & IBRD countries),TSS,1969,46.2681917814683
 Sub-Saharan Africa (IDA & IBRD countries),TSS,1970,46.6188530739391
 Sub-Saharan Africa (IDA & IBRD countries),TSS,1971,46.9507265446913
 Sub-Saharan Africa (IDA & IBRD countries),TSS,1972,47.0639788032842
@@ -15364,7 +15364,7 @@ Sub-Saharan Africa (IDA & IBRD countries),TSS,1995,52.1526593645916
 Sub-Saharan Africa (IDA & IBRD countries),TSS,1996,52.0901866958282
 Sub-Saharan Africa (IDA & IBRD countries),TSS,1997,52.2101891941473
 Sub-Saharan Africa (IDA & IBRD countries),TSS,1998,52.1797651405989
-Sub-Saharan Africa (IDA & IBRD countries),TSS,1999,52.6162370319779
+Sub-Saharan Africa (IDA & IBRD countries),TSS,1999,52.6162370319778
 Sub-Saharan Africa (IDA & IBRD countries),TSS,2000,52.9906854528629
 Sub-Saharan Africa (IDA & IBRD countries),TSS,2001,53.2650433648735
 Sub-Saharan Africa (IDA & IBRD countries),TSS,2002,53.6167788343214
@@ -15848,16 +15848,16 @@ Upper middle income,UMC,1967,57.8679156964607
 Upper middle income,UMC,1968,58.4275038311705
 Upper middle income,UMC,1969,59.0403937930585
 Upper middle income,UMC,1970,59.5898409600129
-Upper middle income,UMC,1971,60.3379200623523
+Upper middle income,UMC,1971,60.3379200623522
 Upper middle income,UMC,1972,61.0308860280967
 Upper middle income,UMC,1973,61.8070342865836
 Upper middle income,UMC,1974,62.4942515095752
 Upper middle income,UMC,1975,63.132769340539
 Upper middle income,UMC,1976,63.3980526190216
 Upper middle income,UMC,1977,64.4370819193648
-Upper middle income,UMC,1978,64.9772082562667
+Upper middle income,UMC,1978,64.9772082562668
 Upper middle income,UMC,1979,65.5593532588246
-Upper middle income,UMC,1980,66.0670379395767
+Upper middle income,UMC,1980,66.0670379395768
 Upper middle income,UMC,1981,66.5726131228674
 Upper middle income,UMC,1982,67.0507018653816
 Upper middle income,UMC,1983,67.5494174067911
@@ -15867,10 +15867,10 @@ Upper middle income,UMC,1986,68.8220939145917
 Upper middle income,UMC,1987,69.2268853263434
 Upper middle income,UMC,1988,69.5244075582219
 Upper middle income,UMC,1989,69.8810300118031
-Upper middle income,UMC,1990,70.0259396249629
+Upper middle income,UMC,1990,70.025939624963
 Upper middle income,UMC,1991,70.4968259737487
-Upper middle income,UMC,1992,70.8402589708687
-Upper middle income,UMC,1993,71.2667280834121
+Upper middle income,UMC,1992,70.8402589708686
+Upper middle income,UMC,1993,71.2667280834122
 Upper middle income,UMC,1994,71.5767389075834
 Upper middle income,UMC,1995,71.9836395710946
 Upper middle income,UMC,1996,72.3432681658632
@@ -15885,9 +15885,9 @@ Upper middle income,UMC,2004,74.4995272853398
 Upper middle income,UMC,2005,75.038071310761
 Upper middle income,UMC,2006,75.3286498500959
 Upper middle income,UMC,2007,75.6432856864419
-Upper middle income,UMC,2008,75.8242390597436
+Upper middle income,UMC,2008,75.8242390597437
 Upper middle income,UMC,2009,76.2309343633444
-Upper middle income,UMC,2010,76.5323193387807
+Upper middle income,UMC,2010,76.5323193387806
 Upper middle income,UMC,2011,76.8608967886387
 Upper middle income,UMC,2012,77.1830970053843
 Upper middle income,UMC,2013,77.4344537608769
@@ -16504,8 +16504,8 @@ World,WLD,1983,65.6405515529038
 World,WLD,1984,65.9444320327563
 World,WLD,1985,66.2188507779142
 World,WLD,1986,66.6033566013292
-World,WLD,1987,66.9564380275232
-World,WLD,1988,67.1719764997951
+World,WLD,1987,66.9564380275233
+World,WLD,1988,67.171976499795
 World,WLD,1989,67.456134466247
 World,WLD,1990,67.6071506566003
 World,WLD,1991,67.7878881451048
@@ -16522,25 +16522,25 @@ World,WLD,2001,70.3824186152976
 World,WLD,2002,70.6747934747594
 World,WLD,2003,70.9630756666199
 World,WLD,2004,71.2176035423889
-World,WLD,2005,71.5931780706243
-World,WLD,2006,71.9611046229654
+World,WLD,2005,71.5931780706242
+World,WLD,2006,71.9611046229653
 World,WLD,2007,72.2953024495137
 World,WLD,2008,72.4860274711383
 World,WLD,2009,72.876553384419
-World,WLD,2010,73.1568381334186
+World,WLD,2010,73.1568381334187
 World,WLD,2011,73.4717558558967
 World,WLD,2012,73.7678409796105
 World,WLD,2013,74.0307909929661
 World,WLD,2014,74.2833812165937
 World,WLD,2015,74.4621487599453
 World,WLD,2016,74.6959764927019
-World,WLD,2017,74.9001269666953
+World,WLD,2017,74.9001269666952
 World,WLD,2018,75.1392397771056
 World,WLD,2019,75.3486830659615
 World,WLD,2020,74.845391519879
-World,WLD,2021,73.7440668883233
-World,WLD,2022,75.4907771643872
-World,WLD,2023,75.8425771685529
+World,WLD,2021,73.7440668883232
+World,WLD,2022,75.4907771643873
+World,WLD,2023,75.8425771685528
 Samoa,WSM,1960,57.588
 Samoa,WSM,1961,58.181
 Samoa,WSM,1962,58.806
