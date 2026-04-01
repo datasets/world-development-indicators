@@ -1,10 +1,10 @@
 {
-  "title": "Crop production index (2004-2006 = 100)",
+  "title": "Crop production index (2014-2016 = 100)",
   "name": "ag.prd.crop.xd",
   "worldbank": {
     "indicator": "ag.prd.crop.xd"
   },
-  "readme": "Crop production index shows agricultural production for each year relative to the base period 2004-2006. It includes all crops except fodder crops. Regional and income group aggregates for the FAOs production indexes are calculated from the underlying values in international dollars, normalized to the base period 2004-2006.",
+  "readme": "Crop production index shows agricultural production for each year relative to the base period 2014-2016. It includes all crops except fodder crops. Regional and income group aggregates for the FAO's production indexes are calculated from the underlying values in international dollars, normalized to the base period 2014-2016.",
   "licenses": [
     {
       "name": "CC-BY-4.0"
@@ -41,7 +41,7 @@
           {
             "name": "Value",
             "type": "number",
-            "description": "Crop production index shows agricultural production for each year relative to the base period 2004-2006. It includes all crops except fodder crops. Regional and income group aggregates for the FAOs production indexes are calculated from the underlying values in international dollars, normalized to the base period 2004-2006."
+            "description": "Crop production index shows agricultural production for each year relative to the base period 2014-2016. It includes all crops except fodder crops. Regional and income group aggregates for the FAO's production indexes are calculated from the underlying values in international dollars, normalized to the base period 2014-2016."
           }
         ]
       }

@@ -1,0 +1,1 @@
+Percentage of firms that experienced power outages over the last complete fiscal year.

@@ -1,0 +1,1 @@
+Share of medium and high-tech manufactured exports in total manufactured exports.

@@ -1,1 +1,1 @@
-Population in largest city is the percentage of a countrys urban population living in that countrys largest metropolitan area.
+Population in largest city is the percentage of a country's urban population living in that country's largest metropolitan area.

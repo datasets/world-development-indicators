@@ -1,1 +1,50 @@
-{"title": "Net incurrence of liabilities, total (% of GDP)", "name": "gc.lbl.totl.gd.zs", "worldbank": {"indicator": "gc.lbl.totl.gd.zs"}, "readme": "Net incurrence of government liabilities includes foreign financing (obtained from nonresidents) and domestic financing (obtained from residents), or the means by which a government provides financial resources to cover a budget deficit or allocates financial resources arising from a budget surplus. The net incurrence of liabilities should be offset by the net acquisition of financial assets.", "licenses": [{"name": "CC-BY-4.0"}], "keywords": ["Public Sector "], "resources": [{"name": "data", "title": "Indicator data", "path": "data.csv", "format": "csv", "mediatype": "text/csv", "encoding": "utf-8", "schema": {"fields": [{"name": "Country Name", "type": "string", "description": "Country or Region name"}, {"name": "Country Code", "type": "string", "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"}, {"name": "Year", "type": "year", "description": "Year"}, {"name": "Value", "type": "number", "description": "Net incurrence of government liabilities includes foreign financing (obtained from nonresidents) and domestic financing (obtained from residents), or the means by which a government provides financial resources to cover a budget deficit or allocates financial resources arising from a budget surplus. The net incurrence of liabilities should be offset by the net acquisition of financial assets."}]}, "dialect": {"delimiter": ",", "quoteChar": "\""}}]}
+{
+  "title": "Net incurrence of liabilities, total (% of GDP)",
+  "name": "gc.lbl.totl.gd.zs",
+  "worldbank": {
+    "indicator": "gc.lbl.totl.gd.zs"
+  },
+  "readme": "Net incurrence of government liabilities includes foreign financing (obtained from nonresidents) and domestic financing (obtained from residents), or the means by which a government provides financial resources to cover a budget deficit or allocates financial resources arising from a budget surplus. The net incurrence of liabilities should be offset by the net acquisition of financial assets. This indicator is expressed as a percentage of Gross Domestic Product (GDP) which is the total income earned through the production of goods and services in an economic territory during an accounting period.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Public Sector "
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "Net incurrence of government liabilities includes foreign financing (obtained from nonresidents) and domestic financing (obtained from residents), or the means by which a government provides financial resources to cover a budget deficit or allocates financial resources arising from a budget surplus. The net incurrence of liabilities should be offset by the net acquisition of financial assets. This indicator is expressed as a percentage of Gross Domestic Product (GDP) which is the total income earned through the production of goods and services in an economic territory during an accounting period."
+          }
+        ]
+      }
+    }
+  ]
+}

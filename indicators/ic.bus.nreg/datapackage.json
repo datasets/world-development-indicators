@@ -4,7 +4,7 @@
   "worldbank": {
     "indicator": "ic.bus.nreg"
   },
-  "readme": "New businesses registered are the number of new limited liability corporations registered in the calendar year.",
+  "readme": "New businesses registered are the number of new limited liability corporations (or its equivalent) registered in the calendar year.",
   "licenses": [
     {
       "name": "CC-BY-4.0"
@@ -41,7 +41,7 @@
           {
             "name": "Value",
             "type": "number",
-            "description": "New businesses registered are the number of new limited liability corporations registered in the calendar year."
+            "description": "New businesses registered are the number of new limited liability corporations (or its equivalent) registered in the calendar year."
           }
         ]
       }

@@ -471,13 +471,13 @@ Early-demographic dividend,EAR,2020,385.951221292971
 East Asia & Pacific,EAS,1996,897.965464886747
 East Asia & Pacific,EAS,1997,882.953257066031
 East Asia & Pacific,EAS,1998,870.800992244599
-East Asia & Pacific,EAS,1999,859.228160955118
+East Asia & Pacific,EAS,1999,859.228160955119
 East Asia & Pacific,EAS,2000,934.012770901935
 East Asia & Pacific,EAS,2001,910.541777717813
 East Asia & Pacific,EAS,2002,978.439383939929
 East Asia & Pacific,EAS,2003,1065.63443378871
 East Asia & Pacific,EAS,2004,1220.68347119439
-East Asia & Pacific,EAS,2005,1249.43827056642
+East Asia & Pacific,EAS,2005,1249.43827056641
 East Asia & Pacific,EAS,2006,1454.3677983571
 East Asia & Pacific,EAS,2007,1449.07380228845
 East Asia & Pacific,EAS,2008,1688.80907190376
@@ -530,11 +530,11 @@ Europe & Central Asia,ECS,2010,2706.06002307146
 Europe & Central Asia,ECS,2011,2732.31560965416
 Europe & Central Asia,ECS,2012,2809.38894330275
 Europe & Central Asia,ECS,2013,2845.94311812249
-Europe & Central Asia,ECS,2014,2884.34589116324
+Europe & Central Asia,ECS,2014,2884.34589116323
 Europe & Central Asia,ECS,2015,2992.51073138026
 Europe & Central Asia,ECS,2016,3011.65271380487
 Europe & Central Asia,ECS,2017,3129.11852943395
-Europe & Central Asia,ECS,2018,3093.26276114166
+Europe & Central Asia,ECS,2018,3093.26276114167
 Europe & Central Asia,ECS,2019,3181.24502772033
 Europe & Central Asia,ECS,2020,3191.1050267162
 Europe & Central Asia,ECS,2021,3346.27863438287
@@ -828,7 +828,7 @@ High income,HIC,2008,3534.47350175068
 High income,HIC,2009,3565.79823164463
 High income,HIC,2010,3590.45604299763
 High income,HIC,2011,3615.48593472261
-High income,HIC,2012,3659.80426211752
+High income,HIC,2012,3659.80426211751
 High income,HIC,2013,3736.02734929567
 High income,HIC,2014,3824.10747794218
 High income,HIC,2015,3873.65382988404
@@ -924,13 +924,13 @@ IBRD only,IBD,1996,526.376303261553
 IBRD only,IBD,1998,464.386694697773
 IBRD only,IBD,2000,497.226893331939
 IBRD only,IBD,2005,624.05657474121
-IBRD only,IBD,2010,682.594592761641
+IBRD only,IBD,2010,682.59459276164
 IBRD only,IBD,2015,785.801670436886
 IBRD only,IBD,2018,847.030959809919
 IBRD only,IBD,2020,974.374840153822
 IDA & IBRD total,IBT,2005,576.134491241277
 IDA & IBRD total,IBT,2010,627.458342803077
-IDA & IBRD total,IBT,2015,719.187194478327
+IDA & IBRD total,IBT,2015,719.187194478328
 IDA blend,IDB,2007,123.802887785302
 IDA blend,IDB,2019,215.922319792477
 Indonesia,IDN,2000,209.65817
@@ -1150,14 +1150,14 @@ Kuwait,KWT,2020,165.97953
 Kuwait,KWT,2022,176.25862
 Kuwait,KWT,2023,159.38516
 Latin America & Caribbean (excluding high income),LAC,2000,318.784768758364
-Latin America & Caribbean (excluding high income),LAC,2001,327.354325149705
+Latin America & Caribbean (excluding high income),LAC,2001,327.354325149704
 Latin America & Caribbean (excluding high income),LAC,2002,381.039393354914
 Latin America & Caribbean (excluding high income),LAC,2003,410.309911729264
 Latin America & Caribbean (excluding high income),LAC,2004,481.451535022288
 Latin America & Caribbean (excluding high income),LAC,2005,494.821255331192
 Latin America & Caribbean (excluding high income),LAC,2006,487.022733131495
 Latin America & Caribbean (excluding high income),LAC,2007,505.168018493483
-Latin America & Caribbean (excluding high income),LAC,2008,522.647682880448
+Latin America & Caribbean (excluding high income),LAC,2008,522.647682880447
 Latin America & Caribbean (excluding high income),LAC,2009,549.458906960023
 Latin America & Caribbean (excluding high income),LAC,2010,576.679093923113
 Latin America & Caribbean (excluding high income),LAC,2011,615.444347091277
@@ -1207,9 +1207,9 @@ Lesotho,LSO,2015,23.73201
 Late-demographic dividend,LTE,1996,794.291270282939
 Late-demographic dividend,LTE,1997,811.401335797457
 Late-demographic dividend,LTE,1998,731.774754207582
-Late-demographic dividend,LTE,1999,740.670264468225
-Late-demographic dividend,LTE,2000,798.922494713577
-Late-demographic dividend,LTE,2001,822.300987440523
+Late-demographic dividend,LTE,1999,740.670264468224
+Late-demographic dividend,LTE,2000,798.922494713576
+Late-demographic dividend,LTE,2001,822.300987440524
 Late-demographic dividend,LTE,2002,834.863699198013
 Late-demographic dividend,LTE,2003,879.102512791911
 Late-demographic dividend,LTE,2004,922.803408116131
@@ -1649,7 +1649,7 @@ OECD members,OED,2014,3379.48549727143
 OECD members,OED,2015,3448.25989965467
 OECD members,OED,2016,3459.57210413128
 OECD members,OED,2017,3603.83346365644
-OECD members,OED,2018,3859.07340573738
+OECD members,OED,2018,3859.07340573737
 OECD members,OED,2019,3987.45211474469
 OECD members,OED,2020,4073.88629873554
 OECD members,OED,2021,4320.3784156567
@@ -2125,11 +2125,11 @@ Latin America & the Caribbean (IDA & IBRD countries),TLA,2002,357.673708656542
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2003,382.764632435085
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2004,446.513076849097
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2005,461.238916110719
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2006,460.120148480415
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2006,460.120148480414
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2007,472.649084503284
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2008,487.923131125271
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2009,510.263368127076
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2010,540.766374471365
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2010,540.766374471366
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2011,573.99606836999
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2012,582.631882365115
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2013,563.282246645249

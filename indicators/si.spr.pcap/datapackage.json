@@ -1,1 +1,50 @@
-{"title": "Survey mean consumption or income per capita, total population (2011 PPP $ per day)", "name": "si.spr.pcap", "worldbank": {"indicator": "si.spr.pcap"}, "readme": "Mean consumption or income per capita (2011 PPP $ per day) used in calculating the growth rate in the welfare aggregate of total population.", "licenses": [{"name": "CC-BY-4.0"}], "keywords": ["Poverty "], "resources": [{"name": "data", "title": "Indicator data", "path": "data.csv", "format": "csv", "mediatype": "text/csv", "encoding": "utf-8", "schema": {"fields": [{"name": "Country Name", "type": "string", "description": "Country or Region name"}, {"name": "Country Code", "type": "string", "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"}, {"name": "Year", "type": "year", "description": "Year"}, {"name": "Value", "type": "number", "description": "Mean consumption or income per capita (2011 PPP $ per day) used in calculating the growth rate in the welfare aggregate of total population."}]}, "dialect": {"delimiter": ",", "quoteChar": "\""}}]}
+{
+  "title": "Survey mean consumption or income per capita, total population (2021 PPP $ per day)",
+  "name": "si.spr.pcap",
+  "worldbank": {
+    "indicator": "si.spr.pcap"
+  },
+  "readme": "Mean consumption or income per capita (2021 PPP $ per day) used in calculating the growth rate in the welfare aggregate of total population.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Poverty "
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "Mean consumption or income per capita (2021 PPP $ per day) used in calculating the growth rate in the welfare aggregate of total population."
+          }
+        ]
+      }
+    }
+  ]
+}

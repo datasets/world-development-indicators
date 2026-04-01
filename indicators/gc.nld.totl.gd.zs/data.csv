@@ -2,10 +2,10 @@ Country Name,Country Code,Year,Value
 Africa Eastern and Southern,AFE,1999,-4.28544504771145
 Africa Eastern and Southern,AFE,2001,0.45008882530797
 Africa Eastern and Southern,AFE,2002,-1.41677556304777
-Africa Eastern and Southern,AFE,2003,-3.9170882896458
+Africa Eastern and Southern,AFE,2003,-3.91708828964579
 Africa Eastern and Southern,AFE,2004,0.371743363054075
 Africa Eastern and Southern,AFE,2005,-0.693304296851847
-Africa Eastern and Southern,AFE,2006,3.86206142841591
+Africa Eastern and Southern,AFE,2006,3.8620614284159
 Africa Eastern and Southern,AFE,2007,2.97871985947731
 Africa Eastern and Southern,AFE,2008,0.741832475380865
 Africa Eastern and Southern,AFE,2009,-4.63824795558364
@@ -16,11 +16,11 @@ Africa Eastern and Southern,AFE,2013,-3.0497249585254
 Africa Eastern and Southern,AFE,2014,-3.9582849300746
 Africa Eastern and Southern,AFE,2015,-4.07221497076538
 Africa Eastern and Southern,AFE,2016,-3.65082041152584
-Africa Eastern and Southern,AFE,2017,-4.53636338731247
+Africa Eastern and Southern,AFE,2017,-4.53636338731246
 Africa Eastern and Southern,AFE,2018,-3.78708216954237
 Africa Eastern and Southern,AFE,2019,-3.71059908472377
 Africa Eastern and Southern,AFE,2020,-6.65385460771761
-Africa Eastern and Southern,AFE,2021,-3.67486813442552
+Africa Eastern and Southern,AFE,2021,-3.67486813442551
 Africa Eastern and Southern,AFE,2022,-3.42045508931236
 Africa Eastern and Southern,AFE,2023,-4.03346040682937
 Afghanistan,AFG,2006,-2.05267546426788
@@ -716,7 +716,7 @@ Central Europe and the Baltics,CEB,1997,-3.29745274780769
 Central Europe and the Baltics,CEB,1998,-3.37890517028688
 Central Europe and the Baltics,CEB,1999,-3.2103334009883
 Central Europe and the Baltics,CEB,2000,-4.25681861360392
-Central Europe and the Baltics,CEB,2001,-4.3246478622649
+Central Europe and the Baltics,CEB,2001,-4.32464786226489
 Central Europe and the Baltics,CEB,2002,-4.53731701889781
 Central Europe and the Baltics,CEB,2003,-4.34647292968125
 Central Europe and the Baltics,CEB,2004,-3.39041708638918
@@ -1020,13 +1020,13 @@ Caribbean small states,CSS,2004,0.0562264026666008
 Caribbean small states,CSS,2005,2.37850115384506
 Caribbean small states,CSS,2006,0.469037196058201
 Caribbean small states,CSS,2007,-0.592637661758945
-Caribbean small states,CSS,2008,0.597188541386054
+Caribbean small states,CSS,2008,0.597188541386053
 Caribbean small states,CSS,2009,-4.08727556593313
 Caribbean small states,CSS,2010,-2.51314435927261
 Caribbean small states,CSS,2011,-2.97639883879809
-Caribbean small states,CSS,2012,-2.47147677361046
+Caribbean small states,CSS,2012,-2.47147677361047
 Caribbean small states,CSS,2013,-3.76645629221143
-Caribbean small states,CSS,2014,-2.69066766568835
+Caribbean small states,CSS,2014,-2.69066766568836
 Caribbean small states,CSS,2015,-2.30167598351718
 Caribbean small states,CSS,2016,-3.29547919134139
 Caribbean small states,CSS,2017,-5.45673984013284
@@ -1275,19 +1275,19 @@ Early-demographic dividend,EAR,1996,-1.52627381469927
 Early-demographic dividend,EAR,1997,-2.00945670012617
 Early-demographic dividend,EAR,1998,-2.86251234781836
 Early-demographic dividend,EAR,2009,-4.16243652345962
-Early-demographic dividend,EAR,2010,-2.66803331182318
+Early-demographic dividend,EAR,2010,-2.66803331182317
 Early-demographic dividend,EAR,2011,-1.41269846685539
 Early-demographic dividend,EAR,2012,-1.47947871217776
 Early-demographic dividend,EAR,2013,-2.20760447654967
 Early-demographic dividend,EAR,2014,-2.89200759076726
-Early-demographic dividend,EAR,2015,-3.8431613935505
+Early-demographic dividend,EAR,2015,-3.84316139355049
 Early-demographic dividend,EAR,2016,-3.32711103724001
 Early-demographic dividend,EAR,2017,-3.20314605896562
 Early-demographic dividend,EAR,2018,-2.99768241776868
 Early-demographic dividend,EAR,2022,-3.52285276722013
 Europe & Central Asia (excluding high income),ECA,1997,-4.87868660951056
 Europe & Central Asia (excluding high income),ECA,1998,-4.91961533494072
-Europe & Central Asia (excluding high income),ECA,2008,-0.489574032946391
+Europe & Central Asia (excluding high income),ECA,2008,-0.489574032946392
 Europe & Central Asia (excluding high income),ECA,2009,-4.16347467746296
 Europe & Central Asia (excluding high income),ECA,2010,-1.23427082473185
 Europe & Central Asia (excluding high income),ECA,2011,1.14087934710425
@@ -1327,19 +1327,19 @@ Europe & Central Asia,ECS,1991,-2.2268591008308
 Europe & Central Asia,ECS,1992,-3.43370213937163
 Europe & Central Asia,ECS,1993,-4.78857098833988
 Europe & Central Asia,ECS,1994,-4.32839367963062
-Europe & Central Asia,ECS,1995,-4.4974151662434
-Europe & Central Asia,ECS,1996,-3.71753735163938
+Europe & Central Asia,ECS,1995,-4.49741516624339
+Europe & Central Asia,ECS,1996,-3.71753735163939
 Europe & Central Asia,ECS,1997,-2.5411105845553
 Europe & Central Asia,ECS,1998,-2.36095183513581
 Europe & Central Asia,ECS,1999,-1.10550989331569
-Europe & Central Asia,ECS,2000,-0.315138851999562
+Europe & Central Asia,ECS,2000,-0.315138851999563
 Europe & Central Asia,ECS,2001,-0.739043431132923
 Europe & Central Asia,ECS,2002,-1.39871548545074
 Europe & Central Asia,ECS,2003,-2.31150016374292
 Europe & Central Asia,ECS,2004,-1.55827951818002
 Europe & Central Asia,ECS,2005,-0.834970474919787
 Europe & Central Asia,ECS,2006,-0.308000588733866
-Europe & Central Asia,ECS,2007,-0.035767027226513
+Europe & Central Asia,ECS,2007,-0.0357670272265131
 Europe & Central Asia,ECS,2008,-1.13928226738083
 Europe & Central Asia,ECS,2009,-5.41176287586495
 Europe & Central Asia,ECS,2010,-4.1148636631558
@@ -1439,7 +1439,7 @@ Euro area,EMU,2005,-1.95179462455663
 Euro area,EMU,2006,-1.07034777638139
 Euro area,EMU,2007,-0.533496816065768
 Euro area,EMU,2008,-1.66342007622738
-Euro area,EMU,2009,-5.16260840517301
+Euro area,EMU,2009,-5.16260840517302
 Euro area,EMU,2010,-5.13910564078352
 Euro area,EMU,2011,-3.21472245779967
 Euro area,EMU,2012,-3.50987747052824
@@ -1564,7 +1564,7 @@ Ethiopia,ETH,2024,-1.90887263115759
 European Union,EUU,1973,0.578252056976582
 European Union,EUU,1974,-0.239697613557363
 European Union,EUU,1975,-2.63244356746344
-European Union,EUU,1976,-1.5357273572974
+European Union,EUU,1976,-1.53572735729741
 European Union,EUU,1977,-1.38074988654454
 European Union,EUU,1978,-2.1059291034176
 European Union,EUU,1979,-2.41294094316719
@@ -1580,7 +1580,7 @@ European Union,EUU,1988,-2.6348883945769
 European Union,EUU,1989,-2.0842413274648
 European Union,EUU,1990,-1.58093288589595
 European Union,EUU,1991,-2.17331843091647
-European Union,EUU,1992,-2.83747131641317
+European Union,EUU,1992,-2.83747131641316
 European Union,EUU,1993,-4.22144326379578
 European Union,EUU,1994,-3.79579831376274
 European Union,EUU,1995,-6.3107912018721
@@ -2015,14 +2015,14 @@ High income,HIC,2003,-2.64193286129965
 High income,HIC,2004,-2.16510064330287
 High income,HIC,2005,-1.45459314619
 High income,HIC,2006,-0.750776420456975
-High income,HIC,2007,-0.677230004687475
+High income,HIC,2007,-0.677230004687476
 High income,HIC,2008,-2.46119927414449
-High income,HIC,2009,-6.86998331841408
+High income,HIC,2009,-6.86998331841407
 High income,HIC,2010,-6.04702680660334
 High income,HIC,2011,-4.78514242460616
 High income,HIC,2012,-4.23536301962229
-High income,HIC,2013,-2.71456665717783
-High income,HIC,2014,-2.60589592607101
+High income,HIC,2013,-2.71456665717782
+High income,HIC,2014,-2.605895926071
 High income,HIC,2015,-2.48842104752248
 High income,HIC,2016,-2.4882743894521
 High income,HIC,2017,-1.83661589943051
@@ -2178,7 +2178,7 @@ IDA only,IDX,2016,-2.55289035607851
 IDA only,IDX,2017,-3.15287932265006
 IDA only,IDX,2018,-3.12078921758325
 IDA only,IDX,2019,-3.38648941605229
-IDA only,IDX,2020,-5.4938856949062
+IDA only,IDX,2020,-5.49388569490619
 IDA only,IDX,2021,-4.63416946069385
 India,IND,1974,-0.0856661872827014
 India,IND,1975,0.150212792228915
@@ -2717,7 +2717,7 @@ Latin America & Caribbean (excluding high income),LAC,2014,-4.3302515785551
 Latin America & Caribbean (excluding high income),LAC,2015,-5.09118764426477
 Latin America & Caribbean (excluding high income),LAC,2016,-4.69066408322284
 Latin America & Caribbean (excluding high income),LAC,2017,-4.77109608021133
-Latin America & Caribbean (excluding high income),LAC,2018,-4.59278339172335
+Latin America & Caribbean (excluding high income),LAC,2018,-4.59278339172336
 Latin America & Caribbean (excluding high income),LAC,2019,-3.77481511938389
 Latin America & Caribbean (excluding high income),LAC,2020,-8.89391077542524
 Latin America & Caribbean (excluding high income),LAC,2021,-4.24439898628066
@@ -2806,7 +2806,7 @@ Least developed countries: UN classification,LDC,2018,-2.08110542095231
 Least developed countries: UN classification,LDC,2019,-2.5616749759614
 Least developed countries: UN classification,LDC,2020,-3.93380812365399
 Least developed countries: UN classification,LDC,2021,-2.47495407376404
-Low income,LIC,2016,-1.84339206324125
+Low income,LIC,2016,-1.84339206324126
 Sri Lanka,LKA,1990,-5.17085995574671
 Sri Lanka,LKA,1991,-6.64168983066779
 Sri Lanka,LKA,1992,-4.82643322211328
@@ -2855,8 +2855,8 @@ Lower middle income,LMC,2012,-3.28248339490188
 Lower middle income,LMC,2013,-3.94152526989128
 Lower middle income,LMC,2014,-3.6282487213731
 Lower middle income,LMC,2015,-3.34377911417068
-Lower middle income,LMC,2016,-2.76669141052576
-Lower middle income,LMC,2017,-2.99282615247471
+Lower middle income,LMC,2016,-2.76669141052575
+Lower middle income,LMC,2017,-2.99282615247472
 Lower middle income,LMC,2018,-2.5231969776528
 Lesotho,LSO,1987,-18.9427566332573
 Lesotho,LSO,1988,-15.9977775072286
@@ -3724,11 +3724,11 @@ New Zealand,NZL,2022,-3.45250676072301
 New Zealand,NZL,2023,-2.66098885862242
 OECD members,OED,1972,-0.58531193903993
 OECD members,OED,1973,-0.476463852866034
-OECD members,OED,1974,-0.339943118140994
+OECD members,OED,1974,-0.339943118140993
 OECD members,OED,1975,-2.28096885280197
 OECD members,OED,1976,-2.45801873446597
 OECD members,OED,1977,-1.76787108562969
-OECD members,OED,1978,-1.90681692538859
+OECD members,OED,1978,-1.9068169253886
 OECD members,OED,1979,-1.54958353469234
 OECD members,OED,1980,-1.90758349980848
 OECD members,OED,1981,-1.79020074405614
@@ -3763,7 +3763,7 @@ OECD members,OED,2009,-6.90040019076217
 OECD members,OED,2010,-6.3540338010412
 OECD members,OED,2011,-5.36992932975877
 OECD members,OED,2012,-4.74457334506056
-OECD members,OED,2013,-3.08060807639923
+OECD members,OED,2013,-3.08060807639922
 OECD members,OED,2014,-2.74919918625263
 OECD members,OED,2015,-2.3141429546116
 OECD members,OED,2016,-2.36766520795052
@@ -3788,16 +3788,16 @@ Other small states,OSS,2004,-0.866481189513367
 Other small states,OSS,2005,-0.280493814757759
 Other small states,OSS,2006,1.01612589877936
 Other small states,OSS,2007,1.72238070117438
-Other small states,OSS,2008,-2.8906887849129
+Other small states,OSS,2008,-2.89068878491289
 Other small states,OSS,2009,-4.2780269595449
 Other small states,OSS,2010,1.07950808298384
 Other small states,OSS,2011,2.96216568232027
 Other small states,OSS,2012,2.07763347591945
 Other small states,OSS,2013,2.51067061094728
-Other small states,OSS,2014,-0.354939249760809
+Other small states,OSS,2014,-0.354939249760808
 Other small states,OSS,2015,-0.59408938132959
 Other small states,OSS,2016,-0.175877385970774
-Other small states,OSS,2017,0.0980281098291957
+Other small states,OSS,2017,0.0980281098291958
 Other small states,OSS,2018,-1.51454734097653
 Other small states,OSS,2019,-0.411474912734043
 Other small states,OSS,2020,-7.24412128797782
@@ -4022,16 +4022,16 @@ Paraguay,PRY,2023,-3.81724810457824
 Paraguay,PRY,2024,-2.15055942873611
 Pacific island small states,PSS,2011,-0.349299043533373
 Pacific island small states,PSS,2012,-1.03457921951321
-Pacific island small states,PSS,2013,0.367043767730527
+Pacific island small states,PSS,2013,0.367043767730528
 Pacific island small states,PSS,2014,2.05429662942928
 Pacific island small states,PSS,2015,2.94446801022094
 Pacific island small states,PSS,2016,1.36410423401249
-Pacific island small states,PSS,2017,0.938663149567829
+Pacific island small states,PSS,2017,0.938663149567828
 Pacific island small states,PSS,2018,2.38611891250934
 Pacific island small states,PSS,2019,0.96241751104857
 Pacific island small states,PSS,2020,-4.06253581751722
 Pacific island small states,PSS,2021,-8.19728385322173
-Pacific island small states,PSS,2022,-6.14082090535406
+Pacific island small states,PSS,2022,-6.14082090535405
 Pacific island small states,PSS,2023,-1.75929922715474
 Post-demographic dividend,PST,1972,-0.285683461302967
 Post-demographic dividend,PST,1973,-0.175064289452378
@@ -4046,13 +4046,13 @@ Post-demographic dividend,PST,1981,-1.58723630915731
 Post-demographic dividend,PST,1982,-2.49151460890841
 Post-demographic dividend,PST,1983,-3.57701544786283
 Post-demographic dividend,PST,1984,-3.03711042318211
-Post-demographic dividend,PST,1985,-2.97445009122091
+Post-demographic dividend,PST,1985,-2.97445009122092
 Post-demographic dividend,PST,1986,-3.43646363511624
 Post-demographic dividend,PST,1987,-2.68688740792039
 Post-demographic dividend,PST,1988,-2.12211903601555
 Post-demographic dividend,PST,1989,-1.76342197522576
 Post-demographic dividend,PST,1990,-2.24403346063138
-Post-demographic dividend,PST,1991,-3.04810869203739
+Post-demographic dividend,PST,1991,-3.04810869203738
 Post-demographic dividend,PST,1992,-3.63772471310715
 Post-demographic dividend,PST,1993,-3.82874088206499
 Post-demographic dividend,PST,1994,-3.09298341904865
@@ -4384,13 +4384,13 @@ Small states,SST,2008,-1.69178215346182
 Small states,SST,2009,-4.12159333070869
 Small states,SST,2010,-0.108240900214855
 Small states,SST,2011,1.04611004654271
-Small states,SST,2012,0.538842502364621
+Small states,SST,2012,0.53884250236462
 Small states,SST,2013,0.450749295471163
 Small states,SST,2014,-0.897184654408854
 Small states,SST,2015,-0.887027238864019
-Small states,SST,2016,-0.997794047802097
+Small states,SST,2016,-0.997794047802096
 Small states,SST,2017,-1.35863640974109
-Small states,SST,2018,-1.71968363000787
+Small states,SST,2018,-1.71968363000788
 Small states,SST,2019,-2.19554271662067
 Slovak Republic,SVK,1995,-0.42690836903677
 Slovak Republic,SVK,1996,-7.74989024884285
@@ -4537,7 +4537,7 @@ Seychelles,SYC,2007,-4.84293229180158
 Seychelles,SYC,2008,7.20083128976978
 Europe & Central Asia (IDA & IBRD countries),TEC,1994,-5.03301689396162
 Europe & Central Asia (IDA & IBRD countries),TEC,1995,3.06817862193669
-Europe & Central Asia (IDA & IBRD countries),TEC,1998,-5.01479020964009
+Europe & Central Asia (IDA & IBRD countries),TEC,1998,-5.01479020964008
 Europe & Central Asia (IDA & IBRD countries),TEC,1999,-1.18191297155038
 Europe & Central Asia (IDA & IBRD countries),TEC,2000,0.327186785309456
 Europe & Central Asia (IDA & IBRD countries),TEC,2001,0.392216124333322
@@ -4647,7 +4647,7 @@ Latin America & the Caribbean (IDA & IBRD countries),TLA,2010,-2.77852527351914
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2011,-2.35252186229877
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2012,-1.77210232570797
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2013,-2.91655865511329
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2014,-4.18567998780119
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2014,-4.18567998780118
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2015,-4.91413107163406
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2016,-4.57392650382925
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2017,-4.64809957096699
@@ -4718,7 +4718,7 @@ South Asia (IDA & IBRD),TSA,2007,-0.735048924001876
 South Asia (IDA & IBRD),TSA,2008,-4.6959851708757
 South Asia (IDA & IBRD),TSA,2009,-5.3119531273062
 South Asia (IDA & IBRD),TSA,2010,-3.34313604443152
-South Asia (IDA & IBRD),TSA,2011,-3.07518098246359
+South Asia (IDA & IBRD),TSA,2011,-3.07518098246358
 South Asia (IDA & IBRD),TSA,2012,-3.48624801879728
 South Asia (IDA & IBRD),TSA,2013,-3.71341877597862
 South Asia (IDA & IBRD),TSA,2014,-3.06343016892047

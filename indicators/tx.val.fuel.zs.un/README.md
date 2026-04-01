@@ -1,1 +1,1 @@
-Fuels comprise the commodities in SITC section 3 (mineral fuels, lubricants and related materials).
+Fuels comprise the commodities in SITC (Rev. 3) section 3 (mineral fuels, lubricants and related materials). This indicator is expressed as a percentage of merchandise exports which is comprised of goods whose economic ownership is changed between a resident and a non-resident and that are not included in the following specific categories: goods under merchanting, non-monetary gold, and parts of travel, construction, and government goods and services n.i.e.

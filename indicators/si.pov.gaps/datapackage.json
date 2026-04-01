@@ -1,10 +1,10 @@
 {
-  "title": "Poverty gap at $1.90 a day (2011 PPP) (%)",
+  "title": "Poverty gap at $3.00 a day (2021 PPP) (%)",
   "name": "si.pov.gaps",
   "worldbank": {
     "indicator": "si.pov.gaps"
   },
-  "readme": "Poverty gap at $1.90 a day (2011 PPP) is the mean shortfall in income or consumption from the poverty line $1.90 a day (counting the nonpoor as having zero shortfall), expressed as a percentage of the poverty line. This measure reflects the depth of poverty as well as its incidence. As a result of revisions in PPP exchange rates, poverty rates for individual countries cannot be compared with poverty rates reported in earlier editions.",
+  "readme": "Poverty gap at $3.00 a day (2021 PPP) is the mean shortfall in income or consumption from the poverty line $3.00 a day (counting the nonpoor as having zero shortfall), expressed as a percentage of the poverty line. This measure reflects the depth of poverty as well as its incidence.",
   "licenses": [
     {
       "name": "CC-BY-4.0"
@@ -41,7 +41,7 @@
           {
             "name": "Value",
             "type": "number",
-            "description": "Poverty gap at $1.90 a day (2011 PPP) is the mean shortfall in income or consumption from the poverty line $1.90 a day (counting the nonpoor as having zero shortfall), expressed as a percentage of the poverty line. This measure reflects the depth of poverty as well as its incidence. As a result of revisions in PPP exchange rates, poverty rates for individual countries cannot be compared with poverty rates reported in earlier editions."
+            "description": "Poverty gap at $3.00 a day (2021 PPP) is the mean shortfall in income or consumption from the poverty line $3.00 a day (counting the nonpoor as having zero shortfall), expressed as a percentage of the poverty line. This measure reflects the depth of poverty as well as its incidence."
           }
         ]
       }

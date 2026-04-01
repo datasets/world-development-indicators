@@ -1,0 +1,50 @@
+{
+  "title": "Firms experiencing electrical outages (% of firms)",
+  "name": "ic.elc.outg.zs",
+  "worldbank": {
+    "indicator": "ic.elc.outg.zs"
+  },
+  "readme": "Percentage of firms that experienced power outages over the last complete fiscal year.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Private Sector"
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "Percentage of firms that experienced power outages over the last complete fiscal year."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "worldbank": {
     "indicator": "eg.use.comm.cl.zs"
   },
-  "readme": "Clean energy is noncarbohydrate energy that does not produce carbon dioxide when generated. It includes hydropower and nuclear, geothermal, and solar power, among others.",
+  "readme": "Clean energy is noncarbohydrate energy that does not produce carbon dioxide when generated. It includes hydropower and nuclear, geothermal, and solar power, among others. This is the share of total energy supply that is non-fossil.",
   "licenses": [
     {
       "name": "CC-BY-4.0"
@@ -41,7 +41,7 @@
           {
             "name": "Value",
             "type": "number",
-            "description": "Clean energy is noncarbohydrate energy that does not produce carbon dioxide when generated. It includes hydropower and nuclear, geothermal, and solar power, among others."
+            "description": "Clean energy is noncarbohydrate energy that does not produce carbon dioxide when generated. It includes hydropower and nuclear, geothermal, and solar power, among others. This is the share of total energy supply that is non-fossil."
           }
         ]
       }

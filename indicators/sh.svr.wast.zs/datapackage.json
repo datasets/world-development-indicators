@@ -1,0 +1,50 @@
+{
+  "title": "Prevalence of severe wasting, weight for height (% of children under 5)",
+  "name": "sh.svr.wast.zs",
+  "worldbank": {
+    "indicator": "sh.svr.wast.zs"
+  },
+  "readme": "Prevalence of severe wasting is the proportion of children under age 5 whose weight for height is more than three standard deviations below the median for the international reference population ages 0-59 months.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Health "
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "Prevalence of severe wasting is the proportion of children under age 5 whose weight for height is more than three standard deviations below the median for the international reference population ages 0-59 months."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,1 +1,52 @@
-{"title": "Grants, excluding technical cooperation (BoP, current US$)", "name": "bx.grt.exta.cd.wd", "worldbank": {"indicator": "bx.grt.exta.cd.wd"}, "readme": "Grants are defined as legally binding commitments that obligate a specific value of funds available for disbursement for which there is no repayment requirement. Data are in current U.S. dollars.", "licenses": [{"name": "CC-BY-4.0"}], "keywords": ["Economy & Growth", "External Debt", "Aid Effectiveness "], "resources": [{"name": "data", "title": "Indicator data", "path": "data.csv", "format": "csv", "mediatype": "text/csv", "encoding": "utf-8", "schema": {"fields": [{"name": "Country Name", "type": "string", "description": "Country or Region name"}, {"name": "Country Code", "type": "string", "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"}, {"name": "Year", "type": "year", "description": "Year"}, {"name": "Value", "type": "number", "description": "Grants are defined as legally binding commitments that obligate a specific value of funds available for disbursement for which there is no repayment requirement. Data are in current U.S. dollars."}]}, "dialect": {"delimiter": ",", "quoteChar": "\""}}]}
+{
+  "title": "Grants, excluding technical cooperation (BoP, current US$)",
+  "name": "bx.grt.exta.cd.wd",
+  "worldbank": {
+    "indicator": "bx.grt.exta.cd.wd"
+  },
+  "readme": "Grants are transfers made in cash, goods or services for which no repayment is required.  For ODA reporting purposes, they also include forgiveness of non-military debt, support to non-governmental organisations, certain interest subsidies, and certain costs incurred in the implementation of aid. Grants to multilateral agencies intended to soften the terms of the latter\u2019s lending are a direct resource outflow and should also be recorded as ODA grants. For OOF reporting purposes, grants for commercial purposes such as subsidies to national private investors, and grants to forgive military debt, are also included. Grant-like flows are assimilated to grants. They comprise a) loans for which the service payments are to be made into an account in the borrowing country and used in the borrowing country for its own benefit, and b) provision of commodities for sale in the recipient\u2019s currency the proceeds of which are used in the recipient country for its own benefit. Data are in current U.S. dollars.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Economy & Growth",
+    "External Debt",
+    "Aid Effectiveness "
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "Grants are transfers made in cash, goods or services for which no repayment is required.  For ODA reporting purposes, they also include forgiveness of non-military debt, support to non-governmental organisations, certain interest subsidies, and certain costs incurred in the implementation of aid. Grants to multilateral agencies intended to soften the terms of the latter\u2019s lending are a direct resource outflow and should also be recorded as ODA grants. For OOF reporting purposes, grants for commercial purposes such as subsidies to national private investors, and grants to forgive military debt, are also included. Grant-like flows are assimilated to grants. They comprise a) loans for which the service payments are to be made into an account in the borrowing country and used in the borrowing country for its own benefit, and b) provision of commodities for sale in the recipient\u2019s currency the proceeds of which are used in the recipient country for its own benefit. Data are in current U.S. dollars."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "worldbank": {
     "indicator": "iq.cpa.strc.xq"
   },
-  "readme": "The structural policies cluster includes trade, financial sector, and business regulatory environment.",
+  "readme": "The Country Policy and Institutional Assessment (CPIA) measures the extent to which a country\u2019s policy and institutional framework supports sustainable growth and poverty reduction, and consequently the effective use of development assistance. The outcome of the exercise yields both an overall score and scores for sixteen criteria that compose the CPIA. These criteria include: A. Economic Management (1. Monetary and Exchange Rate Policies; 2. Fiscal Policy; 3. Debt Policy and Management), B. Structural Policies (4. Trade; 5. Financial Sector; 6. Business Regulatory Environment), C. Policies for Social Inclusion/Equity (7. Gender equality; 8. Equity of public resource use; 9. Building human resources; 10. Social protection and labor; 11. Policies and institutions for environmental sustainability), D. Public Sector Management and Institutions (12. Property rights and rule-based governance; 13. Quality of budgetary and financial management; 14. Efficiency of revenue mobilization; 15. Quality of public administration; 16. Transparency, accountability, and corruption in the public sector).\n\nThe Structural Policies cluster includes trade, financial sector, and business regulatory environment.",
   "licenses": [
     {
       "name": "CC-BY-4.0"
@@ -41,7 +41,7 @@
           {
             "name": "Value",
             "type": "number",
-            "description": "The structural policies cluster includes trade, financial sector, and business regulatory environment."
+            "description": "The Country Policy and Institutional Assessment (CPIA) measures the extent to which a country\u2019s policy and institutional framework supports sustainable growth and poverty reduction, and consequently the effective use of development assistance. The outcome of the exercise yields both an overall score and scores for sixteen criteria that compose the CPIA. These criteria include: A. Economic Management (1. Monetary and Exchange Rate Policies; 2. Fiscal Policy; 3. Debt Policy and Management), B. Structural Policies (4. Trade; 5. Financial Sector; 6. Business Regulatory Environment), C. Policies for Social Inclusion/Equity (7. Gender equality; 8. Equity of public resource use; 9. Building human resources; 10. Social protection and labor; 11. Policies and institutions for environmental sustainability), D. Public Sector Management and Institutions (12. Property rights and rule-based governance; 13. Quality of budgetary and financial management; 14. Efficiency of revenue mobilization; 15. Quality of public administration; 16. Transparency, accountability, and corruption in the public sector).\n\nThe Structural Policies cluster includes trade, financial sector, and business regulatory environment."
           }
         ]
       }

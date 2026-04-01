@@ -1,1 +1,50 @@
-{"title": "S&P Global Equity Indices (annual % change)", "name": "cm.mkt.indx.zg", "worldbank": {"indicator": "cm.mkt.indx.zg"}, "readme": "S&P Global Equity Indices measure the U.S. dollar price change in the stock markets covered by the S&P/IFCI and S&P/Frontier BMI country indices.", "licenses": [{"name": "CC-BY-4.0"}], "keywords": ["Financial Sector "], "resources": [{"name": "data", "title": "Indicator data", "path": "data.csv", "format": "csv", "mediatype": "text/csv", "encoding": "utf-8", "schema": {"fields": [{"name": "Country Name", "type": "string", "description": "Country or Region name"}, {"name": "Country Code", "type": "string", "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"}, {"name": "Year", "type": "year", "description": "Year"}, {"name": "Value", "type": "number", "description": "S&P Global Equity Indices measure the U.S. dollar price change in the stock markets covered by the S&P/IFCI and S&P/Frontier BMI country indices."}]}, "dialect": {"delimiter": ",", "quoteChar": "\""}}]}
+{
+  "title": "S&P Global Equity Indices (annual % change)",
+  "name": "cm.mkt.indx.zg",
+  "worldbank": {
+    "indicator": "cm.mkt.indx.zg"
+  },
+  "readme": "S&P Global Equity Indices measure the U.S. dollar price change in the stock markets covered by the S&P BMI country indices.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Financial Sector "
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "S&P Global Equity Indices measure the U.S. dollar price change in the stock markets covered by the S&P BMI country indices."
+          }
+        ]
+      }
+    }
+  ]
+}

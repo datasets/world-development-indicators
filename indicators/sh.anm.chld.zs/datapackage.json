@@ -1,10 +1,10 @@
 {
-  "title": "Prevalence of anemia among children (% of children under 5)",
+  "title": "Prevalence of anemia among children (% of children ages 6-59 months)",
   "name": "sh.anm.chld.zs",
   "worldbank": {
     "indicator": "sh.anm.chld.zs"
   },
-  "readme": "Prevalence of anemia, children under age 5, is the percentage of children under age 5 whose hemoglobin level is less than 110 grams per liter at sea level.",
+  "readme": "Prevalence of anemia, children ages 6-59 months, is the percentage of children ages 6-59 months whose hemoglobin level is less than 110 grams per liter, adjusted for altitude.",
   "licenses": [
     {
       "name": "CC-BY-4.0"
@@ -41,7 +41,7 @@
           {
             "name": "Value",
             "type": "number",
-            "description": "Prevalence of anemia, children under age 5, is the percentage of children under age 5 whose hemoglobin level is less than 110 grams per liter at sea level."
+            "description": "Prevalence of anemia, children ages 6-59 months, is the percentage of children ages 6-59 months whose hemoglobin level is less than 110 grams per liter, adjusted for altitude."
           }
         ]
       }

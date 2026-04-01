@@ -4,7 +4,7 @@
   "worldbank": {
     "indicator": "ag.srf.totl.k2"
   },
-  "readme": "Surface area is a countrys total area, including areas under inland bodies of water and some coastal waterways.",
+  "readme": "Surface area is a country's total area, including areas under inland bodies of water and some coastal waterways.",
   "licenses": [
     {
       "name": "CC-BY-4.0"
@@ -42,7 +42,7 @@
           {
             "name": "Value",
             "type": "number",
-            "description": "Surface area is a countrys total area, including areas under inland bodies of water and some coastal waterways."
+            "description": "Surface area is a country's total area, including areas under inland bodies of water and some coastal waterways."
           }
         ]
       }

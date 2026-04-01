@@ -4,7 +4,7 @@
   "worldbank": {
     "indicator": "ic.gov.durs.zs"
   },
-  "readme": "Time spent dealing with the requirements of government regulations is the proportion of senior managements time, in a typical week, that is spent dealing with the requirements imposed by government regulations (e.g., taxes, customs, labor regulations, licensing and registration, including dealings with officials, and completing forms).",
+  "readme": "Average percentage of senior management\u2019s time that is spent in a typical week dealing with requirements imposed by government regulations (eg. Taxes, customs, labor regulations, licensing and registration), including dealings with officials, completing forms, et cetera.",
   "licenses": [
     {
       "name": "CC-BY-4.0"
@@ -41,7 +41,7 @@
           {
             "name": "Value",
             "type": "number",
-            "description": "Time spent dealing with the requirements of government regulations is the proportion of senior managements time, in a typical week, that is spent dealing with the requirements imposed by government regulations (e.g., taxes, customs, labor regulations, licensing and registration, including dealings with officials, and completing forms)."
+            "description": "Average percentage of senior management\u2019s time that is spent in a typical week dealing with requirements imposed by government regulations (eg. Taxes, customs, labor regulations, licensing and registration), including dealings with officials, completing forms, et cetera."
           }
         ]
       }

@@ -1,1 +1,1 @@
-Prevalence of anemia, children under age 5, is the percentage of children under age 5 whose hemoglobin level is less than 110 grams per liter at sea level.
+Prevalence of anemia, children ages 6-59 months, is the percentage of children ages 6-59 months whose hemoglobin level is less than 110 grams per liter, adjusted for altitude.

@@ -4,7 +4,7 @@
   "worldbank": {
     "indicator": "fr.inr.lndp"
   },
-  "readme": "Interest rate spread is the interest rate charged by banks on loans to private sector customers minus the interest rate paid by commercial or similar banks for demand, time, or savings deposits. The terms and conditions attached to these rates differ by country, however, limiting their comparability.",
+  "readme": "Interest rate spread is the interest rate charged by banks on loans to private sector customers minus the interest rate paid by commercial or similar banks for demand, time, or savings deposits. The terms and conditions attached to these rates differ by country, however, limiting their comparability. This indicator is expressed as a percentage (a\u00f7b)*100.",
   "licenses": [
     {
       "name": "CC-BY-4.0"
@@ -41,7 +41,7 @@
           {
             "name": "Value",
             "type": "number",
-            "description": "Interest rate spread is the interest rate charged by banks on loans to private sector customers minus the interest rate paid by commercial or similar banks for demand, time, or savings deposits. The terms and conditions attached to these rates differ by country, however, limiting their comparability."
+            "description": "Interest rate spread is the interest rate charged by banks on loans to private sector customers minus the interest rate paid by commercial or similar banks for demand, time, or savings deposits. The terms and conditions attached to these rates differ by country, however, limiting their comparability. This indicator is expressed as a percentage (a\u00f7b)*100."
           }
         ]
       }

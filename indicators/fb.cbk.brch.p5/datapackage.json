@@ -1,1 +1,50 @@
-{"title": "Commercial bank branches (per 100,000 adults)", "name": "fb.cbk.brch.p5", "worldbank": {"indicator": "fb.cbk.brch.p5"}, "readme": "Commercial bank branches are retail locations of resident commercial banks and other resident banks that function as commercial banks that provide financial services to customers and are physically separated from the main office but not organized as legally separated subsidiaries.", "licenses": [{"name": "CC-BY-4.0"}], "keywords": ["Financial Sector "], "resources": [{"name": "data", "title": "Indicator data", "path": "data.csv", "format": "csv", "mediatype": "text/csv", "encoding": "utf-8", "schema": {"fields": [{"name": "Country Name", "type": "string", "description": "Country or Region name"}, {"name": "Country Code", "type": "string", "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"}, {"name": "Year", "type": "year", "description": "Year"}, {"name": "Value", "type": "number", "description": "Commercial bank branches are retail locations of resident commercial banks and other resident banks that function as commercial banks that provide financial services to customers and are physically separated from the main office but not organized as legally separated subsidiaries."}]}, "dialect": {"delimiter": ",", "quoteChar": "\""}}]}
+{
+  "title": "Commercial bank branches (per 100,000 adults)",
+  "name": "fb.cbk.brch.p5",
+  "worldbank": {
+    "indicator": "fb.cbk.brch.p5"
+  },
+  "readme": "Commercial bank branches are retail locations of resident commercial banks and other resident banks that function as commercial banks that provide financial services to customers and are physically separated from the main office but not organized as legally separated subsidiaries.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Financial Sector "
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "Commercial bank branches are retail locations of resident commercial banks and other resident banks that function as commercial banks that provide financial services to customers and are physically separated from the main office but not organized as legally separated subsidiaries."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,1 +1,1 @@
-S&P Global Equity Indices measure the U.S. dollar price change in the stock markets covered by the S&P/IFCI and S&P/Frontier BMI country indices.
+S&P Global Equity Indices measure the U.S. dollar price change in the stock markets covered by the S&P BMI country indices.

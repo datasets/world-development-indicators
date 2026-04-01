@@ -1,149 +1,201 @@
 Country Name,Country Code,Year,Value
-Albania,ALB,2011,3.47
-Algeria,DZA,2012,3.75
-Argentina,ARG,2005,6.11
-Argentina,ARG,2010,7.92
-Argentina,ARG,2013,8.19
-Armenia,ARM,2004,4.58
-Armenia,ARM,2008,4.38
-Australia,AUS,2006,11.39
-Austria,AUT,2009,8.68
-Azerbaijan,AZE,2008,8.89
-Belarus,BLR,2015,9.51
-Belgium,BEL,2000,9.24
-Belgium,BEL,2005,9.24
-Belgium,BEL,2013,10.07
-Bhutan,BTN,2007,5.07
-Bolivia,BOL,2001,5.42
-Brazil,BRA,2009,5.97
-Brazil,BRA,2012,3.13
-Bulgaria,BGR,2002,10.9
-Bulgaria,BGR,2010,9.24
-Cambodia,KHM,2004,1.25
+Albania,ALB,2011,3.47222
+Argentina,ARG,2005,6.11111
+Argentina,ARG,2010,6.59722
+Armenia,ARM,2004,4.58333
+Armenia,ARM,2008,4.37083
+Australia,AUS,2006,11.38889
+Australia,AUS,2021,11.18056
+Austria,AUT,2009,10.05396
+Austria,AUT,2022,8.62597
+Azerbaijan,AZE,2008,8.88889
+Belgium,BEL,2000,9.23611
+Belgium,BEL,2005,9.23611
+Belgium,BEL,2014,10.34418
+Bulgaria,BGR,2002,10.90278
+Bulgaria,BGR,2010,9.23611
+Belarus,BLR,2015,9.51389
+Bolivia,BOL,2001,12.13362
+Brazil,BRA,2009,5.97222
+Brazil,BRA,2012,3.03476
+Brazil,BRA,2017,5.13276
+Bhutan,BTN,2007,5.06944
+Bhutan,BTN,2015,5.90278
 Canada,CAN,2005,10
-Canada,CAN,2010,10.35
-Chile,CHL,2008,5.21
-Chile,CHL,2015,9.86
-China,CHN,2008,6.32
-Colombia,COL,2012,5.28
-Costa Rica,CRI,2004,6.53
-Costa Rica,CRI,2011,3.54
-Cuba,CUB,2001,5.35
-Denmark,DNK,2001,10.14
+Canada,CAN,2010,10.41667
+Canada,CAN,2016,10
+Canada,CAN,2023,11.625
+Switzerland,CHE,2000,9.84167
+Switzerland,CHE,2004,10.32917
+Switzerland,CHE,2007,10.90833
+Switzerland,CHE,2010,9.775
+Switzerland,CHE,2013,10.3875
+Switzerland,CHE,2016,10.80417
+Switzerland,CHE,2020,11.47083
+China,CHN,2008,6.18056
+China,CHN,2018,5.90278
+Cameroon,CMR,2014,4.56784
+Colombia,COL,2013,4.54167
+Colombia,COL,2017,4.59313
+Colombia,COL,2021,5.23624
+Costa Rica,CRI,2017,8.37858
+Cuba,CUB,2001,5.34722
+Cuba,CUB,2016,12.47024
+Germany,DEU,2002,10.47917
+Germany,DEU,2013,9.91667
+Germany,DEU,2022,10.54167
+Denmark,DNK,2001,10.13889
 Denmark,DNK,2009,11.25
-Ecuador,ECU,2012,4.51
-El Salvador,SLV,2010,11.34
-Estonia,EST,2000,11.18
-Estonia,EST,2010,10.76
-Ethiopia,ETH,2013,8.68
-Finland,FIN,2000,9.44
-Finland,FIN,2010,10.07
-France,FRA,2010,9.65
-Germany,DEU,2002,9.86
-Germany,DEU,2013,10
-Ghana,GHA,2009,4.58
-Greece,GRC,2014,6.32
-Guatemala,GTM,2006,3.26
-Guatemala,GTM,2011,4.72
-Honduras,HND,2009,4.38
-"Hong Kong SAR, China",HKG,2002,4.58
-"Hong Kong SAR, China",HKG,2013,3.33
-Hungary,HUN,2000,11.04
-Hungary,HUN,2010,10.63
-"Iran, Islamic Rep.",IRN,2009,5.21
-Iraq,IRQ,2007,4.17
-Ireland,IRL,2005,8.96
-Italy,ITA,2003,6.39
-Italy,ITA,2009,6.74
-Japan,JPN,2001,3.13
-Japan,JPN,2006,2.64
-Japan,JPN,2011,2.92
-Kazakhstan,KAZ,2000,13.82
-Kazakhstan,KAZ,2003,17.36
-Kazakhstan,KAZ,2006,15.07
-Kazakhstan,KAZ,2012,7.71
-"Korea, Rep.",KOR,2004,2.71
-"Korea, Rep.",KOR,2009,3.06
-"Korea, Rep.",KOR,2014,3.26
-Kyrgyz Republic,KGZ,2000,13.82
-Kyrgyz Republic,KGZ,2005,9.65
-Kyrgyz Republic,KGZ,2010,6.32
-Kyrgyz Republic,KGZ,2015,9.51
+Dominican Republic,DOM,2016,3.78561
+Dominican Republic,DOM,2021,5.90428
+Algeria,DZA,2012,3.75
+Ecuador,ECU,2007,7.64595
+Ecuador,ECU,2008,7.93606
+Ecuador,ECU,2009,7.79518
+Ecuador,ECU,2010,7.55554
+Ecuador,ECU,2011,7.33103
+Ecuador,ECU,2012,4.72192
+Ecuador,ECU,2013,6.98316
+Ecuador,ECU,2014,7.22645
+Ecuador,ECU,2015,6.70541
+Ecuador,ECU,2016,6.77286
+Ecuador,ECU,2017,6.57955
+"Egypt, Arab Rep.",EGY,2015,2.43056
+Spain,ESP,2003,6.73611
+Spain,ESP,2010,8.61111
+Estonia,EST,2000,11.18056
+Estonia,EST,2010,10.76389
+Estonia,EST,2021,10.33333
+Ethiopia,ETH,2013,6.59722
+Finland,FIN,2000,10.02083
+Finland,FIN,2010,10.49167
+Finland,FIN,2021,10.74958
+Fiji,FJI,2016,5.19476
+France,FRA,2010,9.49464
+United Kingdom,GBR,2001,8.14504
+United Kingdom,GBR,2015,6.96528
+United Kingdom,GBR,2022,12.25177
+Georgia,GEO,2021,3.7089
+Ghana,GHA,2009,4.58333
+Greece,GRC,2014,7.01389
+Guatemala,GTM,2014,2.35751
+Guatemala,GTM,2017,2.60537
+"Hong Kong SAR, China",HKG,2002,4.58333
+"Hong Kong SAR, China",HKG,2013,3.33333
+Honduras,HND,2009,4.31393
+Hungary,HUN,2000,11.04167
+Hungary,HUN,2010,7.9796
+India,IND,2019,2.84722
+Ireland,IRL,2005,8.95833
+Iraq,IRQ,2007,4.16667
+Italy,ITA,2003,5.91667
+Italy,ITA,2009,6.08333
+Italy,ITA,2014,6.79167
+Japan,JPN,2001,2.29167
+Japan,JPN,2006,2.70833
+Japan,JPN,2011,2.98611
+Japan,JPN,2016,3.125
+Japan,JPN,2021,3.75
+Kazakhstan,KAZ,2000,13.81944
+Kazakhstan,KAZ,2003,17.36111
+Kazakhstan,KAZ,2006,15.06944
+Kazakhstan,KAZ,2012,7.70833
+Kazakhstan,KAZ,2018,6.25
+Kenya,KEN,2021,3.61125
+Kyrgyz Republic,KGZ,2000,13.81944
+Kyrgyz Republic,KGZ,2005,9.65278
+Kyrgyz Republic,KGZ,2010,6.31944
+Kyrgyz Republic,KGZ,2015,9.51389
+Cambodia,KHM,2004,1.25
+"Korea, Rep.",KOR,2004,2.77778
+"Korea, Rep.",KOR,2009,3.12361
+"Korea, Rep.",KOR,2014,3.60833
+"Korea, Rep.",KOR,2019,3.81944
 Lao PDR,LAO,2003,2.5
-Lao PDR,LAO,2008,2.08
+Lao PDR,LAO,2008,1.66667
 Lao PDR,LAO,2013,2.5
-Latvia,LVA,2003,6.88
-Lesotho,LSO,2003,6.18
-Lithuania,LTU,2003,8.96
-Luxembourg,LUX,2014,7.08
-"Macedonia, FYR",MKD,2004,8.13
-"Macedonia, FYR",MKD,2009,6.04
-Madagascar,MDG,2001,3.82
+Lao PDR,LAO,2017,10.06278
+Liberia,LBR,2010,2.57656
+Lesotho,LSO,2003,6.18056
+Lithuania,LTU,2003,8.33333
+Luxembourg,LUX,2014,7.08333
+Latvia,LVA,2003,9.09722
+Morocco,MAR,2012,2.98611
+Moldova,MDA,2012,11.2725
+Mexico,MEX,2002,6.35316
+Mexico,MEX,2009,10.38447
+Mexico,MEX,2014,7.58645
+Mexico,MEX,2019,8.82186
+North Macedonia,MKD,2004,8.125
+North Macedonia,MKD,2009,5.55556
+North Macedonia,MKD,2015,5.41667
+Malta,MLT,2002,7.01389
+Mongolia,MNG,2000,8.91944
+Mongolia,MNG,2007,8.26389
+Mongolia,MNG,2011,9.09722
+Mongolia,MNG,2015,6.38889
+Mongolia,MNG,2019,7.59633
+Mongolia,MNG,2023,9.19318
+Mauritius,MUS,2003,4.79167
 Malawi,MWI,2005,1.25
-Malaysia,MYS,2003,5.97
-Mali,MLI,2008,2.5
-Malta,MLT,2002,7.01
-Mauritius,MUS,2003,4.79
-Mexico,MEX,2002,6.53
-Mexico,MEX,2009,8.4
-Mexico,MEX,2014,10.07
-Moldova,MDA,2012,10.28
-Mongolia,MNG,2000,8.96
-Mongolia,MNG,2007,8.26
-Mongolia,MNG,2011,9.1
-Morocco,MAR,2012,2.99
-Netherlands,NLD,2001,8.47
-Netherlands,NLD,2003,8.06
-Netherlands,NLD,2006,9.79
-Netherlands,NLD,2012,9.24
-New Zealand,NZL,2010,10.56
-Norway,NOR,2001,9.72
-Norway,NOR,2011,9.86
-Oman,OMN,2000,7.36
-Oman,OMN,2008,7.99
-Pakistan,PAK,2007,1.81
-Panama,PAN,2011,6.25
-Peru,PER,2010,8.4
-Poland,POL,2004,9.86
-Poland,POL,2013,9.93
-Qatar,QAT,2013,7.64
-Romania,ROU,2000,9.58
-Romania,ROU,2012,9.31
-Serbia,SRB,2011,9.44
-Slovenia,SVN,2001,11.11
-South Africa,ZAF,2000,5.76
-South Africa,ZAF,2010,6.74
-Spain,ESP,2003,6.6
-Spain,ESP,2010,8.61
-Sweden,SWE,2001,11.94
-Sweden,SWE,2011,12.64
-Switzerland,CHE,2000,10.14
-Switzerland,CHE,2004,10.56
-Switzerland,CHE,2007,11.25
-Switzerland,CHE,2010,10.07
-Switzerland,CHE,2013,10.76
-Tanzania,TZA,2006,5
-Tanzania,TZA,2014,4.44
-Thailand,THA,2009,3.4
-Tunisia,TUN,2006,2.71
-Turkey,TUR,2006,6.11
-Turkey,TUR,2015,3.68
-United Kingdom,GBR,2001,9.65
-United Kingdom,GBR,2005,8.06
-United States,USA,2003,9.86
-United States,USA,2004,9.79
-United States,USA,2005,9.65
-United States,USA,2006,9.58
-United States,USA,2007,9.93
-United States,USA,2008,9.44
-United States,USA,2009,9.79
-United States,USA,2010,9.93
-United States,USA,2011,9.65
-United States,USA,2012,9.38
-United States,USA,2013,9.72
-United States,USA,2014,9.72
-United States,USA,2015,9.79
-Uruguay,URY,2007,9.72
-Uruguay,URY,2013,8.54
-West Bank and Gaza,PSE,2000,3.06
-West Bank and Gaza,PSE,2013,3.06
+Malaysia,MYS,2003,5.97222
+Netherlands,NLD,2001,8.47222
+Netherlands,NLD,2003,8.05556
+Netherlands,NLD,2006,9.79167
+Netherlands,NLD,2012,9.23611
+Norway,NOR,2001,11.18056
+Norway,NOR,2011,12.33333
+New Zealand,NZL,2010,10.55556
+Oman,OMN,2000,7.36111
+Oman,OMN,2008,7.5
+Pakistan,PAK,2007,1.80556
+Panama,PAN,2011,7.57184
+Peru,PER,2010,8.94605
+Poland,POL,2004,10.90278
+Poland,POL,2013,9.92917
+Portugal,PRT,2015,10.2414
+Paraguay,PRY,2016,4.27041
+West Bank and Gaza,PSE,2000,3.19444
+West Bank and Gaza,PSE,2013,2.98611
+Qatar,QAT,2013,2.22222
+Romania,ROU,2000,9.58333
+Romania,ROU,2012,9.375
+Russian Federation,RUS,2019,7.8
+El Salvador,SLV,2010,7.84513
+El Salvador,SLV,2017,7.02928
+Serbia,SRB,2011,9.48935
+Serbia,SRB,2015,8.69038
+Slovenia,SVN,2001,11.11111
+Sweden,SWE,2001,11.94444
+Sweden,SWE,2011,12.82797
+Thailand,THA,2009,3.33333
+Thailand,THA,2015,3.25
+Tunisia,TUN,2006,2.70833
+Turkiye,TUR,2006,3.55152
+Turkiye,TUR,2015,3.70575
+Tanzania,TZA,2006,4.58333
+Tanzania,TZA,2014,4.23611
+Uganda,UGA,2018,7.5
+Uruguay,URY,2007,9.72222
+Uruguay,URY,2013,8.37738
+United States,USA,2003,9.875
+United States,USA,2004,9.79167
+United States,USA,2005,9.66667
+United States,USA,2006,9.58333
+United States,USA,2007,9.95833
+United States,USA,2008,9.41667
+United States,USA,2009,9.75
+United States,USA,2010,9.875
+United States,USA,2011,9.66667
+United States,USA,2012,9.33333
+United States,USA,2013,9.70833
+United States,USA,2014,9.70833
+United States,USA,2015,9.75
+United States,USA,2016,9.79167
+United States,USA,2017,9.875
+United States,USA,2018,9.54167
+United States,USA,2019,9.66667
+United States,USA,2021,10.125
+United States,USA,2022,10.08333
+South Africa,ZAF,2000,5.41667
+South Africa,ZAF,2010,6.45833

@@ -1,0 +1,50 @@
+{
+  "title": "Income share held by lowest 10%",
+  "name": "si.dst.frst.10",
+  "worldbank": {
+    "indicator": "si.dst.frst.10"
+  },
+  "readme": "Percentage share of income or consumption is the share that accrues to subgroups of population indicated by deciles or quintiles.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Poverty "
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "Percentage share of income or consumption is the share that accrues to subgroups of population indicated by deciles or quintiles."
+          }
+        ]
+      }
+    }
+  ]
+}
