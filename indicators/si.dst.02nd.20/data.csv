@@ -77,24 +77,25 @@ Armenia,ARM,2020,14.3
 Armenia,ARM,2021,13.8
 Armenia,ARM,2022,13.6
 Armenia,ARM,2023,14
+Armenia,ARM,2024,13.9
 Australia,AUS,1981,12.9
 Australia,AUS,1985,12.6
 Australia,AUS,1989,12.4
 Australia,AUS,1995,12.5
-Australia,AUS,2001,12.2
-Australia,AUS,2003,12.2
-Australia,AUS,2004,12.3
+Australia,AUS,2001,12.1
+Australia,AUS,2003,12.1
+Australia,AUS,2004,12.2
 Australia,AUS,2008,11.6
 Australia,AUS,2010,11.8
 Australia,AUS,2014,12.2
 Australia,AUS,2016,12.2
 Australia,AUS,2018,12.2
 Australia,AUS,2020,12.4
-Austria,AUT,1994,13.2
-Austria,AUT,1995,13.4
-Austria,AUT,1996,13.5
+Austria,AUT,1994,13.1
+Austria,AUT,1995,13.3
+Austria,AUT,1996,13.4
 Austria,AUT,1997,13.5
-Austria,AUT,1998,13
+Austria,AUT,1998,12.9
 Austria,AUT,1999,13.1
 Austria,AUT,2000,13.4
 Austria,AUT,2003,13.4
@@ -130,7 +131,7 @@ Burundi,BDI,2006,11.9
 Burundi,BDI,2013,11
 Burundi,BDI,2020,11.2
 Belgium,BEL,1985,14.4
-Belgium,BEL,1988,14.4
+Belgium,BEL,1988,14.3
 Belgium,BEL,1992,14.6
 Belgium,BEL,1995,13.9
 Belgium,BEL,1997,14.3
@@ -205,8 +206,10 @@ Bulgaria,BGR,2022,11.7
 Bulgaria,BGR,2023,11.3
 Bosnia and Herzegovina,BIH,2001,13.3
 Bosnia and Herzegovina,BIH,2004,12.1
-Bosnia and Herzegovina,BIH,2007,12.2
-Bosnia and Herzegovina,BIH,2011,12.3
+Bosnia and Herzegovina,BIH,2007,11.9
+Bosnia and Herzegovina,BIH,2011,12.2
+Bosnia and Herzegovina,BIH,2015,12.4
+Bosnia and Herzegovina,BIH,2021,13
 Belarus,BLR,1993,15.3
 Belarus,BLR,1995,13.5
 Belarus,BLR,1998,12.6
@@ -266,6 +269,7 @@ Bolivia,BOL,2020,9.8
 Bolivia,BOL,2021,10.4
 Bolivia,BOL,2022,10.3
 Bolivia,BOL,2023,10
+Bolivia,BOL,2024,10.4
 Brazil,BRA,1981,6.2
 Brazil,BRA,1982,6
 Brazil,BRA,1983,5.9
@@ -300,11 +304,12 @@ Brazil,BRA,2015,7.7
 Brazil,BRA,2016,7.4
 Brazil,BRA,2017,7.4
 Brazil,BRA,2018,7.3
-Brazil,BRA,2019,7.3
+Brazil,BRA,2019,7.4
 Brazil,BRA,2020,8.7
-Brazil,BRA,2021,7.5
+Brazil,BRA,2021,7.6
 Brazil,BRA,2022,7.7
 Brazil,BRA,2023,7.8
+Brazil,BRA,2024,8.1
 Barbados,BRB,2016,12.2
 Bhutan,BTN,2003,10
 Bhutan,BTN,2007,10.8
@@ -320,55 +325,56 @@ Central African Republic,CAF,1992,4.9
 Central African Republic,CAF,2008,7
 Central African Republic,CAF,2021,9.7
 Canada,CAN,1971,11.7
-Canada,CAN,1973,12.3
-Canada,CAN,1975,12.5
-Canada,CAN,1977,12.5
+Canada,CAN,1973,12.2
+Canada,CAN,1975,12.4
+Canada,CAN,1977,12.4
 Canada,CAN,1979,12.5
-Canada,CAN,1981,12.6
+Canada,CAN,1981,12.5
 Canada,CAN,1982,12.7
-Canada,CAN,1984,12.7
+Canada,CAN,1984,12.6
 Canada,CAN,1985,12.7
-Canada,CAN,1986,13.1
+Canada,CAN,1986,13
 Canada,CAN,1987,13
 Canada,CAN,1988,13.1
-Canada,CAN,1989,13.2
+Canada,CAN,1989,13.1
 Canada,CAN,1990,13.1
-Canada,CAN,1991,13
+Canada,CAN,1991,12.9
 Canada,CAN,1992,13
 Canada,CAN,1993,13
-Canada,CAN,1994,13.1
+Canada,CAN,1994,13
 Canada,CAN,1995,13
 Canada,CAN,1996,12.6
 Canada,CAN,1997,12.5
 Canada,CAN,1998,12.6
 Canada,CAN,1999,12.6
 Canada,CAN,2000,12.5
-Canada,CAN,2001,12.5
+Canada,CAN,2001,12.4
 Canada,CAN,2002,12.4
 Canada,CAN,2003,12.4
 Canada,CAN,2004,12.4
 Canada,CAN,2005,12.4
-Canada,CAN,2006,12.3
-Canada,CAN,2007,12.4
-Canada,CAN,2008,12.4
-Canada,CAN,2009,12.3
-Canada,CAN,2010,12.5
-Canada,CAN,2011,12.7
+Canada,CAN,2006,12.2
+Canada,CAN,2007,12.3
+Canada,CAN,2008,12.3
+Canada,CAN,2009,12.2
+Canada,CAN,2010,12.4
+Canada,CAN,2011,12.6
 Canada,CAN,2012,12.4
 Canada,CAN,2013,12.4
 Canada,CAN,2014,12.5
-Canada,CAN,2015,12.5
+Canada,CAN,2015,12.4
 Canada,CAN,2016,12.6
 Canada,CAN,2017,12.4
-Canada,CAN,2018,12.7
+Canada,CAN,2018,12.6
 Canada,CAN,2019,12.8
-Canada,CAN,2020,13.3
+Canada,CAN,2020,13.2
 Canada,CAN,2021,12.9
+Canada,CAN,2022,13
 Switzerland,CHE,1982,11.6
 Switzerland,CHE,1992,12.2
 Switzerland,CHE,2000,12.2
-Switzerland,CHE,2002,12.4
-Switzerland,CHE,2004,12.5
+Switzerland,CHE,2002,12.3
+Switzerland,CHE,2004,12.4
 Switzerland,CHE,2006,12
 Switzerland,CHE,2007,12
 Switzerland,CHE,2008,12
@@ -402,6 +408,7 @@ Chile,CHL,2015,9.4
 Chile,CHL,2017,9.4
 Chile,CHL,2020,9.1
 Chile,CHL,2022,9.9
+Chile,CHL,2024,9.9
 China,CHN,1981,13.5
 China,CHN,1984,13.8
 China,CHN,1987,13.2
@@ -460,24 +467,27 @@ Colombia,COL,2002,6.8
 Colombia,COL,2003,7.5
 Colombia,COL,2004,7.1
 Colombia,COL,2005,7.3
-Colombia,COL,2008,6.9
-Colombia,COL,2009,7.1
+Colombia,COL,2008,7
+Colombia,COL,2009,7.2
 Colombia,COL,2010,7.1
-Colombia,COL,2011,7.3
-Colombia,COL,2012,7.5
-Colombia,COL,2013,7.5
-Colombia,COL,2014,7.6
-Colombia,COL,2015,7.9
-Colombia,COL,2016,8.1
-Colombia,COL,2017,8.3
-Colombia,COL,2018,8.1
-Colombia,COL,2019,7.9
-Colombia,COL,2020,7.5
+Colombia,COL,2011,7.4
+Colombia,COL,2012,7.2
+Colombia,COL,2013,7.2
+Colombia,COL,2014,7.2
+Colombia,COL,2015,7.6
+Colombia,COL,2016,7.7
+Colombia,COL,2017,7.9
+Colombia,COL,2018,7.7
+Colombia,COL,2019,7.5
+Colombia,COL,2020,7.1
 Colombia,COL,2021,7
 Colombia,COL,2022,7.1
-Colombia,COL,2023,7.2
+Colombia,COL,2023,7
+Colombia,COL,2024,7.1
 Comoros,COM,2004,7.3
 Comoros,COM,2014,9.1
+Comoros,COM,2020,12
+Comoros,COM,2024,13
 Cabo Verde,CPV,2001,7.6
 Cabo Verde,CPV,2007,8.7
 Cabo Verde,CPV,2015,9.7
@@ -519,6 +529,7 @@ Costa Rica,CRI,2021,8.2
 Costa Rica,CRI,2022,8.6
 Costa Rica,CRI,2023,8.7
 Costa Rica,CRI,2024,8.8
+Costa Rica,CRI,2025,9
 Cyprus,CYP,2004,13
 Cyprus,CYP,2005,12.9
 Cyprus,CYP,2006,12.8
@@ -539,7 +550,7 @@ Cyprus,CYP,2020,12.8
 Cyprus,CYP,2021,12.8
 Cyprus,CYP,2022,12.7
 Cyprus,CYP,2023,12.7
-Czechia,CZE,1992,15.7
+Czechia,CZE,1992,15.6
 Czechia,CZE,1993,13.8
 Czechia,CZE,1996,14.6
 Czechia,CZE,2002,14.4
@@ -568,38 +579,40 @@ Germany,DEU,1992,13.3
 Germany,DEU,1993,13.4
 Germany,DEU,1994,13.4
 Germany,DEU,1995,13.6
-Germany,DEU,1996,13.7
-Germany,DEU,1997,13.6
-Germany,DEU,1998,13.6
-Germany,DEU,1999,13.5
+Germany,DEU,1996,13.6
+Germany,DEU,1997,13.5
+Germany,DEU,1998,13.5
+Germany,DEU,1999,13.4
 Germany,DEU,2000,13.5
 Germany,DEU,2001,13.2
 Germany,DEU,2002,13.2
-Germany,DEU,2003,13.4
+Germany,DEU,2003,13.3
 Germany,DEU,2004,13.2
 Germany,DEU,2005,12.8
-Germany,DEU,2006,13
+Germany,DEU,2006,12.9
 Germany,DEU,2007,12.9
 Germany,DEU,2008,13
 Germany,DEU,2009,13.1
 Germany,DEU,2010,13.2
 Germany,DEU,2011,13.1
-Germany,DEU,2012,13
-Germany,DEU,2013,12.9
-Germany,DEU,2014,13.1
+Germany,DEU,2012,12.9
+Germany,DEU,2013,12.8
+Germany,DEU,2014,13
 Germany,DEU,2015,12.9
-Germany,DEU,2016,13
-Germany,DEU,2017,13.1
+Germany,DEU,2016,12.9
+Germany,DEU,2017,13
 Germany,DEU,2018,12.9
-Germany,DEU,2019,13.1
+Germany,DEU,2019,12.9
 Germany,DEU,2020,12.8
+Germany,DEU,2021,12.6
+Germany,DEU,2022,12.8
 Djibouti,DJI,2002,10.6
 Djibouti,DJI,2012,9.8
 Djibouti,DJI,2013,9.7
 Djibouti,DJI,2017,10.4
 Denmark,DNK,1987,14.4
 Denmark,DNK,1992,14.9
-Denmark,DNK,1995,15
+Denmark,DNK,1995,14.9
 Denmark,DNK,2000,14.7
 Denmark,DNK,2003,14.3
 Denmark,DNK,2004,14.5
@@ -683,6 +696,7 @@ Ecuador,ECU,2021,9
 Ecuador,ECU,2022,9.1
 Ecuador,ECU,2023,9.3
 Ecuador,ECU,2024,9.1
+Ecuador,ECU,2025,8.9
 "Egypt, Arab Rep.",EGY,1990,12.5
 "Egypt, Arab Rep.",EGY,1995,13
 "Egypt, Arab Rep.",EGY,1999,12.8
@@ -694,16 +708,16 @@ Ecuador,ECU,2024,9.1
 "Egypt, Arab Rep.",EGY,2017,12.8
 "Egypt, Arab Rep.",EGY,2019,12.8
 "Egypt, Arab Rep.",EGY,2021,13.5
-Spain,ESP,1980,12.2
+Spain,ESP,1980,12.1
 Spain,ESP,1985,12.2
-Spain,ESP,1990,12.8
+Spain,ESP,1990,12.7
 Spain,ESP,1993,11.9
-Spain,ESP,1994,12
-Spain,ESP,1995,12
-Spain,ESP,1996,11.8
+Spain,ESP,1994,11.9
+Spain,ESP,1995,11.9
+Spain,ESP,1996,11.7
 Spain,ESP,1997,11.9
 Spain,ESP,1998,12.2
-Spain,ESP,1999,12.4
+Spain,ESP,1999,12.3
 Spain,ESP,2000,12.3
 Spain,ESP,2003,13
 Spain,ESP,2004,12.5
@@ -794,11 +808,11 @@ France,FRA,1979,12.2
 France,FRA,1984,12.4
 France,FRA,1990,12.6
 France,FRA,1996,12.7
-France,FRA,1997,12.8
+France,FRA,1997,12.7
 France,FRA,1998,12.8
-France,FRA,1999,12.6
+France,FRA,1999,12.5
 France,FRA,2000,12.6
-France,FRA,2001,12.6
+France,FRA,2001,12.5
 France,FRA,2002,12.7
 France,FRA,2003,12.8
 France,FRA,2004,12.9
@@ -827,57 +841,57 @@ Gabon,GAB,2005,10.1
 Gabon,GAB,2017,10.8
 United Kingdom,GBR,1968,13.7
 United Kingdom,GBR,1969,13.6
-United Kingdom,GBR,1970,13.5
+United Kingdom,GBR,1970,13.4
 United Kingdom,GBR,1971,13.2
 United Kingdom,GBR,1972,13.4
 United Kingdom,GBR,1973,13.2
 United Kingdom,GBR,1974,13.4
 United Kingdom,GBR,1975,13.6
-United Kingdom,GBR,1976,13.6
+United Kingdom,GBR,1976,13.5
 United Kingdom,GBR,1977,13.7
 United Kingdom,GBR,1978,13.7
 United Kingdom,GBR,1979,13.6
-United Kingdom,GBR,1980,13.6
+United Kingdom,GBR,1980,13.5
 United Kingdom,GBR,1981,13.2
 United Kingdom,GBR,1982,13.1
 United Kingdom,GBR,1983,13.1
-United Kingdom,GBR,1984,13.4
+United Kingdom,GBR,1984,13.3
 United Kingdom,GBR,1985,12.9
 United Kingdom,GBR,1986,12.6
-United Kingdom,GBR,1987,12.2
+United Kingdom,GBR,1987,12.1
 United Kingdom,GBR,1988,12
 United Kingdom,GBR,1989,12.2
 United Kingdom,GBR,1990,11.6
 United Kingdom,GBR,1991,11.8
-United Kingdom,GBR,1992,11.9
-United Kingdom,GBR,1993,11.9
+United Kingdom,GBR,1992,11.8
+United Kingdom,GBR,1993,11.8
 United Kingdom,GBR,1994,11.6
-United Kingdom,GBR,1995,11.7
-United Kingdom,GBR,1996,11.8
+United Kingdom,GBR,1995,11.6
+United Kingdom,GBR,1996,11.7
 United Kingdom,GBR,1997,11.7
 United Kingdom,GBR,1998,11.5
 United Kingdom,GBR,1999,11.5
 United Kingdom,GBR,2000,11.1
-United Kingdom,GBR,2001,11.5
-United Kingdom,GBR,2002,12
-United Kingdom,GBR,2003,12
-United Kingdom,GBR,2004,12
+United Kingdom,GBR,2001,11.4
+United Kingdom,GBR,2002,11.9
+United Kingdom,GBR,2003,11.9
+United Kingdom,GBR,2004,11.9
 United Kingdom,GBR,2005,11.8
 United Kingdom,GBR,2006,11.8
 United Kingdom,GBR,2007,12
-United Kingdom,GBR,2008,11.9
+United Kingdom,GBR,2008,11.8
 United Kingdom,GBR,2009,11.9
 United Kingdom,GBR,2010,12.2
 United Kingdom,GBR,2011,12.3
-United Kingdom,GBR,2012,12.4
+United Kingdom,GBR,2012,12.3
 United Kingdom,GBR,2013,12.3
 United Kingdom,GBR,2014,12.3
-United Kingdom,GBR,2015,12.3
-United Kingdom,GBR,2016,12.4
+United Kingdom,GBR,2015,12.2
+United Kingdom,GBR,2016,12.3
 United Kingdom,GBR,2017,12.5
 United Kingdom,GBR,2018,12.2
-United Kingdom,GBR,2019,12.5
-United Kingdom,GBR,2020,12.4
+United Kingdom,GBR,2019,12.4
+United Kingdom,GBR,2020,12.3
 United Kingdom,GBR,2021,12.5
 Georgia,GEO,1996,11.3
 Georgia,GEO,1997,10.4
@@ -934,7 +948,7 @@ Guinea-Bissau,GNB,2018,11.6
 Guinea-Bissau,GNB,2021,11.9
 Equatorial Guinea,GNQ,2022,10.6
 Greece,GRC,1995,11.6
-Greece,GRC,2000,12
+Greece,GRC,2000,11.9
 Greece,GRC,2002,11.8
 Greece,GRC,2003,12.4
 Greece,GRC,2004,12.3
@@ -1025,9 +1039,9 @@ Haiti,HTI,2001,6.1
 Haiti,HTI,2012,10.3
 Hungary,HUN,1987,15.4
 Hungary,HUN,1989,14.2
-Hungary,HUN,1991,14.2
+Hungary,HUN,1991,14.1
 Hungary,HUN,1993,13.7
-Hungary,HUN,1994,12.8
+Hungary,HUN,1994,12.7
 Hungary,HUN,1998,14
 Hungary,HUN,1999,13.3
 Hungary,HUN,2000,13.9
@@ -1080,6 +1094,7 @@ Indonesia,IDN,2021,11.6
 Indonesia,IDN,2022,11.7
 Indonesia,IDN,2023,11.6
 Indonesia,IDN,2024,11.8
+Indonesia,IDN,2025,11.9
 India,IND,1977,13.3
 India,IND,1983,13.8
 India,IND,1987,13.7
@@ -1088,9 +1103,9 @@ India,IND,2004,13.6
 India,IND,2009,13.7
 India,IND,2011,13.4
 India,IND,2022,14.2
-Ireland,IRL,1987,11.7
+Ireland,IRL,1987,11.6
 Ireland,IRL,1994,11.5
-Ireland,IRL,1995,11.6
+Ireland,IRL,1995,11.5
 Ireland,IRL,1996,11.9
 Ireland,IRL,2000,12.5
 Ireland,IRL,2002,12.8
@@ -1157,45 +1172,46 @@ Iceland,ISL,2018,14.2
 Iceland,ISL,2019,14.3
 Israel,ISR,1979,11.1
 Israel,ISR,1986,11.1
-Israel,ISR,1992,11.5
-Israel,ISR,1997,10.8
-Israel,ISR,2001,10.5
-Israel,ISR,2002,10.4
-Israel,ISR,2003,10.1
-Israel,ISR,2004,9.9
-Israel,ISR,2005,9.8
-Israel,ISR,2006,9.9
+Israel,ISR,1992,11.4
+Israel,ISR,1997,10.7
+Israel,ISR,2001,10.4
+Israel,ISR,2002,10.3
+Israel,ISR,2003,10
+Israel,ISR,2004,9.8
+Israel,ISR,2005,9.7
+Israel,ISR,2006,9.8
 Israel,ISR,2007,10
 Israel,ISR,2008,9.9
-Israel,ISR,2009,9.6
+Israel,ISR,2009,9.5
 Israel,ISR,2010,9.7
 Israel,ISR,2011,9.8
-Israel,ISR,2012,10
-Israel,ISR,2013,10.6
-Israel,ISR,2014,10.5
-Israel,ISR,2015,10.7
-Israel,ISR,2016,10.7
+Israel,ISR,2012,9.9
+Israel,ISR,2013,10.5
+Israel,ISR,2014,10.4
+Israel,ISR,2015,10.6
+Israel,ISR,2016,10.6
 Israel,ISR,2017,11
 Israel,ISR,2018,10.9
-Israel,ISR,2019,11.1
-Israel,ISR,2020,11.1
-Israel,ISR,2021,11
-Italy,ITA,1977,12.2
+Israel,ISR,2019,11
+Israel,ISR,2020,11
+Israel,ISR,2021,10.9
+Israel,ISR,2022,10.8
+Italy,ITA,1977,12.1
 Italy,ITA,1978,12.4
-Italy,ITA,1979,12.4
+Italy,ITA,1979,12.3
 Italy,ITA,1980,12.3
 Italy,ITA,1981,12.8
 Italy,ITA,1982,13.3
 Italy,ITA,1983,13.2
 Italy,ITA,1984,12.8
-Italy,ITA,1986,12.9
-Italy,ITA,1987,12.2
+Italy,ITA,1986,12.8
+Italy,ITA,1987,12
 Italy,ITA,1989,12.5
 Italy,ITA,1991,13
-Italy,ITA,1993,12.1
+Italy,ITA,1993,12
 Italy,ITA,1995,12
-Italy,ITA,1998,12
-Italy,ITA,2000,12.2
+Italy,ITA,1998,11.9
+Italy,ITA,2000,12.1
 Italy,ITA,2002,12.3
 Italy,ITA,2003,12.1
 Italy,ITA,2004,12.3
@@ -1234,19 +1250,19 @@ Jordan,JOR,2002,11.3
 Jordan,JOR,2006,12.2
 Jordan,JOR,2008,12.4
 Jordan,JOR,2010,12.1
-Japan,JPN,2008,12.6
-Japan,JPN,2009,12.9
+Japan,JPN,2008,12.5
+Japan,JPN,2009,12.8
 Japan,JPN,2010,13.1
-Japan,JPN,2011,12.7
+Japan,JPN,2011,12.6
 Japan,JPN,2012,12.8
-Japan,JPN,2013,13.3
-Japan,JPN,2014,13.1
-Japan,JPN,2015,13.2
+Japan,JPN,2013,13.2
+Japan,JPN,2014,13
+Japan,JPN,2015,13.1
 Japan,JPN,2016,13
-Japan,JPN,2017,13
-Japan,JPN,2018,13
-Japan,JPN,2019,13
-Japan,JPN,2020,13.1
+Japan,JPN,2017,12.9
+Japan,JPN,2018,12.9
+Japan,JPN,2019,12.9
+Japan,JPN,2020,13
 Kazakhstan,KAZ,1993,12.3
 Kazakhstan,KAZ,1996,11.5
 Kazakhstan,KAZ,2001,11.4
@@ -1277,7 +1293,7 @@ Kenya,KEN,2005,9.1
 Kenya,KEN,2015,10.3
 Kenya,KEN,2020,11.4
 Kenya,KEN,2021,11
-Kenya,KEN,2022,11.1
+Kenya,KEN,2022,10.9
 Kyrgyz Republic,KGZ,1998,8.9
 Kyrgyz Republic,KGZ,2000,12.7
 Kyrgyz Republic,KGZ,2001,12.8
@@ -1303,18 +1319,20 @@ Kyrgyz Republic,KGZ,2020,13.1
 Kyrgyz Republic,KGZ,2021,13.3
 Kyrgyz Republic,KGZ,2022,13.8
 Kyrgyz Republic,KGZ,2023,13.7
+Kyrgyz Republic,KGZ,2024,13.6
 Kiribati,KIR,2006,11.6
 Kiribati,KIR,2019,13.5
-"Korea, Rep.",KOR,2006,13
+Kiribati,KIR,2023,14.4
+"Korea, Rep.",KOR,2006,12.9
 "Korea, Rep.",KOR,2008,12.8
-"Korea, Rep.",KOR,2010,13
-"Korea, Rep.",KOR,2012,13.1
-"Korea, Rep.",KOR,2014,13.2
-"Korea, Rep.",KOR,2016,12
-"Korea, Rep.",KOR,2017,12
-"Korea, Rep.",KOR,2018,12.2
-"Korea, Rep.",KOR,2019,12.4
-"Korea, Rep.",KOR,2020,12.5
+"Korea, Rep.",KOR,2010,12.9
+"Korea, Rep.",KOR,2012,13
+"Korea, Rep.",KOR,2014,13.1
+"Korea, Rep.",KOR,2016,11.9
+"Korea, Rep.",KOR,2017,11.9
+"Korea, Rep.",KOR,2018,12.1
+"Korea, Rep.",KOR,2019,12.3
+"Korea, Rep.",KOR,2020,12.4
 "Korea, Rep.",KOR,2021,12.4
 Lao PDR,LAO,1992,11.9
 Lao PDR,LAO,1997,12
@@ -1322,8 +1340,9 @@ Lao PDR,LAO,2002,12.4
 Lao PDR,LAO,2007,11.8
 Lao PDR,LAO,2012,11.6
 Lao PDR,LAO,2018,10.8
+Lao PDR,LAO,2024,12
 Lebanon,LBN,2011,12.7
-Lebanon,LBN,2022,11.1
+Lebanon,LBN,2022,11.2
 Liberia,LBR,2007,11.8
 Liberia,LBR,2014,12.1
 Liberia,LBR,2016,11.6
@@ -1370,22 +1389,22 @@ Lithuania,LTU,2020,11.9
 Lithuania,LTU,2021,11.7
 Lithuania,LTU,2022,11.8
 Lithuania,LTU,2023,11.9
-Luxembourg,LUX,1985,14.2
-Luxembourg,LUX,1986,13.6
-Luxembourg,LUX,1987,13.3
-Luxembourg,LUX,1988,13.4
+Luxembourg,LUX,1985,14.1
+Luxembourg,LUX,1986,13.5
+Luxembourg,LUX,1987,13.2
+Luxembourg,LUX,1988,13.3
 Luxembourg,LUX,1989,13
 Luxembourg,LUX,1990,13.7
 Luxembourg,LUX,1991,13.8
 Luxembourg,LUX,1992,13.8
-Luxembourg,LUX,1993,13.8
-Luxembourg,LUX,1994,13.7
-Luxembourg,LUX,1995,13.6
-Luxembourg,LUX,1996,13.7
+Luxembourg,LUX,1993,13.7
+Luxembourg,LUX,1994,13.6
+Luxembourg,LUX,1995,13.5
+Luxembourg,LUX,1996,13.5
 Luxembourg,LUX,1997,13.3
 Luxembourg,LUX,1998,12.9
-Luxembourg,LUX,1999,13.2
-Luxembourg,LUX,2000,13.1
+Luxembourg,LUX,1999,13.1
+Luxembourg,LUX,2000,13
 Luxembourg,LUX,2001,12.9
 Luxembourg,LUX,2002,12.8
 Luxembourg,LUX,2003,13.2
@@ -1501,6 +1520,7 @@ Mexico,MEX,2016,9
 Mexico,MEX,2018,9.3
 Mexico,MEX,2020,9.5
 Mexico,MEX,2022,9.8
+Mexico,MEX,2024,10
 Marshall Islands,MHL,2019,11.7
 North Macedonia,MKD,1998,13.8
 North Macedonia,MKD,2000,12.2
@@ -1544,6 +1564,7 @@ Malta,MLT,2019,13.1
 Malta,MLT,2020,13
 Malta,MLT,2021,12.9
 Malta,MLT,2022,12.3
+Malta,MLT,2023,13
 Myanmar,MMR,2015,11.3
 Myanmar,MMR,2017,13
 Montenegro,MNE,2005,13
@@ -1605,7 +1626,7 @@ Malaysia,MYS,1997,8.1
 Malaysia,MYS,2003,8.7
 Malaysia,MYS,2006,9.1
 Malaysia,MYS,2008,8.9
-Malaysia,MYS,2011,9.3
+Malaysia,MYS,2011,9.4
 Malaysia,MYS,2013,10.1
 Malaysia,MYS,2015,10.1
 Malaysia,MYS,2018,10
@@ -1660,10 +1681,10 @@ Netherlands,NLD,2018,13.8
 Netherlands,NLD,2019,13.7
 Netherlands,NLD,2020,14.6
 Netherlands,NLD,2021,14.6
-Norway,NOR,1979,14.1
+Norway,NOR,1979,14
 Norway,NOR,1986,14.4
 Norway,NOR,1991,14.4
-Norway,NOR,1995,14.4
+Norway,NOR,1995,14.3
 Norway,NOR,2000,14
 Norway,NOR,2003,14
 Norway,NOR,2004,13.2
@@ -1705,6 +1726,7 @@ Pakistan,PAK,2011,13.1
 Pakistan,PAK,2013,13.2
 Pakistan,PAK,2015,12.7
 Pakistan,PAK,2018,13.1
+Pakistan,PAK,2024,12.3
 Panama,PAN,1979,7.9
 Panama,PAN,1989,5.6
 Panama,PAN,1991,5.9
@@ -1785,9 +1807,9 @@ Poland,POL,1985,14.4
 Poland,POL,1986,13.8
 Poland,POL,1987,14.3
 Poland,POL,1989,14
-Poland,POL,1992,13.3
+Poland,POL,1992,13.2
 Poland,POL,1993,13.7
-Poland,POL,1995,12.3
+Poland,POL,1995,12.2
 Poland,POL,1996,12.4
 Poland,POL,1998,12.5
 Poland,POL,1999,12.7
@@ -1877,8 +1899,8 @@ Qatar,QAT,2017,11.6
 Romania,ROU,1989,15
 Romania,ROU,1992,14.4
 Romania,ROU,1994,13.6
-Romania,ROU,1995,13.1
-Romania,ROU,1997,13.3
+Romania,ROU,1995,13
+Romania,ROU,1997,13.2
 Romania,ROU,1998,12.8
 Romania,ROU,1999,13.3
 Romania,ROU,2000,13.3
@@ -1961,7 +1983,7 @@ El Salvador,SLV,1996,8.1
 El Salvador,SLV,1998,7
 El Salvador,SLV,1999,7.7
 El Salvador,SLV,2000,7.8
-El Salvador,SLV,2001,7.7
+El Salvador,SLV,2001,7.8
 El Salvador,SLV,2002,7.6
 El Salvador,SLV,2003,8.1
 El Salvador,SLV,2004,8.8
@@ -2003,6 +2025,7 @@ Serbia,SRB,2019,12.5
 Serbia,SRB,2020,12.4
 Serbia,SRB,2021,12.9
 Serbia,SRB,2022,12.8
+Serbia,SRB,2023,12.7
 South Sudan,SSD,2009,8.6
 South Sudan,SSD,2016,9.6
 Sao Tome and Principe,STP,2000,12.3
@@ -2011,7 +2034,7 @@ Sao Tome and Principe,STP,2017,10.4
 Suriname,SUR,1999,6.2
 Suriname,SUR,2022,11.1
 Slovak Republic,SVK,1992,15.7
-Slovak Republic,SVK,1996,14.8
+Slovak Republic,SVK,1996,14.7
 Slovak Republic,SVK,2004,14.4
 Slovak Republic,SVK,2005,13.9
 Slovak Republic,SVK,2006,14.8
@@ -2036,7 +2059,7 @@ Slovenia,SVN,1987,14.8
 Slovenia,SVN,1993,13.4
 Slovenia,SVN,1997,14.9
 Slovenia,SVN,1998,13.4
-Slovenia,SVN,1999,15
+Slovenia,SVN,1999,14.9
 Slovenia,SVN,2002,13.4
 Slovenia,SVN,2003,12.6
 Slovenia,SVN,2004,14.6
@@ -2059,14 +2082,14 @@ Slovenia,SVN,2020,14.8
 Slovenia,SVN,2021,14.7
 Slovenia,SVN,2022,14.7
 Slovenia,SVN,2023,14.6
-Sweden,SWE,1975,14.6
+Sweden,SWE,1975,14.5
 Sweden,SWE,1981,15.1
 Sweden,SWE,1987,15
-Sweden,SWE,1992,14.6
+Sweden,SWE,1992,14.5
 Sweden,SWE,1995,14.5
-Sweden,SWE,2000,14.1
-Sweden,SWE,2001,14.2
-Sweden,SWE,2002,14.3
+Sweden,SWE,2000,14
+Sweden,SWE,2001,14.1
+Sweden,SWE,2002,14.2
 Sweden,SWE,2003,14.6
 Sweden,SWE,2004,14.3
 Sweden,SWE,2005,14.4
@@ -2100,7 +2123,7 @@ Syrian Arab Republic,SYR,1996,11.8
 Syrian Arab Republic,SYR,2003,11.1
 Syrian Arab Republic,SYR,2006,10.3
 Syrian Arab Republic,SYR,2009,10.3
-Syrian Arab Republic,SYR,2022,14
+Syrian Arab Republic,SYR,2022,14.1
 Chad,TCD,2003,10.4
 Chad,TCD,2011,9.7
 Chad,TCD,2018,11.1
@@ -2139,6 +2162,7 @@ Thailand,THA,2020,11.5
 Thailand,THA,2021,11.5
 Thailand,THA,2022,11.7
 Thailand,THA,2023,11.9
+Thailand,THA,2024,12
 Tajikistan,TJK,1999,13.4
 Tajikistan,TJK,2003,12.3
 Tajikistan,TJK,2004,12.1
@@ -2190,6 +2214,7 @@ Turkiye,TUR,2019,9.6
 Turkiye,TUR,2020,9.8
 Turkiye,TUR,2021,9.5
 Turkiye,TUR,2022,9.5
+Turkiye,TUR,2023,9.7
 Tuvalu,TUV,2010,10.8
 Tanzania,TZA,1991,11.8
 Tanzania,TZA,2000,11.3
@@ -2262,67 +2287,68 @@ Uruguay,URY,2021,10.2
 Uruguay,URY,2022,10.3
 Uruguay,URY,2023,10.3
 Uruguay,URY,2024,10.5
-United States,USA,1963,11.8
+United States,USA,1963,11.7
 United States,USA,1964,11.6
-United States,USA,1965,11.7
+United States,USA,1965,11.6
 United States,USA,1966,11.6
-United States,USA,1967,11.6
+United States,USA,1967,11.5
 United States,USA,1968,11.7
-United States,USA,1969,11.8
-United States,USA,1970,11.7
+United States,USA,1969,11.7
+United States,USA,1970,11.6
 United States,USA,1971,11.6
-United States,USA,1972,11.7
-United States,USA,1973,11.9
+United States,USA,1972,11.6
+United States,USA,1973,11.8
 United States,USA,1974,12
-United States,USA,1975,12
+United States,USA,1975,11.9
 United States,USA,1976,11.9
 United States,USA,1977,12
-United States,USA,1978,12.2
-United States,USA,1979,12.1
-United States,USA,1980,12.1
+United States,USA,1978,12.1
+United States,USA,1979,12
+United States,USA,1980,12
 United States,USA,1981,11.8
-United States,USA,1982,11.6
-United States,USA,1983,11.4
+United States,USA,1982,11.5
+United States,USA,1983,11.3
 United States,USA,1984,11.3
 United States,USA,1985,11.2
-United States,USA,1986,11.3
-United States,USA,1987,11.4
-United States,USA,1988,11.2
-United States,USA,1989,11.1
+United States,USA,1986,11.2
+United States,USA,1987,11.3
+United States,USA,1988,11.1
+United States,USA,1989,11
 United States,USA,1990,11
-United States,USA,1991,11.1
-United States,USA,1992,11.1
-United States,USA,1993,10.6
-United States,USA,1994,10.7
+United States,USA,1991,11
+United States,USA,1992,11
+United States,USA,1993,10.5
+United States,USA,1994,10.6
 United States,USA,1995,10.7
-United States,USA,1996,10.6
-United States,USA,1997,10.6
-United States,USA,1998,10.8
+United States,USA,1996,10.5
+United States,USA,1997,10.5
+United States,USA,1998,10.7
 United States,USA,1999,10.7
-United States,USA,2000,10.8
-United States,USA,2001,10.7
-United States,USA,2002,10.7
+United States,USA,2000,10.7
+United States,USA,2001,10.6
+United States,USA,2002,10.6
 United States,USA,2003,10.5
 United States,USA,2004,10.6
-United States,USA,2005,10.5
+United States,USA,2005,10.4
 United States,USA,2006,10.3
 United States,USA,2007,10.4
 United States,USA,2008,10.4
 United States,USA,2009,10.4
 United States,USA,2010,10.5
-United States,USA,2011,10.3
-United States,USA,2012,10.3
+United States,USA,2011,10.2
+United States,USA,2012,10.2
 United States,USA,2013,10.3
-United States,USA,2014,10.2
+United States,USA,2014,10.1
 United States,USA,2015,10.2
-United States,USA,2016,10.3
-United States,USA,2017,10.2
+United States,USA,2016,10.2
+United States,USA,2017,10.1
 United States,USA,2018,10.1
-United States,USA,2019,10.1
-United States,USA,2020,10.6
-United States,USA,2021,10.7
+United States,USA,2019,10
+United States,USA,2020,10.5
+United States,USA,2021,10.6
 United States,USA,2022,10.2
 United States,USA,2023,10.1
+United States,USA,2024,10
 Uzbekistan,UZB,1998,9.6
 Uzbekistan,UZB,2000,11.7
 Uzbekistan,UZB,2002,12.6
@@ -2331,6 +2357,7 @@ Uzbekistan,UZB,2021,12.6
 Uzbekistan,UZB,2022,13.2
 Uzbekistan,UZB,2023,12.3
 Uzbekistan,UZB,2024,12.1
+Uzbekistan,UZB,2025,12.6
 "Venezuela, RB",VEN,1981,6.5
 "Venezuela, RB",VEN,1987,6.8
 "Venezuela, RB",VEN,1989,9.7
@@ -2385,9 +2412,10 @@ Kosovo,XKX,2022,11.1
 South Africa,ZAF,1993,5.3
 South Africa,ZAF,2000,5.6
 South Africa,ZAF,2005,4.7
-South Africa,ZAF,2008,4.9
-South Africa,ZAF,2010,4.7
-South Africa,ZAF,2014,4.8
+South Africa,ZAF,2008,4.8
+South Africa,ZAF,2010,5.2
+South Africa,ZAF,2014,5.5
+South Africa,ZAF,2022,6.9
 Zambia,ZMB,1991,4.3
 Zambia,ZMB,1993,7
 Zambia,ZMB,1996,8.3

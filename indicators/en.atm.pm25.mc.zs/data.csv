@@ -684,7 +684,7 @@ Algeria,DZA,2015,100
 Algeria,DZA,2016,100
 Algeria,DZA,2017,100
 East Asia & Pacific (excluding high income),EAP,1990,99.6707168581791
-East Asia & Pacific (excluding high income),EAP,1995,99.6656465494609
+East Asia & Pacific (excluding high income),EAP,1995,99.665646549461
 East Asia & Pacific (excluding high income),EAP,2000,99.595647773326
 East Asia & Pacific (excluding high income),EAP,2005,99.8466488093179
 East Asia & Pacific (excluding high income),EAP,2010,99.5074125595722
@@ -699,10 +699,10 @@ Early-demographic dividend,EAR,1990,99.7775124707485
 Early-demographic dividend,EAR,1995,99.7819010583192
 Early-demographic dividend,EAR,2000,99.7383981072358
 Early-demographic dividend,EAR,2005,99.9011352666373
-Early-demographic dividend,EAR,2010,99.6881739534906
+Early-demographic dividend,EAR,2010,99.6881739534907
 Early-demographic dividend,EAR,2011,99.8275069104362
 Early-demographic dividend,EAR,2012,99.9421078913628
-Early-demographic dividend,EAR,2013,99.4885067116845
+Early-demographic dividend,EAR,2013,99.4885067116844
 Early-demographic dividend,EAR,2014,99.4559221243173
 Early-demographic dividend,EAR,2015,99.594141714854
 Early-demographic dividend,EAR,2016,99.3909712344687
@@ -717,7 +717,7 @@ East Asia & Pacific,EAS,2012,98.3900525630877
 East Asia & Pacific,EAS,2013,97.7245744890322
 East Asia & Pacific,EAS,2014,97.5661299861665
 East Asia & Pacific,EAS,2015,97.8251037478945
-East Asia & Pacific,EAS,2016,96.8534369172446
+East Asia & Pacific,EAS,2016,96.8534369172447
 East Asia & Pacific,EAS,2017,96.8857519515183
 Europe & Central Asia (excluding high income),ECA,1990,99.8315536770349
 Europe & Central Asia (excluding high income),ECA,1995,99.7978120245026
@@ -771,7 +771,7 @@ Euro area,EMU,1990,93.1158616241517
 Euro area,EMU,1995,92.5804542109884
 Euro area,EMU,2000,92.1461879731768
 Euro area,EMU,2005,92.0925905922228
-Euro area,EMU,2010,91.5511003199208
+Euro area,EMU,2010,91.5511003199207
 Euro area,EMU,2011,92.7578477931133
 Euro area,EMU,2012,89.4422477282355
 Euro area,EMU,2013,87.8153019465162
@@ -830,7 +830,7 @@ Ethiopia,ETH,2017,100
 European Union,EUU,1990,92.9356773772124
 European Union,EUU,1995,92.4312043931328
 European Union,EUU,2000,92.0501748442703
-European Union,EUU,2005,91.9152274520563
+European Union,EUU,2005,91.9152274520564
 European Union,EUU,2010,91.4031310338238
 European Union,EUU,2011,92.3865133570878
 European Union,EUU,2012,89.5730391442765
@@ -1074,7 +1074,7 @@ High income,HIC,2005,78.6232927993111
 High income,HIC,2010,76.6984192325182
 High income,HIC,2011,79.3668591114725
 High income,HIC,2012,72.8350442658457
-High income,HIC,2013,70.0603464148551
+High income,HIC,2013,70.0603464148552
 High income,HIC,2014,65.5946489238568
 High income,HIC,2015,64.977258957424
 High income,HIC,2016,60.0560794673515
@@ -1091,7 +1091,7 @@ Honduras,HND,2014,99.9999999999872
 Honduras,HND,2015,99.9988766711252
 Honduras,HND,2016,99.9820753131253
 Honduras,HND,2017,99.9835217097179
-Heavily indebted poor countries (HIPC),HPC,1990,99.9999677713743
+Heavily indebted poor countries (HIPC),HPC,1990,99.9999677713744
 Heavily indebted poor countries (HIPC),HPC,1995,99.9999672879822
 Heavily indebted poor countries (HIPC),HPC,2000,99.9993119865031
 Heavily indebted poor countries (HIPC),HPC,2005,99.9993853704379
@@ -1141,17 +1141,17 @@ Hungary,HUN,2016,100
 Hungary,HUN,2017,100
 IBRD only,IBD,1990,99.1852951841548
 IBRD only,IBD,1995,99.1664038896316
-IBRD only,IBD,2000,99.2261873029193
+IBRD only,IBD,2000,99.2261873029194
 IBRD only,IBD,2005,99.2974771354731
 IBRD only,IBD,2010,99.2303698718135
 IBRD only,IBD,2011,99.3630940697004
 IBRD only,IBD,2012,99.1781421343466
-IBRD only,IBD,2013,98.7108865973216
+IBRD only,IBD,2013,98.7108865973217
 IBRD only,IBD,2014,98.2682936265107
 IBRD only,IBD,2015,98.2272947730769
 IBRD only,IBD,2016,97.6940169535746
-IBRD only,IBD,2017,97.6767539094678
-IDA & IBRD total,IBT,1990,99.3496346861442
+IBRD only,IBD,2017,97.6767539094677
+IDA & IBRD total,IBT,1990,99.3496346861443
 IDA & IBRD total,IBT,1995,99.3421361957287
 IDA & IBRD total,IBT,2000,99.3971818111557
 IDA & IBRD total,IBT,2005,99.4606217445992
@@ -1168,7 +1168,7 @@ IDA total,IDA,1995,99.9991910619898
 IDA total,IDA,2000,99.999094681473
 IDA total,IDA,2005,99.9991680188661
 IDA total,IDA,2010,99.9997530503222
-IDA total,IDA,2011,99.9997569683005
+IDA total,IDA,2011,99.9997569683004
 IDA total,IDA,2012,99.9991633775564
 IDA total,IDA,2013,99.9989429644254
 IDA total,IDA,2014,99.9661068230104
@@ -1425,7 +1425,7 @@ Latin America & Caribbean (excluding high income),LAC,2012,95.059492438968
 Latin America & Caribbean (excluding high income),LAC,2013,94.4587920646271
 Latin America & Caribbean (excluding high income),LAC,2014,91.1969468162591
 Latin America & Caribbean (excluding high income),LAC,2015,90.2729301050703
-Latin America & Caribbean (excluding high income),LAC,2016,87.0827412659834
+Latin America & Caribbean (excluding high income),LAC,2016,87.0827412659833
 Latin America & Caribbean (excluding high income),LAC,2017,87.0904169110163
 Lao PDR,LAO,1990,100
 Lao PDR,LAO,1995,100
@@ -1489,7 +1489,7 @@ St. Lucia,LCA,2016,100
 St. Lucia,LCA,2017,100
 Latin America & Caribbean,LCN,1990,95.2595818029338
 Latin America & Caribbean,LCN,1995,95.5035464014823
-Latin America & Caribbean,LCN,2000,96.4804923293949
+Latin America & Caribbean,LCN,2000,96.4804923293948
 Latin America & Caribbean,LCN,2005,96.1031460589281
 Latin America & Caribbean,LCN,2010,96.5847816855153
 Latin America & Caribbean,LCN,2011,97.0363108538824
@@ -1536,7 +1536,7 @@ Sri Lanka,LKA,2015,100
 Sri Lanka,LKA,2016,69.0629628398118
 Sri Lanka,LKA,2017,45.5384172591341
 Lower middle income,LMC,1990,99.9999931902803
-Lower middle income,LMC,1995,99.9995789982682
+Lower middle income,LMC,1995,99.9995789982681
 Lower middle income,LMC,2000,99.9993523161676
 Lower middle income,LMC,2005,99.9995455188845
 Lower middle income,LMC,2010,99.9998607417049
@@ -1984,10 +1984,10 @@ OECD members,OED,1995,79.276381478593
 OECD members,OED,2000,78.3825895089972
 OECD members,OED,2005,78.727489581136
 OECD members,OED,2010,76.7993553405447
-OECD members,OED,2011,79.5427776527933
+OECD members,OED,2011,79.5427776527932
 OECD members,OED,2012,73.1066542900725
 OECD members,OED,2013,70.5274424811688
-OECD members,OED,2014,66.0751959625394
+OECD members,OED,2014,66.0751959625395
 OECD members,OED,2015,65.5547116757409
 OECD members,OED,2016,60.5404789281185
 OECD members,OED,2017,60.615029458927
@@ -2170,7 +2170,7 @@ Pacific island small states,PSS,2013,99.9999999707415
 Pacific island small states,PSS,2014,99.9977838763943
 Pacific island small states,PSS,2015,99.9918492360725
 Pacific island small states,PSS,2016,97.6140949679645
-Pacific island small states,PSS,2017,93.5724538585474
+Pacific island small states,PSS,2017,93.5724538585473
 Post-demographic dividend,PST,1990,77.8584578509777
 Post-demographic dividend,PST,1995,76.0714302067392
 Post-demographic dividend,PST,2000,74.7406114336728
@@ -2519,7 +2519,7 @@ East Asia & Pacific (IDA & IBRD countries),TEA,2014,99.1160511844704
 East Asia & Pacific (IDA & IBRD countries),TEA,2015,99.3702595981797
 East Asia & Pacific (IDA & IBRD countries),TEA,2016,99.1191550384846
 East Asia & Pacific (IDA & IBRD countries),TEA,2017,99.0727771721284
-Europe & Central Asia (IDA & IBRD countries),TEC,1990,98.7136037923436
+Europe & Central Asia (IDA & IBRD countries),TEC,1990,98.7136037923437
 Europe & Central Asia (IDA & IBRD countries),TEC,1995,98.3032134516115
 Europe & Central Asia (IDA & IBRD countries),TEC,2000,98.4930271194153
 Europe & Central Asia (IDA & IBRD countries),TEC,2005,98.5051016810358
@@ -2584,7 +2584,7 @@ Latin America & the Caribbean (IDA & IBRD countries),TLA,1995,96.1462132049799
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2000,96.6505710645183
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2005,96.2574592105268
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2010,96.7372305647673
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2011,97.13867664875
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2011,97.1386766487499
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2012,95.2137700056476
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2013,94.6180584106275
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2014,91.4656707392772
@@ -2728,9 +2728,9 @@ Upper middle income,UMC,1995,98.9518763204916
 Upper middle income,UMC,2000,98.9756086760708
 Upper middle income,UMC,2005,99.0839438389935
 Upper middle income,UMC,2010,98.9072889995829
-Upper middle income,UMC,2011,99.1466788978902
+Upper middle income,UMC,2011,99.1466788978903
 Upper middle income,UMC,2012,98.8960976437713
-Upper middle income,UMC,2013,98.2061701308918
+Upper middle income,UMC,2013,98.2061701308919
 Upper middle income,UMC,2014,97.4948542427461
 Upper middle income,UMC,2015,97.4852983629173
 Upper middle income,UMC,2016,96.7020705457806

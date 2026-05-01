@@ -1,12 +1,10 @@
 Country Name,Country Code,Year,Value
 Albania,ALB,2018,14.17
 Albania,ALB,2020,14.85
-United Arab Emirates,ARE,2013,72.45
-United Arab Emirates,ARE,2018,78.78
 Argentina,ARG,2019,27.9
 Argentina,ARG,2024,25.94
 Armenia,ARM,2019,9.09
-Armenia,ARM,2023,8.85
+Armenia,ARM,2024,9.8
 Australia,AUS,2014,71.04
 Australia,AUS,2018,70.3
 Austria,AUT,2018,77.15
@@ -23,46 +21,46 @@ Bulgaria,BGR,2018,29.18
 Bulgaria,BGR,2023,39.41
 Belarus,BLR,2015,18.07
 Belarus,BLR,2020,20.55
-Bolivia,BOL,2018,21.19
-Bolivia,BOL,2023,22.93
-Brazil,BRA,2018,23.99
-Brazil,BRA,2023,25.53
+Bolivia,BOL,2019,22.16
+Bolivia,BOL,2024,22.14
+Brazil,BRA,2019,24.05
+Brazil,BRA,2024,26.55
 Bhutan,BTN,2012,11.36
 Bhutan,BTN,2017,12.34
 Botswana,BWA,2009,11.69
 Botswana,BWA,2015,11.1
-Canada,CAN,2016,70.72
-Canada,CAN,2021,77.73
+Canada,CAN,2017,73.3
+Canada,CAN,2022,75.73
 Switzerland,CHE,2017,86.61
 Switzerland,CHE,2022,87.39
-Chile,CHL,2017,29.44
-Chile,CHL,2022,32.77
+Chile,CHL,2020,29.54
+Chile,CHL,2024,35.36
 China,CHN,2016,13.3
 China,CHN,2021,17.13
-Cote d'Ivoire,CIV,2018,6.2
-Cote d'Ivoire,CIV,2021,6.07
+Cote d'Ivoire,CIV,2018,6.31
+Cote d'Ivoire,CIV,2021,6.08
 Cameroon,CMR,2007,5.64
 Cameroon,CMR,2014,7.34
 "Congo, Dem. Rep.",COD,2004,1.12
 "Congo, Dem. Rep.",COD,2012,2.27
 "Congo, Rep.",COG,2005,4.28
 "Congo, Rep.",COG,2011,5.8
-Colombia,COL,2015,16.66
-Colombia,COL,2020,14.56
-Costa Rica,CRI,2019,27.98
-Costa Rica,CRI,2024,30.73
+Colombia,COL,2019,16.39
+Colombia,COL,2024,19.71
+Costa Rica,CRI,2020,24.27
+Costa Rica,CRI,2025,34.1
 Cyprus,CYP,2018,56.86
 Cyprus,CYP,2023,63.38
 Czechia,CZE,2018,42.57
 Czechia,CZE,2023,43.35
-Germany,DEU,2015,69.15
-Germany,DEU,2020,79.63
+Germany,DEU,2017,70.86
+Germany,DEU,2022,75.84
 Denmark,DNK,2018,71.04
 Denmark,DNK,2023,72.67
 Dominican Republic,DOM,2019,20.57
 Dominican Republic,DOM,2024,22.73
-Ecuador,ECU,2019,18.18
-Ecuador,ECU,2024,16.93
+Ecuador,ECU,2020,16.16
+Ecuador,ECU,2025,18.97
 "Egypt, Arab Rep.",EGY,2017,8.35
 "Egypt, Arab Rep.",EGY,2021,9.03
 Spain,ESP,2018,50.21
@@ -97,8 +95,8 @@ Croatia,HRV,2018,30.19
 Croatia,HRV,2023,41.35
 Hungary,HUN,2012,19.81
 Hungary,HUN,2017,24.82
-Indonesia,IDN,2019,7.51
-Indonesia,IDN,2024,8.24
+Indonesia,IDN,2020,7.7
+Indonesia,IDN,2025,8.61
 Ireland,IRL,2018,55.37
 Ireland,IRL,2023,59.16
 "Iran, Islamic Rep.",IRN,2018,12.22
@@ -107,8 +105,8 @@ Iraq,IRQ,2006,11.62
 Iraq,IRQ,2012,12.3
 Iceland,ISL,2014,59.42
 Iceland,ISL,2019,68.33
-Israel,ISR,2016,40.66
-Israel,ISR,2021,42.78
+Israel,ISR,2017,42.48
+Israel,ISR,2022,45.2
 Italy,ITA,2018,55.05
 Italy,ITA,2023,57.51
 Jamaica,JAM,2018,17.71
@@ -121,12 +119,14 @@ Kazakhstan,KAZ,2016,12.3
 Kazakhstan,KAZ,2021,15.09
 Kenya,KEN,2015,5.13
 Kenya,KEN,2021,4.34
-Kyrgyz Republic,KGZ,2018,6.52
-Kyrgyz Republic,KGZ,2023,7.39
+Kyrgyz Republic,KGZ,2019,6.9
+Kyrgyz Republic,KGZ,2024,8.03
+Kiribati,KIR,2019,6.91
+Kiribati,KIR,2023,9.04
 "Korea, Rep.",KOR,2016,53.66
 "Korea, Rep.",KOR,2021,64.39
-Lao PDR,LAO,2012,5.98
 Lao PDR,LAO,2018,7.21
+Lao PDR,LAO,2024,7.88
 Sri Lanka,LKA,2016,10.37
 Sri Lanka,LKA,2019,10.58
 Lithuania,LTU,2018,38.89
@@ -137,20 +137,20 @@ Latvia,LVA,2018,34.95
 Latvia,LVA,2023,40.02
 Moldova,MDA,2019,14.39
 Moldova,MDA,2023,13.53
-Mexico,MEX,2016,15.87
-Mexico,MEX,2022,17.82
+Mexico,MEX,2020,15.42
+Mexico,MEX,2024,20.02
 North Macedonia,MKD,2014,13.33
 North Macedonia,MKD,2019,17.22
 Mali,MLI,2018,5.4
 Mali,MLI,2021,4.78
-Malta,MLT,2017,52.71
-Malta,MLT,2022,65.45
+Malta,MLT,2018,54.03
+Malta,MLT,2023,65.08
 Myanmar,MMR,2015,6.38
 Myanmar,MMR,2017,6.54
 Montenegro,MNE,2016,19.34
 Montenegro,MNE,2021,20.64
 Mongolia,MNG,2016,10.8
-Mongolia,MNG,2018,11.49
+Mongolia,MNG,2018,11.48
 Mozambique,MOZ,2019,2.37
 Mozambique,MOZ,2022,2.38
 Mauritania,MRT,2014,7.24
@@ -171,8 +171,8 @@ Netherlands,NLD,2016,69.17
 Netherlands,NLD,2021,75.5
 Norway,NOR,2018,84.95
 Norway,NOR,2023,86.74
-Pakistan,PAK,2013,5.1
 Pakistan,PAK,2018,5.43
+Pakistan,PAK,2024,5.43
 Panama,PAN,2019,30.37
 Panama,PAN,2024,28.7
 Peru,PER,2019,15.06
@@ -199,8 +199,8 @@ Sierra Leone,SLE,2011,3.62
 Sierra Leone,SLE,2018,4.41
 El Salvador,SLV,2018,12.94
 El Salvador,SLV,2023,15.46
-Serbia,SRB,2017,15.12
-Serbia,SRB,2022,21.97
+Serbia,SRB,2018,17.21
+Serbia,SRB,2023,24.1
 Slovak Republic,SVK,2018,28.55
 Slovak Republic,SVK,2023,25.45
 Slovenia,SVN,2018,47.69
@@ -213,18 +213,18 @@ Seychelles,SYC,2013,25.98
 Seychelles,SYC,2018,23.97
 Chad,TCD,2018,4.49
 Chad,TCD,2022,4.58
-Togo,TGO,2018,5.5
-Togo,TGO,2021,5.06
-Thailand,THA,2018,18.53
-Thailand,THA,2023,20.38
+Togo,TGO,2018,5.47
+Togo,TGO,2021,5.03
+Thailand,THA,2019,18.59
+Thailand,THA,2024,19.54
 Tajikistan,TJK,2009,5.94
 Tajikistan,TJK,2015,6.96
 Tonga,TON,2009,11.71
 Tonga,TON,2015,9.33
 Tunisia,TUN,2015,14.98
 Tunisia,TUN,2021,15.89
-Turkiye,TUR,2017,23.68
-Turkiye,TUR,2022,28.94
+Turkiye,TUR,2018,24.14
+Turkiye,TUR,2023,39.43
 Tanzania,TZA,2011,3.95
 Tanzania,TZA,2018,4.18
 Uganda,UGA,2016,3.66
@@ -233,15 +233,13 @@ Ukraine,UKR,2015,12.73
 Ukraine,UKR,2020,15.57
 Uruguay,URY,2014,35.07
 Uruguay,URY,2019,35.06
-United States,USA,2018,88.27
-United States,USA,2023,92.95
+United States,USA,2019,94.13
+United States,USA,2024,95.6
 Viet Nam,VNM,2016,14.07
 Viet Nam,VNM,2022,16.59
 Kosovo,XKX,2017,10.94
 Kosovo,XKX,2022,12.35
-South Africa,ZAF,2010,12.98
-South Africa,ZAF,2014,12.22
+South Africa,ZAF,2010,12.31
+South Africa,ZAF,2014,11.57
 Zambia,ZMB,2015,3.37
 Zambia,ZMB,2022,2.86
-Zimbabwe,ZWE,2017,4.41
-Zimbabwe,ZWE,2019,4.5

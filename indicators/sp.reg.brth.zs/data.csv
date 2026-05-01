@@ -4,8 +4,8 @@ Africa Eastern and Southern,AFE,2018,36.2850514668662
 Afghanistan,AFG,2003,6
 Afghanistan,AFG,2011,37.4
 Afghanistan,AFG,2015,42.3
-Africa Western and Central,AFW,2010,53.9081793323442
-Africa Western and Central,AFW,2018,55.191075828702
+Africa Western and Central,AFW,2010,53.8974470484957
+Africa Western and Central,AFW,2018,55.1686252119127
 Angola,AGO,2001,35.6
 Angola,AGO,2016,25
 Albania,ALB,2005,98
@@ -153,7 +153,7 @@ Algeria,DZA,2006,99.4
 Algeria,DZA,2013,99.6
 Algeria,DZA,2019,99.6
 Early-demographic dividend,EAR,2010,77.8062783730764
-Early-demographic dividend,EAR,2018,75.6531170954614
+Early-demographic dividend,EAR,2018,75.6531170954615
 Europe & Central Asia (excluding high income),ECA,2010,95.525910533834
 Europe & Central Asia,ECS,2010,98.6874609118637
 Europe & Central Asia,ECS,2018,99.5897672696206
@@ -238,8 +238,8 @@ High income,HIC,2018,99.9418105861907
 Honduras,HND,2006,93.5
 Honduras,HND,2012,93.6
 Honduras,HND,2019,97
-Heavily indebted poor countries (HIPC),HPC,2010,52.0609078320038
-Heavily indebted poor countries (HIPC),HPC,2018,44.8523645538647
+Heavily indebted poor countries (HIPC),HPC,2010,52.0522763594978
+Heavily indebted poor countries (HIPC),HPC,2018,44.8348917138391
 Croatia,HRV,2017,100
 Haiti,HTI,2006,81.1
 Haiti,HTI,2012,79.7
@@ -248,9 +248,9 @@ Hungary,HUN,2011,100
 Hungary,HUN,2014,100
 Hungary,HUN,2017,100
 Hungary,HUN,2022,100
-IDA & IBRD total,IBT,2018,69.1278829988468
-IDA total,IDA,2010,48.0644544349947
-IDA total,IDA,2018,46.374766952643
+IDA & IBRD total,IBT,2018,69.126221807364
+IDA total,IDA,2010,48.0589376945789
+IDA total,IDA,2018,46.3653759221649
 IDA blend,IDB,2018,45.6003257865686
 Indonesia,IDN,2002,55
 Indonesia,IDN,2007,50.6
@@ -260,8 +260,8 @@ Indonesia,IDN,2016,72.5
 Indonesia,IDN,2017,77.9
 Indonesia,IDN,2018,71.9
 Indonesia,IDN,2021,77
-IDA only,IDX,2010,47.7661766832246
-IDA only,IDX,2018,46.8286617354034
+IDA only,IDX,2010,47.7581637109364
+IDA only,IDX,2018,46.8139495668872
 Isle of Man,IMN,2009,85.3899287208
 India,IND,2006,41.1
 India,IND,2011,83.6
@@ -328,9 +328,9 @@ Liberia,LBR,2020,66.3
 St. Lucia,LCA,2012,92
 Latin America & Caribbean,LCN,2010,92.3913579355012
 Latin America & Caribbean,LCN,2018,94.8072995413713
-Least developed countries: UN classification,LDC,2010,45.8475878801905
-Least developed countries: UN classification,LDC,2018,43.9067060568059
-Low income,LIC,2010,48.6851644256825
+Least developed countries: UN classification,LDC,2010,45.838483132174
+Least developed countries: UN classification,LDC,2018,43.890637689897
+Low income,LIC,2010,48.6720554025731
 Liechtenstein,LIE,2011,100
 Liechtenstein,LIE,2014,100
 Liechtenstein,LIE,2017,100
@@ -464,8 +464,8 @@ Papua New Guinea,PNG,2018,13.4
 Poland,POL,2011,100
 Poland,POL,2014,100
 Poland,POL,2017,100
-Pre-demographic dividend,PRE,2010,49.961116116269
-Pre-demographic dividend,PRE,2018,48.3731379298397
+Pre-demographic dividend,PRE,2010,49.9544396154348
+Pre-demographic dividend,PRE,2018,48.359393113153
 "Korea, Dem. People's Rep.",PRK,2000,98.9
 "Korea, Dem. People's Rep.",PRK,2009,100
 Portugal,PRT,2011,100
@@ -533,11 +533,11 @@ Serbia,SRB,2006,98.9
 Serbia,SRB,2010,98.9
 Serbia,SRB,2014,99.4
 Serbia,SRB,2019,99.9
-Sub-Saharan Africa (excluding high income),SSA,2010,50.7501434427991
-Sub-Saharan Africa (excluding high income),SSA,2018,49.6173185796278
+Sub-Saharan Africa (excluding high income),SSA,2010,50.7438493758412
+Sub-Saharan Africa (excluding high income),SSA,2018,49.6043198174187
 South Sudan,SSD,2010,35.4
-Sub-Saharan Africa,SSF,2010,50.7501434427991
-Sub-Saharan Africa,SSF,2018,44.385504839618
+Sub-Saharan Africa,SSF,2010,50.7438493758412
+Sub-Saharan Africa,SSF,2018,44.3721407041553
 Sao Tome and Principe,STP,2006,68.7
 Sao Tome and Principe,STP,2009,75.1
 Sao Tome and Principe,STP,2014,95.2
@@ -592,8 +592,8 @@ Tonga,TON,2012,93.4
 Tonga,TON,2019,97.7
 South Asia (IDA & IBRD),TSA,2010,77.0477234676456
 South Asia (IDA & IBRD),TSA,2018,85.0433185211643
-Sub-Saharan Africa (IDA & IBRD countries),TSS,2010,50.7501434427991
-Sub-Saharan Africa (IDA & IBRD countries),TSS,2018,44.385504839618
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2010,50.7438493758412
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2018,44.3721407041553
 Trinidad and Tobago,TTO,2006,96.6
 Trinidad and Tobago,TTO,2011,96.5
 Tunisia,TUN,2012,99
@@ -630,8 +630,8 @@ Viet Nam,VNM,2011,95
 Viet Nam,VNM,2014,96.1
 Vanuatu,VUT,2007,43
 Vanuatu,VUT,2013,43.4
-World,WLD,2010,74.7458101154586
-World,WLD,2018,72.313580867053
+World,WLD,2010,74.745607684048
+World,WLD,2018,72.3124359548033
 Samoa,WSM,2009,47.7
 Samoa,WSM,2014,58.6
 Samoa,WSM,2020,66.9

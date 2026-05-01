@@ -1,8 +1,7 @@
 Country Name,Country Code,Year,Value
 Albania,ALB,2020,3.96
-United Arab Emirates,ARE,2018,7.08
 Argentina,ARG,2024,-0.46
-Armenia,ARM,2023,0.85
+Armenia,ARM,2024,2.69
 Australia,AUS,2018,-0.49
 Austria,AUT,2023,1.23
 Belgium,BEL,2023,1.36
@@ -11,26 +10,26 @@ Burkina Faso,BFA,2021,3.17
 Bangladesh,BGD,2016,1.35
 Bulgaria,BGR,2023,7.19
 Belarus,BLR,2020,3.32
-Bolivia,BOL,2023,2.63
-Brazil,BRA,2023,3.28
+Bolivia,BOL,2024,0.55
+Brazil,BRA,2024,4.85
 Bhutan,BTN,2017,1.63
 Botswana,BWA,2015,-0.19
-Canada,CAN,2021,3.05
+Canada,CAN,2022,1.88
 Switzerland,CHE,2022,-0.3
-Chile,CHL,2022,3.14
+Chile,CHL,2024,7.75
 China,CHN,2021,7.21
-Cote d'Ivoire,CIV,2021,1.21
+Cote d'Ivoire,CIV,2021,0.7
 Cameroon,CMR,2014,1.41
 "Congo, Dem. Rep.",COD,2012,9.44
 "Congo, Rep.",COG,2011,3.35
-Colombia,COL,2020,-4.6
-Costa Rica,CRI,2024,2.89
+Colombia,COL,2024,2.82
+Costa Rica,CRI,2025,9.77
 Cyprus,CYP,2023,2.55
 Czechia,CZE,2023,-0.2
-Germany,DEU,2020,2.43
+Germany,DEU,2022,0.16
 Denmark,DNK,2023,0.04
 Dominican Republic,DOM,2024,2.97
-Ecuador,ECU,2024,-1.68
+Ecuador,ECU,2025,4.2
 "Egypt, Arab Rep.",EGY,2021,3.58
 Spain,ESP,2023,2.58
 Estonia,EST,2023,1.3
@@ -38,7 +37,7 @@ Ethiopia,ETH,2021,-0.94
 Finland,FIN,2023,-0.31
 Fiji,FJI,2013,1.18
 France,FRA,2023,-0.76
-United Kingdom,GBR,2021,0.85
+United Kingdom,GBR,2021,0.86
 Georgia,GEO,2024,5.86
 Ghana,GHA,2016,-0.19
 Guinea,GIN,2012,8.22
@@ -48,30 +47,31 @@ Greece,GRC,2023,3.51
 Honduras,HND,2024,2.83
 Croatia,HRV,2023,6.37
 Hungary,HUN,2017,4.84
-Indonesia,IDN,2024,2.72
+Indonesia,IDN,2025,3.33
 Ireland,IRL,2023,2.08
 "Iran, Islamic Rep.",IRN,2023,1.72
 Iraq,IRQ,2012,0.46
 Iceland,ISL,2019,3.17
-Israel,ISR,2021,1.84
+Israel,ISR,2022,1.16
 Italy,ITA,2023,1.54
 Jamaica,JAM,2021,-3.2
 Jordan,JOR,2010,4.56
-Japan,JPN,2020,-0.71
+Japan,JPN,2020,-0.72
 Kazakhstan,KAZ,2021,3.68
 Kenya,KEN,2021,-1.18
-Kyrgyz Republic,KGZ,2023,2.69
+Kyrgyz Republic,KGZ,2024,3.49
+Kiribati,KIR,2023,8.49
 "Korea, Rep.",KOR,2021,5.11
-Lao PDR,LAO,2018,1.91
+Lao PDR,LAO,2024,3.64
 Sri Lanka,LKA,2019,1.74
 Lithuania,LTU,2023,3.53
 Luxembourg,LUX,2023,3.84
 Latvia,LVA,2023,3.52
 Moldova,MDA,2023,-1.77
-Mexico,MEX,2022,3.64
+Mexico,MEX,2024,8.26
 North Macedonia,MKD,2019,5.77
 Mali,MLI,2021,-3.33
-Malta,MLT,2022,2.09
+Malta,MLT,2023,2.27
 Myanmar,MMR,2017,9.46
 Montenegro,MNE,2021,3.67
 Mongolia,MNG,2018,2.48
@@ -85,7 +85,7 @@ Niger,NER,2021,1.59
 Nicaragua,NIC,2014,5.64
 Netherlands,NLD,2021,2.86
 Norway,NOR,2023,0.86
-Pakistan,PAK,2018,1.34
+Pakistan,PAK,2024,-1.7
 Panama,PAN,2024,-1.26
 Peru,PER,2024,-0.61
 Philippines,PHL,2023,1.78
@@ -99,26 +99,25 @@ Rwanda,RWA,2016,0.31
 Senegal,SEN,2021,0.41
 Sierra Leone,SLE,2018,2.67
 El Salvador,SLV,2023,2.69
-Serbia,SRB,2022,10.49
+Serbia,SRB,2023,8.69
 Slovak Republic,SVK,2023,-1.87
 Slovenia,SVN,2023,2.68
 Sweden,SWE,2023,0.4
 Eswatini,SWZ,2016,4.66
 Seychelles,SYC,2018,3.55
 Chad,TCD,2022,0.01
-Togo,TGO,2021,1.55
-Thailand,THA,2023,3.49
+Togo,TGO,2021,1.52
+Thailand,THA,2024,1.74
 Tajikistan,TJK,2015,1.32
 Tonga,TON,2015,-1.82
 Tunisia,TUN,2021,0.87
-Turkiye,TUR,2022,3.78
+Turkiye,TUR,2023,10.03
 Tanzania,TZA,2018,-0.15
 Uganda,UGA,2019,0.22
 Ukraine,UKR,2020,4.13
 Uruguay,URY,2019,0.33
-United States,USA,2023,0.91
+United States,USA,2024,0.3
 Viet Nam,VNM,2022,2.61
 Kosovo,XKX,2022,5.54
-South Africa,ZAF,2014,-1.35
+South Africa,ZAF,2014,-0.18
 Zambia,ZMB,2022,0.04
-Zimbabwe,ZWE,2019,-7.32

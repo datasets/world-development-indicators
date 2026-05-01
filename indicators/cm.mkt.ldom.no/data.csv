@@ -9,6 +9,7 @@ Africa Eastern and Southern,AFE,1999,805
 Africa Eastern and Southern,AFE,2000,737
 Africa Eastern and Southern,AFE,2001,629
 Africa Eastern and Southern,AFE,2004,472
+Africa Eastern and Southern,AFE,2025,448
 Africa Western and Central,AFW,1994,224
 Africa Western and Central,AFW,1995,231
 Africa Western and Central,AFW,1996,235
@@ -28,6 +29,7 @@ Africa Western and Central,AFW,2019,259
 Africa Western and Central,AFW,2020,254
 Africa Western and Central,AFW,2021,204
 Africa Western and Central,AFW,2022,203
+Africa Western and Central,AFW,2025,196
 Arab World,ARB,2003,1506
 Arab World,ARB,2004,1598
 Arab World,ARB,2005,1637
@@ -45,10 +47,11 @@ Arab World,ARB,2017,1172
 Arab World,ARB,2018,1189
 Arab World,ARB,2019,1349
 Arab World,ARB,2020,1283
-Arab World,ARB,2021,1350
+Arab World,ARB,2021,1354
 Arab World,ARB,2022,1383
-Arab World,ARB,2023,1303
-Arab World,ARB,2024,1341
+Arab World,ARB,2023,1412
+Arab World,ARB,2024,1450
+Arab World,ARB,2025,1487
 United Arab Emirates,ARE,2003,28
 United Arab Emirates,ARE,2004,32
 United Arab Emirates,ARE,2005,55
@@ -71,6 +74,7 @@ United Arab Emirates,ARE,2021,143
 United Arab Emirates,ARE,2022,153
 United Arab Emirates,ARE,2023,147
 United Arab Emirates,ARE,2024,154
+United Arab Emirates,ARE,2025,153
 Argentina,ARG,1975,321
 Argentina,ARG,1976,308
 Argentina,ARG,1977,302
@@ -175,6 +179,7 @@ Australia,AUS,2021,1977
 Australia,AUS,2022,1976
 Australia,AUS,2023,1914
 Australia,AUS,2024,1853
+Australia,AUS,2025,1782
 Austria,AUT,1975,76
 Austria,AUT,1976,74
 Austria,AUT,1977,71
@@ -225,6 +230,7 @@ Austria,AUT,2021,69
 Austria,AUT,2022,66
 Austria,AUT,2023,69
 Austria,AUT,2024,68
+Austria,AUT,2025,67
 Azerbaijan,AZE,1997,1
 Azerbaijan,AZE,1998,2
 Azerbaijan,AZE,1999,2
@@ -234,6 +240,7 @@ Azerbaijan,AZE,2021,28
 Azerbaijan,AZE,2022,29
 Azerbaijan,AZE,2023,23
 Azerbaijan,AZE,2024,36
+Azerbaijan,AZE,2025,36
 Belgium,BEL,1975,290
 Belgium,BEL,1976,277
 Belgium,BEL,1977,253
@@ -305,6 +312,7 @@ Bangladesh,BGD,2021,660
 Bangladesh,BGD,2022,678
 Bangladesh,BGD,2023,680
 Bangladesh,BGD,2024,691
+Bangladesh,BGD,2025,360
 Bulgaria,BGR,1993,8
 Bulgaria,BGR,1994,13
 Bulgaria,BGR,1995,15
@@ -336,6 +344,7 @@ Bulgaria,BGR,2021,206
 Bulgaria,BGR,2022,201
 Bulgaria,BGR,2023,204
 Bulgaria,BGR,2024,204
+Bulgaria,BGR,2025,203
 Bahrain,BHR,1995,35
 Bahrain,BHR,1996,35
 Bahrain,BHR,1997,38
@@ -365,6 +374,7 @@ Bahrain,BHR,2021,41
 Bahrain,BHR,2022,41
 Bahrain,BHR,2023,40
 Bahrain,BHR,2024,39
+Bahrain,BHR,2025,39
 Belarus,BLR,2014,67
 Belarus,BLR,2015,62
 Belarus,BLR,2016,55
@@ -373,6 +383,7 @@ Belarus,BLR,2021,14
 Belarus,BLR,2022,14
 Belarus,BLR,2023,13
 Belarus,BLR,2024,12
+Belarus,BLR,2025,12
 Bermuda,BMU,1995,28
 Bermuda,BMU,1996,27
 Bermuda,BMU,1997,26
@@ -403,6 +414,7 @@ Bermuda,BMU,2021,11
 Bermuda,BMU,2022,10
 Bermuda,BMU,2023,10
 Bermuda,BMU,2024,10
+Bermuda,BMU,2025,9
 Brazil,BRA,1979,404
 Brazil,BRA,1980,426
 Brazil,BRA,1981,477
@@ -449,6 +461,7 @@ Brazil,BRA,2021,381
 Brazil,BRA,2022,361
 Brazil,BRA,2023,345
 Brazil,BRA,2024,331
+Brazil,BRA,2025,357
 Barbados,BRB,1993,16
 Barbados,BRB,1994,19
 Barbados,BRB,1995,18
@@ -492,6 +505,8 @@ Botswana,BWA,2020,24
 Botswana,BWA,2021,23
 Botswana,BWA,2022,23
 Botswana,BWA,2023,23
+Botswana,BWA,2024,23
+Botswana,BWA,2025,23
 Canada,CAN,1975,1488
 Canada,CAN,1976,1381
 Canada,CAN,1977,1304
@@ -542,6 +557,7 @@ Canada,CAN,2021,4132
 Canada,CAN,2022,4282
 Canada,CAN,2023,4312
 Canada,CAN,2024,4226
+Canada,CAN,2025,4377
 Central Europe and the Baltics,CEB,1993,88
 Central Europe and the Baltics,CEB,1994,191
 Central Europe and the Baltics,CEB,1995,291
@@ -573,7 +589,8 @@ Central Europe and the Baltics,CEB,2020,1318
 Central Europe and the Baltics,CEB,2021,1267
 Central Europe and the Baltics,CEB,2022,1256
 Central Europe and the Baltics,CEB,2023,1243
-Central Europe and the Baltics,CEB,2024,1228
+Central Europe and the Baltics,CEB,2024,1229
+Central Europe and the Baltics,CEB,2025,1217
 Switzerland,CHE,1975,104
 Switzerland,CHE,1976,106
 Switzerland,CHE,1977,116
@@ -624,6 +641,7 @@ Switzerland,CHE,2021,220
 Switzerland,CHE,2022,217
 Switzerland,CHE,2023,213
 Switzerland,CHE,2024,206
+Switzerland,CHE,2025,201
 Channel Islands,CHI,1998,1
 Channel Islands,CHI,1999,1
 Channel Islands,CHI,2000,1
@@ -675,6 +693,7 @@ Chile,CHL,2021,402
 Chile,CHL,2022,400
 Chile,CHL,2023,399
 Chile,CHL,2024,437
+Chile,CHL,2025,433
 China,CHN,1995,323
 China,CHN,1996,524
 China,CHN,1997,799
@@ -705,6 +724,7 @@ China,CHN,2021,11629
 China,CHN,2022,11497
 China,CHN,2023,11348
 China,CHN,2024,11231
+China,CHN,2025,11149
 Cote d'Ivoire,CIV,1993,30
 Cote d'Ivoire,CIV,1994,30
 Cote d'Ivoire,CIV,1995,31
@@ -767,6 +787,7 @@ Colombia,COL,2021,64
 Colombia,COL,2022,63
 Colombia,COL,2023,62
 Colombia,COL,2024,60
+Colombia,COL,2025,61
 Costa Rica,CRI,1983,15
 Costa Rica,CRI,1985,16
 Costa Rica,CRI,1986,16
@@ -855,6 +876,7 @@ Cyprus,CYP,2021,92
 Cyprus,CYP,2022,92
 Cyprus,CYP,2023,94
 Cyprus,CYP,2024,93
+Cyprus,CYP,2025,87
 Czechia,CZE,1993,3
 Czechia,CZE,1994,28
 Czechia,CZE,1995,54
@@ -885,6 +907,7 @@ Czechia,CZE,2021,21
 Czechia,CZE,2022,24
 Czechia,CZE,2023,25
 Czechia,CZE,2024,25
+Czechia,CZE,2025,26
 Germany,DEU,1975,471
 Germany,DEU,1976,469
 Germany,DEU,1977,465
@@ -935,6 +958,7 @@ Germany,DEU,2021,443
 Germany,DEU,2022,429
 Germany,DEU,2023,453
 Germany,DEU,2024,435
+Germany,DEU,2025,416
 Denmark,DNK,1975,248
 Denmark,DNK,1976,247
 Denmark,DNK,1977,245
@@ -994,7 +1018,8 @@ East Asia & Pacific (excluding high income),EAP,2020,15737
 East Asia & Pacific (excluding high income),EAP,2021,15133
 East Asia & Pacific (excluding high income),EAP,2022,14780
 East Asia & Pacific (excluding high income),EAP,2023,14752
-East Asia & Pacific (excluding high income),EAP,2024,13795
+East Asia & Pacific (excluding high income),EAP,2024,14742
+East Asia & Pacific (excluding high income),EAP,2025,14724
 Early-demographic dividend,EAR,1991,4596
 Early-demographic dividend,EAR,1992,4893
 Early-demographic dividend,EAR,1993,6858
@@ -1022,13 +1047,14 @@ Early-demographic dividend,EAR,2014,9972
 Early-demographic dividend,EAR,2015,9854
 Early-demographic dividend,EAR,2016,9844
 Early-demographic dividend,EAR,2017,9685
-Early-demographic dividend,EAR,2018,11235
-Early-demographic dividend,EAR,2019,6280
+Early-demographic dividend,EAR,2018,11095
+Early-demographic dividend,EAR,2019,6141
 Early-demographic dividend,EAR,2020,7070
 Early-demographic dividend,EAR,2021,7342
 Early-demographic dividend,EAR,2022,7548
 Early-demographic dividend,EAR,2023,7917
-Early-demographic dividend,EAR,2024,7374
+Early-demographic dividend,EAR,2024,8215
+Early-demographic dividend,EAR,2025,13295
 East Asia & Pacific,EAS,1975,2853
 East Asia & Pacific,EAS,1976,2764
 East Asia & Pacific,EAS,1977,2722
@@ -1078,7 +1104,8 @@ East Asia & Pacific,EAS,2020,28265
 East Asia & Pacific,EAS,2021,27905
 East Asia & Pacific,EAS,2022,27701
 East Asia & Pacific,EAS,2023,27794
-East Asia & Pacific,EAS,2024,26935
+East Asia & Pacific,EAS,2024,27882
+East Asia & Pacific,EAS,2025,27928
 Europe & Central Asia (excluding high income),ECA,1986,80
 Europe & Central Asia (excluding high income),ECA,1997,270
 Europe & Central Asia (excluding high income),ECA,1998,282
@@ -1101,7 +1128,8 @@ Europe & Central Asia (excluding high income),ECA,2020,660
 Europe & Central Asia (excluding high income),ECA,2021,678
 Europe & Central Asia (excluding high income),ECA,2022,730
 Europe & Central Asia (excluding high income),ECA,2023,768
-Europe & Central Asia (excluding high income),ECA,2024,779
+Europe & Central Asia (excluding high income),ECA,2024,790
+Europe & Central Asia (excluding high income),ECA,2025,782
 Europe & Central Asia,ECS,1975,6245
 Europe & Central Asia,ECS,1976,6004
 Europe & Central Asia,ECS,1977,5787
@@ -1144,6 +1172,7 @@ Europe & Central Asia,ECS,2013,9933
 Europe & Central Asia,ECS,2014,10229
 Europe & Central Asia,ECS,2015,8358
 Europe & Central Asia,ECS,2017,6950
+Europe & Central Asia,ECS,2025,3209
 Ecuador,ECU,1995,37
 Ecuador,ECU,1996,42
 Ecuador,ECU,1997,41
@@ -1178,6 +1207,7 @@ Ecuador,ECU,2000,26
 "Egypt, Arab Rep.",EGY,2022,239
 "Egypt, Arab Rep.",EGY,2023,241
 "Egypt, Arab Rep.",EGY,2024,246
+"Egypt, Arab Rep.",EGY,2025,244
 Euro area,EMU,1975,2972
 Euro area,EMU,1976,2985
 Euro area,EMU,1977,2477
@@ -1222,6 +1252,7 @@ Euro area,EMU,2015,5656
 Euro area,EMU,2016,5298
 Euro area,EMU,2017,4789
 Euro area,EMU,2018,4639
+Euro area,EMU,2025,1142
 Spain,ESP,1975,941
 Spain,ESP,1976,1019
 Spain,ESP,1977,519
@@ -1270,6 +1301,7 @@ Spain,ESP,2021,2558
 Spain,ESP,2022,1472
 Spain,ESP,2023,773
 Spain,ESP,2024,277
+Spain,ESP,2025,272
 Estonia,EST,1998,25
 Estonia,EST,1999,23
 Estonia,EST,2000,20
@@ -1320,6 +1352,8 @@ European Union,EUU,2015,7035
 European Union,EUU,2016,6640
 European Union,EUU,2017,5777
 European Union,EUU,2018,5880
+European Union,EUU,2025,2261
+Fragile and conflict affected situations,FCS,2025,213
 Finland,FIN,1983,48
 Finland,FIN,1984,52
 Finland,FIN,1985,50
@@ -1455,6 +1489,7 @@ Ghana,GHA,2021,30
 Ghana,GHA,2022,30
 Ghana,GHA,2023,30
 Ghana,GHA,2024,30
+Ghana,GHA,2025,31
 Greece,GRC,1980,116
 Greece,GRC,1981,111
 Greece,GRC,1982,113
@@ -1498,8 +1533,9 @@ Greece,GRC,2019,176
 Greece,GRC,2020,171
 Greece,GRC,2021,155
 Greece,GRC,2022,154
-Greece,GRC,2023,152
+Greece,GRC,2023,150
 Greece,GRC,2024,143
+Greece,GRC,2025,139
 High income,HIC,1975,13256
 High income,HIC,1976,12829
 High income,HIC,1977,12395
@@ -1546,10 +1582,11 @@ High income,HIC,2017,27185
 High income,HIC,2018,27136
 High income,HIC,2019,26827
 High income,HIC,2020,27427
-High income,HIC,2021,30138
+High income,HIC,2021,30142
 High income,HIC,2022,29177
-High income,HIC,2023,26595
-High income,HIC,2024,25640
+High income,HIC,2023,26702
+High income,HIC,2024,25750
+High income,HIC,2025,25328
 "Hong Kong SAR, China",HKG,1975,136
 "Hong Kong SAR, China",HKG,1976,134
 "Hong Kong SAR, China",HKG,1977,130
@@ -1596,11 +1633,13 @@ High income,HIC,2024,25640
 "Hong Kong SAR, China",HKG,2022,2414
 "Hong Kong SAR, China",HKG,2023,2428
 "Hong Kong SAR, China",HKG,2024,2449
+"Hong Kong SAR, China",HKG,2025,2508
 Honduras,HND,1995,93
 Honduras,HND,1996,105
 Honduras,HND,1997,107
 Honduras,HND,1998,104
 Honduras,HND,2001,41
+Heavily indebted poor countries (HIPC),HPC,2025,78
 Croatia,HRV,1993,2
 Croatia,HRV,1994,36
 Croatia,HRV,1995,61
@@ -1633,6 +1672,7 @@ Croatia,HRV,2021,98
 Croatia,HRV,2022,91
 Croatia,HRV,2023,90
 Croatia,HRV,2024,81
+Croatia,HRV,2025,81
 Hungary,HUN,1990,6
 Hungary,HUN,1991,20
 Hungary,HUN,1992,23
@@ -1668,6 +1708,7 @@ Hungary,HUN,2021,50
 Hungary,HUN,2022,62
 Hungary,HUN,2023,66
 Hungary,HUN,2024,68
+Hungary,HUN,2025,70
 IBRD only,IBD,1993,7343
 IBRD only,IBD,1994,8843
 IBRD only,IBD,1995,10665
@@ -1693,13 +1734,14 @@ IBRD only,IBD,2014,16013
 IBRD only,IBD,2015,16659
 IBRD only,IBD,2016,16805
 IBRD only,IBD,2017,16687
-IBRD only,IBD,2018,18580
-IBRD only,IBD,2019,23786
+IBRD only,IBD,2018,18440
+IBRD only,IBD,2019,23647
 IBRD only,IBD,2020,22573
 IBRD only,IBD,2021,22044
 IBRD only,IBD,2022,21713
 IBRD only,IBD,2023,21859
-IBRD only,IBD,2024,21045
+IBRD only,IBD,2024,21898
+IBRD only,IBD,2025,27733
 IDA & IBRD total,IBT,1993,8659
 IDA & IBRD total,IBT,1994,10268
 IDA & IBRD total,IBT,1995,12300
@@ -1725,16 +1767,18 @@ IDA & IBRD total,IBT,2014,17678
 IDA & IBRD total,IBT,2015,17788
 IDA & IBRD total,IBT,2016,17940
 IDA & IBRD total,IBT,2017,17830
-IDA & IBRD total,IBT,2018,19683
-IDA & IBRD total,IBT,2019,25030
-IDA & IBRD total,IBT,2020,24523
-IDA & IBRD total,IBT,2021,23980
-IDA & IBRD total,IBT,2022,23630
-IDA & IBRD total,IBT,2023,23778
-IDA & IBRD total,IBT,2024,22944
+IDA & IBRD total,IBT,2018,19543
+IDA & IBRD total,IBT,2019,24891
+IDA & IBRD total,IBT,2020,24522
+IDA & IBRD total,IBT,2021,23979
+IDA & IBRD total,IBT,2022,23629
+IDA & IBRD total,IBT,2023,23777
+IDA & IBRD total,IBT,2024,23796
+IDA & IBRD total,IBT,2025,29303
 IDA total,IDA,1996,1750
 IDA total,IDA,1998,1854
-IDA total,IDA,2020,1950
+IDA total,IDA,2020,1949
+IDA total,IDA,2025,1570
 IDA blend,IDB,1993,961
 IDA blend,IDB,1994,1040
 IDA blend,IDB,1995,1064
@@ -1758,6 +1802,7 @@ IDA blend,IDB,2021,901
 IDA blend,IDB,2022,870
 IDA blend,IDB,2023,870
 IDA blend,IDB,2024,847
+IDA blend,IDB,2025,844
 Indonesia,IDN,1980,6
 Indonesia,IDN,1981,8
 Indonesia,IDN,1982,13
@@ -1802,6 +1847,9 @@ Indonesia,IDN,2020,713
 Indonesia,IDN,2021,766
 Indonesia,IDN,2022,825
 Indonesia,IDN,2023,903
+Indonesia,IDN,2024,947
+Indonesia,IDN,2025,956
+IDA only,IDX,2025,726
 India,IND,1983,1151
 India,IND,1984,1295
 India,IND,1985,1529
@@ -1844,6 +1892,7 @@ India,IND,2021,2053
 India,IND,2022,2168
 India,IND,2023,2370
 India,IND,2024,2673
+India,IND,2025,8510
 Ireland,IRL,1995,80
 Ireland,IRL,1996,93
 Ireland,IRL,1997,83
@@ -1906,6 +1955,7 @@ Ireland,IRL,2018,43
 "Iran, Islamic Rep.",IRN,2022,546
 "Iran, Islamic Rep.",IRN,2023,575
 "Iran, Islamic Rep.",IRN,2024,594
+"Iran, Islamic Rep.",IRN,2025,630
 Iceland,ISL,1993,17
 Iceland,ISL,1994,24
 Iceland,ISL,1995,27
@@ -2029,6 +2079,7 @@ Jamaica,JAM,2021,90
 Jamaica,JAM,2022,95
 Jamaica,JAM,2023,98
 Jamaica,JAM,2024,101
+Jamaica,JAM,2025,100
 Jordan,JOR,1993,101
 Jordan,JOR,1994,95
 Jordan,JOR,1995,126
@@ -2061,6 +2112,7 @@ Jordan,JOR,2021,172
 Jordan,JOR,2022,170
 Jordan,JOR,2023,167
 Jordan,JOR,2024,162
+Jordan,JOR,2025,162
 Japan,JPN,1975,1398
 Japan,JPN,1976,1401
 Japan,JPN,1977,1407
@@ -2111,6 +2163,7 @@ Japan,JPN,2021,3818
 Japan,JPN,2022,3865
 Japan,JPN,2023,3929
 Japan,JPN,2024,3971
+Japan,JPN,2025,3942
 Kazakhstan,KAZ,1997,11
 Kazakhstan,KAZ,1998,18
 Kazakhstan,KAZ,2002,50
@@ -2135,7 +2188,8 @@ Kazakhstan,KAZ,2020,109
 Kazakhstan,KAZ,2021,112
 Kazakhstan,KAZ,2022,105
 Kazakhstan,KAZ,2023,91
-Kazakhstan,KAZ,2024,79
+Kazakhstan,KAZ,2024,90
+Kazakhstan,KAZ,2025,80
 Kenya,KEN,1993,38
 Kenya,KEN,1994,40
 Kenya,KEN,1995,56
@@ -2166,6 +2220,7 @@ Kenya,KEN,2021,59
 Kenya,KEN,2022,59
 Kenya,KEN,2023,59
 Kenya,KEN,2024,59
+Kenya,KEN,2025,59
 "Korea, Rep.",KOR,1979,355
 "Korea, Rep.",KOR,1980,352
 "Korea, Rep.",KOR,1981,343
@@ -2212,6 +2267,7 @@ Kenya,KEN,2024,59
 "Korea, Rep.",KOR,2022,2446
 "Korea, Rep.",KOR,2023,2536
 "Korea, Rep.",KOR,2024,2599
+"Korea, Rep.",KOR,2025,2653
 Kuwait,KWT,1993,40
 Kuwait,KWT,1994,41
 Kuwait,KWT,1995,45
@@ -2235,6 +2291,7 @@ Kuwait,KWT,2021,159
 Kuwait,KWT,2022,148
 Kuwait,KWT,2023,145
 Kuwait,KWT,2024,138
+Kuwait,KWT,2025,135
 Latin America & Caribbean (excluding high income),LAC,1979,1036
 Latin America & Caribbean (excluding high income),LAC,1980,974
 Latin America & Caribbean (excluding high income),LAC,1981,979
@@ -2274,13 +2331,11 @@ Latin America & Caribbean (excluding high income),LAC,2014,927
 Latin America & Caribbean (excluding high income),LAC,2015,914
 Latin America & Caribbean (excluding high income),LAC,2016,917
 Latin America & Caribbean (excluding high income),LAC,2017,928
-Latin America & Caribbean (excluding high income),LAC,2018,918
-Latin America & Caribbean (excluding high income),LAC,2019,903
 Latin America & Caribbean (excluding high income),LAC,2020,929
 Latin America & Caribbean (excluding high income),LAC,2021,947
 Latin America & Caribbean (excluding high income),LAC,2022,838
 Latin America & Caribbean (excluding high income),LAC,2023,811
-Latin America & Caribbean (excluding high income),LAC,2024,797
+Latin America & Caribbean (excluding high income),LAC,2025,694
 Lebanon,LBN,1996,6
 Lebanon,LBN,1997,8
 Lebanon,LBN,1998,11
@@ -2343,13 +2398,13 @@ Latin America & Caribbean,LCN,2014,1254
 Latin America & Caribbean,LCN,2015,1203
 Latin America & Caribbean,LCN,2016,1190
 Latin America & Caribbean,LCN,2017,1197
-Latin America & Caribbean,LCN,2018,1183
-Latin America & Caribbean,LCN,2019,1375
 Latin America & Caribbean,LCN,2020,1394
 Latin America & Caribbean,LCN,2021,1395
 Latin America & Caribbean,LCN,2022,1280
 Latin America & Caribbean,LCN,2023,1244
-Latin America & Caribbean,LCN,2024,1270
+Latin America & Caribbean,LCN,2025,1167
+Least developed countries: UN classification,LDC,2025,407
+Low income,LIC,2025,5
 Sri Lanka,LKA,1993,197
 Sri Lanka,LKA,1994,211
 Sri Lanka,LKA,1995,226
@@ -2382,6 +2437,7 @@ Sri Lanka,LKA,2021,296
 Sri Lanka,LKA,2022,290
 Sri Lanka,LKA,2023,290
 Sri Lanka,LKA,2024,284
+Sri Lanka,LKA,2025,288
 Lower middle income,LMC,1993,4922
 Lower middle income,LMC,1994,6206
 Lower middle income,LMC,1995,7442
@@ -2409,11 +2465,12 @@ Lower middle income,LMC,2016,8607
 Lower middle income,LMC,2017,8418
 Lower middle income,LMC,2018,9770
 Lower middle income,LMC,2019,4866
-Lower middle income,LMC,2020,5563
-Lower middle income,LMC,2021,5645
-Lower middle income,LMC,2022,5394
-Lower middle income,LMC,2023,5582
-Lower middle income,LMC,2024,5858
+Lower middle income,LMC,2020,5562
+Lower middle income,LMC,2021,5644
+Lower middle income,LMC,2022,5393
+Lower middle income,LMC,2023,5581
+Lower middle income,LMC,2024,5857
+Lower middle income,LMC,2025,11361
 Low & middle income,LMY,1993,8053
 Low & middle income,LMY,1994,9533
 Low & middle income,LMY,1995,11293
@@ -2439,13 +2496,14 @@ Low & middle income,LMY,2014,15625
 Low & middle income,LMY,2015,15795
 Low & middle income,LMY,2016,16006
 Low & middle income,LMY,2017,16255
-Low & middle income,LMY,2018,17914
-Low & middle income,LMY,2019,23104
-Low & middle income,LMY,2020,22629
-Low & middle income,LMY,2021,22151
-Low & middle income,LMY,2022,21850
-Low & middle income,LMY,2023,22047
-Low & middle income,LMY,2024,21379
+Low & middle income,LMY,2018,17774
+Low & middle income,LMY,2019,22965
+Low & middle income,LMY,2020,22628
+Low & middle income,LMY,2021,22150
+Low & middle income,LMY,2022,21849
+Low & middle income,LMY,2023,22046
+Low & middle income,LMY,2024,22230
+Low & middle income,LMY,2025,27759
 Late-demographic dividend,LTE,1995,3359
 Late-demographic dividend,LTE,1996,3712
 Late-demographic dividend,LTE,1997,4042
@@ -2472,10 +2530,11 @@ Late-demographic dividend,LTE,2017,8712
 Late-demographic dividend,LTE,2018,8875
 Late-demographic dividend,LTE,2019,19303
 Late-demographic dividend,LTE,2020,17952
-Late-demographic dividend,LTE,2021,17419
+Late-demographic dividend,LTE,2021,17423
 Late-demographic dividend,LTE,2022,16927
-Late-demographic dividend,LTE,2023,16626
-Late-demographic dividend,LTE,2024,16390
+Late-demographic dividend,LTE,2023,16735
+Late-demographic dividend,LTE,2024,16511
+Late-demographic dividend,LTE,2025,16461
 Lithuania,LTU,1998,60
 Lithuania,LTU,1999,52
 Lithuania,LTU,2000,53
@@ -2532,6 +2591,7 @@ Luxembourg,LUX,2021,27
 Luxembourg,LUX,2022,28
 Luxembourg,LUX,2023,28
 Luxembourg,LUX,2024,28
+Luxembourg,LUX,2025,28
 Latvia,LVA,1995,17
 Latvia,LVA,1996,34
 Latvia,LVA,1997,50
@@ -2573,6 +2633,7 @@ Morocco,MAR,2021,75
 Morocco,MAR,2022,75
 Morocco,MAR,2023,76
 Morocco,MAR,2024,76
+Morocco,MAR,2025,78
 "Middle East, North Africa, Afghanistan & Pakistan",MEA,2003,2438
 "Middle East, North Africa, Afghanistan & Pakistan",MEA,2004,3227
 "Middle East, North Africa, Afghanistan & Pakistan",MEA,2005,3277
@@ -2591,10 +2652,11 @@ Morocco,MAR,2024,76
 "Middle East, North Africa, Afghanistan & Pakistan",MEA,2018,2071
 "Middle East, North Africa, Afghanistan & Pakistan",MEA,2019,2242
 "Middle East, North Africa, Afghanistan & Pakistan",MEA,2020,2778
-"Middle East, North Africa, Afghanistan & Pakistan",MEA,2021,2959
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2021,2963
 "Middle East, North Africa, Afghanistan & Pakistan",MEA,2022,3011
-"Middle East, North Africa, Afghanistan & Pakistan",MEA,2023,2951
-"Middle East, North Africa, Afghanistan & Pakistan",MEA,2024,3010
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2023,3060
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2024,3119
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2025,2687
 Mexico,MEX,1975,369
 Mexico,MEX,1976,410
 Mexico,MEX,1978,349
@@ -2637,13 +2699,10 @@ Mexico,MEX,2014,141
 Mexico,MEX,2015,136
 Mexico,MEX,2016,137
 Mexico,MEX,2017,141
-Mexico,MEX,2018,140
-Mexico,MEX,2019,139
 Mexico,MEX,2020,140
 Mexico,MEX,2021,138
 Mexico,MEX,2022,133
 Mexico,MEX,2023,131
-Mexico,MEX,2024,129
 Middle income,MIC,1993,8053
 Middle income,MIC,1994,9533
 Middle income,MIC,1995,11293
@@ -2669,13 +2728,14 @@ Middle income,MIC,2014,15625
 Middle income,MIC,2015,15795
 Middle income,MIC,2016,16006
 Middle income,MIC,2017,16255
-Middle income,MIC,2018,17910
-Middle income,MIC,2019,23100
-Middle income,MIC,2020,22624
-Middle income,MIC,2021,22146
-Middle income,MIC,2022,21845
-Middle income,MIC,2023,22042
-Middle income,MIC,2024,21374
+Middle income,MIC,2018,17770
+Middle income,MIC,2019,22961
+Middle income,MIC,2020,22623
+Middle income,MIC,2021,22145
+Middle income,MIC,2022,21844
+Middle income,MIC,2023,22041
+Middle income,MIC,2024,22225
+Middle income,MIC,2025,27754
 Malta,MLT,1993,2
 Malta,MLT,1994,4
 Malta,MLT,1995,5
@@ -2708,6 +2768,7 @@ Malta,MLT,2021,30
 Malta,MLT,2022,33
 Malta,MLT,2023,34
 Malta,MLT,2024,34
+Malta,MLT,2025,35
 "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,1997,1874
 "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,1998,2169
 "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,1999,2377
@@ -2728,6 +2789,7 @@ Malta,MLT,2024,34
 "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2022,1692
 "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2023,1713
 "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2024,1730
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2025,1772
 Montenegro,MNE,2007,331
 Montenegro,MNE,2008,420
 Montenegro,MNE,2010,361
@@ -2765,6 +2827,7 @@ Mauritius,MUS,2021,91
 Mauritius,MUS,2022,89
 Mauritius,MUS,2023,93
 Mauritius,MUS,2024,93
+Mauritius,MUS,2025,92
 Malaysia,MYS,1980,181
 Malaysia,MYS,1981,187
 Malaysia,MYS,1982,194
@@ -2810,6 +2873,7 @@ Malaysia,MYS,2021,940
 Malaysia,MYS,2022,963
 Malaysia,MYS,2023,987
 Malaysia,MYS,2024,1031
+Malaysia,MYS,2025,1072
 North America,NAC,1975,4158
 North America,NAC,1976,4061
 North America,NAC,1977,3886
@@ -2860,6 +2924,7 @@ North America,NAC,2021,8917
 North America,NAC,2022,8934
 North America,NAC,2023,8639
 North America,NAC,2024,8246
+North America,NAC,2025,8294
 Namibia,NAM,1993,4
 Namibia,NAM,1994,8
 Namibia,NAM,1995,10
@@ -2920,6 +2985,7 @@ Nigeria,NGA,2021,174
 Nigeria,NGA,2022,173
 Nigeria,NGA,2023,172
 Nigeria,NGA,2024,169
+Nigeria,NGA,2025,165
 Netherlands,NLD,1975,242
 Netherlands,NLD,1976,234
 Netherlands,NLD,1977,231
@@ -3043,6 +3109,7 @@ New Zealand,NZL,2021,127
 New Zealand,NZL,2022,123
 New Zealand,NZL,2023,119
 New Zealand,NZL,2024,112
+New Zealand,NZL,2025,106
 OECD members,OED,1975,13489
 OECD members,OED,1976,13105
 OECD members,OED,1977,12265
@@ -3086,13 +3153,14 @@ OECD members,OED,2014,25324
 OECD members,OED,2015,23464
 OECD members,OED,2016,22987
 OECD members,OED,2017,22585
-OECD members,OED,2018,22048
-OECD members,OED,2019,21466
+OECD members,OED,2018,21908
+OECD members,OED,2019,21327
 OECD members,OED,2020,22036
 OECD members,OED,2021,24717
 OECD members,OED,2022,23775
-OECD members,OED,2023,21302
-OECD members,OED,2024,20476
+OECD members,OED,2023,21300
+OECD members,OED,2024,20348
+OECD members,OED,2025,19804
 Oman,OMN,1993,90
 Oman,OMN,1994,100
 Oman,OMN,1995,114
@@ -3121,12 +3189,16 @@ Oman,OMN,2019,111
 Oman,OMN,2020,111
 Oman,OMN,2021,110
 Oman,OMN,2022,110
+Oman,OMN,2023,109
+Oman,OMN,2024,109
+Oman,OMN,2025,108
 Other small states,OSS,1998,180
 Other small states,OSS,1999,180
 Other small states,OSS,2000,224
 Other small states,OSS,2001,247
 Other small states,OSS,2002,256
 Other small states,OSS,2003,242
+Other small states,OSS,2025,229
 Pakistan,PAK,1993,653
 Pakistan,PAK,1994,724
 Pakistan,PAK,1995,727
@@ -3152,6 +3224,7 @@ Pakistan,PAK,2021,533
 Pakistan,PAK,2022,531
 Pakistan,PAK,2023,527
 Pakistan,PAK,2024,530
+Pakistan,PAK,2025,535
 Panama,PAN,1993,57
 Panama,PAN,1994,77
 Panama,PAN,1995,97
@@ -3184,6 +3257,7 @@ Panama,PAN,2021,36
 Panama,PAN,2022,33
 Panama,PAN,2023,34
 Panama,PAN,2024,36
+Panama,PAN,2025,40
 Peru,PER,1993,235
 Peru,PER,1994,220
 Peru,PER,1995,242
@@ -3216,6 +3290,7 @@ Peru,PER,2021,189
 Peru,PER,2022,186
 Peru,PER,2023,175
 Peru,PER,2024,176
+Peru,PER,2025,176
 Philippines,PHL,1987,140
 Philippines,PHL,1988,142
 Philippines,PHL,1989,144
@@ -3254,6 +3329,7 @@ Philippines,PHL,2021,273
 Philippines,PHL,2022,283
 Philippines,PHL,2023,280
 Philippines,PHL,2024,280
+Philippines,PHL,2025,279
 Papua New Guinea,PNG,2000,8
 Papua New Guinea,PNG,2001,9
 Papua New Guinea,PNG,2002,8
@@ -3303,8 +3379,10 @@ Poland,POL,2020,782
 Poland,POL,2021,787
 Poland,POL,2022,773
 Poland,POL,2023,752
-Poland,POL,2024,749
+Poland,POL,2024,750
+Poland,POL,2025,737
 Pre-demographic dividend,PRE,1998,288
+Pre-demographic dividend,PRE,2025,266
 Portugal,PRT,1977,37
 Portugal,PRT,1978,38
 Portugal,PRT,1979,24
@@ -3378,6 +3456,7 @@ West Bank and Gaza,PSE,2021,47
 West Bank and Gaza,PSE,2022,49
 West Bank and Gaza,PSE,2023,49
 West Bank and Gaza,PSE,2024,48
+West Bank and Gaza,PSE,2025,48
 Post-demographic dividend,PST,1975,13256
 Post-demographic dividend,PST,1976,12829
 Post-demographic dividend,PST,1977,12395
@@ -3426,8 +3505,9 @@ Post-demographic dividend,PST,2019,22417
 Post-demographic dividend,PST,2020,23070
 Post-demographic dividend,PST,2021,25603
 Post-demographic dividend,PST,2022,24594
-Post-demographic dividend,PST,2023,22110
+Post-demographic dividend,PST,2023,22108
 Post-demographic dividend,PST,2024,21219
+Post-demographic dividend,PST,2025,21237
 Qatar,QAT,2008,43
 Qatar,QAT,2009,44
 Qatar,QAT,2010,43
@@ -3440,11 +3520,11 @@ Qatar,QAT,2016,44
 Qatar,QAT,2017,45
 Qatar,QAT,2018,46
 Qatar,QAT,2019,47
-Qatar,QAT,2020,0
-Qatar,QAT,2021,48
+Qatar,QAT,2021,52
 Qatar,QAT,2022,47
 Qatar,QAT,2023,51
 Qatar,QAT,2024,52
+Qatar,QAT,2025,54
 Romania,ROU,1997,76
 Romania,ROU,1998,126
 Romania,ROU,1999,122
@@ -3473,6 +3553,7 @@ Romania,ROU,2021,80
 Romania,ROU,2022,81
 Romania,ROU,2023,83
 Romania,ROU,2024,83
+Romania,ROU,2025,83
 Russian Federation,RUS,1993,52
 Russian Federation,RUS,1994,79
 Russian Federation,RUS,1995,340
@@ -3510,6 +3591,7 @@ Rwanda,RWA,2021,5
 Rwanda,RWA,2022,5
 Rwanda,RWA,2023,5
 Rwanda,RWA,2024,5
+Rwanda,RWA,2025,5
 South Asia,SAS,1983,1151
 South Asia,SAS,1984,1295
 South Asia,SAS,1985,1529
@@ -3552,6 +3634,7 @@ South Asia,SAS,2021,3009
 South Asia,SAS,2022,3136
 South Asia,SAS,2023,3340
 South Asia,SAS,2024,3648
+South Asia,SAS,2025,9158
 Saudi Arabia,SAU,2002,68
 Saudi Arabia,SAU,2003,70
 Saudi Arabia,SAU,2004,73
@@ -3575,6 +3658,7 @@ Saudi Arabia,SAU,2021,224
 Saudi Arabia,SAU,2022,269
 Saudi Arabia,SAU,2023,309
 Saudi Arabia,SAU,2024,352
+Saudi Arabia,SAU,2025,391
 Singapore,SGP,1979,95
 Singapore,SGP,1980,97
 Singapore,SGP,1981,103
@@ -3621,6 +3705,7 @@ Singapore,SGP,2021,442
 Singapore,SGP,2022,425
 Singapore,SGP,2023,412
 Singapore,SGP,2024,400
+Singapore,SGP,2025,394
 Sub-Saharan Africa (excluding high income),SSA,1993,974
 Sub-Saharan Africa (excluding high income),SSA,1994,977
 Sub-Saharan Africa (excluding high income),SSA,1995,1020
@@ -3632,8 +3717,9 @@ Sub-Saharan Africa (excluding high income),SSA,2004,745
 Sub-Saharan Africa (excluding high income),SSA,2005,734
 Sub-Saharan Africa (excluding high income),SSA,2006,772
 Sub-Saharan Africa (excluding high income),SSA,2019,749
-Sub-Saharan Africa (excluding high income),SSA,2020,758
-Sub-Saharan Africa (excluding high income),SSA,2021,692
+Sub-Saharan Africa (excluding high income),SSA,2020,757
+Sub-Saharan Africa (excluding high income),SSA,2021,691
+Sub-Saharan Africa (excluding high income),SSA,2025,629
 Sub-Saharan Africa,SSF,1993,974
 Sub-Saharan Africa,SSF,1994,977
 Sub-Saharan Africa,SSF,1995,1020
@@ -3642,7 +3728,9 @@ Sub-Saharan Africa,SSF,1997,1004
 Sub-Saharan Africa,SSF,1998,1091
 Sub-Saharan Africa,SSF,1999,1059
 Sub-Saharan Africa,SSF,2019,782
-Sub-Saharan Africa,SSF,2020,798
+Sub-Saharan Africa,SSF,2020,797
+Sub-Saharan Africa,SSF,2025,644
+Small states,SST,2025,229
 Slovak Republic,SVK,1993,9
 Slovak Republic,SVK,1994,13
 Slovak Republic,SVK,1995,15
@@ -3696,6 +3784,7 @@ Slovenia,SVN,2021,25
 Slovenia,SVN,2022,24
 Slovenia,SVN,2023,23
 Slovenia,SVN,2024,18
+Slovenia,SVN,2025,17
 Sweden,SWE,1975,101
 Sweden,SWE,1976,98
 Sweden,SWE,1977,96
@@ -3751,6 +3840,7 @@ Seychelles,SYC,2021,47
 Seychelles,SYC,2022,46
 Seychelles,SYC,2023,24
 Seychelles,SYC,2024,23
+Seychelles,SYC,2025,15
 East Asia & Pacific (IDA & IBRD countries),TEA,1995,1704
 East Asia & Pacific (IDA & IBRD countries),TEA,1996,2061
 East Asia & Pacific (IDA & IBRD countries),TEA,1997,2432
@@ -3780,7 +3870,8 @@ East Asia & Pacific (IDA & IBRD countries),TEA,2020,15737
 East Asia & Pacific (IDA & IBRD countries),TEA,2021,15133
 East Asia & Pacific (IDA & IBRD countries),TEA,2022,14780
 East Asia & Pacific (IDA & IBRD countries),TEA,2023,14752
-East Asia & Pacific (IDA & IBRD countries),TEA,2024,13795
+East Asia & Pacific (IDA & IBRD countries),TEA,2024,14742
+East Asia & Pacific (IDA & IBRD countries),TEA,2025,14724
 Europe & Central Asia (IDA & IBRD countries),TEC,1986,80
 Europe & Central Asia (IDA & IBRD countries),TEC,1993,244
 Europe & Central Asia (IDA & IBRD countries),TEC,1994,348
@@ -3812,6 +3903,7 @@ Europe & Central Asia (IDA & IBRD countries),TEC,2020,2099
 Europe & Central Asia (IDA & IBRD countries),TEC,2021,2059
 Europe & Central Asia (IDA & IBRD countries),TEC,2022,2071
 Europe & Central Asia (IDA & IBRD countries),TEC,2023,2091
+Europe & Central Asia (IDA & IBRD countries),TEC,2025,1886
 Thailand,THA,1980,72
 Thailand,THA,1981,76
 Thailand,THA,1982,78
@@ -3857,6 +3949,7 @@ Thailand,THA,2021,776
 Thailand,THA,2022,810
 Thailand,THA,2023,840
 Thailand,THA,2024,860
+Thailand,THA,2025,868
 Latin America & the Caribbean (IDA & IBRD countries),TLA,1979,1036
 Latin America & the Caribbean (IDA & IBRD countries),TLA,1980,974
 Latin America & the Caribbean (IDA & IBRD countries),TLA,1981,979
@@ -3895,13 +3988,11 @@ Latin America & the Caribbean (IDA & IBRD countries),TLA,2014,1254
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2015,1197
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2016,1190
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2017,1197
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2018,1179
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2019,1371
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2020,1390
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2021,1395
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2022,1280
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2023,1244
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2024,1270
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2025,1167
 "Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,1997,1874
 "Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,1998,2169
 "Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,1999,2353
@@ -3922,6 +4013,7 @@ Latin America & the Caribbean (IDA & IBRD countries),TLA,2024,1270
 "Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2022,1643
 "Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2023,1664
 "Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2024,1682
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2025,1724
 South Asia (IDA & IBRD),TSA,1983,1151
 South Asia (IDA & IBRD),TSA,1984,1295
 South Asia (IDA & IBRD),TSA,1985,1529
@@ -3964,6 +4056,7 @@ South Asia (IDA & IBRD),TSA,2021,3009
 South Asia (IDA & IBRD),TSA,2022,3136
 South Asia (IDA & IBRD),TSA,2023,3340
 South Asia (IDA & IBRD),TSA,2024,3648
+South Asia (IDA & IBRD),TSA,2025,9158
 Sub-Saharan Africa (IDA & IBRD countries),TSS,1993,974
 Sub-Saharan Africa (IDA & IBRD countries),TSS,1994,977
 Sub-Saharan Africa (IDA & IBRD countries),TSS,1995,1020
@@ -3972,7 +4065,8 @@ Sub-Saharan Africa (IDA & IBRD countries),TSS,1997,1004
 Sub-Saharan Africa (IDA & IBRD countries),TSS,1998,1091
 Sub-Saharan Africa (IDA & IBRD countries),TSS,1999,1059
 Sub-Saharan Africa (IDA & IBRD countries),TSS,2019,782
-Sub-Saharan Africa (IDA & IBRD countries),TSS,2020,798
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2020,797
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2025,644
 Trinidad and Tobago,TTO,2001,26
 Tunisia,TUN,1994,20
 Tunisia,TUN,1995,24
@@ -4005,6 +4099,7 @@ Tunisia,TUN,2021,80
 Tunisia,TUN,2022,82
 Tunisia,TUN,2023,78
 Tunisia,TUN,2024,74
+Tunisia,TUN,2025,75
 Turkiye,TUR,1986,80
 Turkiye,TUR,1987,82
 Turkiye,TUR,1988,79
@@ -4044,6 +4139,7 @@ Turkiye,TUR,2021,379
 Turkiye,TUR,2022,463
 Turkiye,TUR,2023,517
 Turkiye,TUR,2024,551
+Turkiye,TUR,2025,569
 Tanzania,TZA,1999,3
 Tanzania,TZA,2000,4
 Tanzania,TZA,2001,4
@@ -4053,6 +4149,7 @@ Tanzania,TZA,2021,22
 Tanzania,TZA,2022,22
 Tanzania,TZA,2023,22
 Tanzania,TZA,2024,22
+Tanzania,TZA,2025,22
 Ukraine,UKR,2014,172
 Ukraine,UKR,2015,158
 Ukraine,UKR,2016,121
@@ -4085,13 +4182,14 @@ Upper middle income,UMC,2014,6790
 Upper middle income,UMC,2015,7188
 Upper middle income,UMC,2016,7399
 Upper middle income,UMC,2017,7837
-Upper middle income,UMC,2018,8140
-Upper middle income,UMC,2019,18234
+Upper middle income,UMC,2018,8000
+Upper middle income,UMC,2019,18095
 Upper middle income,UMC,2020,17061
 Upper middle income,UMC,2021,16501
 Upper middle income,UMC,2022,16451
 Upper middle income,UMC,2023,16460
-Upper middle income,UMC,2024,15516
+Upper middle income,UMC,2024,16368
+Upper middle income,UMC,2025,16393
 Uruguay,URY,1995,18
 Uruguay,URY,1996,18
 Uruguay,URY,1998,18
@@ -4146,11 +4244,13 @@ United States,USA,2021,4774
 United States,USA,2022,4642
 United States,USA,2023,4317
 United States,USA,2024,4010
+United States,USA,2025,3908
 Uzbekistan,UZB,2020,144
 Uzbekistan,UZB,2021,135
 Uzbekistan,UZB,2022,107
 Uzbekistan,UZB,2023,112
 Uzbekistan,UZB,2024,89
+Uzbekistan,UZB,2025,85
 "Venezuela, RB",VEN,1990,118
 "Venezuela, RB",VEN,1991,150
 "Venezuela, RB",VEN,1992,139
@@ -4193,6 +4293,7 @@ Viet Nam,VNM,2021,749
 Viet Nam,VNM,2022,402
 Viet Nam,VNM,2023,394
 Viet Nam,VNM,2024,393
+Viet Nam,VNM,2025,400
 World,WLD,1975,14577
 World,WLD,1976,14152
 World,WLD,1977,13328
@@ -4236,13 +4337,14 @@ World,WLD,2014,45743
 World,WLD,2015,43983
 World,WLD,2016,43806
 World,WLD,2017,43440
-World,WLD,2018,45050
-World,WLD,2019,49931
-World,WLD,2020,50056
-World,WLD,2021,52289
-World,WLD,2022,51027
-World,WLD,2023,48642
-World,WLD,2024,47019
+World,WLD,2018,44910
+World,WLD,2019,49792
+World,WLD,2020,50055
+World,WLD,2021,52292
+World,WLD,2022,51026
+World,WLD,2023,48748
+World,WLD,2024,47980
+World,WLD,2025,53087
 South Africa,ZAF,1975,577
 South Africa,ZAF,1976,545
 South Africa,ZAF,1977,547
@@ -4293,6 +4395,7 @@ South Africa,ZAF,2021,252
 South Africa,ZAF,2022,237
 South Africa,ZAF,2023,224
 South Africa,ZAF,2024,220
+South Africa,ZAF,2025,212
 Zambia,ZMB,1995,2
 Zambia,ZMB,1996,5
 Zambia,ZMB,1997,6
@@ -4306,11 +4409,12 @@ Zambia,ZMB,2004,11
 Zambia,ZMB,2005,12
 Zambia,ZMB,2006,14
 Zambia,ZMB,2011,20
-Zambia,ZMB,2020,23
-Zambia,ZMB,2021,22
-Zambia,ZMB,2022,22
-Zambia,ZMB,2023,22
-Zambia,ZMB,2024,20
+Zambia,ZMB,2020,22
+Zambia,ZMB,2021,21
+Zambia,ZMB,2022,21
+Zambia,ZMB,2023,21
+Zambia,ZMB,2024,19
+Zambia,ZMB,2025,20
 Zimbabwe,ZWE,1993,62
 Zimbabwe,ZWE,1994,65
 Zimbabwe,ZWE,1995,65

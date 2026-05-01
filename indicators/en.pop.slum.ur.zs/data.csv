@@ -20,7 +20,7 @@ Africa Eastern and Southern,AFE,2010,57.790996000654
 Africa Eastern and Southern,AFE,2012,56.9687578581527
 Africa Eastern and Southern,AFE,2014,56.1601022182889
 Africa Eastern and Southern,AFE,2016,55.2941457715788
-Africa Eastern and Southern,AFE,2018,54.836165235398
+Africa Eastern and Southern,AFE,2018,54.8361652353981
 Africa Eastern and Southern,AFE,2020,54.4014430090981
 Africa Eastern and Southern,AFE,2022,56.7209519898935
 Afghanistan,AFG,2006,63.6
@@ -588,7 +588,7 @@ Algeria,DZA,2018,17.17042
 Algeria,DZA,2020,13.26502
 Algeria,DZA,2022,13.246
 East Asia & Pacific (excluding high income),EAP,2022,26.5949673153816
-Early-demographic dividend,EAR,2018,22.0180522420133
+Early-demographic dividend,EAR,2018,22.0180522420134
 East Asia & Pacific,EAS,2022,23.3262454291824
 Europe & Central Asia (excluding high income),ECA,2000,18.604573424086
 Europe & Central Asia (excluding high income),ECA,2002,17.5376357524747
@@ -687,10 +687,10 @@ European Union,EUU,2002,0.876412034023087
 European Union,EUU,2004,0.811729645321062
 European Union,EUU,2006,0.745118853833836
 European Union,EUU,2008,0.589499605044927
-European Union,EUU,2010,0.513148705240136
+European Union,EUU,2010,0.513148705240137
 European Union,EUU,2012,0.435839578314727
 European Union,EUU,2014,0.356692413563361
-European Union,EUU,2016,0.663495523387495
+European Union,EUU,2016,0.663495523387496
 European Union,EUU,2018,0.548354084036301
 European Union,EUU,2020,0.483545820075967
 European Union,EUU,2022,0.494953994234709
@@ -942,9 +942,9 @@ IDA total,IDA,2004,63.5509908061528
 IDA total,IDA,2006,61.892937986381
 IDA total,IDA,2008,60.09759871959
 IDA total,IDA,2010,58.3533982152429
-IDA total,IDA,2012,56.1250988698767
+IDA total,IDA,2012,56.1250988698766
 IDA total,IDA,2014,54.3914373921684
-IDA total,IDA,2016,52.5271157965629
+IDA total,IDA,2016,52.527115796563
 IDA total,IDA,2018,51.3567114928965
 IDA total,IDA,2020,50.3779666633352
 IDA total,IDA,2022,53.0400326642433
@@ -976,12 +976,12 @@ IDA only,IDX,2000,61.7978965031508
 IDA only,IDX,2002,65.6144541546184
 IDA only,IDX,2004,64.2218697078124
 IDA only,IDX,2006,62.7862574130056
-IDA only,IDX,2008,61.1085195401053
+IDA only,IDX,2008,61.1085195401054
 IDA only,IDX,2010,59.5064903108235
 IDA only,IDX,2012,57.0932717317276
 IDA only,IDX,2014,55.5681228562822
 IDA only,IDX,2016,53.846837158729
-IDA only,IDX,2018,53.2122263525204
+IDA only,IDX,2018,53.2122263525203
 IDA only,IDX,2020,52.8077015121727
 IDA only,IDX,2022,57.3101751363061
 India,IND,2018,5.41
@@ -1446,7 +1446,7 @@ Myanmar,MMR,2022,58.28105
 "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2014,37.4021058000965
 "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2016,36.4257712902027
 "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2018,36.2500217548083
-"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2020,35.8874663762627
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2020,35.8874663762626
 "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2022,36.0632365153923
 Montenegro,MNE,2000,19.1
 Montenegro,MNE,2002,19.1
@@ -1771,7 +1771,7 @@ Pre-demographic dividend,PRE,2012,59.8881344056865
 Pre-demographic dividend,PRE,2014,58.3968557680719
 Pre-demographic dividend,PRE,2016,56.9158714876908
 Pre-demographic dividend,PRE,2018,55.6922472899003
-Pre-demographic dividend,PRE,2020,54.3892461532106
+Pre-demographic dividend,PRE,2020,54.3892461532105
 Pre-demographic dividend,PRE,2022,56.8089924072097
 "Korea, Dem. People's Rep.",PRK,2022,23.03639
 Portugal,PRT,2000,1.25
@@ -1829,7 +1829,7 @@ Post-demographic dividend,PST,2010,0.957724698661612
 Post-demographic dividend,PST,2012,0.392426090180832
 Post-demographic dividend,PST,2014,0.59655277560303
 Post-demographic dividend,PST,2016,0.664984329187546
-Post-demographic dividend,PST,2018,0.685530535760152
+Post-demographic dividend,PST,2018,0.685530535760153
 Post-demographic dividend,PST,2020,0.593090492806973
 Post-demographic dividend,PST,2022,0.702434575371638
 French Polynesia,PYF,2022,1.5
@@ -1974,7 +1974,7 @@ Serbia,SRB,2016,0.45
 Serbia,SRB,2018,0.4
 Serbia,SRB,2020,0.35
 Serbia,SRB,2022,1.41509
-Sub-Saharan Africa (excluding high income),SSA,2000,61.0719854272758
+Sub-Saharan Africa (excluding high income),SSA,2000,61.0719854272757
 Sub-Saharan Africa (excluding high income),SSA,2002,63.9378144079846
 Sub-Saharan Africa (excluding high income),SSA,2004,62.2340152641158
 Sub-Saharan Africa (excluding high income),SSA,2006,60.7610340662947
@@ -2005,7 +2005,7 @@ Sub-Saharan Africa,SSF,2008,60.1173293079133
 Sub-Saharan Africa,SSF,2010,58.4543845629284
 Sub-Saharan Africa,SSF,2012,56.8013467570503
 Sub-Saharan Africa,SSF,2014,55.1555090090921
-Sub-Saharan Africa,SSF,2016,53.4876192866051
+Sub-Saharan Africa,SSF,2016,53.4876192866052
 Sub-Saharan Africa,SSF,2018,52.2014912252275
 Sub-Saharan Africa,SSF,2020,51.0341765823431
 Sub-Saharan Africa,SSF,2022,53.6952031243142
@@ -2118,10 +2118,10 @@ Chad,TCD,2016,82.56551
 Chad,TCD,2018,82
 Chad,TCD,2020,82
 Chad,TCD,2022,82
-East Asia & Pacific (IDA & IBRD countries),TEA,2022,26.6432665002265
+East Asia & Pacific (IDA & IBRD countries),TEA,2022,26.6432665002266
 Europe & Central Asia (IDA & IBRD countries),TEC,2000,9.70137530165526
 Europe & Central Asia (IDA & IBRD countries),TEC,2002,9.44486259858669
-Europe & Central Asia (IDA & IBRD countries),TEC,2004,8.95379012833829
+Europe & Central Asia (IDA & IBRD countries),TEC,2004,8.95379012833828
 Europe & Central Asia (IDA & IBRD countries),TEC,2006,8.33040389266563
 Europe & Central Asia (IDA & IBRD countries),TEC,2008,7.69171947895047
 Europe & Central Asia (IDA & IBRD countries),TEC,2010,7.15181190647003
@@ -2165,8 +2165,8 @@ Latin America & the Caribbean (IDA & IBRD countries),TLA,2008,23.8555794378795
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2010,22.1842219250512
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2012,19.9973195097281
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2014,19.2686829002335
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2016,17.9485095230031
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2022,19.0660996816303
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2016,17.948509523003
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2022,19.0660996816304
 Timor-Leste,TLS,2004,56.1
 Timor-Leste,TLS,2006,56.1
 Timor-Leste,TLS,2008,54
@@ -2177,7 +2177,7 @@ Timor-Leste,TLS,2016,37.9
 Timor-Leste,TLS,2018,33.9
 Timor-Leste,TLS,2020,33.9
 Timor-Leste,TLS,2022,33.92051
-"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2000,52.9274531372599
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2000,52.9274531372598
 "Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2002,52.2673185760863
 "Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2004,50.4369039604335
 "Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2006,46.278275536359
@@ -2208,9 +2208,9 @@ Sub-Saharan Africa (IDA & IBRD countries),TSS,2002,65.0855137966399
 Sub-Saharan Africa (IDA & IBRD countries),TSS,2004,63.321737194149
 Sub-Saharan Africa (IDA & IBRD countries),TSS,2006,61.7779151025704
 Sub-Saharan Africa (IDA & IBRD countries),TSS,2008,60.1173293079133
-Sub-Saharan Africa (IDA & IBRD countries),TSS,2010,58.4543845629285
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2010,58.4543845629284
 Sub-Saharan Africa (IDA & IBRD countries),TSS,2012,56.8013467570503
-Sub-Saharan Africa (IDA & IBRD countries),TSS,2014,55.1555090090922
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2014,55.1555090090921
 Sub-Saharan Africa (IDA & IBRD countries),TSS,2016,53.4876192866051
 Sub-Saharan Africa (IDA & IBRD countries),TSS,2018,52.2014912252275
 Sub-Saharan Africa (IDA & IBRD countries),TSS,2020,51.0341765823431
