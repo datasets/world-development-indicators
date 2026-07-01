@@ -153,7 +153,7 @@ Algeria,DZA,2006,99.4
 Algeria,DZA,2013,99.6
 Algeria,DZA,2019,99.6
 Early-demographic dividend,EAR,2010,77.8062783730764
-Early-demographic dividend,EAR,2018,75.6531170954615
+Early-demographic dividend,EAR,2018,75.6531170954614
 Europe & Central Asia (excluding high income),ECA,2010,95.525910533834
 Europe & Central Asia,ECS,2010,98.6874609118637
 Europe & Central Asia,ECS,2018,99.5897672696206
@@ -179,8 +179,6 @@ Ethiopia,ETH,2005,6.6
 Ethiopia,ETH,2016,2.7
 European Union,EUU,2010,100
 European Union,EUU,2018,100
-Fragile and conflict affected situations,FCS,2010,51.2681831330949
-Fragile and conflict affected situations,FCS,2018,44.2775383947539
 Finland,FIN,2011,100
 Finland,FIN,2014,100
 Finland,FIN,2017,100
@@ -315,8 +313,8 @@ Cambodia,KHM,2014,73.3
 Kiribati,KIR,2008,92
 Kiribati,KIR,2009,93.5
 Kiribati,KIR,2019,91.6
-Latin America & Caribbean (excluding high income),LAC,2010,92.8116696220275
-Latin America & Caribbean (excluding high income),LAC,2018,95.5581724042865
+Latin America & Caribbean (excluding high income),LAC,2010,92.1265621290129
+Latin America & Caribbean (excluding high income),LAC,2018,94.785938830445
 Lao PDR,LAO,2006,72
 Lao PDR,LAO,2012,74.8
 Lao PDR,LAO,2017,73
@@ -330,14 +328,15 @@ Latin America & Caribbean,LCN,2010,92.3913579355012
 Latin America & Caribbean,LCN,2018,94.8072995413713
 Least developed countries: UN classification,LDC,2010,45.838483132174
 Least developed countries: UN classification,LDC,2018,43.890637689897
-Low income,LIC,2010,48.6720554025731
+Low income,LIC,2010,48.1761668842483
+Low income,LIC,2018,38.7974144135362
 Liechtenstein,LIE,2011,100
 Liechtenstein,LIE,2014,100
 Liechtenstein,LIE,2017,100
 Liechtenstein,LIE,2022,100
 Sri Lanka,LKA,2007,97.2
-Lower middle income,LMC,2010,70.4869779194112
-Lower middle income,LMC,2018,69.2899024704495
+Lower middle income,LMC,2010,68.796063508604
+Lower middle income,LMC,2018,68.4909729304429
 Lesotho,LSO,2004,26.3
 Lesotho,LSO,2009,45.1
 Lesotho,LSO,2014,43.3
@@ -534,7 +533,7 @@ Serbia,SRB,2010,98.9
 Serbia,SRB,2014,99.4
 Serbia,SRB,2019,99.9
 Sub-Saharan Africa (excluding high income),SSA,2010,50.7438493758412
-Sub-Saharan Africa (excluding high income),SSA,2018,49.6043198174187
+Sub-Saharan Africa (excluding high income),SSA,2018,44.3721407041553
 South Sudan,SSD,2010,35.4
 Sub-Saharan Africa,SSF,2010,50.7438493758412
 Sub-Saharan Africa,SSF,2018,44.3721407041553
@@ -566,7 +565,7 @@ Chad,TCD,2004,8.9
 Chad,TCD,2010,15.7
 Chad,TCD,2015,12
 Chad,TCD,2019,25.7
-Europe & Central Asia (IDA & IBRD countries),TEC,2010,97.4954875152095
+Europe & Central Asia (IDA & IBRD countries),TEC,2010,97.4954875152094
 Europe & Central Asia (IDA & IBRD countries),TEC,2018,99.225340449595
 Togo,TGO,2006,78.1
 Togo,TGO,2010,77.9
@@ -583,7 +582,7 @@ Turkmenistan,TKM,2006,95.5
 Turkmenistan,TKM,2016,99.6
 Turkmenistan,TKM,2019,99.9
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2010,92.2979417858302
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2018,94.7471513637964
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2018,94.7471513637965
 Timor-Leste,TLS,2003,53
 Timor-Leste,TLS,2009,55.2
 Timor-Leste,TLS,2010,55.2

@@ -1,19 +1,20 @@
 Country Name,Country Code,Year,Value
 Angola,AGO,2007,53000000
 Angola,AGO,2021,190000000
+Angola,AGO,2024,800000000
 Albania,ALB,2005,308000000
 Albania,ALB,2013,51300000
 Albania,ALB,2017,284600000
 Albania,ALB,2021,124800000
 Argentina,ARG,1989,10900000
 Argentina,ARG,1990,2088000000
-Argentina,ARG,1991,223500000
+Argentina,ARG,1991,214000000
 Argentina,ARG,1992,814700000
 Argentina,ARG,1993,1439600000
 Argentina,ARG,1994,940500000
 Argentina,ARG,1995,621200000
-Argentina,ARG,1996,949800000
-Argentina,ARG,1997,1222800000
+Argentina,ARG,1996,914000000
+Argentina,ARG,1997,1195000000
 Argentina,ARG,1998,1911300000
 Argentina,ARG,1999,2345000000
 Argentina,ARG,2000,129800000
@@ -31,8 +32,9 @@ Armenia,ARM,2007,10000000
 Armenia,ARM,2008,705000000
 Armenia,ARM,2013,101000000
 Benin,BEN,2009,489000000
-Burkina Faso,BFA,1995,63300000
-Burkina Faso,BFA,2017,471300000
+Benin,BEN,2024,21080000
+Burkina Faso,BFA,1995,31650000
+Burkina Faso,BFA,2017,235650000
 Bangladesh,BGD,2017,179580000
 Bangladesh,BGD,2019,909260000
 Bangladesh,BGD,2020,1240000000
@@ -43,7 +45,8 @@ Bulgaria,BGR,2006,531600000
 Bulgaria,BGR,2009,4580000
 Bulgaria,BGR,2013,79000000
 Bulgaria,BGR,2021,890020000
-Bulgaria,BGR,2023,297240000
+Bulgaria,BGR,2023,130690000
+Bulgaria,BGR,2024,142490000
 Belarus,BLR,2008,3960000
 Belize,BLZ,2002,37600000
 Bolivia,BOL,1996,162100000
@@ -52,12 +55,12 @@ Bolivia,BOL,2000,16600000
 Brazil,BRA,1987,20000000
 Brazil,BRA,1989,993300000
 Brazil,BRA,1994,328100000
-Brazil,BRA,1995,996400000
-Brazil,BRA,1996,4361300000
+Brazil,BRA,1995,989300000
+Brazil,BRA,1996,4341200000
 Brazil,BRA,1997,4048300000
 Brazil,BRA,1998,7808700000
 Brazil,BRA,1999,53900000
-Brazil,BRA,2000,1616400000
+Brazil,BRA,2000,1374500000
 Brazil,BRA,2001,932200000
 Brazil,BRA,2002,181000000
 Brazil,BRA,2003,172900000
@@ -75,12 +78,13 @@ Brazil,BRA,2014,33749230000
 Brazil,BRA,2015,1752800000
 Brazil,BRA,2016,896100000
 Brazil,BRA,2017,549600000
-Brazil,BRA,2018,1041400000
+Brazil,BRA,2018,1048300000
 Brazil,BRA,2019,2763010000
 Brazil,BRA,2020,282160000
 Brazil,BRA,2021,3963030000
-Brazil,BRA,2022,11200540000
+Brazil,BRA,2022,11473760000
 Brazil,BRA,2023,3771150000
+Brazil,BRA,2024,4262010000
 China,CHN,1990,173000000
 China,CHN,1991,2378800000
 China,CHN,1992,532600000
@@ -109,26 +113,28 @@ China,CHN,2015,2913740000
 China,CHN,2016,3469630000
 China,CHN,2017,12587440000
 China,CHN,2018,25964800000
-China,CHN,2019,22515500000
+China,CHN,2019,19815500000
 China,CHN,2020,2788890000
 China,CHN,2021,6504820000
 China,CHN,2022,28433590000
 China,CHN,2023,1680950000
-Cote d'Ivoire,CIV,1995,63300000
+China,CHN,2024,3329410000
+Cote d'Ivoire,CIV,1995,31650000
 Cote d'Ivoire,CIV,1996,28000000
 Cote d'Ivoire,CIV,1999,150000000
 Cote d'Ivoire,CIV,2000,140000000
 Cote d'Ivoire,CIV,2004,36400000
 Cote d'Ivoire,CIV,2012,285000000
-Cote d'Ivoire,CIV,2017,471300000
+Cote d'Ivoire,CIV,2017,235650000
 Cote d'Ivoire,CIV,2021,468310000
 Cote d'Ivoire,CIV,2022,175600000
 Cameroon,CMR,1994,30800000
 Cameroon,CMR,1999,90000000
+Cameroon,CMR,2004,0
 Cameroon,CMR,2017,568000000
 Cameroon,CMR,2020,30730000
 Cameroon,CMR,2022,52500000
-"Congo, Dem. Rep.",COD,2021,1000000000
+"Congo, Dem. Rep.",COD,2021,1200000000
 "Congo, Rep.",COG,2008,735000000
 "Congo, Rep.",COG,2010,56000000
 Colombia,COL,1992,40000000
@@ -155,11 +161,12 @@ Colombia,COL,2015,4495900000
 Colombia,COL,2016,5441240000
 Colombia,COL,2017,368500000
 Colombia,COL,2018,1864740000
-Colombia,COL,2019,2645000000
+Colombia,COL,2019,3040000000
 Colombia,COL,2020,1000000000
 Colombia,COL,2021,133520000
 Colombia,COL,2022,2070000000
 Colombia,COL,2023,586970000
+Colombia,COL,2024,3652350000
 Comoros,COM,2003,500000
 Cabo Verde,CPV,2023,150180000
 Costa Rica,CRI,2000,161000000
@@ -179,19 +186,20 @@ Dominican Republic,DOM,2006,250000000
 Dominican Republic,DOM,2009,629900000
 Dominican Republic,DOM,2010,69000000
 Dominican Republic,DOM,2013,73400000
+Dominican Republic,DOM,2024,940000000
 Algeria,DZA,2005,17000000
 Algeria,DZA,2007,161000000
 Algeria,DZA,2009,108000000
-East Asia & Pacific (excluding high income),EAP,1990,1926900000
-East Asia & Pacific (excluding high income),EAP,1991,2805300000
+East Asia & Pacific (excluding high income),EAP,1990,921200000
+East Asia & Pacific (excluding high income),EAP,1991,2405300000
 East Asia & Pacific (excluding high income),EAP,1992,855100000
 East Asia & Pacific (excluding high income),EAP,1993,2337500000
 East Asia & Pacific (excluding high income),EAP,1994,4133400000
 East Asia & Pacific (excluding high income),EAP,1995,4821100000
-East Asia & Pacific (excluding high income),EAP,1996,8854420000
-East Asia & Pacific (excluding high income),EAP,1997,6499740000
+East Asia & Pacific (excluding high income),EAP,1996,8761520000
+East Asia & Pacific (excluding high income),EAP,1997,6471840000
 East Asia & Pacific (excluding high income),EAP,1998,2289800000
-East Asia & Pacific (excluding high income),EAP,1999,2183460000
+East Asia & Pacific (excluding high income),EAP,1999,2179780000
 East Asia & Pacific (excluding high income),EAP,2000,2644600000
 East Asia & Pacific (excluding high income),EAP,2001,2755030000
 East Asia & Pacific (excluding high income),EAP,2002,1844410000
@@ -201,7 +209,7 @@ East Asia & Pacific (excluding high income),EAP,2005,7215850000
 East Asia & Pacific (excluding high income),EAP,2006,9641710000
 East Asia & Pacific (excluding high income),EAP,2007,5702980000
 East Asia & Pacific (excluding high income),EAP,2008,1542050000
-East Asia & Pacific (excluding high income),EAP,2009,3083370000
+East Asia & Pacific (excluding high income),EAP,2009,3030370000
 East Asia & Pacific (excluding high income),EAP,2011,1465370000
 East Asia & Pacific (excluding high income),EAP,2012,4591100000
 East Asia & Pacific (excluding high income),EAP,2013,5178930000
@@ -210,15 +218,16 @@ East Asia & Pacific (excluding high income),EAP,2015,3937640000
 East Asia & Pacific (excluding high income),EAP,2016,6408030000
 East Asia & Pacific (excluding high income),EAP,2017,24539990000
 East Asia & Pacific (excluding high income),EAP,2018,29462230000
-East Asia & Pacific (excluding high income),EAP,2019,30973800000
+East Asia & Pacific (excluding high income),EAP,2019,27373800000
 East Asia & Pacific (excluding high income),EAP,2021,15201110000
-East Asia & Pacific (excluding high income),EAP,2022,32282890000
+East Asia & Pacific (excluding high income),EAP,2022,32417890000
 East Asia & Pacific (excluding high income),EAP,2023,3474770000
+East Asia & Pacific (excluding high income),EAP,2024,4094610000
 Early-demographic dividend,EAR,2004,2386300000
 Early-demographic dividend,EAR,2006,20054600000
 Early-demographic dividend,EAR,2007,17515120000
 Early-demographic dividend,EAR,2017,14177910000
-Early-demographic dividend,EAR,2019,16891650000
+Early-demographic dividend,EAR,2019,15991650000
 Ecuador,ECU,1994,12500000
 Ecuador,ECU,1996,105000000
 Ecuador,ECU,1998,569800000
@@ -255,15 +264,18 @@ Georgia,GEO,2006,168500000
 Georgia,GEO,2007,59500000
 Georgia,GEO,2008,345000000
 Georgia,GEO,2019,93000000
+Georgia,GEO,2024,25420000
 Ghana,GHA,2000,10000000
 Ghana,GHA,2016,1500000000
 Ghana,GHA,2017,550000000
 Ghana,GHA,2023,137000000
 Guinea,GIN,2009,159000000
 Guinea,GIN,2020,133000000
+Equatorial Guinea,GNQ,2024,285300000
 Guatemala,GTM,1997,23800000
 Guatemala,GTM,1998,10000000
 Guatemala,GTM,2014,120000000
+Guyana,GUY,2024,14000000
 Honduras,HND,1999,10500000
 Honduras,HND,2000,120000000
 Honduras,HND,2013,1149300000
@@ -271,13 +283,13 @@ Honduras,HND,2014,22500000
 Honduras,HND,2015,87900000
 Honduras,HND,2020,209000000
 Haiti,HTI,2014,57210000
-IBRD only,IBD,1990,8620200000
+IBRD only,IBD,1990,7614500000
 IBRD only,IBD,1994,6450200000
-IBRD only,IBD,1996,15160620000
-IBRD only,IBD,1997,16186440000
+IBRD only,IBD,1996,15011820000
+IBRD only,IBD,1997,15917740000
 IBRD only,IBD,1998,14756000000
-IBRD only,IBD,1999,6532960000
-IBRD only,IBD,2000,7634900000
+IBRD only,IBD,1999,6529280000
+IBRD only,IBD,2000,7393000000
 IBRD only,IBD,2001,5502330000
 IBRD only,IBD,2002,3216480000
 IBRD only,IBD,2003,7244290000
@@ -286,27 +298,28 @@ IBRD only,IBD,2005,15775550000
 IBRD only,IBD,2006,31165570000
 IBRD only,IBD,2007,27574800000
 IBRD only,IBD,2008,23855830000
-IBRD only,IBD,2009,21178060000
-IBRD only,IBD,2011,35565920000
+IBRD only,IBD,2009,21125060000
+IBRD only,IBD,2011,35517420000
 IBRD only,IBD,2012,57749240000
 IBRD only,IBD,2013,31661330000
 IBRD only,IBD,2014,53111690000
 IBRD only,IBD,2015,65606060000
 IBRD only,IBD,2016,18370190000
 IBRD only,IBD,2017,33569870000
-IBRD only,IBD,2018,49228320000
-IBRD only,IBD,2019,42594280000
+IBRD only,IBD,2018,49235220000
+IBRD only,IBD,2019,40289280000
 IBRD only,IBD,2020,13755050000
 IBRD only,IBD,2021,28495980000
-IBRD only,IBD,2022,56274750000
-IBRD only,IBD,2023,12399300000
-IDA & IBRD total,IBT,2006,32442810000
+IBRD only,IBD,2022,57034970000
+IBRD only,IBD,2023,12232750000
+IBRD only,IBD,2024,18193380000
+IDA & IBRD total,IBT,2006,32038810000
 IDA & IBRD total,IBT,2007,28758000000
 IDA & IBRD total,IBT,2008,25654830000
-IDA & IBRD total,IBT,2017,37272040000
-IDA & IBRD total,IBT,2019,51407910000
+IDA & IBRD total,IBT,2017,36800740000
+IDA & IBRD total,IBT,2019,48202910000
 IDA blend,IDB,2005,2419440000
-IDA blend,IDB,2006,766140000
+IDA blend,IDB,2006,564140000
 IDA blend,IDB,2007,635700000
 IDA blend,IDB,2008,1445000000
 IDA blend,IDB,2019,1290000000
@@ -357,6 +370,7 @@ India,IND,2020,2050710000
 India,IND,2021,5733600000
 India,IND,2022,9271640000
 India,IND,2023,1620020000
+India,IND,2024,1162000000
 "Iran, Islamic Rep.",IRN,2016,235000000
 Iraq,IRQ,2010,500000000
 Iraq,IRQ,2014,130000000
@@ -379,8 +393,9 @@ Kazakhstan,KAZ,2017,75000000
 Kazakhstan,KAZ,2020,585000000
 Kazakhstan,KAZ,2021,300000000
 Kazakhstan,KAZ,2023,24150000
+Kazakhstan,KAZ,2024,370000000
 Kenya,KEN,1998,53400000
-Kenya,KEN,2006,404000000
+Kenya,KEN,2006,202000000
 Kenya,KEN,2007,15000000
 Kenya,KEN,2017,96890000
 Kenya,KEN,2018,213920000
@@ -391,19 +406,20 @@ Cambodia,KHM,2001,65000000
 Cambodia,KHM,2002,7200000
 Cambodia,KHM,2004,53100000
 Cambodia,KHM,2006,40100000
+Cambodia,KHM,2009,0
 Cambodia,KHM,2017,1000000000
-Latin America & Caribbean (excluding high income),LAC,1989,3181900000
-Latin America & Caribbean (excluding high income),LAC,1994,2071800000
-Latin America & Caribbean (excluding high income),LAC,1995,2137720000
-Latin America & Caribbean (excluding high income),LAC,1996,5801200000
-Latin America & Caribbean (excluding high income),LAC,1997,8490100000
+Cambodia,KHM,2019,1800000000
+Latin America & Caribbean (excluding high income),LAC,1994,2171800000
+Latin America & Caribbean (excluding high income),LAC,1995,2130620000
+Latin America & Caribbean (excluding high income),LAC,1996,5995300000
+Latin America & Caribbean (excluding high income),LAC,1997,8480300000
 Latin America & Caribbean (excluding high income),LAC,1998,11445600000
 Latin America & Caribbean (excluding high income),LAC,1999,2869900000
-Latin America & Caribbean (excluding high income),LAC,2000,4327000000
+Latin America & Caribbean (excluding high income),LAC,2000,4085100000
 Latin America & Caribbean (excluding high income),LAC,2001,1644500000
 Latin America & Caribbean (excluding high income),LAC,2002,697700000
 Latin America & Caribbean (excluding high income),LAC,2003,808000000
-Latin America & Caribbean (excluding high income),LAC,2004,1058600000
+Latin America & Caribbean (excluding high income),LAC,2004,1092600000
 Latin America & Caribbean (excluding high income),LAC,2005,3144700000
 Latin America & Caribbean (excluding high income),LAC,2006,6243390000
 Latin America & Caribbean (excluding high income),LAC,2007,12339600000
@@ -417,26 +433,26 @@ Latin America & Caribbean (excluding high income),LAC,2014,39445840000
 Latin America & Caribbean (excluding high income),LAC,2015,14120700000
 Latin America & Caribbean (excluding high income),LAC,2016,7895940000
 Latin America & Caribbean (excluding high income),LAC,2017,2340100000
-Latin America & Caribbean (excluding high income),LAC,2018,4087500000
-Latin America & Caribbean (excluding high income),LAC,2019,8496010000
+Latin America & Caribbean (excluding high income),LAC,2018,4094400000
+Latin America & Caribbean (excluding high income),LAC,2019,8891010000
 Latin America & Caribbean (excluding high income),LAC,2020,2357860000
 Latin America & Caribbean (excluding high income),LAC,2021,5161950000
-Latin America & Caribbean (excluding high income),LAC,2022,14305720000
+Latin America & Caribbean (excluding high income),LAC,2022,14930940000
 Lao PDR,LAO,2000,1500000
 Lao PDR,LAO,2009,1500000
-Lao PDR,LAO,2019,5700000000
+Lao PDR,LAO,2019,3000000000
 Lao PDR,LAO,2022,91500000
 Lebanon,LBN,2000,150000000
 Lebanon,LBN,2004,3000000
 Liberia,LBR,2010,120000000
 Liberia,LBR,2013,25000000
 Latin America & Caribbean,LCN,1994,2171800000
-Latin America & Caribbean,LCN,1995,2137720000
-Latin America & Caribbean,LCN,1996,6051200000
-Latin America & Caribbean,LCN,1997,8508100000
+Latin America & Caribbean,LCN,1995,2130620000
+Latin America & Caribbean,LCN,1996,5995300000
+Latin America & Caribbean,LCN,1997,8480300000
 Latin America & Caribbean,LCN,1998,11445600000
 Latin America & Caribbean,LCN,1999,2869900000
-Latin America & Caribbean,LCN,2000,4488000000
+Latin America & Caribbean,LCN,2000,4246100000
 Latin America & Caribbean,LCN,2001,1644500000
 Latin America & Caribbean,LCN,2002,697700000
 Latin America & Caribbean,LCN,2003,808000000
@@ -451,32 +467,34 @@ Latin America & Caribbean,LCN,2013,19045900000
 Latin America & Caribbean,LCN,2014,39445840000
 Latin America & Caribbean,LCN,2015,14783700000
 Latin America & Caribbean,LCN,2016,7895940000
-Latin America & Caribbean,LCN,2018,4087500000
+Latin America & Caribbean,LCN,2018,4094400000
 Latin America & Caribbean,LCN,2020,2357860000
 Sri Lanka,LKA,1999,240000000
 Sri Lanka,LKA,2011,500000000
 Sri Lanka,LKA,2017,120000000
 Sri Lanka,LKA,2023,700000000
-Lower middle income,LMC,2006,11887310000
-Lower middle income,LMC,2007,7655620000
-Lower middle income,LMC,2008,8353340000
-Lower middle income,LMC,2017,7020220000
-Lower middle income,LMC,2019,17587400000
-Low & middle income,LMY,2004,4801890000
-Low & middle income,LMY,2006,31724210000
+Lower middle income,LMC,2004,1711900000
+Lower middle income,LMC,2005,4109050000
+Lower middle income,LMC,2006,10632710000
+Lower middle income,LMC,2007,6713620000
+Lower middle income,LMC,2008,7673040000
+Lower middle income,LMC,2017,6611020000
+Lower middle income,LMC,2019,13929100000
+Low & middle income,LMY,2004,4835890000
+Low & middle income,LMY,2006,31320210000
 Low & middle income,LMY,2007,28288200000
 Low & middle income,LMY,2008,25630830000
-Low & middle income,LMY,2017,35184640000
-Low & middle income,LMY,2019,49930140000
-Low & middle income,LMY,2021,29042770000
+Low & middle income,LMY,2017,34713340000
+Low & middle income,LMY,2019,46725140000
 Late-demographic dividend,LTE,1992,780600000
+Late-demographic dividend,LTE,1993,2246100000
 Late-demographic dividend,LTE,1994,4983700000
-Late-demographic dividend,LTE,1995,5090500000
-Late-demographic dividend,LTE,1996,12838620000
-Late-demographic dividend,LTE,1997,9512740000
+Late-demographic dividend,LTE,1995,5083400000
+Late-demographic dividend,LTE,1996,12725620000
+Late-demographic dividend,LTE,1997,9484840000
 Late-demographic dividend,LTE,1998,10811900000
-Late-demographic dividend,LTE,1999,1371060000
-Late-demographic dividend,LTE,2000,5722700000
+Late-demographic dividend,LTE,1999,1367380000
+Late-demographic dividend,LTE,2000,5480800000
 Late-demographic dividend,LTE,2001,2837230000
 Late-demographic dividend,LTE,2002,2388910000
 Late-demographic dividend,LTE,2003,6127850000
@@ -493,12 +511,13 @@ Late-demographic dividend,LTE,2014,43006540000
 Late-demographic dividend,LTE,2015,11647640000
 Late-demographic dividend,LTE,2016,10342870000
 Late-demographic dividend,LTE,2017,20971540000
-Late-demographic dividend,LTE,2018,31612110000
-Late-demographic dividend,LTE,2019,32551890000
+Late-demographic dividend,LTE,2018,31619010000
+Late-demographic dividend,LTE,2019,30246890000
 Late-demographic dividend,LTE,2020,5581760000
 Late-demographic dividend,LTE,2021,11666670000
-Late-demographic dividend,LTE,2022,43674630000
+Late-demographic dividend,LTE,2022,44082850000
 Late-demographic dividend,LTE,2023,6763220000
+Late-demographic dividend,LTE,2024,12153190000
 Morocco,MAR,2004,200000000
 Morocco,MAR,2008,200000000
 Morocco,MAR,2021,212500000
@@ -543,31 +562,29 @@ Mexico,MEX,2019,260000000
 Mexico,MEX,2020,137700000
 Mexico,MEX,2021,655400000
 Mexico,MEX,2022,228000000
-Middle income,MIC,1994,6399000000
-Middle income,MIC,1996,14988620000
-Middle income,MIC,1997,16287140000
+Middle income,MIC,1994,6499000000
+Middle income,MIC,1996,15089820000
+Middle income,MIC,1997,16036440000
 Middle income,MIC,1998,14481500000
-Middle income,MIC,1999,7023460000
-Middle income,MIC,2000,7817690000
-Middle income,MIC,2001,5567330000
-Middle income,MIC,2004,4614990000
-Middle income,MIC,2005,17888670000
-Middle income,MIC,2006,31253210000
+Middle income,MIC,1999,7019780000
+Middle income,MIC,2004,4648990000
+Middle income,MIC,2005,17965570000
+Middle income,MIC,2006,31051210000
 Middle income,MIC,2007,28270700000
 Middle income,MIC,2008,25410830000
-Middle income,MIC,2009,22052980000
+Middle income,MIC,2009,21999980000
 Middle income,MIC,2012,54777840000
 Middle income,MIC,2013,35823530000
 Middle income,MIC,2016,19790790000
-Middle income,MIC,2017,34468240000
-Middle income,MIC,2019,49325770000
+Middle income,MIC,2017,34232590000
+Middle income,MIC,2019,46120770000
 Middle income,MIC,2021,27813270000
-Middle income,MIC,2022,57751180000
+Middle income,MIC,2022,58511400000
 North Macedonia,MKD,2008,295000000
-Mali,MLI,2003,55400000
+Mali,MLI,2003,27700000
 Myanmar,MMR,1996,50000000
 Myanmar,MMR,2018,104000000
-Mozambique,MOZ,1997,426000000
+Mozambique,MOZ,1997,213000000
 Mozambique,MOZ,1998,15000000
 Mozambique,MOZ,2002,77700000
 Mozambique,MOZ,2003,70000000
@@ -579,15 +596,14 @@ Mauritius,MUS,2009,383000000
 Malawi,MWI,1999,6000000
 Malaysia,MYS,1985,31900000
 Malaysia,MYS,1988,3192000000
-Malaysia,MYS,1990,700000
 Malaysia,MYS,1992,160000000
 Malaysia,MYS,1993,814000000
 Malaysia,MYS,1994,2010600000
 Malaysia,MYS,1995,1889000000
-Malaysia,MYS,1996,2981000000
-Malaysia,MYS,1997,2210300000
+Malaysia,MYS,1996,2948100000
+Malaysia,MYS,1997,2182400000
 Malaysia,MYS,1998,591900000
-Malaysia,MYS,1999,317880000
+Malaysia,MYS,1999,314200000
 Malaysia,MYS,2000,1079700000
 Malaysia,MYS,2001,684300000
 Malaysia,MYS,2003,1569900000
@@ -639,7 +655,7 @@ Peru,PER,2016,18900000
 Peru,PER,2017,415100000
 Peru,PER,2018,215000000
 Peru,PER,2020,229000000
-Peru,PER,2022,800000000
+Peru,PER,2022,1152000000
 Peru,PER,2023,975000000
 Philippines,PHL,1988,110000000
 Philippines,PHL,1995,300000000
@@ -651,7 +667,7 @@ Philippines,PHL,2001,908500000
 Philippines,PHL,2002,30100000
 Philippines,PHL,2006,214600000
 Philippines,PHL,2008,315300000
-Philippines,PHL,2009,149000000
+Philippines,PHL,2009,96000000
 Philippines,PHL,2010,343000000
 Philippines,PHL,2011,370000000
 Philippines,PHL,2012,49700000
@@ -664,6 +680,7 @@ Philippines,PHL,2019,1733250000
 Philippines,PHL,2021,1860000000
 Philippines,PHL,2022,2170000000
 Philippines,PHL,2023,1793820000
+Philippines,PHL,2024,765200000
 Paraguay,PRY,1998,58000000
 Paraguay,PRY,2019,738000000
 Paraguay,PRY,2021,130000000
@@ -719,9 +736,10 @@ South Asia,SAS,2020,3290710000
 South Asia,SAS,2021,5733600000
 South Asia,SAS,2022,9649170000
 South Asia,SAS,2023,2581020000
+South Asia,SAS,2024,1162000000
 Sudan,SDN,2006,30000000
 Sudan,SDN,2019,604370000
-Senegal,SEN,2003,55400000
+Senegal,SEN,2003,27700000
 Senegal,SEN,2008,134000000
 Senegal,SEN,2009,264000000
 Senegal,SEN,2012,730000000
@@ -732,21 +750,22 @@ Sierra Leone,SLE,2010,130000000
 "Somalia, Fed. Rep.",SOM,2013,10000000
 "Somalia, Fed. Rep.",SOM,2018,442000000
 "Somalia, Fed. Rep.",SOM,2020,50000000
+"Somalia, Fed. Rep.",SOM,2024,70000000
 Serbia,SRB,2018,1118470000
 Serbia,SRB,2019,42560000
 Suriname,SUR,2023,14500000
 Syrian Arab Republic,SYR,2006,37000000
 Syrian Arab Republic,SYR,2009,45000000
-East Asia & Pacific (IDA & IBRD countries),TEA,1990,1926900000
-East Asia & Pacific (IDA & IBRD countries),TEA,1991,2805300000
+East Asia & Pacific (IDA & IBRD countries),TEA,1990,921200000
+East Asia & Pacific (IDA & IBRD countries),TEA,1991,2405300000
 East Asia & Pacific (IDA & IBRD countries),TEA,1992,855100000
 East Asia & Pacific (IDA & IBRD countries),TEA,1993,2337500000
 East Asia & Pacific (IDA & IBRD countries),TEA,1994,4133400000
 East Asia & Pacific (IDA & IBRD countries),TEA,1995,4821100000
-East Asia & Pacific (IDA & IBRD countries),TEA,1996,8854420000
-East Asia & Pacific (IDA & IBRD countries),TEA,1997,6499740000
+East Asia & Pacific (IDA & IBRD countries),TEA,1996,8761520000
+East Asia & Pacific (IDA & IBRD countries),TEA,1997,6471840000
 East Asia & Pacific (IDA & IBRD countries),TEA,1998,2289800000
-East Asia & Pacific (IDA & IBRD countries),TEA,1999,2183460000
+East Asia & Pacific (IDA & IBRD countries),TEA,1999,2179780000
 East Asia & Pacific (IDA & IBRD countries),TEA,2000,2644600000
 East Asia & Pacific (IDA & IBRD countries),TEA,2001,2755030000
 East Asia & Pacific (IDA & IBRD countries),TEA,2002,1844410000
@@ -756,7 +775,7 @@ East Asia & Pacific (IDA & IBRD countries),TEA,2005,7215850000
 East Asia & Pacific (IDA & IBRD countries),TEA,2006,9641710000
 East Asia & Pacific (IDA & IBRD countries),TEA,2007,5702980000
 East Asia & Pacific (IDA & IBRD countries),TEA,2008,1542050000
-East Asia & Pacific (IDA & IBRD countries),TEA,2009,3083370000
+East Asia & Pacific (IDA & IBRD countries),TEA,2009,3030370000
 East Asia & Pacific (IDA & IBRD countries),TEA,2011,1465370000
 East Asia & Pacific (IDA & IBRD countries),TEA,2012,4591100000
 East Asia & Pacific (IDA & IBRD countries),TEA,2013,5178930000
@@ -765,22 +784,24 @@ East Asia & Pacific (IDA & IBRD countries),TEA,2015,3937640000
 East Asia & Pacific (IDA & IBRD countries),TEA,2016,6408030000
 East Asia & Pacific (IDA & IBRD countries),TEA,2017,24539990000
 East Asia & Pacific (IDA & IBRD countries),TEA,2018,29462230000
-East Asia & Pacific (IDA & IBRD countries),TEA,2019,30973800000
+East Asia & Pacific (IDA & IBRD countries),TEA,2019,27373800000
 East Asia & Pacific (IDA & IBRD countries),TEA,2020,2788890000
 East Asia & Pacific (IDA & IBRD countries),TEA,2021,15201110000
-East Asia & Pacific (IDA & IBRD countries),TEA,2022,32282890000
+East Asia & Pacific (IDA & IBRD countries),TEA,2022,32417890000
 East Asia & Pacific (IDA & IBRD countries),TEA,2023,3474770000
+East Asia & Pacific (IDA & IBRD countries),TEA,2024,4094610000
 Europe & Central Asia (IDA & IBRD countries),TEC,2017,3588880000
 Togo,TGO,1987,10000000
 Togo,TGO,2005,76900000
 Togo,TGO,2011,442000000
 Thailand,THA,1984,12200000
 Thailand,THA,1985,4900000
-Thailand,THA,1990,1637200000
-Thailand,THA,1991,415700000
+Thailand,THA,1990,632200000
+Thailand,THA,1991,15700000
 Thailand,THA,1992,48000000
+Thailand,THA,1993,0
 Thailand,THA,1995,1700000000
-Thailand,THA,1996,210000000
+Thailand,THA,1996,150000000
 Thailand,THA,1998,27400000
 Thailand,THA,1999,63730000
 Thailand,THA,2001,455000000
@@ -789,12 +810,12 @@ Thailand,THA,2004,439000000
 Thailand,THA,2017,3356000000
 Tajikistan,TJK,2022,4500000
 Latin America & the Caribbean (IDA & IBRD countries),TLA,1994,2171800000
-Latin America & the Caribbean (IDA & IBRD countries),TLA,1995,2137720000
-Latin America & the Caribbean (IDA & IBRD countries),TLA,1996,6051200000
-Latin America & the Caribbean (IDA & IBRD countries),TLA,1997,8508100000
+Latin America & the Caribbean (IDA & IBRD countries),TLA,1995,2130620000
+Latin America & the Caribbean (IDA & IBRD countries),TLA,1996,5995300000
+Latin America & the Caribbean (IDA & IBRD countries),TLA,1997,8480300000
 Latin America & the Caribbean (IDA & IBRD countries),TLA,1998,11445600000
 Latin America & the Caribbean (IDA & IBRD countries),TLA,1999,2869900000
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2000,4488000000
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2000,4246100000
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2001,1644500000
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2002,697700000
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2003,808000000
@@ -810,9 +831,9 @@ Latin America & the Caribbean (IDA & IBRD countries),TLA,2013,19045900000
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2014,39445840000
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2015,14783700000
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2016,7895940000
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2018,4087500000
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2018,4094400000
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2020,2357860000
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2022,14781720000
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2022,15406940000
 Timor-Leste,TLS,2018,490000000
 South Asia (IDA & IBRD),TSA,1990,1900000
 South Asia (IDA & IBRD),TSA,1994,125000000
@@ -844,6 +865,7 @@ South Asia (IDA & IBRD),TSA,2020,3290710000
 South Asia (IDA & IBRD),TSA,2021,5733600000
 South Asia (IDA & IBRD),TSA,2022,9649170000
 South Asia (IDA & IBRD),TSA,2023,2581020000
+South Asia (IDA & IBRD),TSA,2024,1162000000
 Tunisia,TUN,2007,840000000
 Turkiye,TUR,1994,20000000
 Turkiye,TUR,1996,85000000
@@ -865,50 +887,50 @@ Turkiye,TUR,2017,991880000
 Turkiye,TUR,2018,6923900000
 Turkiye,TUR,2019,237800000
 Turkiye,TUR,2022,30000000
+Turkiye,TUR,2024,1959200000
 Tanzania,TZA,1998,16500000
 Tanzania,TZA,2000,27690000
 Tanzania,TZA,2007,134000000
 Tanzania,TZA,2023,250000000
-Uganda,UGA,2006,404000000
+Tanzania,TZA,2024,142000000
+Uganda,UGA,2006,202000000
 Uganda,UGA,2021,229500000
 Ukraine,UKR,2009,130000000
 Ukraine,UKR,2017,150000000
 Ukraine,UKR,2020,15000000
 Ukraine,UKR,2021,120000000
-Upper middle income,UMC,1990,8618300000
-Upper middle income,UMC,1991,3424300000
 Upper middle income,UMC,1992,3631600000
 Upper middle income,UMC,1993,4465000000
-Upper middle income,UMC,1994,6215200000
-Upper middle income,UMC,1995,6538820000
-Upper middle income,UMC,1996,14037520000
-Upper middle income,UMC,1997,14560140000
+Upper middle income,UMC,1994,6225200000
+Upper middle income,UMC,1995,6831720000
+Upper middle income,UMC,1996,14417720000
+Upper middle income,UMC,1997,15488140000
 Upper middle income,UMC,1998,13901100000
-Upper middle income,UMC,1999,5805960000
-Upper middle income,UMC,2000,6728300000
-Upper middle income,UMC,2001,3973030000
-Upper middle income,UMC,2002,2484810000
+Upper middle income,UMC,1999,6302580000
+Upper middle income,UMC,2000,6491300000
+Upper middle income,UMC,2001,4881530000
+Upper middle income,UMC,2002,2534910000
 Upper middle income,UMC,2003,6665150000
 Upper middle income,UMC,2004,2937090000
 Upper middle income,UMC,2005,13856520000
-Upper middle income,UMC,2006,19365900000
-Upper middle income,UMC,2007,20615080000
-Upper middle income,UMC,2008,17057490000
-Upper middle income,UMC,2009,15918730000
-Upper middle income,UMC,2011,13370820000
-Upper middle income,UMC,2012,31678340000
-Upper middle income,UMC,2013,26183660000
-Upper middle income,UMC,2014,49248940000
-Upper middle income,UMC,2015,60049740000
-Upper middle income,UMC,2016,13191270000
-Upper middle income,UMC,2017,27448020000
-Upper middle income,UMC,2018,40998100000
-Upper middle income,UMC,2019,31738370000
-Upper middle income,UMC,2020,5759780000
-Upper middle income,UMC,2021,19181860000
-Upper middle income,UMC,2022,42862610000
+Upper middle income,UMC,2006,20418500000
+Upper middle income,UMC,2007,21557080000
+Upper middle income,UMC,2008,17737790000
+Upper middle income,UMC,2009,16214730000
+Upper middle income,UMC,2011,14192320000
+Upper middle income,UMC,2012,31728040000
+Upper middle income,UMC,2013,26505830000
+Upper middle income,UMC,2014,50180040000
+Upper middle income,UMC,2015,61073640000
+Upper middle income,UMC,2016,15667670000
+Upper middle income,UMC,2017,27621570000
+Upper middle income,UMC,2018,41005000000
+Upper middle income,UMC,2019,32191670000
+Upper middle income,UMC,2021,21140860000
+Upper middle income,UMC,2022,47287330000
 Uruguay,URY,2021,220000000
 Uruguay,URY,2022,476000000
+Uruguay,URY,2024,500000000
 Uzbekistan,UZB,2008,25000000
 "Venezuela, RB",VEN,1994,100000000
 "Venezuela, RB",VEN,1996,250000000
@@ -927,21 +949,21 @@ Viet Nam,VNM,2013,275500000
 Viet Nam,VNM,2016,4500000
 Viet Nam,VNM,2019,1025050000
 Viet Nam,VNM,2021,99000000
-Viet Nam,VNM,2022,1494500000
+Viet Nam,VNM,2022,1629500000
 Kosovo,XKX,2011,127000000
 Kosovo,XKX,2013,63000000
 "Yemen, Rep.",YEM,1997,190000000
 "Yemen, Rep.",YEM,2008,220000000
-South Africa,ZAF,1997,426000000
+South Africa,ZAF,1997,213000000
 South Africa,ZAF,1998,165700000
 South Africa,ZAF,1999,794700000
 South Africa,ZAF,2000,3700000
 South Africa,ZAF,2001,484000000
 South Africa,ZAF,2003,17000000
 South Africa,ZAF,2006,3483000000
-South Africa,ZAF,2011,97000000
+South Africa,ZAF,2011,48500000
 South Africa,ZAF,2019,13500000
 Zambia,ZMB,2003,15550000
 Zimbabwe,ZWE,1994,18000000
 Zimbabwe,ZWE,1998,85000000
-Zimbabwe,ZWE,2011,97000000
+Zimbabwe,ZWE,2011,48500000

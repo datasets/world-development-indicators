@@ -1,1 +1,3 @@
-Birds are listed for countries included within their breeding or wintering ranges. Threatened species are the number of species classified by the IUCN as endangered, vulnerable, rare, indeterminate, out of danger, or insufficiently known.
+A threatened species is likely to become endangered within the foreseeable future, throughout all or a significant portion of its range. Threatened species are species classified by the IUCN as Critically Endangered (CR), Endangered (EN) and Vulnerable (VU).
+
+Birds are listed for countries included within their breeding or wintering ranges.

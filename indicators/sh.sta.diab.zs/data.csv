@@ -6,8 +6,8 @@ Africa Eastern and Southern,AFE,2011,4.58905122803024
 Africa Eastern and Southern,AFE,2024,6.45404408992017
 Afghanistan,AFG,2011,7.6
 Afghanistan,AFG,2024,11.7
-Africa Western and Central,AFW,2011,4.41383159735954
-Africa Western and Central,AFW,2024,4.2192773884166
+Africa Western and Central,AFW,2011,4.41587371659126
+Africa Western and Central,AFW,2024,4.2177974374383
 Angola,AGO,2011,2.9
 Angola,AGO,2024,4.9
 Albania,ALB,2011,2.8
@@ -127,19 +127,19 @@ Algeria,DZA,2024,17.5
 East Asia & Pacific (excluding high income),EAP,2011,8.07097570862458
 East Asia & Pacific (excluding high income),EAP,2024,11.1353659963515
 Early-demographic dividend,EAR,2011,8.80140777050446
-Early-demographic dividend,EAR,2024,12.3020275660919
+Early-demographic dividend,EAR,2024,12.3020103575019
 East Asia & Pacific,EAS,2011,8.02490678606455
-East Asia & Pacific,EAS,2024,10.8651898247313
+East Asia & Pacific,EAS,2024,10.8651891442221
 Europe & Central Asia (excluding high income),ECA,2011,5.96867339247017
-Europe & Central Asia (excluding high income),ECA,2024,10.5209498489679
+Europe & Central Asia (excluding high income),ECA,2024,10.5191770154712
 Europe & Central Asia,ECS,2011,6.54443202236628
-Europe & Central Asia,ECS,2024,7.99551816603019
+Europe & Central Asia,ECS,2024,7.99502480843386
 Ecuador,ECU,2011,6.6
 Ecuador,ECU,2024,4.9
 "Egypt, Arab Rep.",EGY,2011,16.6
 "Egypt, Arab Rep.",EGY,2024,22.4
-Euro area,EMU,2011,5.64772111823024
-Euro area,EMU,2024,7.56344445277776
+Euro area,EMU,2011,5.67045797789449
+Euro area,EMU,2024,7.56051060653856
 Eritrea,ERI,2011,3.6
 Eritrea,ERI,2024,4.4
 Spain,ESP,2011,6.3
@@ -148,10 +148,8 @@ Estonia,EST,2011,7
 Estonia,EST,2024,6.9
 Ethiopia,ETH,2011,3.4
 Ethiopia,ETH,2024,4.4
-European Union,EUU,2011,6.01744173074927
-European Union,EUU,2024,7.562985196941
-Fragile and conflict affected situations,FCS,2011,5.70990148329813
-Fragile and conflict affected situations,FCS,2024,6.97601622139546
+European Union,EUU,2011,6.01744173074928
+European Union,EUU,2024,7.56298519694099
 Finland,FIN,2011,5.8
 Finland,FIN,2024,6.9
 Fiji,FJI,2011,10.9
@@ -190,14 +188,14 @@ Guam,GUM,2024,20.3
 Guyana,GUY,2011,16.7
 Guyana,GUY,2024,16.4
 High income,HIC,2011,7.97810346491069
-High income,HIC,2024,9.72898579411539
+High income,HIC,2024,9.72828519399888
 "Hong Kong SAR, China",HKG,2000,12.1
 "Hong Kong SAR, China",HKG,2011,7.6
 "Hong Kong SAR, China",HKG,2024,8.2
 Honduras,HND,2011,6.7
 Honduras,HND,2024,5
-Heavily indebted poor countries (HIPC),HPC,2011,4.34085165004219
-Heavily indebted poor countries (HIPC),HPC,2024,6.60860707458512
+Heavily indebted poor countries (HIPC),HPC,2011,4.34195003223281
+Heavily indebted poor countries (HIPC),HPC,2024,6.61116701514905
 Croatia,HRV,2011,5.2
 Croatia,HRV,2024,10.5
 Haiti,HTI,2011,6.6
@@ -205,17 +203,17 @@ Haiti,HTI,2024,8.5
 Hungary,HUN,2011,6
 Hungary,HUN,2024,8.3
 IBRD only,IBD,2011,8.77358205507259
-IBRD only,IBD,2024,11.0829757852289
-IDA & IBRD total,IBT,2011,8.23069477971373
-IDA & IBRD total,IBT,2024,10.9095939092628
-IDA total,IDA,2011,6.12038317179501
-IDA total,IDA,2024,10.3508948963582
+IBRD only,IBD,2024,11.0827255920625
+IDA & IBRD total,IBT,2011,8.23114165514152
+IDA & IBRD total,IBT,2024,10.910342158404
+IDA total,IDA,2011,6.12163285416566
+IDA total,IDA,2024,10.3544735635583
 IDA blend,IDB,2011,6.44517702169862
 IDA blend,IDB,2024,14.6088008639666
 Indonesia,IDN,2011,5.1
 Indonesia,IDN,2024,11.3
-IDA only,IDX,2011,5.94123956026699
-IDA only,IDX,2024,8.10270247205049
+IDA only,IDX,2011,5.94305580479713
+IDA only,IDX,2024,8.1059570912486
 Isle of Man,IMN,2024,7.5
 India,IND,2011,9
 India,IND,2024,10.5
@@ -254,8 +252,8 @@ St. Kitts and Nevis,KNA,2024,13.8
 "Korea, Rep.",KOR,2024,9.6
 Kuwait,KWT,2011,20.7
 Kuwait,KWT,2024,25.6
-Latin America & Caribbean (excluding high income),LAC,2011,10.304490875094
-Latin America & Caribbean (excluding high income),LAC,2024,11.4342281689354
+Latin America & Caribbean (excluding high income),LAC,2011,10.2991774997074
+Latin America & Caribbean (excluding high income),LAC,2024,11.3094933128497
 Lao PDR,LAO,2011,3.3
 Lao PDR,LAO,2024,6.7
 Lebanon,LBN,2011,19.6
@@ -267,23 +265,23 @@ Libya,LBY,2024,15.8
 St. Lucia,LCA,2011,8.4
 St. Lucia,LCA,2024,11.4
 Latin America & Caribbean,LCN,2011,10.2707067382556
-Latin America & Caribbean,LCN,2024,11.3098936080165
-Least developed countries: UN classification,LDC,2011,5.65770105615707
-Least developed countries: UN classification,LDC,2024,7.85292122819199
-Low income,LIC,2011,5.30109406690667
-Low income,LIC,2024,7.69595130128294
+Latin America & Caribbean,LCN,2024,11.3098941545388
+Least developed countries: UN classification,LDC,2011,5.65948999251373
+Least developed countries: UN classification,LDC,2024,7.85618712816249
+Low income,LIC,2011,4.99261482484382
+Low income,LIC,2024,7.13030769158445
 Liechtenstein,LIE,2011,4.7
 Liechtenstein,LIE,2024,7.2
 Sri Lanka,LKA,2011,7.5
 Sri Lanka,LKA,2024,10.2
-Lower middle income,LMC,2011,8.23966398075061
-Lower middle income,LMC,2024,11.1622733196298
-Low & middle income,LMY,2011,8.23582709397861
-Low & middle income,LMY,2024,11.1777477499814
+Lower middle income,LMC,2011,8.40320109225212
+Lower middle income,LMC,2024,11.5365290109666
+Low & middle income,LMY,2011,8.18526604626397
+Low & middle income,LMY,2024,11.0570304726836
 Lesotho,LSO,2011,3.4
 Lesotho,LSO,2024,6.2
 Late-demographic dividend,LTE,2011,8.75082047069947
-Late-demographic dividend,LTE,2024,10.9311200785653
+Late-demographic dividend,LTE,2024,10.93062914623
 Lithuania,LTU,2011,7.8
 Lithuania,LTU,2024,7.5
 Luxembourg,LUX,2011,4.5
@@ -303,14 +301,14 @@ Madagascar,MDG,2024,4.6
 Maldives,MDV,2011,9.2
 Maldives,MDV,2024,9.5
 "Middle East, North Africa, Afghanistan & Pakistan",MEA,2011,10.7225516736037
-"Middle East, North Africa, Afghanistan & Pakistan",MEA,2024,20.1372780980832
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2024,20.136911070149
 Mexico,MEX,2000,14.2
 Mexico,MEX,2011,15.6
 Mexico,MEX,2024,16.4
 Marshall Islands,MHL,2011,21.8
 Marshall Islands,MHL,2024,25.7
-Middle income,MIC,2011,8.42555975099414
-Middle income,MIC,2024,11.4620731986091
+Middle income,MIC,2011,8.43028126507396
+Middle income,MIC,2024,11.4411245608188
 North Macedonia,MKD,2011,7.7
 North Macedonia,MKD,2024,7.4
 Mali,MLI,2011,1.9
@@ -337,7 +335,7 @@ Malawi,MWI,2024,5.7
 Malaysia,MYS,2011,12.1
 Malaysia,MYS,2024,21.1
 North America,NAC,2011,9.2978023991404
-North America,NAC,2024,13.0350704010611
+North America,NAC,2024,13.0352603251899
 Namibia,NAM,2011,7.8
 Namibia,NAM,2024,5.3
 New Caledonia,NCL,2011,8.6
@@ -359,7 +357,7 @@ Nauru,NRU,2024,21.8
 New Zealand,NZL,2011,8.6
 New Zealand,NZL,2024,6.7
 OECD members,OED,2011,8.08407691450804
-OECD members,OED,2024,10.5165263487106
+OECD members,OED,2024,10.5162075229361
 Oman,OMN,2011,10.5
 Oman,OMN,2024,17
 Other small states,OSS,2011,7.88591980897521
@@ -380,8 +378,8 @@ Papua New Guinea,PNG,2011,7.6
 Papua New Guinea,PNG,2024,14.1
 Poland,POL,2011,9
 Poland,POL,2024,8.1
-Pre-demographic dividend,PRE,2011,4.59265491155313
-Pre-demographic dividend,PRE,2024,6.34356773813422
+Pre-demographic dividend,PRE,2011,4.59383384314183
+Pre-demographic dividend,PRE,2024,6.34544213929058
 Puerto Rico (US),PRI,2011,13
 Puerto Rico (US),PRI,2024,10.9
 "Korea, Dem. People's Rep.",PRK,2011,8.4
@@ -395,7 +393,7 @@ West Bank and Gaza,PSE,2024,15.5
 Pacific island small states,PSS,2011,13.4162047389065
 Pacific island small states,PSS,2024,17.0708090275406
 Post-demographic dividend,PST,2011,7.08857587027415
-Post-demographic dividend,PST,2024,9.46121365518996
+Post-demographic dividend,PST,2024,9.46076364488546
 French Polynesia,PYF,2011,8.6
 French Polynesia,PYF,2024,22.8
 Qatar,QAT,2011,19.8
@@ -428,11 +426,11 @@ San Marino,SMR,2024,8.6
 "Somalia, Fed. Rep.",SOM,2024,5.8
 Serbia,SRB,2011,7.7
 Serbia,SRB,2024,10.5
-Sub-Saharan Africa (excluding high income),SSA,2011,4.64035667299125
-Sub-Saharan Africa (excluding high income),SSA,2024,5.69564297111024
+Sub-Saharan Africa (excluding high income),SSA,2011,4.51722854849666
+Sub-Saharan Africa (excluding high income),SSA,2024,5.56019579742344
 South Sudan,SSD,2024,4.6
-Sub-Saharan Africa,SSF,2011,4.51732700890279
-Sub-Saharan Africa,SSF,2024,5.55989717914018
+Sub-Saharan Africa,SSF,2011,4.51823961177629
+Sub-Saharan Africa,SSF,2024,5.56067083295313
 Small states,SST,2011,9.68512946756901
 Small states,SST,2024,11.3574229239809
 Sao Tome and Principe,STP,2011,5.5
@@ -456,7 +454,7 @@ Chad,TCD,2024,7.3
 East Asia & Pacific (IDA & IBRD countries),TEA,2011,8.06684253632877
 East Asia & Pacific (IDA & IBRD countries),TEA,2024,11.1509213612865
 Europe & Central Asia (IDA & IBRD countries),TEC,2011,7.59013298809859
-Europe & Central Asia (IDA & IBRD countries),TEC,2024,8.64389698734676
+Europe & Central Asia (IDA & IBRD countries),TEC,2024,8.64258578933349
 Togo,TGO,2011,3.3
 Togo,TGO,2024,4.8
 Thailand,THA,2011,7.5
@@ -476,8 +474,8 @@ Tonga,TON,2011,12.7
 Tonga,TON,2024,19.6
 South Asia (IDA & IBRD),TSA,2011,9.03165942802619
 South Asia (IDA & IBRD),TSA,2024,10.7173486503525
-Sub-Saharan Africa (IDA & IBRD countries),TSS,2011,4.51732700890278
-Sub-Saharan Africa (IDA & IBRD countries),TSS,2024,5.55989717914018
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2011,4.51823961177629
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2024,5.56067083295313
 Trinidad and Tobago,TTO,2000,14.1
 Trinidad and Tobago,TTO,2011,12.7
 Trinidad and Tobago,TTO,2024,12.4
@@ -493,8 +491,8 @@ Uganda,UGA,2011,2.8
 Uganda,UGA,2024,2.2
 Ukraine,UKR,2011,2.9
 Ukraine,UKR,2024,6
-Upper middle income,UMC,2011,8.58331261616091
-Upper middle income,UMC,2024,11.7527798413722
+Upper middle income,UMC,2011,8.45007739457124
+Upper middle income,UMC,2024,11.3618644752643
 Uruguay,URY,2011,5.7
 Uruguay,URY,2024,7.8
 United States,USA,2011,9.4
@@ -511,8 +509,8 @@ Viet Nam,VNM,2011,3.2
 Viet Nam,VNM,2024,3.4
 Vanuatu,VUT,2011,16.1
 Vanuatu,VUT,2024,19.7
-World,WLD,2011,8.14038930852421
-World,WLD,2024,10.7972882953105
+World,WLD,2011,8.14074847164927
+World,WLD,2024,10.7978422879351
 Samoa,WSM,2011,7.7
 Samoa,WSM,2024,25.4
 Kosovo,XKX,2024,10.4

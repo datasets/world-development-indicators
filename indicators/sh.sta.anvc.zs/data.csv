@@ -311,9 +311,6 @@ Ethiopia,ETH,2011,33.9
 Ethiopia,ETH,2014,41.2
 Ethiopia,ETH,2016,62.4
 Ethiopia,ETH,2019,73.6
-Fragile and conflict affected situations,FCS,2000,59.6217773321399
-Fragile and conflict affected situations,FCS,2010,66.6327002190887
-Fragile and conflict affected situations,FCS,2019,75.5166474079939
 Finland,FIN,1993,100
 Finland,FIN,2004,99.8
 Fiji,FJI,2008,100
@@ -536,19 +533,19 @@ Latin America & Caribbean,LCN,2010,96.4061800983699
 Least developed countries: UN classification,LDC,2000,56.7164366616345
 Least developed countries: UN classification,LDC,2010,71.6460935863515
 Least developed countries: UN classification,LDC,2019,82.244039260586
-Low income,LIC,2000,66.6135628631048
-Low income,LIC,2010,80.5060380640277
-Low income,LIC,2019,82.7248526420497
+Low income,LIC,2000,58.628296694862
+Low income,LIC,2010,72.2879956353246
+Low income,LIC,2019,80.9140083162149
 Sri Lanka,LKA,1993,80.2
 Sri Lanka,LKA,2000,94.5
 Sri Lanka,LKA,2007,99.4
 Sri Lanka,LKA,2014,95.5
 Sri Lanka,LKA,2016,98.8
-Lower middle income,LMC,2000,62.3579647525419
-Lower middle income,LMC,2019,85.132642296421
-Low & middle income,LMY,2000,70.4059365216466
-Low & middle income,LMY,2010,83.0410677106639
-Low & middle income,LMY,2019,88.1859662036918
+Lower middle income,LMC,2000,61.3452905678175
+Lower middle income,LMC,2019,84.3381934173677
+Low & middle income,LMY,2000,69.3163681489704
+Low & middle income,LMY,2010,81.3563198699763
+Low & middle income,LMY,2019,87.6548014979689
 Lesotho,LSO,1993,90.6
 Lesotho,LSO,1995,87.6
 Lesotho,LSO,2000,84.7
@@ -596,9 +593,9 @@ Mexico,MEX,2012,97.6
 Mexico,MEX,2014,97.2
 Mexico,MEX,2015,98.5
 Marshall Islands,MHL,2007,81.2
-Middle income,MIC,2000,70.9126406740184
-Middle income,MIC,2010,83.5442166255931
-Middle income,MIC,2019,89.1371293849093
+Middle income,MIC,2000,71.0579579933422
+Middle income,MIC,2010,83.50619039314
+Middle income,MIC,2019,89.1030745442313
 North Macedonia,MKD,1997,100
 North Macedonia,MKD,2000,81
 North Macedonia,MKD,2006,98.1
@@ -762,7 +759,7 @@ Papua New Guinea,PNG,2006,78.8
 Papua New Guinea,PNG,2018,76.1
 Pre-demographic dividend,PRE,2000,68.9686103808093
 Pre-demographic dividend,PRE,2010,74.9792967512897
-Pre-demographic dividend,PRE,2019,81.3600812036688
+Pre-demographic dividend,PRE,2019,81.3600812036689
 "Korea, Dem. People's Rep.",PRK,2000,97.1
 "Korea, Dem. People's Rep.",PRK,2009,100
 "Korea, Dem. People's Rep.",PRK,2017,99.5
@@ -855,14 +852,14 @@ Serbia,SRB,2006,98.2
 Serbia,SRB,2010,99
 Serbia,SRB,2014,98.3
 Serbia,SRB,2019,99.4
-Sub-Saharan Africa (excluding high income),SSA,2000,72.5766207615897
-Sub-Saharan Africa (excluding high income),SSA,2010,77.5047987230657
-Sub-Saharan Africa (excluding high income),SSA,2019,83.1199102200476
+Sub-Saharan Africa (excluding high income),SSA,2000,67.5638291350952
+Sub-Saharan Africa (excluding high income),SSA,2010,73.2470449109344
+Sub-Saharan Africa (excluding high income),SSA,2019,82.1004477898433
 South Sudan,SSD,2006,26.2
 South Sudan,SSD,2010,40.3
 South Sudan,SSD,2013,61.9
 Sub-Saharan Africa,SSF,2000,67.5638291350951
-Sub-Saharan Africa,SSF,2010,73.2470449109345
+Sub-Saharan Africa,SSF,2010,73.2470449109344
 Sub-Saharan Africa,SSF,2019,82.1004477898433
 Sao Tome and Principe,STP,2000,90.6
 Sao Tome and Principe,STP,2006,97.3
@@ -947,7 +944,7 @@ Tonga,TON,2019,97.7
 South Asia (IDA & IBRD),TSA,2000,58.0502422951396
 South Asia (IDA & IBRD),TSA,2019,84.1825123809623
 Sub-Saharan Africa (IDA & IBRD countries),TSS,2000,67.5638291350952
-Sub-Saharan Africa (IDA & IBRD countries),TSS,2010,73.2470449109345
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2010,73.2470449109344
 Sub-Saharan Africa (IDA & IBRD countries),TSS,2019,82.1004477898433
 Trinidad and Tobago,TTO,1987,98
 Trinidad and Tobago,TTO,2000,92.4
@@ -994,10 +991,9 @@ Uganda,UGA,2019,95.1
 Ukraine,UKR,2005,98.8
 Ukraine,UKR,2007,98.5
 Ukraine,UKR,2012,98.6
-Upper middle income,UMC,1990,71.0236579289419
-Upper middle income,UMC,2000,87.7808081042796
-Upper middle income,UMC,2010,94.5139738550355
-Upper middle income,UMC,2019,97.9295386561298
+Upper middle income,UMC,2000,87.0198823878788
+Upper middle income,UMC,2010,94.5054821768172
+Upper middle income,UMC,2019,97.6285141857917
 Uruguay,URY,1997,94
 Uruguay,URY,2005,97.1
 Uruguay,URY,2007,96.2
@@ -1029,7 +1025,7 @@ Viet Nam,VNM,2021,97
 Vanuatu,VUT,2007,84.3
 Vanuatu,VUT,2013,75.6
 World,WLD,2000,69.3415686421818
-World,WLD,2019,87.6327499576889
+World,WLD,2019,87.632749957689
 Samoa,WSM,2009,93
 Samoa,WSM,2014,93.3
 Samoa,WSM,2020,94.1

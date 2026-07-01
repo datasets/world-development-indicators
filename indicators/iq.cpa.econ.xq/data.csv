@@ -11,7 +11,7 @@ Africa Eastern and Southern,AFE,2013,3.18421052631579
 Africa Eastern and Southern,AFE,2014,3.21296222222222
 Africa Eastern and Southern,AFE,2015,3.12962925925926
 Africa Eastern and Southern,AFE,2016,3.02777777777778
-Africa Eastern and Southern,AFE,2017,2.91228070175438
+Africa Eastern and Southern,AFE,2017,2.91228070175439
 Africa Eastern and Southern,AFE,2018,2.93518518518519
 Africa Eastern and Southern,AFE,2019,2.91228070175439
 Africa Eastern and Southern,AFE,2020,2.90350877192982
@@ -19,6 +19,7 @@ Africa Eastern and Southern,AFE,2021,2.91228073684211
 Africa Eastern and Southern,AFE,2022,2.89473694736842
 Africa Eastern and Southern,AFE,2023,2.91228068421053
 Africa Eastern and Southern,AFE,2024,2.92500005
+Africa Eastern and Southern,AFE,2025,2.90833345
 Afghanistan,AFG,2006,3.33333333333333
 Afghanistan,AFG,2007,3.16666666666667
 Afghanistan,AFG,2008,3.2
@@ -37,6 +38,7 @@ Afghanistan,AFG,2020,3
 Afghanistan,AFG,2022,1.333333
 Afghanistan,AFG,2023,1.166667
 Afghanistan,AFG,2024,1.333333
+Afghanistan,AFG,2025,1.5
 Africa Western and Central,AFW,2005,3.32456140350877
 Africa Western and Central,AFW,2006,3.32631578947368
 Africa Western and Central,AFW,2007,3.42105263157895
@@ -57,6 +59,7 @@ Africa Western and Central,AFW,2021,3.39999995
 Africa Western and Central,AFW,2022,3.4083333
 Africa Western and Central,AFW,2023,3.45
 Africa Western and Central,AFW,2024,3.46666665
+Africa Western and Central,AFW,2025,3.49166665
 Angola,AGO,2005,2.5
 Angola,AGO,2006,2.66666666666667
 Angola,AGO,2007,3
@@ -88,6 +91,7 @@ Arab World,ARB,2021,2.41666683333333
 Arab World,ARB,2022,2.41666683333333
 Arab World,ARB,2023,2.52777766666667
 Arab World,ARB,2024,2.58333333333333
+Arab World,ARB,2025,2.42857157142857
 Armenia,ARM,2005,5.33333333333333
 Armenia,ARM,2006,5.33333333333333
 Armenia,ARM,2007,5.5
@@ -123,6 +127,7 @@ Burundi,BDI,2021,2.666667
 Burundi,BDI,2022,2.666667
 Burundi,BDI,2023,2.833333
 Burundi,BDI,2024,3
+Burundi,BDI,2025,3.166667
 Benin,BEN,2005,4
 Benin,BEN,2006,4
 Benin,BEN,2007,4
@@ -143,6 +148,7 @@ Benin,BEN,2021,4.166667
 Benin,BEN,2022,4.166667
 Benin,BEN,2023,4.166667
 Benin,BEN,2024,4.166667
+Benin,BEN,2025,4
 Burkina Faso,BFA,2005,4.5
 Burkina Faso,BFA,2006,4.33333333333333
 Burkina Faso,BFA,2007,4.33333333333333
@@ -163,6 +169,7 @@ Burkina Faso,BFA,2021,3.5
 Burkina Faso,BFA,2022,3.5
 Burkina Faso,BFA,2023,3.5
 Burkina Faso,BFA,2024,3.666667
+Burkina Faso,BFA,2025,4
 Bangladesh,BGD,2005,4
 Bangladesh,BGD,2006,4
 Bangladesh,BGD,2007,4
@@ -183,6 +190,7 @@ Bangladesh,BGD,2021,3.666667
 Bangladesh,BGD,2022,3.5
 Bangladesh,BGD,2023,3.333333
 Bangladesh,BGD,2024,3.5
+Bangladesh,BGD,2025,3.5
 Bosnia and Herzegovina,BIH,2005,3.83333333333333
 Bosnia and Herzegovina,BIH,2006,4
 Bosnia and Herzegovina,BIH,2007,4
@@ -193,6 +201,7 @@ Bosnia and Herzegovina,BIH,2011,3.83333333333333
 Bosnia and Herzegovina,BIH,2012,3.83333333333333
 Bosnia and Herzegovina,BIH,2013,3.83333333333333
 Belize,BLZ,2024,2.833333
+Belize,BLZ,2025,3.166667
 Bolivia,BOL,2005,4
 Bolivia,BOL,2006,4.16666666666667
 Bolivia,BOL,2007,4.16666666666667
@@ -224,6 +233,7 @@ Bhutan,BTN,2021,4.333333
 Bhutan,BTN,2022,4
 Bhutan,BTN,2023,3.666667
 Bhutan,BTN,2024,3.666667
+Bhutan,BTN,2025,3.666667
 Central African Republic,CAF,2005,2.5
 Central African Republic,CAF,2006,2.5
 Central African Republic,CAF,2007,2.83333333333333
@@ -244,6 +254,7 @@ Central African Republic,CAF,2021,3.166667
 Central African Republic,CAF,2022,3.166667
 Central African Republic,CAF,2023,3.166667
 Central African Republic,CAF,2024,3
+Central African Republic,CAF,2025,2.833333
 Cote d'Ivoire,CIV,2005,2
 Cote d'Ivoire,CIV,2006,1.83333333333333
 Cote d'Ivoire,CIV,2007,2.33333333333333
@@ -264,6 +275,7 @@ Cote d'Ivoire,CIV,2021,3.833333
 Cote d'Ivoire,CIV,2022,3.833333
 Cote d'Ivoire,CIV,2023,4
 Cote d'Ivoire,CIV,2024,4.166667
+Cote d'Ivoire,CIV,2025,4.333333
 Cameroon,CMR,2005,3.33333333333333
 Cameroon,CMR,2006,3.5
 Cameroon,CMR,2007,3.66666666666667
@@ -284,6 +296,7 @@ Cameroon,CMR,2021,3.666667
 Cameroon,CMR,2022,3.666667
 Cameroon,CMR,2023,3.666667
 Cameroon,CMR,2024,3.833333
+Cameroon,CMR,2025,3.666667
 "Congo, Dem. Rep.",COD,2005,3.16666666666667
 "Congo, Dem. Rep.",COD,2006,3.16666666666667
 "Congo, Dem. Rep.",COD,2007,3.16666666666667
@@ -304,6 +317,7 @@ Cameroon,CMR,2024,3.833333
 "Congo, Dem. Rep.",COD,2022,3.833333
 "Congo, Dem. Rep.",COD,2023,3.833333
 "Congo, Dem. Rep.",COD,2024,3.666667
+"Congo, Dem. Rep.",COD,2025,3.666667
 "Congo, Rep.",COG,2005,3
 "Congo, Rep.",COG,2006,2.83333333333333
 "Congo, Rep.",COG,2007,2.5
@@ -324,6 +338,7 @@ Cameroon,CMR,2024,3.833333
 "Congo, Rep.",COG,2022,3
 "Congo, Rep.",COG,2023,3
 "Congo, Rep.",COG,2024,3
+"Congo, Rep.",COG,2025,3
 Comoros,COM,2005,2.33333333333333
 Comoros,COM,2006,2
 Comoros,COM,2007,2
@@ -344,6 +359,7 @@ Comoros,COM,2021,2.666667
 Comoros,COM,2022,2.666667
 Comoros,COM,2023,2.666667
 Comoros,COM,2024,2.666667
+Comoros,COM,2025,2.666667
 Cabo Verde,CPV,2005,4.16666666666667
 Cabo Verde,CPV,2006,4.33333333333333
 Cabo Verde,CPV,2007,4.5
@@ -364,6 +380,7 @@ Cabo Verde,CPV,2021,3.333333
 Cabo Verde,CPV,2022,3.5
 Cabo Verde,CPV,2023,3.5
 Cabo Verde,CPV,2024,3.5
+Cabo Verde,CPV,2025,3.5
 Caribbean small states,CSS,2005,3.66666666666667
 Caribbean small states,CSS,2006,3.70666666666667
 Caribbean small states,CSS,2007,3.63333333333333
@@ -384,6 +401,7 @@ Caribbean small states,CSS,2021,3.6666666
 Caribbean small states,CSS,2022,3.6666666
 Caribbean small states,CSS,2023,3.7
 Caribbean small states,CSS,2024,3.5
+Caribbean small states,CSS,2025,3.54761928571429
 Djibouti,DJI,2005,3.16666666666667
 Djibouti,DJI,2006,2.83333333333333
 Djibouti,DJI,2007,2.83333333333333
@@ -404,6 +422,7 @@ Djibouti,DJI,2021,2.666667
 Djibouti,DJI,2022,2.666667
 Djibouti,DJI,2023,2.833333
 Djibouti,DJI,2024,2.833333
+Djibouti,DJI,2025,2.666667
 Dominica,DMA,2005,3.66666666666667
 Dominica,DMA,2006,3.83333333333333
 Dominica,DMA,2007,3.83333333333333
@@ -424,6 +443,7 @@ Dominica,DMA,2021,3.833333
 Dominica,DMA,2022,3.833333
 Dominica,DMA,2023,3.833333
 Dominica,DMA,2024,3.833333
+Dominica,DMA,2025,3.666667
 East Asia & Pacific (excluding high income),EAP,2005,3.59090909090909
 East Asia & Pacific (excluding high income),EAP,2006,3.55833333333333
 East Asia & Pacific (excluding high income),EAP,2007,3.51515151515152
@@ -437,13 +457,14 @@ East Asia & Pacific (excluding high income),EAP,2014,3.31111044444444
 East Asia & Pacific (excluding high income),EAP,2015,3.26666755555556
 East Asia & Pacific (excluding high income),EAP,2016,3.17857214285714
 East Asia & Pacific (excluding high income),EAP,2017,3.17857142857143
-East Asia & Pacific (excluding high income),EAP,2018,3.20238095238096
+East Asia & Pacific (excluding high income),EAP,2018,3.20238095238095
 East Asia & Pacific (excluding high income),EAP,2019,3.19047635714286
 East Asia & Pacific (excluding high income),EAP,2020,3.16666666666667
 East Asia & Pacific (excluding high income),EAP,2021,3.0833335
 East Asia & Pacific (excluding high income),EAP,2022,3.059524
 East Asia & Pacific (excluding high income),EAP,2023,3.00000014285714
 East Asia & Pacific (excluding high income),EAP,2024,2.99999992857143
+East Asia & Pacific (excluding high income),EAP,2025,3.03571421428571
 Early-demographic dividend,EAR,2005,3.63888888888889
 Early-demographic dividend,EAR,2006,3.63
 Early-demographic dividend,EAR,2007,3.59195402298851
@@ -464,6 +485,7 @@ Early-demographic dividend,EAR,2021,3.25287362068965
 Early-demographic dividend,EAR,2022,3.178161
 Early-demographic dividend,EAR,2023,3.12643682758621
 Early-demographic dividend,EAR,2024,3.125
+Early-demographic dividend,EAR,2025,3.14141418181818
 East Asia & Pacific,EAS,2005,3.59090909090909
 East Asia & Pacific,EAS,2006,3.55833333333333
 East Asia & Pacific,EAS,2007,3.51515151515152
@@ -484,6 +506,7 @@ East Asia & Pacific,EAS,2021,3.0833335
 East Asia & Pacific,EAS,2022,3.059524
 East Asia & Pacific,EAS,2023,3.00000014285714
 East Asia & Pacific,EAS,2024,2.99999992857143
+East Asia & Pacific,EAS,2025,3.03571421428571
 Europe & Central Asia (excluding high income),ECA,2005,4.06666666666667
 Europe & Central Asia (excluding high income),ECA,2006,4.17
 Europe & Central Asia (excluding high income),ECA,2007,4.29166666666667
@@ -504,6 +527,7 @@ Europe & Central Asia (excluding high income),ECA,2021,3.83333325
 Europe & Central Asia (excluding high income),ECA,2022,3.83333325
 Europe & Central Asia (excluding high income),ECA,2023,3.91666675
 Europe & Central Asia (excluding high income),ECA,2024,4
+Europe & Central Asia (excluding high income),ECA,2025,4.04166675
 Europe & Central Asia,ECS,2005,4.06666666666667
 Europe & Central Asia,ECS,2006,4.17
 Europe & Central Asia,ECS,2007,4.29166666666667
@@ -524,6 +548,7 @@ Europe & Central Asia,ECS,2021,3.83333325
 Europe & Central Asia,ECS,2022,3.83333325
 Europe & Central Asia,ECS,2023,3.91666675
 Europe & Central Asia,ECS,2024,4
+Europe & Central Asia,ECS,2025,4.04166675
 Eritrea,ERI,2005,2.16666666666667
 Eritrea,ERI,2006,2.16666666666667
 Eritrea,ERI,2007,2.16666666666667
@@ -544,6 +569,7 @@ Eritrea,ERI,2021,1.5
 Eritrea,ERI,2022,1.5
 Eritrea,ERI,2023,1.5
 Eritrea,ERI,2024,1.5
+Eritrea,ERI,2025,1.5
 Ethiopia,ETH,2005,3.66666666666667
 Ethiopia,ETH,2006,3.5
 Ethiopia,ETH,2007,3.5
@@ -564,31 +590,13 @@ Ethiopia,ETH,2021,3.333333
 Ethiopia,ETH,2022,3
 Ethiopia,ETH,2023,2.833333
 Ethiopia,ETH,2024,3
-Fragile and conflict affected situations,FCS,2005,3.16666666666667
-Fragile and conflict affected situations,FCS,2006,3.12933333333333
-Fragile and conflict affected situations,FCS,2007,3.12666666666667
-Fragile and conflict affected situations,FCS,2008,3.124
-Fragile and conflict affected situations,FCS,2009,3.23717948717949
-Fragile and conflict affected situations,FCS,2010,3.23076923076923
-Fragile and conflict affected situations,FCS,2011,3.20238095238095
-Fragile and conflict affected situations,FCS,2012,3.13333333333333
-Fragile and conflict affected situations,FCS,2013,3.13978494623656
-Fragile and conflict affected situations,FCS,2014,3.11827946236559
-Fragile and conflict affected situations,FCS,2015,3.06451591397849
-Fragile and conflict affected situations,FCS,2016,2.93548376344086
-Fragile and conflict affected situations,FCS,2017,2.83854166666667
-Fragile and conflict affected situations,FCS,2018,2.86559139784946
-Fragile and conflict affected situations,FCS,2019,2.85416671875
-Fragile and conflict affected situations,FCS,2020,2.84375
-Fragile and conflict affected situations,FCS,2021,2.83333338709677
-Fragile and conflict affected situations,FCS,2022,2.7812500625
-Fragile and conflict affected situations,FCS,2023,2.7500000625
-Fragile and conflict affected situations,FCS,2024,2.78125
+Ethiopia,ETH,2025,3.333333
 Fiji,FJI,2020,3.16666666666667
 Fiji,FJI,2021,3.166667
 Fiji,FJI,2022,3.166667
 Fiji,FJI,2023,3.166667
 Fiji,FJI,2024,3.333333
+Fiji,FJI,2025,3.333333
 "Micronesia, Fed. Sts.",FSM,2011,2.5
 "Micronesia, Fed. Sts.",FSM,2012,2.33333333333333
 "Micronesia, Fed. Sts.",FSM,2013,2.33333333333333
@@ -603,6 +611,7 @@ Fiji,FJI,2024,3.333333
 "Micronesia, Fed. Sts.",FSM,2022,2.666667
 "Micronesia, Fed. Sts.",FSM,2023,2.666667
 "Micronesia, Fed. Sts.",FSM,2024,2.833333
+"Micronesia, Fed. Sts.",FSM,2025,2.833333
 Georgia,GEO,2005,4.16666666666667
 Georgia,GEO,2006,4.5
 Georgia,GEO,2007,4.66666666666667
@@ -632,6 +641,7 @@ Ghana,GHA,2021,3.333333
 Ghana,GHA,2022,2.5
 Ghana,GHA,2023,2.833333
 Ghana,GHA,2024,2.833333
+Ghana,GHA,2025,3
 Guinea,GIN,2005,2.66666666666667
 Guinea,GIN,2006,2.66666666666667
 Guinea,GIN,2007,3
@@ -652,6 +662,7 @@ Guinea,GIN,2021,3.5
 Guinea,GIN,2022,3.833333
 Guinea,GIN,2023,3.833333
 Guinea,GIN,2024,3.666667
+Guinea,GIN,2025,3.666667
 "Gambia, The",GMB,2005,3
 "Gambia, The",GMB,2006,3
 "Gambia, The",GMB,2007,3.33333333333333
@@ -672,6 +683,7 @@ Guinea,GIN,2024,3.666667
 "Gambia, The",GMB,2022,2.666667
 "Gambia, The",GMB,2023,2.666667
 "Gambia, The",GMB,2024,3.166667
+"Gambia, The",GMB,2025,3.333333
 Guinea-Bissau,GNB,2005,2.33333333333333
 Guinea-Bissau,GNB,2006,2
 Guinea-Bissau,GNB,2007,2
@@ -692,6 +704,7 @@ Guinea-Bissau,GNB,2021,2.5
 Guinea-Bissau,GNB,2022,2.833333
 Guinea-Bissau,GNB,2023,2.833333
 Guinea-Bissau,GNB,2024,3
+Guinea-Bissau,GNB,2025,3
 Grenada,GRD,2005,3.16666666666667
 Grenada,GRD,2006,3.33333333333333
 Grenada,GRD,2007,3
@@ -712,6 +725,7 @@ Grenada,GRD,2021,3.833333
 Grenada,GRD,2022,3.833333
 Grenada,GRD,2023,4
 Grenada,GRD,2024,4
+Grenada,GRD,2025,4
 Guyana,GUY,2005,3.5
 Guyana,GUY,2006,3.66666666666667
 Guyana,GUY,2007,3.66666666666667
@@ -732,6 +746,7 @@ Guyana,GUY,2021,3.5
 Guyana,GUY,2022,3.5
 Guyana,GUY,2023,3.5
 Guyana,GUY,2024,3.5
+Guyana,GUY,2025,4
 High income,HIC,2005,3.5
 High income,HIC,2006,3.66666666666667
 High income,HIC,2007,3.66666666666667
@@ -752,6 +767,7 @@ High income,HIC,2021,3.5
 High income,HIC,2022,3.5
 High income,HIC,2023,3.5
 High income,HIC,2024,3.5
+High income,HIC,2025,4
 Honduras,HND,2005,4.33333333333333
 Honduras,HND,2006,4.16666666666667
 Honduras,HND,2007,3.83333333333333
@@ -772,6 +788,7 @@ Honduras,HND,2021,3.5
 Honduras,HND,2022,3.5
 Honduras,HND,2023,3.5
 Honduras,HND,2024,3.5
+Honduras,HND,2025,3.5
 Heavily indebted poor countries (HIPC),HPC,2005,3.35185185185185
 Heavily indebted poor countries (HIPC),HPC,2006,3.36216216216216
 Heavily indebted poor countries (HIPC),HPC,2007,3.38738738738739
@@ -781,7 +798,7 @@ Heavily indebted poor countries (HIPC),HPC,2010,3.40350877192982
 Heavily indebted poor countries (HIPC),HPC,2011,3.43859649122807
 Heavily indebted poor countries (HIPC),HPC,2012,3.43421052631579
 Heavily indebted poor countries (HIPC),HPC,2013,3.3859649122807
-Heavily indebted poor countries (HIPC),HPC,2014,3.37280728070176
+Heavily indebted poor countries (HIPC),HPC,2014,3.37280728070175
 Heavily indebted poor countries (HIPC),HPC,2015,3.33771947368421
 Heavily indebted poor countries (HIPC),HPC,2016,3.27477495495495
 Heavily indebted poor countries (HIPC),HPC,2017,3.23684210526316
@@ -792,6 +809,7 @@ Heavily indebted poor countries (HIPC),HPC,2021,3.2207207027027
 Heavily indebted poor countries (HIPC),HPC,2022,3.16228071052632
 Heavily indebted poor countries (HIPC),HPC,2023,3.16666665789474
 Heavily indebted poor countries (HIPC),HPC,2024,3.1842105
+Heavily indebted poor countries (HIPC),HPC,2025,3.20614039473684
 Haiti,HTI,2005,3
 Haiti,HTI,2006,3.16666666666667
 Haiti,HTI,2007,3.16666666666667
@@ -812,6 +830,7 @@ Haiti,HTI,2021,3
 Haiti,HTI,2022,2.833333
 Haiti,HTI,2023,2.166667
 Haiti,HTI,2024,2.666667
+Haiti,HTI,2025,2.666667
 IBRD only,IBD,2005,3.97435897435897
 IBRD only,IBD,2006,4.1025641025641
 IBRD only,IBD,2007,4.16666666666667
@@ -839,7 +858,7 @@ IDA & IBRD total,IBT,2013,3.41152263374486
 IDA & IBRD total,IBT,2014,3.35526298245614
 IDA & IBRD total,IBT,2015,3.31578947368421
 IDA & IBRD total,IBT,2016,3.24657557077626
-IDA & IBRD total,IBT,2017,3.21621621621621
+IDA & IBRD total,IBT,2017,3.21621621621622
 IDA & IBRD total,IBT,2018,3.21917808219178
 IDA & IBRD total,IBT,2019,3.23555560444444
 IDA & IBRD total,IBT,2020,3.22374429223744
@@ -847,10 +866,11 @@ IDA & IBRD total,IBT,2021,3.21527780555556
 IDA & IBRD total,IBT,2022,3.1576577027027
 IDA & IBRD total,IBT,2023,3.15090093243243
 IDA & IBRD total,IBT,2024,3.16883116883117
+IDA & IBRD total,IBT,2025,3.17094021794872
 IDA total,IDA,2005,3.45767195767196
-IDA total,IDA,2006,3.43641025641026
+IDA total,IDA,2006,3.43641025641025
 IDA total,IDA,2007,3.45641025641026
-IDA total,IDA,2008,3.45538461538462
+IDA total,IDA,2008,3.45538461538461
 IDA total,IDA,2009,3.46517412935323
 IDA total,IDA,2010,3.45771144278607
 IDA total,IDA,2011,3.43961352657005
@@ -867,6 +887,7 @@ IDA total,IDA,2021,3.21527780555556
 IDA total,IDA,2022,3.1576577027027
 IDA total,IDA,2023,3.15090093243243
 IDA total,IDA,2024,3.16883116883117
+IDA total,IDA,2025,3.17094021794872
 IDA blend,IDB,2005,3.39285714285714
 IDA blend,IDB,2006,3.39111111111111
 IDA blend,IDB,2007,3.44444444444444
@@ -887,6 +908,7 @@ IDA blend,IDB,2021,3.427083375
 IDA blend,IDB,2022,3.427083375
 IDA blend,IDB,2023,3.44791675
 IDA blend,IDB,2024,3.42982463157895
+IDA blend,IDB,2025,3.4210527368421
 Indonesia,IDN,2005,4.33333333333333
 Indonesia,IDN,2006,4.33333333333333
 IDA only,IDX,2005,3.47619047619048
@@ -909,6 +931,7 @@ IDA only,IDX,2021,3.15476192857143
 IDA only,IDX,2022,3.08333337931034
 IDA only,IDX,2023,3.06896553448276
 IDA only,IDX,2024,3.08333331034483
+IDA only,IDX,2025,3.09039550847458
 India,IND,2005,4
 India,IND,2006,4.16666666666667
 India,IND,2007,4.16666666666667
@@ -938,6 +961,7 @@ Kenya,KEN,2021,4
 Kenya,KEN,2022,4.166667
 Kenya,KEN,2023,4
 Kenya,KEN,2024,4.166667
+Kenya,KEN,2025,3.833333
 Kyrgyz Republic,KGZ,2005,4
 Kyrgyz Republic,KGZ,2006,4
 Kyrgyz Republic,KGZ,2007,4.16666666666667
@@ -958,6 +982,7 @@ Kyrgyz Republic,KGZ,2021,3.833333
 Kyrgyz Republic,KGZ,2022,3.833333
 Kyrgyz Republic,KGZ,2023,4
 Kyrgyz Republic,KGZ,2024,4
+Kyrgyz Republic,KGZ,2025,4
 Cambodia,KHM,2005,3.66666666666667
 Cambodia,KHM,2006,3.5
 Cambodia,KHM,2007,3.66666666666667
@@ -978,6 +1003,7 @@ Cambodia,KHM,2021,4.166667
 Cambodia,KHM,2022,4.166667
 Cambodia,KHM,2023,4.166667
 Cambodia,KHM,2024,4
+Cambodia,KHM,2025,4
 Kiribati,KIR,2005,3.33333333333333
 Kiribati,KIR,2006,3.16666666666667
 Kiribati,KIR,2007,3.16666666666667
@@ -998,12 +1024,13 @@ Kiribati,KIR,2021,2.666667
 Kiribati,KIR,2022,2.666667
 Kiribati,KIR,2023,2.666667
 Kiribati,KIR,2024,2.5
+Kiribati,KIR,2025,2.5
 Latin America & Caribbean (excluding high income),LAC,2005,3.77083333333333
 Latin America & Caribbean (excluding high income),LAC,2006,3.81666666666667
 Latin America & Caribbean (excluding high income),LAC,2007,3.72916666666667
 Latin America & Caribbean (excluding high income),LAC,2008,3.6875
 Latin America & Caribbean (excluding high income),LAC,2009,3.66666666666667
-Latin America & Caribbean (excluding high income),LAC,2010,3.70833333333334
+Latin America & Caribbean (excluding high income),LAC,2010,3.70833333333333
 Latin America & Caribbean (excluding high income),LAC,2011,3.6875
 Latin America & Caribbean (excluding high income),LAC,2012,3.60416666666667
 Latin America & Caribbean (excluding high income),LAC,2013,3.4375
@@ -1018,6 +1045,7 @@ Latin America & Caribbean (excluding high income),LAC,2021,3.61904757142857
 Latin America & Caribbean (excluding high income),LAC,2022,3.595238
 Latin America & Caribbean (excluding high income),LAC,2023,3.52380957142857
 Latin America & Caribbean (excluding high income),LAC,2024,3.44444444444444
+Latin America & Caribbean (excluding high income),LAC,2025,3.42592611111111
 Lao PDR,LAO,2005,3.66666666666667
 Lao PDR,LAO,2006,3.66666666666667
 Lao PDR,LAO,2007,3.83333333333333
@@ -1038,6 +1066,7 @@ Lao PDR,LAO,2021,2.666667
 Lao PDR,LAO,2022,2.666667
 Lao PDR,LAO,2023,2.5
 Lao PDR,LAO,2024,2.666667
+Lao PDR,LAO,2025,3
 Liberia,LBR,2009,3.16666666666667
 Liberia,LBR,2010,3.33333333333333
 Liberia,LBR,2011,3.5
@@ -1054,6 +1083,7 @@ Liberia,LBR,2021,3.166667
 Liberia,LBR,2022,3.333333
 Liberia,LBR,2023,3.333333
 Liberia,LBR,2024,3.333333
+Liberia,LBR,2025,3.333333
 St. Lucia,LCA,2005,4
 St. Lucia,LCA,2006,4
 St. Lucia,LCA,2007,4
@@ -1074,6 +1104,7 @@ St. Lucia,LCA,2021,3.5
 St. Lucia,LCA,2022,3.5
 St. Lucia,LCA,2023,3.5
 St. Lucia,LCA,2024,3.666667
+St. Lucia,LCA,2025,3.666667
 Latin America & Caribbean,LCN,2005,3.74074074074074
 Latin America & Caribbean,LCN,2006,3.8
 Latin America & Caribbean,LCN,2007,3.72222222222222
@@ -1094,6 +1125,7 @@ Latin America & Caribbean,LCN,2021,3.604166625
 Latin America & Caribbean,LCN,2022,3.58333325
 Latin America & Caribbean,LCN,2023,3.520833375
 Latin America & Caribbean,LCN,2024,3.45
+Latin America & Caribbean,LCN,2025,3.4833335
 Least developed countries: UN classification,LDC,2005,3.36936936936937
 Least developed countries: UN classification,LDC,2006,3.34871794871795
 Least developed countries: UN classification,LDC,2007,3.38461538461539
@@ -1114,26 +1146,28 @@ Least developed countries: UN classification,LDC,2021,3.05158738095238
 Least developed countries: UN classification,LDC,2022,3.02325588372093
 Least developed countries: UN classification,LDC,2023,3.00775195348837
 Least developed countries: UN classification,LDC,2024,3.01550388372093
-Low income,LIC,2005,3.30701754385965
-Low income,LIC,2006,3.295
-Low income,LIC,2007,3.31666666666667
-Low income,LIC,2008,3.365
-Low income,LIC,2009,3.35714285714286
-Low income,LIC,2010,3.37301587301587
-Low income,LIC,2011,3.34920634920635
-Low income,LIC,2012,3.23484848484848
-Low income,LIC,2013,3.18939393939394
-Low income,LIC,2014,3.18181803030303
-Low income,LIC,2015,3.09090909090909
-Low income,LIC,2016,2.96212106060606
-Low income,LIC,2017,2.89130434782609
-Low income,LIC,2018,2.93939393939394
-Low income,LIC,2019,2.89855071014493
-Low income,LIC,2020,2.89855072463768
-Low income,LIC,2021,2.91666668181818
-Low income,LIC,2022,2.89130434782609
-Low income,LIC,2023,2.89855073913043
-Low income,LIC,2024,2.89130430434783
+Least developed countries: UN classification,LDC,2025,3.01937990697674
+Low income,LIC,2005,3.39473684210526
+Low income,LIC,2006,3.37
+Low income,LIC,2007,3.38333333333333
+Low income,LIC,2008,3.395
+Low income,LIC,2009,3.3968253968254
+Low income,LIC,2010,3.4047619047619
+Low income,LIC,2011,3.37301587301587
+Low income,LIC,2012,3.25757575757576
+Low income,LIC,2013,3.21212121212121
+Low income,LIC,2014,3.2045453030303
+Low income,LIC,2015,3.12121212121212
+Low income,LIC,2016,2.99999984848485
+Low income,LIC,2017,2.90579710144928
+Low income,LIC,2018,2.9469696969697
+Low income,LIC,2019,2.90579708695652
+Low income,LIC,2020,2.89130434782609
+Low income,LIC,2021,2.89393940909091
+Low income,LIC,2022,2.85507247826087
+Low income,LIC,2023,2.85507247826087
+Low income,LIC,2024,2.85507243478261
+Low income,LIC,2025,2.8125
 Sri Lanka,LKA,2005,3.33333333333333
 Sri Lanka,LKA,2006,3.2
 Sri Lanka,LKA,2007,3
@@ -1149,46 +1183,49 @@ Sri Lanka,LKA,2019,3
 Sri Lanka,LKA,2022,2
 Sri Lanka,LKA,2023,2
 Sri Lanka,LKA,2024,2.5
-Lower middle income,LMC,2005,3.50438596491228
-Lower middle income,LMC,2006,3.51965811965812
-Lower middle income,LMC,2007,3.54700854700855
-Lower middle income,LMC,2008,3.52820512820513
-Lower middle income,LMC,2009,3.54273504273504
-Lower middle income,LMC,2010,3.52136752136752
-Lower middle income,LMC,2011,3.51666666666667
-Lower middle income,LMC,2012,3.5375
-Lower middle income,LMC,2013,3.50813008130081
-Lower middle income,LMC,2014,3.49145273504274
-Lower middle income,LMC,2015,3.45726478632479
-Lower middle income,LMC,2016,3.42129657407407
-Lower middle income,LMC,2017,3.40277777777778
-Lower middle income,LMC,2018,3.36111111111111
-Lower middle income,LMC,2019,3.37387396396396
-Lower middle income,LMC,2020,3.37962962962963
-Lower middle income,LMC,2021,3.33796302777778
-Lower middle income,LMC,2022,3.25225232432432
-Lower middle income,LMC,2023,3.23873878378378
-Lower middle income,LMC,2024,3.26754389473684
-Low & middle income,LMY,2005,3.54504504504505
-Low & middle income,LMY,2006,3.54649122807018
-Low & middle income,LMY,2007,3.55022831050228
-Low & middle income,LMY,2008,3.54246575342466
-Low & middle income,LMY,2009,3.53777777777778
-Low & middle income,LMY,2010,3.52222222222222
-Low & middle income,LMY,2011,3.49122807017544
-Low & middle income,LMY,2012,3.44230769230769
-Low & middle income,LMY,2013,3.40717299578059
-Low & middle income,LMY,2014,3.34909887387387
-Low & middle income,LMY,2015,3.30855851351351
-Low & middle income,LMY,2016,3.23474197183099
-Low & middle income,LMY,2017,3.20601851851852
-Low & middle income,LMY,2018,3.2112676056338
-Low & middle income,LMY,2019,3.22831055251142
-Low & middle income,LMY,2020,3.21596244131455
-Low & middle income,LMY,2021,3.20952384285714
-Low & middle income,LMY,2022,3.15509263888889
-Low & middle income,LMY,2023,3.150463
-Low & middle income,LMY,2024,3.16666666666667
+Sri Lanka,LKA,2025,2.833333
+Lower middle income,LMC,2005,3.44594594594595
+Lower middle income,LMC,2006,3.45789473684211
+Lower middle income,LMC,2007,3.50438596491228
+Lower middle income,LMC,2008,3.5
+Lower middle income,LMC,2009,3.51315789473684
+Lower middle income,LMC,2010,3.5
+Lower middle income,LMC,2011,3.53070175438597
+Lower middle income,LMC,2012,3.54824561403509
+Lower middle income,LMC,2013,3.51709401709402
+Lower middle income,LMC,2014,3.49999963963964
+Lower middle income,LMC,2015,3.4729727027027
+Lower middle income,LMC,2016,3.42592611111111
+Lower middle income,LMC,2017,3.41666666666667
+Lower middle income,LMC,2018,3.37962962962963
+Lower middle income,LMC,2019,3.40277786111111
+Lower middle income,LMC,2020,3.40740740740741
+Lower middle income,LMC,2021,3.37037041666667
+Lower middle income,LMC,2022,3.3194445
+Lower middle income,LMC,2023,3.30555558333333
+Lower middle income,LMC,2024,3.31531535135135
+Lower middle income,LMC,2025,3.33333340540541
+Low & middle income,LMY,2005,3.54666666666667
+Low & middle income,LMY,2006,3.54588744588744
+Low & middle income,LMY,2007,3.54954954954955
+Low & middle income,LMY,2008,3.53918918918919
+Low & middle income,LMY,2009,3.53947368421053
+Low & middle income,LMY,2010,3.52412280701754
+Low & middle income,LMY,2011,3.49350649350649
+Low & middle income,LMY,2012,3.44303797468354
+Low & middle income,LMY,2013,3.40833333333333
+Low & middle income,LMY,2014,3.35111088888889
+Low & middle income,LMY,2015,3.31111106666667
+Low & middle income,LMY,2016,3.24074092592593
+Low & middle income,LMY,2017,3.21004566210046
+Low & middle income,LMY,2018,3.21527777777778
+Low & middle income,LMY,2019,3.23198203153153
+Low & middle income,LMY,2020,3.21990740740741
+Low & middle income,LMY,2021,3.21126763380282
+Low & middle income,LMY,2022,3.15296808219178
+Low & middle income,LMY,2023,3.14611875342466
+Low & middle income,LMY,2024,3.16447368421053
+Low & middle income,LMY,2025,3.16017320779221
 Lesotho,LSO,2005,4
 Lesotho,LSO,2006,4
 Lesotho,LSO,2007,4
@@ -1209,6 +1246,7 @@ Lesotho,LSO,2021,3.166667
 Lesotho,LSO,2022,3.166667
 Lesotho,LSO,2023,3.166667
 Lesotho,LSO,2024,3.166667
+Lesotho,LSO,2025,3.166667
 Late-demographic dividend,LTE,2005,3.98717948717949
 Late-demographic dividend,LTE,2006,4.04358974358974
 Late-demographic dividend,LTE,2007,4.07575757575758
@@ -1229,6 +1267,7 @@ Late-demographic dividend,LTE,2021,3.5333334
 Late-demographic dividend,LTE,2022,3.27777783333333
 Late-demographic dividend,LTE,2023,3.30555566666667
 Late-demographic dividend,LTE,2024,3.4444445
+Late-demographic dividend,LTE,2025,3.5
 Moldova,MDA,2005,3.33333333333333
 Moldova,MDA,2006,4
 Moldova,MDA,2007,4
@@ -1264,6 +1303,7 @@ Madagascar,MDG,2021,3.666667
 Madagascar,MDG,2022,3.666667
 Madagascar,MDG,2023,3.666667
 Madagascar,MDG,2024,3.666667
+Madagascar,MDG,2025,3.666667
 Maldives,MDV,2005,3.83333333333333
 Maldives,MDV,2006,3
 Maldives,MDV,2007,2.83333333333333
@@ -1284,6 +1324,7 @@ Maldives,MDV,2021,2.333333
 Maldives,MDV,2022,2.166667
 Maldives,MDV,2023,1.833333
 Maldives,MDV,2024,1.666667
+Maldives,MDV,2025,1.666667
 "Middle East, North Africa, Afghanistan & Pakistan",MEA,2005,3.72222222222222
 "Middle East, North Africa, Afghanistan & Pakistan",MEA,2006,3.45833333333333
 "Middle East, North Africa, Afghanistan & Pakistan",MEA,2007,3.33333333333333
@@ -1304,6 +1345,7 @@ Maldives,MDV,2024,1.666667
 "Middle East, North Africa, Afghanistan & Pakistan",MEA,2022,2.16666675
 "Middle East, North Africa, Afghanistan & Pakistan",MEA,2023,2.2083335
 "Middle East, North Africa, Afghanistan & Pakistan",MEA,2024,2.25
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2025,2.1666668
 Marshall Islands,MHL,2011,2.33333333333333
 Marshall Islands,MHL,2012,2.33333333333333
 Marshall Islands,MHL,2013,2.33333333333333
@@ -1318,26 +1360,28 @@ Marshall Islands,MHL,2021,2.5
 Marshall Islands,MHL,2022,2.5
 Marshall Islands,MHL,2023,2.5
 Marshall Islands,MHL,2024,2.5
-Middle income,MIC,2005,3.62727272727273
-Middle income,MIC,2006,3.63630952380952
-Middle income,MIC,2007,3.63836477987421
-Middle income,MIC,2008,3.60943396226415
-Middle income,MIC,2009,3.60802469135802
-Middle income,MIC,2010,3.58024691358025
-Middle income,MIC,2011,3.54545454545454
-Middle income,MIC,2012,3.52380952380952
-Middle income,MIC,2013,3.49122807017544
-Middle income,MIC,2014,3.41987153846154
-Middle income,MIC,2015,3.40064096153846
-Middle income,MIC,2016,3.35714319727891
-Middle income,MIC,2017,3.35374149659864
+Marshall Islands,MHL,2025,2.666667
+Middle income,MIC,2005,3.59821428571429
+Middle income,MIC,2006,3.60760233918129
+Middle income,MIC,2007,3.61111111111111
+Middle income,MIC,2008,3.59259259259259
+Middle income,MIC,2009,3.59393939393939
+Middle income,MIC,2010,3.56969696969697
+Middle income,MIC,2011,3.53869047619048
+Middle income,MIC,2012,3.51461988304094
+Middle income,MIC,2013,3.48275862068966
+Middle income,MIC,2014,3.41194943396226
+Middle income,MIC,2015,3.38993704402516
+Middle income,MIC,2016,3.346667
+Middle income,MIC,2017,3.35
 Middle income,MIC,2018,3.33333333333333
-Middle income,MIC,2019,3.38000008
-Middle income,MIC,2020,3.36805555555556
-Middle income,MIC,2021,3.34375004166667
-Middle income,MIC,2022,3.27891163265306
-Middle income,MIC,2023,3.26870753061225
-Middle income,MIC,2024,3.28846155769231
+Middle income,MIC,2019,3.37908504575163
+Middle income,MIC,2020,3.37414965986395
+Middle income,MIC,2021,3.35374153061224
+Middle income,MIC,2022,3.29000006
+Middle income,MIC,2023,3.28000004
+Middle income,MIC,2024,3.2987421509434
+Middle income,MIC,2025,3.31761013207547
 Mali,MLI,2005,4.33333333333333
 Mali,MLI,2006,4.33333333333333
 Mali,MLI,2007,4.33333333333333
@@ -1358,6 +1402,7 @@ Mali,MLI,2021,3.833333
 Mali,MLI,2022,3.833333
 Mali,MLI,2023,3.833333
 Mali,MLI,2024,3.833333
+Mali,MLI,2025,3.833333
 Myanmar,MMR,2013,3.66666666666667
 Myanmar,MMR,2014,3.66667
 Myanmar,MMR,2015,3.66667
@@ -1370,6 +1415,7 @@ Myanmar,MMR,2021,2.5
 Myanmar,MMR,2022,2.166667
 Myanmar,MMR,2023,2
 Myanmar,MMR,2024,1.833333
+Myanmar,MMR,2025,1.833333
 "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2005,3.72222222222222
 "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2006,3.45833333333333
 "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2007,3.33333333333333
@@ -1390,6 +1436,7 @@ Myanmar,MMR,2024,1.833333
 "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2022,2.16666675
 "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2023,2.2083335
 "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2024,2.25
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2025,2.1666668
 Mongolia,MNG,2005,3.5
 Mongolia,MNG,2006,3.33333333333333
 Mongolia,MNG,2007,3.16666666666667
@@ -1425,6 +1472,7 @@ Mozambique,MOZ,2021,3
 Mozambique,MOZ,2022,3.166667
 Mozambique,MOZ,2023,3.166667
 Mozambique,MOZ,2024,2.833333
+Mozambique,MOZ,2025,2.333333
 Mauritania,MRT,2005,2.83333333333333
 Mauritania,MRT,2006,3.33333333333333
 Mauritania,MRT,2007,3.5
@@ -1445,6 +1493,7 @@ Mauritania,MRT,2021,3.5
 Mauritania,MRT,2022,3.5
 Mauritania,MRT,2023,3.833333
 Mauritania,MRT,2024,4
+Mauritania,MRT,2025,4.166667
 Malawi,MWI,2005,3
 Malawi,MWI,2006,3.16666666666667
 Malawi,MWI,2007,3.33333333333333
@@ -1465,6 +1514,7 @@ Malawi,MWI,2021,2.5
 Malawi,MWI,2022,2.166667
 Malawi,MWI,2023,2.166667
 Malawi,MWI,2024,2
+Malawi,MWI,2025,1.666667
 Niger,NER,2005,3.33333333333333
 Niger,NER,2006,3.66666666666667
 Niger,NER,2007,3.66666666666667
@@ -1485,6 +1535,7 @@ Niger,NER,2021,3.833333
 Niger,NER,2022,3.833333
 Niger,NER,2023,3.666667
 Niger,NER,2024,3.333333
+Niger,NER,2025,3.166667
 Nigeria,NGA,2005,3.83333333333333
 Nigeria,NGA,2006,4
 Nigeria,NGA,2007,4.33333333333333
@@ -1505,6 +1556,7 @@ Nigeria,NGA,2021,3.5
 Nigeria,NGA,2022,3.333333
 Nigeria,NGA,2023,3.5
 Nigeria,NGA,2024,3.666667
+Nigeria,NGA,2025,3.666667
 Nicaragua,NIC,2005,4
 Nicaragua,NIC,2006,4.16666666666667
 Nicaragua,NIC,2007,4.16666666666667
@@ -1525,6 +1577,7 @@ Nicaragua,NIC,2021,4
 Nicaragua,NIC,2022,4
 Nicaragua,NIC,2023,4
 Nicaragua,NIC,2024,3.833333
+Nicaragua,NIC,2025,3.833333
 Nepal,NPL,2005,3.83333333333333
 Nepal,NPL,2006,3.83333333333333
 Nepal,NPL,2007,3.83333333333333
@@ -1545,6 +1598,7 @@ Nepal,NPL,2021,3.166667
 Nepal,NPL,2022,3.333333
 Nepal,NPL,2023,3.333333
 Nepal,NPL,2024,3.333333
+Nepal,NPL,2025,3.333333
 Other small states,OSS,2005,3.38888888888889
 Other small states,OSS,2006,3.16666666666667
 Other small states,OSS,2007,3.21428571428571
@@ -1565,6 +1619,7 @@ Other small states,OSS,2021,3.02380942857143
 Other small states,OSS,2022,2.92857157142857
 Other small states,OSS,2023,2.80952371428571
 Other small states,OSS,2024,2.833333375
+Other small states,OSS,2025,2.8333335
 Pakistan,PAK,2005,4.16666666666667
 Pakistan,PAK,2006,4
 Pakistan,PAK,2007,3.83333333333333
@@ -1585,6 +1640,7 @@ Pakistan,PAK,2021,3.166667
 Pakistan,PAK,2022,3
 Pakistan,PAK,2023,3.166667
 Pakistan,PAK,2024,3.166667
+Pakistan,PAK,2025,3.166667
 Papua New Guinea,PNG,2005,3.5
 Papua New Guinea,PNG,2006,3.83333333333333
 Papua New Guinea,PNG,2007,4.16666666666667
@@ -1605,6 +1661,7 @@ Papua New Guinea,PNG,2021,2.666667
 Papua New Guinea,PNG,2022,2.666667
 Papua New Guinea,PNG,2023,2.666667
 Papua New Guinea,PNG,2024,2.666667
+Papua New Guinea,PNG,2025,2.666667
 Pre-demographic dividend,PRE,2005,3.27222222222222
 Pre-demographic dividend,PRE,2006,3.26770833333333
 Pre-demographic dividend,PRE,2007,3.33333333333333
@@ -1612,7 +1669,7 @@ Pre-demographic dividend,PRE,2008,3.3625
 Pre-demographic dividend,PRE,2009,3.36868686868687
 Pre-demographic dividend,PRE,2010,3.36868686868687
 Pre-demographic dividend,PRE,2011,3.41414141414141
-Pre-demographic dividend,PRE,2012,3.40196078431373
+Pre-demographic dividend,PRE,2012,3.40196078431372
 Pre-demographic dividend,PRE,2013,3.38725490196078
 Pre-demographic dividend,PRE,2014,3.37878757575758
 Pre-demographic dividend,PRE,2015,3.28282818181818
@@ -1625,6 +1682,7 @@ Pre-demographic dividend,PRE,2021,3.14141415151515
 Pre-demographic dividend,PRE,2022,3.127451
 Pre-demographic dividend,PRE,2023,3.15196079411765
 Pre-demographic dividend,PRE,2024,3.16176470588235
+Pre-demographic dividend,PRE,2025,3.13725494117647
 Pacific island small states,PSS,2005,3.3
 Pacific island small states,PSS,2006,3.27333333333333
 Pacific island small states,PSS,2007,3.3
@@ -1645,6 +1703,7 @@ Pacific island small states,PSS,2021,3.12962977777778
 Pacific island small states,PSS,2022,3.12962977777778
 Pacific island small states,PSS,2023,3.09259277777778
 Pacific island small states,PSS,2024,3.111111
+Pacific island small states,PSS,2025,3.12962955555556
 Post-demographic dividend,PST,2005,3.83333333333333
 Post-demographic dividend,PST,2006,4
 Post-demographic dividend,PST,2007,4
@@ -1674,6 +1733,7 @@ Rwanda,RWA,2021,4
 Rwanda,RWA,2022,4
 Rwanda,RWA,2023,4
 Rwanda,RWA,2024,4
+Rwanda,RWA,2025,4.166667
 South Asia,SAS,2005,3.83333333333333
 South Asia,SAS,2006,3.72777777777778
 South Asia,SAS,2007,3.72222222222222
@@ -1694,6 +1754,7 @@ South Asia,SAS,2021,3.375
 South Asia,SAS,2022,3
 South Asia,SAS,2023,2.8333332
 South Asia,SAS,2024,2.9333334
+South Asia,SAS,2025,3
 Sudan,SDN,2005,2.83333333333333
 Sudan,SDN,2006,2.7
 Sudan,SDN,2007,2.66666666666667
@@ -1714,6 +1775,7 @@ Sudan,SDN,2021,2.166667
 Sudan,SDN,2022,2
 Sudan,SDN,2023,1.833333
 Sudan,SDN,2024,1.833333
+Sudan,SDN,2025,1.5
 Senegal,SEN,2005,4.16666666666667
 Senegal,SEN,2006,4
 Senegal,SEN,2007,4.16666666666667
@@ -1734,6 +1796,7 @@ Senegal,SEN,2021,3.833333
 Senegal,SEN,2022,3.666667
 Senegal,SEN,2023,3.666667
 Senegal,SEN,2024,3.333333
+Senegal,SEN,2025,3
 Solomon Islands,SLB,2005,3.16666666666667
 Solomon Islands,SLB,2006,3.2
 Solomon Islands,SLB,2007,3
@@ -1754,6 +1817,7 @@ Solomon Islands,SLB,2021,3.166667
 Solomon Islands,SLB,2022,3.166667
 Solomon Islands,SLB,2023,3
 Solomon Islands,SLB,2024,3.166667
+Solomon Islands,SLB,2025,3.166667
 Sierra Leone,SLE,2005,3.66666666666667
 Sierra Leone,SLE,2006,3.7
 Sierra Leone,SLE,2007,3.66666666666667
@@ -1774,6 +1838,7 @@ Sierra Leone,SLE,2021,3.166667
 Sierra Leone,SLE,2022,3
 Sierra Leone,SLE,2023,3
 Sierra Leone,SLE,2024,2.833333
+Sierra Leone,SLE,2025,2.833333
 "Somalia, Fed. Rep.",SOM,2017,1.83333333333333
 "Somalia, Fed. Rep.",SOM,2019,2
 "Somalia, Fed. Rep.",SOM,2020,2
@@ -1781,28 +1846,30 @@ Sierra Leone,SLE,2024,2.833333
 "Somalia, Fed. Rep.",SOM,2022,2
 "Somalia, Fed. Rep.",SOM,2023,2.333333
 "Somalia, Fed. Rep.",SOM,2024,2.5
+"Somalia, Fed. Rep.",SOM,2025,2.5
 Serbia,SRB,2005,3.83333333333333
 Serbia,SRB,2006,3.66666666666667
-Sub-Saharan Africa (excluding high income),SSA,2005,3.27314814814815
-Sub-Saharan Africa (excluding high income),SSA,2006,3.28888888888889
-Sub-Saharan Africa (excluding high income),SSA,2007,3.35185185185185
-Sub-Saharan Africa (excluding high income),SSA,2008,3.36666666666667
-Sub-Saharan Africa (excluding high income),SSA,2009,3.37837837837838
-Sub-Saharan Africa (excluding high income),SSA,2010,3.37387387387387
-Sub-Saharan Africa (excluding high income),SSA,2011,3.3963963963964
-Sub-Saharan Africa (excluding high income),SSA,2012,3.37719298245614
-Sub-Saharan Africa (excluding high income),SSA,2013,3.35087719298246
-Sub-Saharan Africa (excluding high income),SSA,2014,3.33333297297297
-Sub-Saharan Africa (excluding high income),SSA,2015,3.27027018018018
-Sub-Saharan Africa (excluding high income),SSA,2016,3.17567567567568
-Sub-Saharan Africa (excluding high income),SSA,2017,3.12719298245614
-Sub-Saharan Africa (excluding high income),SSA,2018,3.13963963963964
-Sub-Saharan Africa (excluding high income),SSA,2019,3.12719298245614
-Sub-Saharan Africa (excluding high income),SSA,2020,3.14035087719298
-Sub-Saharan Africa (excluding high income),SSA,2021,3.15789473684211
-Sub-Saharan Africa (excluding high income),SSA,2022,3.16228073684211
-Sub-Saharan Africa (excluding high income),SSA,2023,3.19736842105263
-Sub-Saharan Africa (excluding high income),SSA,2024,3.20085471794872
+Sub-Saharan Africa (excluding high income),SSA,2005,3.28378378378378
+Sub-Saharan Africa (excluding high income),SSA,2006,3.29459459459459
+Sub-Saharan Africa (excluding high income),SSA,2007,3.35585585585586
+Sub-Saharan Africa (excluding high income),SSA,2008,3.36486486486486
+Sub-Saharan Africa (excluding high income),SSA,2009,3.3859649122807
+Sub-Saharan Africa (excluding high income),SSA,2010,3.38157894736842
+Sub-Saharan Africa (excluding high income),SSA,2011,3.40350877192982
+Sub-Saharan Africa (excluding high income),SSA,2012,3.38034188034188
+Sub-Saharan Africa (excluding high income),SSA,2013,3.35470085470085
+Sub-Saharan Africa (excluding high income),SSA,2014,3.33771894736842
+Sub-Saharan Africa (excluding high income),SSA,2015,3.27631570175439
+Sub-Saharan Africa (excluding high income),SSA,2016,3.18859649122807
+Sub-Saharan Africa (excluding high income),SSA,2017,3.13675213675214
+Sub-Saharan Africa (excluding high income),SSA,2018,3.14912280701754
+Sub-Saharan Africa (excluding high income),SSA,2019,3.13675213675214
+Sub-Saharan Africa (excluding high income),SSA,2020,3.14957264957265
+Sub-Saharan Africa (excluding high income),SSA,2021,3.16239315384615
+Sub-Saharan Africa (excluding high income),SSA,2022,3.15811969230769
+Sub-Saharan Africa (excluding high income),SSA,2023,3.18803417948718
+Sub-Saharan Africa (excluding high income),SSA,2024,3.19583335
+Sub-Saharan Africa (excluding high income),SSA,2025,3.20000005
 South Sudan,SSD,2012,1.83333333333333
 South Sudan,SSD,2013,1.83333333333333
 South Sudan,SSD,2014,1.83333
@@ -1816,13 +1883,14 @@ South Sudan,SSD,2021,1.5
 South Sudan,SSD,2022,1.5
 South Sudan,SSD,2023,1.666667
 South Sudan,SSD,2024,1.5
+South Sudan,SSD,2025,1.5
 Sub-Saharan Africa,SSF,2005,3.28378378378378
 Sub-Saharan Africa,SSF,2006,3.29459459459459
 Sub-Saharan Africa,SSF,2007,3.35585585585586
 Sub-Saharan Africa,SSF,2008,3.36486486486486
 Sub-Saharan Africa,SSF,2009,3.3859649122807
 Sub-Saharan Africa,SSF,2010,3.38157894736842
-Sub-Saharan Africa,SSF,2011,3.40350877192983
+Sub-Saharan Africa,SSF,2011,3.40350877192982
 Sub-Saharan Africa,SSF,2012,3.38034188034188
 Sub-Saharan Africa,SSF,2013,3.35470085470085
 Sub-Saharan Africa,SSF,2014,3.33771894736842
@@ -1836,6 +1904,7 @@ Sub-Saharan Africa,SSF,2021,3.16239315384615
 Sub-Saharan Africa,SSF,2022,3.15811969230769
 Sub-Saharan Africa,SSF,2023,3.18803417948718
 Sub-Saharan Africa,SSF,2024,3.19583335
+Sub-Saharan Africa,SSF,2025,3.20000005
 Small states,SST,2005,3.44791666666667
 Small states,SST,2006,3.35686274509804
 Small states,SST,2007,3.36274509803922
@@ -1856,6 +1925,7 @@ Small states,SST,2021,3.22222223809524
 Small states,SST,2022,3.19047628571429
 Small states,SST,2023,3.14285719047619
 Small states,SST,2024,3.13194441666667
+Small states,SST,2025,3.152777875
 Sao Tome and Principe,STP,2005,2.83333333333333
 Sao Tome and Principe,STP,2006,2.83333333333333
 Sao Tome and Principe,STP,2007,2.83333333333333
@@ -1876,8 +1946,12 @@ Sao Tome and Principe,STP,2021,2.833333
 Sao Tome and Principe,STP,2022,2.5
 Sao Tome and Principe,STP,2023,2.333333
 Sao Tome and Principe,STP,2024,2.333333
+Sao Tome and Principe,STP,2025,2.5
 Suriname,SUR,2024,3
+Suriname,SUR,2025,3.166667
 Eswatini,SWZ,2024,3.166667
+Eswatini,SWZ,2025,3.166667
+Syrian Arab Republic,SYR,2025,1.833333
 Chad,TCD,2005,3.33333333333333
 Chad,TCD,2006,3
 Chad,TCD,2007,2.66666666666667
@@ -1898,6 +1972,7 @@ Chad,TCD,2021,3
 Chad,TCD,2022,3.166667
 Chad,TCD,2023,3.166667
 Chad,TCD,2024,3.166667
+Chad,TCD,2025,3.5
 East Asia & Pacific (IDA & IBRD countries),TEA,2005,3.59090909090909
 East Asia & Pacific (IDA & IBRD countries),TEA,2006,3.55833333333333
 East Asia & Pacific (IDA & IBRD countries),TEA,2007,3.51515151515152
@@ -1918,6 +1993,7 @@ East Asia & Pacific (IDA & IBRD countries),TEA,2021,3.0833335
 East Asia & Pacific (IDA & IBRD countries),TEA,2022,3.059524
 East Asia & Pacific (IDA & IBRD countries),TEA,2023,3.00000014285714
 East Asia & Pacific (IDA & IBRD countries),TEA,2024,2.99999992857143
+East Asia & Pacific (IDA & IBRD countries),TEA,2025,3.03571421428571
 Europe & Central Asia (IDA & IBRD countries),TEC,2005,4.06666666666667
 Europe & Central Asia (IDA & IBRD countries),TEC,2006,4.17
 Europe & Central Asia (IDA & IBRD countries),TEC,2007,4.29166666666667
@@ -1938,6 +2014,7 @@ Europe & Central Asia (IDA & IBRD countries),TEC,2021,3.83333325
 Europe & Central Asia (IDA & IBRD countries),TEC,2022,3.83333325
 Europe & Central Asia (IDA & IBRD countries),TEC,2023,3.91666675
 Europe & Central Asia (IDA & IBRD countries),TEC,2024,4
+Europe & Central Asia (IDA & IBRD countries),TEC,2025,4.04166675
 Togo,TGO,2005,2
 Togo,TGO,2006,2
 Togo,TGO,2007,2.16666666666667
@@ -1958,6 +2035,7 @@ Togo,TGO,2021,3.833333
 Togo,TGO,2022,3.833333
 Togo,TGO,2023,3.833333
 Togo,TGO,2024,3.833333
+Togo,TGO,2025,4
 Tajikistan,TJK,2005,4.16666666666667
 Tajikistan,TJK,2006,4.2
 Tajikistan,TJK,2007,3.66666666666667
@@ -1978,6 +2056,7 @@ Tajikistan,TJK,2021,3.333333
 Tajikistan,TJK,2022,3.333333
 Tajikistan,TJK,2023,3.333333
 Tajikistan,TJK,2024,3.333333
+Tajikistan,TJK,2025,3.5
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2005,3.74074074074074
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2006,3.8
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2007,3.72222222222222
@@ -1986,7 +2065,7 @@ Latin America & the Caribbean (IDA & IBRD countries),TLA,2009,3.64814814814815
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2010,3.70370370370371
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2011,3.68518518518519
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2012,3.61111111111111
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2013,3.46296296296297
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2013,3.46296296296296
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2014,3.44444555555556
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2015,3.50000111111111
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2016,3.458335
@@ -1998,6 +2077,7 @@ Latin America & the Caribbean (IDA & IBRD countries),TLA,2021,3.604166625
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2022,3.58333325
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2023,3.520833375
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2024,3.45
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2025,3.4833335
 Timor-Leste,TLS,2006,3
 Timor-Leste,TLS,2007,3
 Timor-Leste,TLS,2008,3
@@ -2017,6 +2097,7 @@ Timor-Leste,TLS,2021,3
 Timor-Leste,TLS,2022,3
 Timor-Leste,TLS,2023,2.833333
 Timor-Leste,TLS,2024,2.833333
+Timor-Leste,TLS,2025,2.833333
 "Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2005,3.72222222222222
 "Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2006,3.45833333333333
 "Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2007,3.33333333333333
@@ -2037,6 +2118,7 @@ Timor-Leste,TLS,2024,2.833333
 "Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2022,2.16666675
 "Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2023,2.2083335
 "Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2024,2.25
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2025,2.1666668
 Tonga,TON,2005,2.83333333333333
 Tonga,TON,2006,2.66666666666667
 Tonga,TON,2007,2.83333333333333
@@ -2057,6 +2139,7 @@ Tonga,TON,2021,3.333333
 Tonga,TON,2022,3.333333
 Tonga,TON,2023,3.333333
 Tonga,TON,2024,3.333333
+Tonga,TON,2025,3.333333
 South Asia (IDA & IBRD),TSA,2005,3.83333333333333
 South Asia (IDA & IBRD),TSA,2006,3.72777777777778
 South Asia (IDA & IBRD),TSA,2007,3.72222222222222
@@ -2077,6 +2160,7 @@ South Asia (IDA & IBRD),TSA,2021,3.375
 South Asia (IDA & IBRD),TSA,2022,3
 South Asia (IDA & IBRD),TSA,2023,2.8333332
 South Asia (IDA & IBRD),TSA,2024,2.9333334
+South Asia (IDA & IBRD),TSA,2025,3
 Sub-Saharan Africa (IDA & IBRD countries),TSS,2005,3.28378378378378
 Sub-Saharan Africa (IDA & IBRD countries),TSS,2006,3.29459459459459
 Sub-Saharan Africa (IDA & IBRD countries),TSS,2007,3.35585585585586
@@ -2097,6 +2181,7 @@ Sub-Saharan Africa (IDA & IBRD countries),TSS,2021,3.16239315384615
 Sub-Saharan Africa (IDA & IBRD countries),TSS,2022,3.15811969230769
 Sub-Saharan Africa (IDA & IBRD countries),TSS,2023,3.18803417948718
 Sub-Saharan Africa (IDA & IBRD countries),TSS,2024,3.19583335
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2025,3.20000005
 Tuvalu,TUV,2012,2.5
 Tuvalu,TUV,2013,2.5
 Tuvalu,TUV,2014,2.5
@@ -2110,6 +2195,7 @@ Tuvalu,TUV,2021,2.666667
 Tuvalu,TUV,2022,2.666667
 Tuvalu,TUV,2023,2.666667
 Tuvalu,TUV,2024,2.666667
+Tuvalu,TUV,2025,2.666667
 Tanzania,TZA,2005,4.5
 Tanzania,TZA,2006,4.5
 Tanzania,TZA,2007,4.33333333333333
@@ -2130,6 +2216,7 @@ Tanzania,TZA,2021,4
 Tanzania,TZA,2022,4.166667
 Tanzania,TZA,2023,4.166667
 Tanzania,TZA,2024,4.166667
+Tanzania,TZA,2025,4.166667
 Uganda,UGA,2005,4.5
 Uganda,UGA,2006,4.5
 Uganda,UGA,2007,4.5
@@ -2150,26 +2237,28 @@ Uganda,UGA,2021,3.833333
 Uganda,UGA,2022,3.833333
 Uganda,UGA,2023,3.833333
 Uganda,UGA,2024,3.833333
-Upper middle income,UMC,2005,3.90196078431372
-Upper middle income,UMC,2006,3.90392156862745
-Upper middle income,UMC,2007,3.89285714285714
-Upper middle income,UMC,2008,3.83571428571429
-Upper middle income,UMC,2009,3.77777777777778
-Upper middle income,UMC,2010,3.73333333333333
-Upper middle income,UMC,2011,3.62222222222222
-Upper middle income,UMC,2012,3.48958333333333
-Upper middle income,UMC,2013,3.44791666666667
-Upper middle income,UMC,2014,3.20512794871795
-Upper middle income,UMC,2015,3.23076948717949
-Upper middle income,UMC,2016,3.17948769230769
-Upper middle income,UMC,2017,3.21794871794872
-Upper middle income,UMC,2018,3.25641025641026
-Upper middle income,UMC,2019,3.39743594871795
-Upper middle income,UMC,2020,3.33333333333333
-Upper middle income,UMC,2021,3.36111108333333
-Upper middle income,UMC,2022,3.36111116666667
-Upper middle income,UMC,2023,3.36111116666667
-Upper middle income,UMC,2024,3.34523807142857
+Uganda,UGA,2025,3.666667
+Upper middle income,UMC,2005,3.89473684210526
+Upper middle income,UMC,2006,3.90701754385965
+Upper middle income,UMC,2007,3.86458333333333
+Upper middle income,UMC,2008,3.8125
+Upper middle income,UMC,2009,3.77450980392157
+Upper middle income,UMC,2010,3.72549019607843
+Upper middle income,UMC,2011,3.55555555555556
+Upper middle income,UMC,2012,3.44736842105263
+Upper middle income,UMC,2013,3.41228070175439
+Upper middle income,UMC,2014,3.20833333333333
+Upper middle income,UMC,2015,3.19791708333333
+Upper middle income,UMC,2016,3.14285785714286
+Upper middle income,UMC,2017,3.17857142857143
+Upper middle income,UMC,2018,3.21428571428572
+Upper middle income,UMC,2019,3.32222228888889
+Upper middle income,UMC,2020,3.28205128205128
+Upper middle income,UMC,2021,3.30769230769231
+Upper middle income,UMC,2022,3.21428578571429
+Upper middle income,UMC,2023,3.21428578571429
+Upper middle income,UMC,2024,3.260416625
+Upper middle income,UMC,2025,3.2812500625
 Uzbekistan,UZB,2005,3.5
 Uzbekistan,UZB,2006,3.5
 Uzbekistan,UZB,2007,3.66666666666667
@@ -2190,6 +2279,7 @@ Uzbekistan,UZB,2021,4.166667
 Uzbekistan,UZB,2022,4.166667
 Uzbekistan,UZB,2023,4.166667
 Uzbekistan,UZB,2024,4.166667
+Uzbekistan,UZB,2025,4.166667
 St. Vincent and the Grenadines,VCT,2005,4
 St. Vincent and the Grenadines,VCT,2006,3.7
 St. Vincent and the Grenadines,VCT,2007,3.66666666666667
@@ -2210,6 +2300,7 @@ St. Vincent and the Grenadines,VCT,2021,3.666667
 St. Vincent and the Grenadines,VCT,2022,3.666667
 St. Vincent and the Grenadines,VCT,2023,3.666667
 St. Vincent and the Grenadines,VCT,2024,3.666667
+St. Vincent and the Grenadines,VCT,2025,3.166667
 Viet Nam,VNM,2005,4.33333333333333
 Viet Nam,VNM,2006,4.66666666666667
 Viet Nam,VNM,2007,4.33333333333333
@@ -2241,6 +2332,7 @@ Vanuatu,VUT,2021,3.833333
 Vanuatu,VUT,2022,3.833333
 Vanuatu,VUT,2023,3.666667
 Vanuatu,VUT,2024,3.333333
+Vanuatu,VUT,2025,3.333333
 World,WLD,2005,3.54605263157895
 World,WLD,2006,3.5474358974359
 World,WLD,2007,3.55111111111111
@@ -2261,6 +2353,7 @@ World,WLD,2021,3.21527780555555
 World,WLD,2022,3.1576577027027
 World,WLD,2023,3.15090093243243
 World,WLD,2024,3.16883116883117
+World,WLD,2025,3.17094021794872
 Samoa,WSM,2005,3.83333333333333
 Samoa,WSM,2006,3.83333333333333
 Samoa,WSM,2007,3.83333333333333
@@ -2281,6 +2374,7 @@ Samoa,WSM,2021,4.166667
 Samoa,WSM,2022,4.166667
 Samoa,WSM,2023,4.166667
 Samoa,WSM,2024,4.333333
+Samoa,WSM,2025,4.333333
 Kosovo,XKX,2009,3.33333333333333
 Kosovo,XKX,2010,3.33333333333333
 Kosovo,XKX,2011,3.5
@@ -2297,6 +2391,7 @@ Kosovo,XKX,2021,4
 Kosovo,XKX,2022,4
 Kosovo,XKX,2023,4.166667
 Kosovo,XKX,2024,4.5
+Kosovo,XKX,2025,4.5
 "Yemen, Rep.",YEM,2005,3.83333333333333
 "Yemen, Rep.",YEM,2006,3.66666666666667
 "Yemen, Rep.",YEM,2007,3.5
@@ -2317,6 +2412,7 @@ Kosovo,XKX,2024,4.5
 "Yemen, Rep.",YEM,2022,1.666667
 "Yemen, Rep.",YEM,2023,1.666667
 "Yemen, Rep.",YEM,2024,1.666667
+"Yemen, Rep.",YEM,2025,1.666667
 Zambia,ZMB,2005,3.33333333333333
 Zambia,ZMB,2006,3.66666666666667
 Zambia,ZMB,2007,3.66666666666667
@@ -2337,6 +2433,7 @@ Zambia,ZMB,2021,2.5
 Zambia,ZMB,2022,2.5
 Zambia,ZMB,2023,2.833333
 Zambia,ZMB,2024,3
+Zambia,ZMB,2025,3.166667
 Zimbabwe,ZWE,2005,1
 Zimbabwe,ZWE,2006,1
 Zimbabwe,ZWE,2007,1
@@ -2357,3 +2454,4 @@ Zimbabwe,ZWE,2021,2.666667
 Zimbabwe,ZWE,2022,2.5
 Zimbabwe,ZWE,2023,2.5
 Zimbabwe,ZWE,2024,2.5
+Zimbabwe,ZWE,2025,2.833333

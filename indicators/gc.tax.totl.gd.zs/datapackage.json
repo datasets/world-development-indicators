@@ -4,7 +4,7 @@
   "worldbank": {
     "indicator": "gc.tax.totl.gd.zs"
   },
-  "readme": "Taxes are compulsory, unrequited payments, in cash or in kind, made by institutional\n\n\nunits to government units. This indicator is expressed as a percentage of Gross Domestic Product (GDP) which is the total income earned through the production of goods and services in an economic territory during an accounting period.",
+  "readme": "Taxes are compulsory, unrequited payments, in cash or in kind, made by institutional\n\n\n\n\nunits to government units. This indicator is expressed as a percentage of Gross Domestic Product (GDP) which is the total income earned through the production of goods and services in an economic territory during an accounting period.",
   "licenses": [
     {
       "name": "CC-BY-4.0"
@@ -41,7 +41,7 @@
           {
             "name": "Value",
             "type": "number",
-            "description": "Taxes are compulsory, unrequited payments, in cash or in kind, made by institutional\n\n\nunits to government units. This indicator is expressed as a percentage of Gross Domestic Product (GDP) which is the total income earned through the production of goods and services in an economic territory during an accounting period."
+            "description": "Taxes are compulsory, unrequited payments, in cash or in kind, made by institutional\n\n\n\n\nunits to government units. This indicator is expressed as a percentage of Gross Domestic Product (GDP) which is the total income earned through the production of goods and services in an economic territory during an accounting period."
           }
         ]
       }

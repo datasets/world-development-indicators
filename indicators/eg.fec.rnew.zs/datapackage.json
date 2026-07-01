@@ -4,7 +4,7 @@
   "worldbank": {
     "indicator": "eg.fec.rnew.zs"
   },
-  "readme": "Renewable energy consumption is the share of renewables energy in total final energy consumption.",
+  "readme": "Renewable energy consumption is the share of renewable energy in total final energy consumption.",
   "licenses": [
     {
       "name": "CC-BY-4.0"
@@ -43,7 +43,7 @@
           {
             "name": "Value",
             "type": "number",
-            "description": "Renewable energy consumption is the share of renewables energy in total final energy consumption."
+            "description": "Renewable energy consumption is the share of renewable energy in total final energy consumption."
           }
         ]
       }

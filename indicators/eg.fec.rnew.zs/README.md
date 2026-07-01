@@ -1,1 +1,1 @@
-Renewable energy consumption is the share of renewables energy in total final energy consumption.
+Renewable energy consumption is the share of renewable energy in total final energy consumption.

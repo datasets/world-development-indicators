@@ -461,21 +461,22 @@ Europe & Central Asia,ECS,2016,25.75455
 Ecuador,ECU,2012,43.27051
 Ecuador,ECU,2013,43.25526
 Ecuador,ECU,2015,52.67572
+Euro area,EMU,1998,28.44398
 Euro area,EMU,1999,27.92329
 Euro area,EMU,2000,26.984445
-Euro area,EMU,2001,26.2307
-Euro area,EMU,2002,25.19178
-Euro area,EMU,2003,23.00727
-Euro area,EMU,2004,23.03144
-Euro area,EMU,2005,23.4954
-Euro area,EMU,2006,23.86542
-Euro area,EMU,2007,24.41366
-Euro area,EMU,2008,26.80364
-Euro area,EMU,2009,28.60976
-Euro area,EMU,2010,27.99309
-Euro area,EMU,2011,26.87704
-Euro area,EMU,2012,27.750025
-Euro area,EMU,2013,28.697965
+Euro area,EMU,2001,25.416515
+Euro area,EMU,2002,25.075
+Euro area,EMU,2003,23.924805
+Euro area,EMU,2004,22.74967
+Euro area,EMU,2005,23.45686
+Euro area,EMU,2006,23.438815
+Euro area,EMU,2007,24.19965
+Euro area,EMU,2008,26.13802
+Euro area,EMU,2009,27.12402
+Euro area,EMU,2010,26.21905
+Euro area,EMU,2011,26.34245
+Euro area,EMU,2012,26.93199
+Euro area,EMU,2013,27.77545
 Euro area,EMU,2014,31.87478
 Euro area,EMU,2015,29.2699
 Euro area,EMU,2016,27.60007
@@ -895,9 +896,6 @@ Kuwait,KWT,1997,97.03287
 Kuwait,KWT,2002,124.60588
 Kuwait,KWT,2003,132.25856
 Kuwait,KWT,2004,112.89651
-Latin America & Caribbean (excluding high income),LAC,2002,31.28615
-Latin America & Caribbean (excluding high income),LAC,2004,26.44907
-Latin America & Caribbean (excluding high income),LAC,2005,27.02643
 Latin America & Caribbean (excluding high income),LAC,2010,27.66643
 Latin America & Caribbean (excluding high income),LAC,2012,27.88126
 Latin America & Caribbean (excluding high income),LAC,2013,29.81738
@@ -934,7 +932,7 @@ Latin America & Caribbean,LCN,2012,25.24782
 Latin America & Caribbean,LCN,2013,31.14099
 Least developed countries: UN classification,LDC,2010,162.81621
 Least developed countries: UN classification,LDC,2011,100.318205
-Low income,LIC,2011,116.61996
+Low income,LIC,2011,180.98275
 Liechtenstein,LIE,2003,24.58953
 Liechtenstein,LIE,2004,21.88283
 Liechtenstein,LIE,2006,10.24261
@@ -1067,7 +1065,7 @@ Mexico,MEX,2014,39.11807
 Mexico,MEX,2015,36.45238
 Mexico,MEX,2016,29.65754
 Marshall Islands,MHL,2002,73.92703
-Middle income,MIC,2013,29.81738
+Middle income,MIC,2013,32.016635
 North Macedonia,MKD,2002,22.70138
 Mali,MLI,1998,290.05898
 Mali,MLI,1999,186.22427
@@ -1674,8 +1672,8 @@ Ukraine,UKR,2014,37.10283
 Ukraine,UKR,2016,38.53561
 Ukraine,UKR,2017,34.46536
 Upper middle income,UMC,2012,22.61438
-Upper middle income,UMC,2013,18.17357
-Upper middle income,UMC,2016,17.58253
+Upper middle income,UMC,2013,19.07659
+Upper middle income,UMC,2016,19.40833
 Uruguay,URY,1999,19.299
 Uruguay,URY,2000,18.29396
 Uruguay,URY,2001,19.9821

@@ -11,9 +11,9 @@ Afghanistan,AFG,2008,22.8
 Afghanistan,AFG,2010,21.8
 Afghanistan,AFG,2011,21.23950997
 Afghanistan,AFG,2015,22.5
-Africa Western and Central,AFW,1990,8.06183247987089
-Africa Western and Central,AFW,2000,15.4013364032292
-Africa Western and Central,AFW,2010,17.7950390887592
+Africa Western and Central,AFW,1990,8.01165981929936
+Africa Western and Central,AFW,2000,15.3862275045645
+Africa Western and Central,AFW,2010,17.7973439654613
 Africa Western and Central,AFW,2021,22.6741279686712
 Angola,AGO,1996,8.1
 Angola,AGO,2001,6.270998417
@@ -341,8 +341,6 @@ Ethiopia,ETH,2019,41.4
 Ethiopia,ETH,2020,37.7
 Ethiopia,ETH,2021,36.0705648652283
 European Union,EUU,2010,72.6131537530444
-Fragile and conflict affected situations,FCS,2000,28.5647424245271
-Fragile and conflict affected situations,FCS,2010,29.1097483551933
 Finland,FIN,1990,77.4222182596291
 Finland,FIN,1992,78.8461538461538
 Finland,FIN,1999,79.4701986754967
@@ -431,7 +429,7 @@ Guyana,GUY,2007,34.16822215
 Guyana,GUY,2009,42.5
 Guyana,GUY,2014,33.89188879
 Guyana,GUY,2020,29.8771395174816
-High income,HIC,2010,73.4535573934201
+High income,HIC,2010,73.45355739342
 "Hong Kong SAR, China",HKG,1967,42
 "Hong Kong SAR, China",HKG,1972,49.6
 "Hong Kong SAR, China",HKG,1977,71.9
@@ -452,9 +450,9 @@ Honduras,HND,2001,61.7749392182532
 Honduras,HND,2006,65.2
 Honduras,HND,2012,73.2
 Honduras,HND,2019,69.3736806153714
-Heavily indebted poor countries (HIPC),HPC,1990,10.9565683382106
-Heavily indebted poor countries (HIPC),HPC,2000,19.11788445831
-Heavily indebted poor countries (HIPC),HPC,2010,25.4406211942886
+Heavily indebted poor countries (HIPC),HPC,1990,10.9314613937951
+Heavily indebted poor countries (HIPC),HPC,2000,19.1121447682346
+Heavily indebted poor countries (HIPC),HPC,2010,25.4459358087379
 Heavily indebted poor countries (HIPC),HPC,2021,33.1854887980854
 Haiti,HTI,1977,18.9
 Haiti,HTI,1983,6.9
@@ -475,11 +473,11 @@ Hungary,HUN,1986,73.0999999999999
 Hungary,HUN,1993,80.6847782963478
 Hungary,HUN,2009,61.8
 IBRD only,IBD,2000,67.228118087584
-IDA & IBRD total,IBT,2000,58.9446582004583
-IDA & IBRD total,IBT,2010,52.0649568086871
-IDA total,IDA,1990,16.7833224818517
-IDA total,IDA,2000,29.395799129893
-IDA total,IDA,2010,32.1685013345535
+IDA & IBRD total,IBT,2000,58.947261487893
+IDA & IBRD total,IBT,2010,52.0676299389963
+IDA total,IDA,1990,16.7762745745554
+IDA total,IDA,2000,29.3971074587919
+IDA total,IDA,2010,32.1725628059167
 IDA total,IDA,2021,38.4180746700671
 IDA blend,IDB,1990,12.5602700979628
 IDA blend,IDB,2000,27.5198857665311
@@ -521,9 +519,9 @@ Indonesia,IDN,2020,52.7
 Indonesia,IDN,2021,51.9
 Indonesia,IDN,2022,52.4
 Indonesia,IDN,2023,52.6
-IDA only,IDX,1990,19.2979542311046
-IDA only,IDX,2000,30.4168861440173
-IDA only,IDX,2010,35.0878146562125
+IDA only,IDX,1990,19.2883592285953
+IDA only,IDX,2000,30.4194719772149
+IDA only,IDX,2010,35.09531153491
 IDA only,IDX,2021,41.9182263384032
 India,IND,1971,13.6
 India,IND,1981,35.3
@@ -694,12 +692,14 @@ Libya,LBY,2014,27.7
 St. Lucia,LCA,1981,52.2
 St. Lucia,LCA,1988,47.3
 St. Lucia,LCA,2012,55.47194257
-Least developed countries: UN classification,LDC,1990,19.1768593055353
-Least developed countries: UN classification,LDC,2000,27.4648247208696
-Least developed countries: UN classification,LDC,2010,33.1934999449958
+Least developed countries: UN classification,LDC,1990,19.1666886251116
+Least developed countries: UN classification,LDC,2000,27.4658746542992
+Least developed countries: UN classification,LDC,2010,33.2008418871933
 Least developed countries: UN classification,LDC,2021,41.7519931097887
-Low income,LIC,2000,24.4124036464783
-Low income,LIC,2010,26.0118255915457
+Low income,LIC,1990,15.2088872915632
+Low income,LIC,2000,21.2556537743183
+Low income,LIC,2010,26.6622069852169
+Low income,LIC,2021,33.0745575650224
 Sri Lanka,LKA,1975,34.4
 Sri Lanka,LKA,1977,48.6
 Sri Lanka,LKA,1982,57.8
@@ -708,11 +708,12 @@ Sri Lanka,LKA,1993,66.1
 Sri Lanka,LKA,2000,70
 Sri Lanka,LKA,2007,68.4
 Sri Lanka,LKA,2016,64.6
-Lower middle income,LMC,1990,37.248832065505
-Lower middle income,LMC,2000,43.8186122903379
-Lower middle income,LMC,2010,49.7042408872848
-Lower middle income,LMC,2021,57.0937293464068
-Low & middle income,LMY,2000,59.5896613637193
+Lower middle income,LMC,1990,36.4802884846435
+Lower middle income,LMC,2000,42.2950081495877
+Lower middle income,LMC,2010,48.6880379572924
+Lower middle income,LMC,2021,56.3919441246801
+Low & middle income,LMY,2000,58.9914725804181
+Low & middle income,LMY,2010,51.7402854259495
 Lesotho,LSO,1977,6
 Lesotho,LSO,1995,28.6
 Lesotho,LSO,2000,30.43133104
@@ -777,7 +778,7 @@ Mexico,MEX,2015,66.90078956
 Mexico,MEX,2018,73.10006
 Mexico,MEX,2023,71.8482508570646
 Marshall Islands,MHL,2007,44.6
-Middle income,MIC,2000,61.6782213970397
+Middle income,MIC,2000,61.6917796666797
 North Macedonia,MKD,2011,40.37709211
 North Macedonia,MKD,2019,59.8676426711758
 Mali,MLI,1987,4.7
@@ -997,10 +998,10 @@ Poland,POL,1977,75
 Poland,POL,1991,72.7540500736377
 Poland,POL,2011,50.5
 Poland,POL,2014,63.2
-Pre-demographic dividend,PRE,1990,10.2661010374328
-Pre-demographic dividend,PRE,2000,19.5992618257805
-Pre-demographic dividend,PRE,2010,22.6353542280114
-Pre-demographic dividend,PRE,2021,31.7008232628945
+Pre-demographic dividend,PRE,1990,10.2441519854418
+Pre-demographic dividend,PRE,2000,19.5947089192464
+Pre-demographic dividend,PRE,2010,22.6386243920587
+Pre-demographic dividend,PRE,2021,31.7008232628944
 Puerto Rico (US),PRI,1982,69.4
 Puerto Rico (US),PRI,1996,77.7
 "Korea, Dem. People's Rep.",PRK,1992,61.9
@@ -1120,15 +1121,15 @@ Serbia,SRB,2006,41.29240737
 Serbia,SRB,2010,60.83519849
 Serbia,SRB,2014,58.39362879
 Serbia,SRB,2019,62.2958961009131
-Sub-Saharan Africa (excluding high income),SSA,1990,16.5051646153717
-Sub-Saharan Africa (excluding high income),SSA,2000,23.7364767179538
-Sub-Saharan Africa (excluding high income),SSA,2010,23.1878600942197
-Sub-Saharan Africa (excluding high income),SSA,2021,31.4686083307126
+Sub-Saharan Africa (excluding high income),SSA,1990,15.1318133026739
+Sub-Saharan Africa (excluding high income),SSA,2000,22.213418719924
+Sub-Saharan Africa (excluding high income),SSA,2010,23.7859679213649
+Sub-Saharan Africa (excluding high income),SSA,2021,32.0570113805869
 South Sudan,SSD,2006,3.5
 South Sudan,SSD,2010,4.000601836
-Sub-Saharan Africa,SSF,1990,15.1445300549311
-Sub-Saharan Africa,SSF,2000,22.2155155103013
-Sub-Saharan Africa,SSF,2010,23.7826042391603
+Sub-Saharan Africa,SSF,1990,15.1318133026739
+Sub-Saharan Africa,SSF,2000,22.213418719924
+Sub-Saharan Africa,SSF,2010,23.7859679213649
 Sub-Saharan Africa,SSF,2021,32.0570113805869
 Sao Tome and Principe,STP,2000,29.28015017
 Sao Tome and Principe,STP,2006,30.7
@@ -1211,9 +1212,9 @@ South Asia (IDA & IBRD),TSA,1990,43.9535575840695
 South Asia (IDA & IBRD),TSA,2000,47.9408274861357
 South Asia (IDA & IBRD),TSA,2010,55.4151641703814
 South Asia (IDA & IBRD),TSA,2021,66.2124945487176
-Sub-Saharan Africa (IDA & IBRD countries),TSS,1990,15.1445300549311
-Sub-Saharan Africa (IDA & IBRD countries),TSS,2000,22.2155155103013
-Sub-Saharan Africa (IDA & IBRD countries),TSS,2010,23.7826042391603
+Sub-Saharan Africa (IDA & IBRD countries),TSS,1990,15.1318133026739
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2000,22.213418719924
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2010,23.7859679213649
 Sub-Saharan Africa (IDA & IBRD countries),TSS,2021,32.0570113805869
 Trinidad and Tobago,TTO,1971,44
 Trinidad and Tobago,TTO,1977,52
@@ -1274,7 +1275,7 @@ Ukraine,UKR,2000,71.6
 Ukraine,UKR,2005,65.55021693
 Ukraine,UKR,2007,66.7
 Ukraine,UKR,2012,65.4588684
-Upper middle income,UMC,2000,78.2062139670923
+Upper middle income,UMC,2000,76.8927346753928
 Uruguay,URY,1986,83
 Uruguay,URY,2004,77
 United States,USA,1965,66.5
@@ -1328,8 +1329,8 @@ Viet Nam,VNM,2021,72.8
 Vanuatu,VUT,1984,24.4
 Vanuatu,VUT,2008,38.42833538
 Vanuatu,VUT,2013,49
-World,WLD,2000,60.479441418473
-World,WLD,2010,55.8835345186882
+World,WLD,2000,60.4818004142885
+World,WLD,2010,55.8860178344822
 Samoa,WSM,2009,28.7
 Samoa,WSM,2014,26.9
 Samoa,WSM,2020,16.5858639953807

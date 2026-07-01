@@ -133,8 +133,8 @@ Ecuador,ECU,2018,47
 Ecuador,ECU,2022,49
 "Egypt, Arab Rep.",EGY,2018,18
 "Egypt, Arab Rep.",EGY,2022,19
-Euro area,EMU,2018,108
-Euro area,EMU,2022,128
+Euro area,EMU,2018,116
+Euro area,EMU,2022,138
 Eritrea,ERI,2018,15
 Eritrea,ERI,2022,16
 Spain,ESP,2018,17
@@ -145,8 +145,6 @@ Ethiopia,ETH,2018,34
 Ethiopia,ETH,2022,40
 European Union,EUU,2018,138
 European Union,EUU,2022,169
-Fragile and conflict affected situations,FCS,2018,598
-Fragile and conflict affected situations,FCS,2022,683
 Finland,FIN,2018,2
 Finland,FIN,2022,2
 Fiji,FJI,2018,7
@@ -251,8 +249,8 @@ St. Kitts and Nevis,KNA,2022,2
 "Korea, Rep.",KOR,2022,12
 Kuwait,KWT,2018,7
 Kuwait,KWT,2022,7
-Latin America & Caribbean (excluding high income),LAC,2018,496
-Latin America & Caribbean (excluding high income),LAC,2022,527
+Latin America & Caribbean (excluding high income),LAC,2018,531
+Latin America & Caribbean (excluding high income),LAC,2022,564
 Lao PDR,LAO,2018,45
 Lao PDR,LAO,2022,49
 Lebanon,LBN,2018,10
@@ -267,16 +265,16 @@ Latin America & Caribbean,LCN,2018,629
 Latin America & Caribbean,LCN,2022,663
 Least developed countries: UN classification,LDC,2018,920
 Least developed countries: UN classification,LDC,2022,1029
-Low income,LIC,2018,507
-Low income,LIC,2022,571
+Low income,LIC,2018,528
+Low income,LIC,2022,595
 Liechtenstein,LIE,2018,0
 Liechtenstein,LIE,2022,0
 Sri Lanka,LKA,2018,30
 Sri Lanka,LKA,2022,30
-Lower middle income,LMC,2018,1069
-Lower middle income,LMC,2022,1166
-Low & middle income,LMY,2018,2716
-Low & middle income,LMY,2022,2953
+Lower middle income,LMC,2018,975
+Lower middle income,LMC,2022,1065
+Low & middle income,LMY,2018,2785
+Low & middle income,LMY,2022,3030
 Lesotho,LSO,2018,4
 Lesotho,LSO,2022,4
 Late-demographic dividend,LTE,2018,800
@@ -307,8 +305,8 @@ Mexico,MEX,2018,96
 Mexico,MEX,2022,97
 Marshall Islands,MHL,2018,1
 Marshall Islands,MHL,2022,1
-Middle income,MIC,2018,2209
-Middle income,MIC,2022,2382
+Middle income,MIC,2018,2257
+Middle income,MIC,2022,2435
 North Macedonia,MKD,2018,6
 North Macedonia,MKD,2022,7
 Mali,MLI,2018,14
@@ -425,8 +423,8 @@ San Marino,SMR,2022,1
 "Somalia, Fed. Rep.",SOM,2022,18
 Serbia,SRB,2018,6
 Serbia,SRB,2022,8
-Sub-Saharan Africa (excluding high income),SSA,2018,927
-Sub-Saharan Africa (excluding high income),SSA,2022,1026
+Sub-Saharan Africa (excluding high income),SSA,2018,961
+Sub-Saharan Africa (excluding high income),SSA,2022,1066
 South Sudan,SSD,2018,14
 South Sudan,SSD,2022,18
 Sub-Saharan Africa,SSF,2018,967
@@ -493,8 +491,8 @@ Uganda,UGA,2018,31
 Uganda,UGA,2022,32
 Ukraine,UKR,2018,11
 Ukraine,UKR,2022,13
-Upper middle income,UMC,2018,1140
-Upper middle income,UMC,2022,1216
+Upper middle income,UMC,2018,1282
+Upper middle income,UMC,2022,1370
 Uruguay,URY,2018,10
 Uruguay,URY,2022,9
 United States,USA,2018,40

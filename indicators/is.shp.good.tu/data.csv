@@ -1,7 +1,4 @@
 Country Name,Country Code,Year,Value
-Aruba,ABW,2007,135000
-Aruba,ABW,2008,140000
-Aruba,ABW,2009,125000
 Aruba,ABW,2010,49558
 Aruba,ABW,2013,30988
 Aruba,ABW,2014,29628
@@ -12,8 +9,9 @@ Aruba,ABW,2018,58500
 Aruba,ABW,2019,63870
 Aruba,ABW,2020,53171
 Aruba,ABW,2021,57062
-Africa Western and Central,AFW,2008,2853817.1736
-Africa Western and Central,AFW,2009,2657321.41967184
+Aruba,ABW,2022,64771
+Aruba,ABW,2023,64753
+Aruba,ABW,2024,64800
 Africa Western and Central,AFW,2010,4765578.63
 Africa Western and Central,AFW,2011,5623522.75
 Africa Western and Central,AFW,2012,5965333.18
@@ -22,25 +20,27 @@ Africa Western and Central,AFW,2014,6567432.71
 Africa Western and Central,AFW,2015,6722792.36
 Africa Western and Central,AFW,2016,6464269.34
 Africa Western and Central,AFW,2017,7328156.16
-Africa Western and Central,AFW,2018,7942499.59
-Africa Western and Central,AFW,2019,8601610.13
-Africa Western and Central,AFW,2020,8083825
-Angola,AGO,2010,533150
-Angola,AGO,2011,679516
-Angola,AGO,2012,1006281
-Angola,AGO,2013,912898
-Angola,AGO,2014,1055393
-Angola,AGO,2015,753286
-Angola,AGO,2016,541346
-Angola,AGO,2017,683548
-Angola,AGO,2018,572922
-Angola,AGO,2019,651273
-Angola,AGO,2020,563895
-Angola,AGO,2021,604987
-Angola,AGO,2022,654590
-Albania,ALB,2007,33127
-Albania,ALB,2008,46798
-Albania,ALB,2009,68780
+Africa Western and Central,AFW,2018,7919906.59
+Africa Western and Central,AFW,2019,8562750.13
+Africa Western and Central,AFW,2020,8100808
+Africa Western and Central,AFW,2021,8567214
+Africa Western and Central,AFW,2022,8186999
+Africa Western and Central,AFW,2023,8917517
+Angola,AGO,2010,611050
+Angola,AGO,2011,763851
+Angola,AGO,2012,1103281
+Angola,AGO,2013,1006332
+Angola,AGO,2014,1141081
+Angola,AGO,2015,814965
+Angola,AGO,2016,572298
+Angola,AGO,2017,735431
+Angola,AGO,2018,618238
+Angola,AGO,2019,700123
+Angola,AGO,2020,590128
+Angola,AGO,2021,628348
+Angola,AGO,2022,678333
+Angola,AGO,2023,662054
+Angola,AGO,2024,709221
 Albania,ALB,2010,70000
 Albania,ALB,2011,76700
 Albania,ALB,2012,83194
@@ -51,31 +51,24 @@ Albania,ALB,2016,118829
 Albania,ALB,2017,118270
 Albania,ALB,2018,134526
 Albania,ALB,2019,145762
-Arab World,ARB,2007,30991333
-Arab World,ARB,2008,35945775.9208
-Arab World,ARB,2009,36475109.3235755
-Arab World,ARB,2010,40472505.32
-Arab World,ARB,2011,43282718.27
-Arab World,ARB,2012,45650115.64
-Arab World,ARB,2013,47190979.49
-Arab World,ARB,2014,49962026.81
-Arab World,ARB,2015,51301333.89
-Arab World,ARB,2016,51028666.29
-Arab World,ARB,2017,52594194.8
-Arab World,ARB,2018,53583896.45
-Arab World,ARB,2019,56713766.355
-Arab World,ARB,2020,56136593
-Arab World,ARB,2021,55266464
-United Arab Emirates,ARE,2000,5055801
-United Arab Emirates,ARE,2001,5081964
-United Arab Emirates,ARE,2002,5872240
-United Arab Emirates,ARE,2003,6955202
-United Arab Emirates,ARE,2004,8661636
-United Arab Emirates,ARE,2005,9851709
-United Arab Emirates,ARE,2006,10967048
-United Arab Emirates,ARE,2007,13182412
-United Arab Emirates,ARE,2008,14756127
-United Arab Emirates,ARE,2009,14425039
+Albania,ALB,2020,138477
+Albania,ALB,2021,144129
+Albania,ALB,2022,132965
+Albania,ALB,2023,184017
+Arab World,ARB,2010,40595621.02
+Arab World,ARB,2011,43271616.37
+Arab World,ARB,2012,45864132.13
+Arab World,ARB,2013,47103819.89
+Arab World,ARB,2014,49757928.71
+Arab World,ARB,2015,50742570.79
+Arab World,ARB,2016,51001164.79
+Arab World,ARB,2017,52487666.3
+Arab World,ARB,2018,53256790.65
+Arab World,ARB,2019,56681948.755
+Arab World,ARB,2020,56449299
+Arab World,ARB,2021,55703156
+Arab World,ARB,2022,59050012
+Arab World,ARB,2024,63523118
 United Arab Emirates,ARE,2010,15140524
 United Arab Emirates,ARE,2011,17028713
 United Arab Emirates,ARE,2012,18063296
@@ -86,19 +79,11 @@ United Arab Emirates,ARE,2016,20652200
 United Arab Emirates,ARE,2017,19089706
 United Arab Emirates,ARE,2018,18696000
 United Arab Emirates,ARE,2019,18802000
-United Arab Emirates,ARE,2020,18721000
-United Arab Emirates,ARE,2021,19182000
-United Arab Emirates,ARE,2022,20300000
-Argentina,ARG,2000,1144834
-Argentina,ARG,2001,663811
-Argentina,ARG,2002,554800
-Argentina,ARG,2003,1025055
-Argentina,ARG,2004,1251895
-Argentina,ARG,2005,1490372
-Argentina,ARG,2006,1757990
-Argentina,ARG,2007,1874259
-Argentina,ARG,2008,1997146
-Argentina,ARG,2009,1626835.3556
+United Arab Emirates,ARE,2020,18720000
+United Arab Emirates,ARE,2021,19236164
+United Arab Emirates,ARE,2022,20391675
+United Arab Emirates,ARE,2023,21531172
+United Arab Emirates,ARE,2024,23466906
 Argentina,ARG,2010,2017388
 Argentina,ARG,2011,2193269
 Argentina,ARG,2012,1970243
@@ -112,6 +97,8 @@ Argentina,ARG,2019,1833964
 Argentina,ARG,2020,1705390
 Argentina,ARG,2021,1798923
 Argentina,ARG,2022,1667161
+Argentina,ARG,2023,1490437
+Argentina,ARG,2024,1471434
 American Samoa,ASM,2010,59167
 American Samoa,ASM,2011,66334
 American Samoa,ASM,2012,59461
@@ -122,9 +109,6 @@ American Samoa,ASM,2016,65970
 American Samoa,ASM,2017,92270
 American Samoa,ASM,2018,90245
 American Samoa,ASM,2019,76200
-Antigua and Barbuda,ATG,2007,34081
-Antigua and Barbuda,ATG,2008,32562
-Antigua and Barbuda,ATG,2009,29150
 Antigua and Barbuda,ATG,2010,24615
 Antigua and Barbuda,ATG,2011,21824
 Antigua and Barbuda,ATG,2012,24449
@@ -135,16 +119,11 @@ Antigua and Barbuda,ATG,2016,16193
 Antigua and Barbuda,ATG,2017,17311
 Antigua and Barbuda,ATG,2018,28826
 Antigua and Barbuda,ATG,2019,27657
-Australia,AUS,2000,3542802
-Australia,AUS,2001,3774845
-Australia,AUS,2002,4355020
-Australia,AUS,2003,4758428
-Australia,AUS,2004,5057346
-Australia,AUS,2005,5191013
-Australia,AUS,2006,5741962
-Australia,AUS,2007,6290090
-Australia,AUS,2008,6102342.1952
-Australia,AUS,2009,6200325.48531488
+Antigua and Barbuda,ATG,2020,28000
+Antigua and Barbuda,ATG,2021,29000
+Antigua and Barbuda,ATG,2022,28000
+Antigua and Barbuda,ATG,2023,29000
+Antigua and Barbuda,ATG,2024,28000
 Australia,AUS,2010,6451689
 Australia,AUS,2011,6865295
 Australia,AUS,2012,7197262
@@ -155,9 +134,11 @@ Australia,AUS,2016,7830344
 Australia,AUS,2017,7991508
 Australia,AUS,2018,8667914
 Australia,AUS,2019,8778913
-Australia,AUS,2020,8471033
-Australia,AUS,2021,9254248
-Australia,AUS,2022,9375992
+Australia,AUS,2020,8470466
+Australia,AUS,2021,9254828
+Australia,AUS,2022,9377619
+Australia,AUS,2023,9283435
+Australia,AUS,2024,9579396
 Austria,AUT,2007,365918
 Austria,AUT,2008,379740.7072
 Austria,AUT,2009,330995.87292768
@@ -169,16 +150,6 @@ Austria,AUT,2014,285900
 Austria,AUT,2015,285900
 Austria,AUT,2016,285900
 Austria,AUT,2017,285900
-Belgium,BEL,2000,5057579
-Belgium,BEL,2001,5109693
-Belgium,BEL,2002,5825610
-Belgium,BEL,2003,6482443
-Belgium,BEL,2004,7279638
-Belgium,BEL,2005,7889994
-Belgium,BEL,2006,8708293
-Belgium,BEL,2007,10257511
-Belgium,BEL,2008,10937134
-Belgium,BEL,2009,9701494
 Belgium,BEL,2010,9988291
 Belgium,BEL,2011,9901751
 Belgium,BEL,2012,9653447
@@ -191,7 +162,9 @@ Belgium,BEL,2018,11503695
 Belgium,BEL,2019,12389876
 Belgium,BEL,2020,12697162
 Belgium,BEL,2021,13095258
-Belgium,BEL,2022,12303822
+Belgium,BEL,2022,12334925
+Belgium,BEL,2023,11482434
+Belgium,BEL,2024,12395047
 Benin,BEN,2008,300000
 Benin,BEN,2009,272820
 Benin,BEN,2010,316700
@@ -204,16 +177,6 @@ Benin,BEN,2016,310500
 Benin,BEN,2017,333000
 Benin,BEN,2018,321750
 Benin,BEN,2019,510895.6
-Bangladesh,BGD,2000,456007
-Bangladesh,BGD,2001,486289
-Bangladesh,BGD,2002,584220
-Bangladesh,BGD,2003,625160
-Bangladesh,BGD,2004,714420
-Bangladesh,BGD,2005,808924
-Bangladesh,BGD,2006,901528
-Bangladesh,BGD,2007,978007
-Bangladesh,BGD,2008,1091200
-Bangladesh,BGD,2009,1182121
 Bangladesh,BGD,2010,1364139
 Bangladesh,BGD,2011,1419227
 Bangladesh,BGD,2012,1435045
@@ -227,9 +190,8 @@ Bangladesh,BGD,2019,3145919
 Bangladesh,BGD,2020,2897709
 Bangladesh,BGD,2021,3271732
 Bangladesh,BGD,2022,3200236
-Bulgaria,BGR,2007,130694
-Bulgaria,BGR,2008,203253
-Bulgaria,BGR,2009,136444
+Bangladesh,BGD,2023,3225732
+Bangladesh,BGD,2024,3353732
 Bulgaria,BGR,2010,142611
 Bulgaria,BGR,2011,147594
 Bulgaria,BGR,2012,169922
@@ -243,9 +205,8 @@ Bulgaria,BGR,2019,261934
 Bulgaria,BGR,2020,254571
 Bulgaria,BGR,2021,245160
 Bulgaria,BGR,2022,254854
-Bahrain,BHR,2007,238624
-Bahrain,BHR,2008,269331
-Bahrain,BHR,2009,279799
+Bulgaria,BGR,2023,282160
+Bulgaria,BGR,2024,296350
 Bahrain,BHR,2010,367589
 Bahrain,BHR,2011,374823
 Bahrain,BHR,2012,525309
@@ -258,32 +219,26 @@ Bahrain,BHR,2018,432207
 Bahrain,BHR,2019,418933
 Bahrain,BHR,2020,464010
 Bahrain,BHR,2021,404904
-"Bahamas, The",BHS,2001,570000
-"Bahamas, The",BHS,2003,1057879
-"Bahamas, The",BHS,2004,1184800
-"Bahamas, The",BHS,2005,1211500
-"Bahamas, The",BHS,2006,1463000
-"Bahamas, The",BHS,2007,1632000
-"Bahamas, The",BHS,2008,1702000
-"Bahamas, The",BHS,2009,1297000
+Bahrain,BHR,2022,383435
+Bahrain,BHR,2023,404097
+Bahrain,BHR,2024,409382
 "Bahamas, The",BHS,2010,1155000
 "Bahamas, The",BHS,2011,1146272
 "Bahamas, The",BHS,2012,1232000
-"Bahamas, The",BHS,2013,1465246
+"Bahamas, The",BHS,2013,1430000
 "Bahamas, The",BHS,2014,1465283
 "Bahamas, The",BHS,2015,1468380
 "Bahamas, The",BHS,2016,1261778
 "Bahamas, The",BHS,2017,920652
 "Bahamas, The",BHS,2018,1182836
-"Bahamas, The",BHS,2019,1555798
-"Bahamas, The",BHS,2020,1450000
-"Bahamas, The",BHS,2021,1792780
-"Bahamas, The",BHS,2022,1724000
-Belize,BLZ,2007,39191
-Belize,BLZ,2008,38211
-Belize,BLZ,2009,31344
+"Bahamas, The",BHS,2019,1528297
+"Bahamas, The",BHS,2020,1429694
+"Bahamas, The",BHS,2021,1761742
+"Bahamas, The",BHS,2022,1702995
+"Bahamas, The",BHS,2023,1469256
+"Bahamas, The",BHS,2024,1540740
 Belize,BLZ,2010,31917
-Belize,BLZ,2011,34776
+Belize,BLZ,2011,34200
 Belize,BLZ,2012,36978
 Belize,BLZ,2013,40978
 Belize,BLZ,2014,43593
@@ -291,7 +246,11 @@ Belize,BLZ,2015,48141
 Belize,BLZ,2016,46040
 Belize,BLZ,2017,44381
 Belize,BLZ,2018,47729
-Belize,BLZ,2019,20259
+Belize,BLZ,2019,44510
+Belize,BLZ,2020,36993
+Belize,BLZ,2021,42478
+Belize,BLZ,2022,47264
+Belize,BLZ,2023,21279
 Bermuda,BMU,2010,4485.461
 Bermuda,BMU,2011,4485.461
 Bermuda,BMU,2012,4485.461
@@ -302,16 +261,6 @@ Bermuda,BMU,2016,4437.324
 Bermuda,BMU,2017,4437.324
 Bermuda,BMU,2018,4437.324
 Bermuda,BMU,2019,4006
-Brazil,BRA,2000,2413098
-Brazil,BRA,2001,2323801
-Brazil,BRA,2002,3570260
-Brazil,BRA,2003,4230474
-Brazil,BRA,2004,5056814
-Brazil,BRA,2005,5652149
-Brazil,BRA,2006,6294286
-Brazil,BRA,2007,6464724
-Brazil,BRA,2008,7256291.688
-Brazil,BRA,2009,6590363.8866672
 Brazil,BRA,2010,7223103
 Brazil,BRA,2011,8037427
 Brazil,BRA,2012,8455525
@@ -325,9 +274,8 @@ Brazil,BRA,2019,10704669
 Brazil,BRA,2020,10450632
 Brazil,BRA,2021,11801530
 Brazil,BRA,2022,11683239
-Barbados,BRB,2007,99626
-Barbados,BRB,2008,87255
-Barbados,BRB,2009,75015
+Brazil,BRA,2023,11613563
+Brazil,BRA,2024,13893906
 Barbados,BRB,2010,80424
 Barbados,BRB,2011,77051
 Barbados,BRB,2012,72163
@@ -341,10 +289,9 @@ Barbados,BRB,2019,98435
 Barbados,BRB,2020,89460
 Barbados,BRB,2021,93899
 Barbados,BRB,2022,97000
-Brunei Darussalam,BRN,2008,90366
-Brunei Darussalam,BRN,2009,85577
-Brunei Darussalam,BRN,2010,93243
-Brunei Darussalam,BRN,2011,101401
+Barbados,BRB,2023,101300
+Brunei Darussalam,BRN,2010,86000
+Brunei Darussalam,BRN,2011,101397
 Brunei Darussalam,BRN,2012,116551
 Brunei Darussalam,BRN,2013,111817
 Brunei Darussalam,BRN,2014,106168
@@ -354,16 +301,9 @@ Brunei Darussalam,BRN,2017,104747
 Brunei Darussalam,BRN,2018,113125
 Brunei Darussalam,BRN,2019,117901
 Brunei Darussalam,BRN,2020,106174
-Canada,CAN,2000,2927942
-Canada,CAN,2001,2890388
-Canada,CAN,2002,3307310
-Canada,CAN,2003,3631072
-Canada,CAN,2004,3926147
-Canada,CAN,2005,4163424
-Canada,CAN,2006,4330163
-Canada,CAN,2007,4413927
-Canada,CAN,2008,4720663
-Canada,CAN,2009,4191568.063
+Brunei Darussalam,BRN,2021,110430
+Brunei Darussalam,BRN,2022,104000
+Brunei Darussalam,BRN,2023,99000
 Canada,CAN,2010,4670790
 Canada,CAN,2011,4735750
 Canada,CAN,2012,5125601
@@ -376,10 +316,9 @@ Canada,CAN,2018,6763247
 Canada,CAN,2019,7000133
 Canada,CAN,2020,6298023
 Canada,CAN,2021,7169607
-Canada,CAN,2022,7010704
-Central Europe and the Baltics,CEB,2007,3499057
-Central Europe and the Baltics,CEB,2008,3745827
-Central Europe and the Baltics,CEB,2009,2439520
+Canada,CAN,2022,7075877
+Canada,CAN,2023,6102646
+Canada,CAN,2024,6394038
 Central Europe and the Baltics,CEB,2010,2938187
 Central Europe and the Baltics,CEB,2011,3804520
 Central Europe and the Baltics,CEB,2012,4230152
@@ -389,10 +328,12 @@ Central Europe and the Baltics,CEB,2015,4732259
 Central Europe and the Baltics,CEB,2016,5076244
 Central Europe and the Baltics,CEB,2017,5661145
 Central Europe and the Baltics,CEB,2018,6497688
-Central Europe and the Baltics,CEB,2019,6676076
-Central Europe and the Baltics,CEB,2020,6444869
-Central Europe and the Baltics,CEB,2021,6769611
-Central Europe and the Baltics,CEB,2022,7458642
+Central Europe and the Baltics,CEB,2019,6676099
+Central Europe and the Baltics,CEB,2020,6445797
+Central Europe and the Baltics,CEB,2021,6769300
+Central Europe and the Baltics,CEB,2022,7458394
+Central Europe and the Baltics,CEB,2023,7470068
+Central Europe and the Baltics,CEB,2024,8044284
 Switzerland,CHE,2007,104366
 Switzerland,CHE,2008,92464
 Switzerland,CHE,2009,78285
@@ -407,16 +348,6 @@ Switzerland,CHE,2017,119231
 Switzerland,CHE,2018,119133
 Switzerland,CHE,2019,121366
 Switzerland,CHE,2020,114075
-Chile,CHL,2000,1253131
-Chile,CHL,2001,1080545
-Chile,CHL,2002,1167880
-Chile,CHL,2003,1250126
-Chile,CHL,2004,1658672
-Chile,CHL,2005,1804236
-Chile,CHL,2006,2126811
-Chile,CHL,2007,2725218
-Chile,CHL,2008,3164137
-Chile,CHL,2009,2795990.2016
 Chile,CHL,2010,3157758
 Chile,CHL,2011,3432192
 Chile,CHL,2012,3514318
@@ -429,18 +360,10 @@ Chile,CHL,2018,4661486
 Chile,CHL,2019,4641633
 Chile,CHL,2020,4217172
 Chile,CHL,2021,4335451
-Chile,CHL,2022,4158260
-China,CHN,2000,41000000
-China,CHN,2001,44726084
-China,CHN,2002,55717488
-China,CHN,2003,61898336
-China,CHN,2004,74725444
-China,CHN,2005,67245263
-China,CHN,2006,84810503
-China,CHN,2007,103823024
-China,CHN,2008,115941970
-China,CHN,2009,108799933.7248
-China,CHN,2010,135917800
+Chile,CHL,2022,4203293
+Chile,CHL,2023,4322878
+Chile,CHL,2024,4474125
+China,CHN,2010,136044183
 China,CHN,2011,151800937
 China,CHN,2012,165939400
 China,CHN,2013,176607144
@@ -452,16 +375,9 @@ China,CHN,2018,229127700
 China,CHN,2019,237570000
 China,CHN,2020,240480000
 China,CHN,2021,256945700
-China,CHN,2022,268990000
-Cote d'Ivoire,CIV,2000,434422
-Cote d'Ivoire,CIV,2001,543845
-Cote d'Ivoire,CIV,2002,579060
-Cote d'Ivoire,CIV,2003,612546
-Cote d'Ivoire,CIV,2004,670000
-Cote d'Ivoire,CIV,2005,710000
-Cote d'Ivoire,CIV,2007,590306
-Cote d'Ivoire,CIV,2008,713625
-Cote d'Ivoire,CIV,2009,677029
+China,CHN,2022,268790000
+China,CHN,2023,278759834
+China,CHN,2024,299703800
 Cote d'Ivoire,CIV,2010,717700
 Cote d'Ivoire,CIV,2011,766071
 Cote d'Ivoire,CIV,2012,880104
@@ -474,9 +390,9 @@ Cote d'Ivoire,CIV,2018,924596
 Cote d'Ivoire,CIV,2019,994646
 Cote d'Ivoire,CIV,2020,979517
 Cote d'Ivoire,CIV,2021,1042418
-Cameroon,CMR,2007,217681
-Cameroon,CMR,2008,270000
-Cameroon,CMR,2009,245538
+Cote d'Ivoire,CIV,2022,1083605
+Cote d'Ivoire,CIV,2023,1476195
+Cote d'Ivoire,CIV,2024,1802000
 Cameroon,CMR,2010,290000
 Cameroon,CMR,2011,333834
 Cameroon,CMR,2012,351099
@@ -485,9 +401,13 @@ Cameroon,CMR,2014,333555
 Cameroon,CMR,2015,379915
 Cameroon,CMR,2016,370000
 Cameroon,CMR,2017,386367
-Cameroon,CMR,2018,387000
-Cameroon,CMR,2019,370685
-Cameroon,CMR,2020,366667
+Cameroon,CMR,2018,378758
+Cameroon,CMR,2019,370493
+Cameroon,CMR,2020,421854
+Cameroon,CMR,2021,360512
+Cameroon,CMR,2022,338412
+Cameroon,CMR,2023,348470
+Cameroon,CMR,2024,350000
 "Congo, Dem. Rep.",COD,2010,59133
 "Congo, Dem. Rep.",COD,2011,66199
 "Congo, Dem. Rep.",COD,2012,62665
@@ -498,8 +418,6 @@ Cameroon,CMR,2020,366667
 "Congo, Dem. Rep.",COD,2017,52066
 "Congo, Dem. Rep.",COD,2018,55599
 "Congo, Dem. Rep.",COD,2019,42211
-"Congo, Rep.",COG,2008,321000
-"Congo, Rep.",COG,2009,291917.4
 "Congo, Rep.",COG,2010,355000
 "Congo, Rep.",COG,2011,442202
 "Congo, Rep.",COG,2012,509037
@@ -512,17 +430,9 @@ Cameroon,CMR,2020,366667
 "Congo, Rep.",COG,2019,921000
 "Congo, Rep.",COG,2020,930000
 "Congo, Rep.",COG,2021,1003734
-"Congo, Rep.",COG,2022,999999
-Colombia,COL,2000,791588
-Colombia,COL,2001,577041
-Colombia,COL,2002,960720
-Colombia,COL,2003,995203
-Colombia,COL,2004,946945
-Colombia,COL,2005,1236121
-Colombia,COL,2006,1510744
-Colombia,COL,2007,2076760
-Colombia,COL,2008,1969316
-Colombia,COL,2009,2056789.2236
+"Congo, Rep.",COG,2022,1000000
+"Congo, Rep.",COG,2023,1001000
+"Congo, Rep.",COG,2024,1046064
 Colombia,COL,2010,2446523
 Colombia,COL,2011,2861151
 Colombia,COL,2012,3381952
@@ -536,6 +446,8 @@ Colombia,COL,2019,4316862
 Colombia,COL,2020,4272689
 Colombia,COL,2021,4901510
 Colombia,COL,2022,4480670
+Colombia,COL,2023,4503448
+Colombia,COL,2024,5188127
 Comoros,COM,2010,44697.48
 Comoros,COM,2011,77184.98
 Comoros,COM,2012,79917.15
@@ -559,16 +471,8 @@ Cabo Verde,CPV,2019,91683
 Cabo Verde,CPV,2020,76139
 Cabo Verde,CPV,2021,79754
 Cabo Verde,CPV,2022,82871
-Costa Rica,CRI,2000,573502
-Costa Rica,CRI,2001,563825
-Costa Rica,CRI,2002,602570
-Costa Rica,CRI,2003,669259
-Costa Rica,CRI,2004,734088
-Costa Rica,CRI,2005,740420
-Costa Rica,CRI,2006,834321
-Costa Rica,CRI,2007,976621
-Costa Rica,CRI,2008,1004971
-Costa Rica,CRI,2009,875687
+Cabo Verde,CPV,2023,83828
+Cabo Verde,CPV,2024,89382
 Costa Rica,CRI,2010,1013483
 Costa Rica,CRI,2011,1069348
 Costa Rica,CRI,2012,1229530
@@ -582,20 +486,22 @@ Costa Rica,CRI,2019,1300785
 Costa Rica,CRI,2020,1509599
 Costa Rica,CRI,2021,1523198
 Costa Rica,CRI,2022,1594323
+Costa Rica,CRI,2023,1658363
+Costa Rica,CRI,2024,1717439
 Caribbean small states,CSS,2010,2082581.5
-Caribbean small states,CSS,2011,2075859
-Caribbean small states,CSS,2012,2181323
-Caribbean small states,CSS,2013,2446893
+Caribbean small states,CSS,2011,2082277
+Caribbean small states,CSS,2012,2201538
+Caribbean small states,CSS,2013,2411647
 Caribbean small states,CSS,2014,2447464
 Caribbean small states,CSS,2015,2397450
-Caribbean small states,CSS,2016,2107409
+Caribbean small states,CSS,2016,2102717
 Caribbean small states,CSS,2017,1764394
 Caribbean small states,CSS,2018,2063791.5
-Caribbean small states,CSS,2019,2406965.25
-Caribbean small states,CSS,2020,2043797.875
-Cuba,CUB,2007,319857
-Cuba,CUB,2008,319000
-Cuba,CUB,2009,290098.6
+Caribbean small states,CSS,2019,2409594.25
+Caribbean small states,CSS,2020,2254742.375
+Caribbean small states,CSS,2021,2581532
+Caribbean small states,CSS,2022,2560779
+Caribbean small states,CSS,2023,2327876
 Cuba,CUB,2010,228346
 Cuba,CUB,2011,246773
 Cuba,CUB,2012,240000
@@ -609,6 +515,7 @@ Cuba,CUB,2019,322431
 Cuba,CUB,2020,255362
 Cuba,CUB,2021,246352
 Cuba,CUB,2022,261080
+Cuba,CUB,2023,281140
 Curacao,CUW,2011,94097
 Curacao,CUW,2012,99191
 Curacao,CUW,2013,87452
@@ -616,13 +523,12 @@ Curacao,CUW,2014,89193
 Curacao,CUW,2015,90016
 Curacao,CUW,2016,98278
 Curacao,CUW,2017,93921
-Curacao,CUW,2018,94607
+Curacao,CUW,2018,96738
 Curacao,CUW,2020,89305
 Curacao,CUW,2021,92640
-Curacao,CUW,2022,96000
-Cayman Islands,CYM,2007,649
-Cayman Islands,CYM,2008,36644
-Cayman Islands,CYM,2009,44215
+Curacao,CUW,2022,100835
+Curacao,CUW,2023,98051
+Curacao,CUW,2024,98100
 Cayman Islands,CYM,2010,45649
 Cayman Islands,CYM,2011,44766
 Cayman Islands,CYM,2012,45400
@@ -632,9 +538,7 @@ Cayman Islands,CYM,2015,54607
 Cayman Islands,CYM,2016,60718
 Cayman Islands,CYM,2017,61940
 Cayman Islands,CYM,2022,40829
-Cyprus,CYP,2007,377037
-Cyprus,CYP,2008,416970
-Cyprus,CYP,2009,353913
+Cayman Islands,CYM,2024,46658
 Cyprus,CYP,2010,349163
 Cyprus,CYP,2011,345817
 Cyprus,CYP,2012,307496
@@ -648,16 +552,8 @@ Cyprus,CYP,2019,389962
 Cyprus,CYP,2020,390504
 Cyprus,CYP,2021,319131
 Cyprus,CYP,2022,371740
-Germany,DEU,2000,7695688
-Germany,DEU,2001,8426520
-Germany,DEU,2002,9252670
-Germany,DEU,2003,10943452
-Germany,DEU,2004,12479419
-Germany,DEU,2005,13598987
-Germany,DEU,2006,15009691
-Germany,DEU,2007,16644222
-Germany,DEU,2008,17183042.1168
-Germany,DEU,2009,13296300.2124179
+Cyprus,CYP,2023,389864
+Cyprus,CYP,2024,386498
 Germany,DEU,2010,13037702
 Germany,DEU,2011,15199723
 Germany,DEU,2012,15269690
@@ -671,9 +567,8 @@ Germany,DEU,2019,15022386
 Germany,DEU,2020,13946212
 Germany,DEU,2021,14710963
 Germany,DEU,2022,13733867
-Djibouti,DJI,2007,294902
-Djibouti,DJI,2008,356462
-Djibouti,DJI,2009,519500
+Germany,DEU,2023,12608856
+Germany,DEU,2024,13294081
 Djibouti,DJI,2010,406407
 Djibouti,DJI,2011,703617
 Djibouti,DJI,2012,743273
@@ -687,6 +582,8 @@ Djibouti,DJI,2019,917000
 Djibouti,DJI,2020,860000
 Djibouti,DJI,2021,692000
 Djibouti,DJI,2022,635000
+Djibouti,DJI,2023,886831
+Djibouti,DJI,2024,1293000
 Dominica,DMA,2010,7363
 Dominica,DMA,2011,7836
 Dominica,DMA,2012,6890
@@ -698,16 +595,6 @@ Dominica,DMA,2017,7425
 Dominica,DMA,2018,7393
 Dominica,DMA,2019,7409
 Dominica,DMA,2020,7401
-Denmark,DNK,2000,568660
-Denmark,DNK,2001,457386
-Denmark,DNK,2002,587300
-Denmark,DNK,2003,888729
-Denmark,DNK,2004,1213919
-Denmark,DNK,2005,913960
-Denmark,DNK,2006,679707
-Denmark,DNK,2007,775117
-Denmark,DNK,2008,740682
-Denmark,DNK,2009,621546
 Denmark,DNK,2010,698012
 Denmark,DNK,2011,782554
 Denmark,DNK,2012,763945
@@ -720,19 +607,12 @@ Denmark,DNK,2018,833857
 Denmark,DNK,2019,880039
 Denmark,DNK,2020,933622
 Denmark,DNK,2021,1054552
-Denmark,DNK,2022,1079649
-Dominican Republic,DOM,2000,566479
-Dominican Republic,DOM,2001,487827
-Dominican Republic,DOM,2002,541930
-Dominican Republic,DOM,2003,480650
-Dominican Republic,DOM,2004,537317
-Dominican Republic,DOM,2006,597583
-Dominican Republic,DOM,2007,883785
-Dominican Republic,DOM,2008,1138471
-Dominican Republic,DOM,2009,1263467.5494
+Denmark,DNK,2022,1079406
+Denmark,DNK,2023,926423
+Denmark,DNK,2024,935848
 Dominican Republic,DOM,2010,1382905
 Dominican Republic,DOM,2011,1476007
-Dominican Republic,DOM,2012,1751758
+Dominican Republic,DOM,2012,1751095
 Dominican Republic,DOM,2013,1446902
 Dominican Republic,DOM,2014,1265132
 Dominican Republic,DOM,2015,1367055
@@ -740,14 +620,11 @@ Dominican Republic,DOM,2016,1486227
 Dominican Republic,DOM,2017,1770295
 Dominican Republic,DOM,2018,1906487
 Dominican Republic,DOM,2019,1894225
-Dominican Republic,DOM,2020,1781902
+Dominican Republic,DOM,2020,1781945
 Dominican Republic,DOM,2021,2184754
 Dominican Republic,DOM,2022,2043326
-Algeria,DZA,2000,267530
-Algeria,DZA,2001,311111
-Algeria,DZA,2007,200050
-Algeria,DZA,2008,225140
-Algeria,DZA,2009,250095.2398
+Dominican Republic,DOM,2023,2101589
+Dominican Republic,DOM,2024,2110608
 Algeria,DZA,2010,1198828
 Algeria,DZA,2011,1309432
 Algeria,DZA,2012,1400495
@@ -759,108 +636,69 @@ Algeria,DZA,2017,1725198
 Algeria,DZA,2018,1844422
 Algeria,DZA,2019,1793990
 Algeria,DZA,2020,1541273
-East Asia & Pacific (excluding high income),EAP,2000,56840499
-East Asia & Pacific (excluding high income),EAP,2001,62621336
-East Asia & Pacific (excluding high income),EAP,2002,77904818
-East Asia & Pacific (excluding high income),EAP,2003,86891558
-East Asia & Pacific (excluding high income),EAP,2004,102402184
-East Asia & Pacific (excluding high income),EAP,2005,96232448
-East Asia & Pacific (excluding high income),EAP,2006,114796121
-East Asia & Pacific (excluding high income),EAP,2007,140639995
-East Asia & Pacific (excluding high income),EAP,2008,155725485.3104
-East Asia & Pacific (excluding high income),EAP,2009,147752713.767078
-East Asia & Pacific (excluding high income),EAP,2010,182640050.675
-East Asia & Pacific (excluding high income),EAP,2011,203453061.352
-East Asia & Pacific (excluding high income),EAP,2012,220242777.784
-East Asia & Pacific (excluding high income),EAP,2013,232697641.498
-East Asia & Pacific (excluding high income),EAP,2014,246893353.738
-East Asia & Pacific (excluding high income),EAP,2015,258420174.943
-East Asia & Pacific (excluding high income),EAP,2016,268382315.763
-East Asia & Pacific (excluding high income),EAP,2017,287679915.91
-East Asia & Pacific (excluding high income),EAP,2018,301964578.711
-East Asia & Pacific (excluding high income),EAP,2019,313565752.08
-East Asia & Pacific (excluding high income),EAP,2020,314788851
-East Asia & Pacific (excluding high income),EAP,2021,338477248
-East Asia & Pacific (excluding high income),EAP,2022,349776434
-Early-demographic dividend,EAR,2000,24653677
-Early-demographic dividend,EAR,2001,27613470
-Early-demographic dividend,EAR,2002,27230030
-Early-demographic dividend,EAR,2003,33495544
-Early-demographic dividend,EAR,2004,36951024
-Early-demographic dividend,EAR,2005,44473958
-Early-demographic dividend,EAR,2006,48474936
-Early-demographic dividend,EAR,2007,60134388
-Early-demographic dividend,EAR,2008,67893464.2896
-Early-demographic dividend,EAR,2009,66375942.1348474
-Early-demographic dividend,EAR,2010,77934877.546
-Early-demographic dividend,EAR,2011,86857062.102
-Early-demographic dividend,EAR,2012,90486059.18
-Early-demographic dividend,EAR,2013,92287790.518
-Early-demographic dividend,EAR,2014,94616907.728
-Early-demographic dividend,EAR,2015,96963720.433
-Early-demographic dividend,EAR,2016,99932653.203
-Early-demographic dividend,EAR,2017,109678412.13
-Early-demographic dividend,EAR,2018,116395931.81
-Early-demographic dividend,EAR,2019,117696666.26
-Early-demographic dividend,EAR,2020,114109503
-Early-demographic dividend,EAR,2021,121385749
-Early-demographic dividend,EAR,2022,117663729
-East Asia & Pacific,EAS,2000,111180913
-East Asia & Pacific,EAS,2001,115948099
-East Asia & Pacific,EAS,2002,137479148
-East Asia & Pacific,EAS,2003,151803542
-East Asia & Pacific,EAS,2004,174201309
-East Asia & Pacific,EAS,2005,193780272
-East Asia & Pacific,EAS,2006,217761320
-East Asia & Pacific,EAS,2007,252296411
-East Asia & Pacific,EAS,2008,269311779.7
-East Asia & Pacific,EAS,2009,247674210.41178
-East Asia & Pacific,EAS,2010,296038569.635
-East Asia & Pacific,EAS,2011,323355666.269
-East Asia & Pacific,EAS,2012,342982329.321
-East Asia & Pacific,EAS,2013,357059606.853
-East Asia & Pacific,EAS,2014,375349328.341
-East Asia & Pacific,EAS,2015,381776238.243
-East Asia & Pacific,EAS,2016,392800641.259
-East Asia & Pacific,EAS,2017,419122781.142
-East Asia & Pacific,EAS,2018,438510957.494
-East Asia & Pacific,EAS,2019,449307187.96
-East Asia & Pacific,EAS,2020,446717559
-East Asia & Pacific,EAS,2021,473917784
-East Asia & Pacific,EAS,2022,482148456
-Europe & Central Asia,ECS,2000,48312150
-Europe & Central Asia,ECS,2001,50660187
-Europe & Central Asia,ECS,2002,55628833
-Europe & Central Asia,ECS,2003,60321993
-Europe & Central Asia,ECS,2004,71190112
-Europe & Central Asia,ECS,2005,75798358
-Europe & Central Asia,ECS,2006,81291535
-Europe & Central Asia,ECS,2007,97542316
-Europe & Central Asia,ECS,2008,98520362.3448
-Europe & Central Asia,ECS,2009,84176404.3570037
-Europe & Central Asia,ECS,2010,91239453.654
-Europe & Central Asia,ECS,2011,99031668.36
-Europe & Central Asia,ECS,2012,101980027.467
-Europe & Central Asia,ECS,2013,104816377.813
-Europe & Central Asia,ECS,2014,109629342.631
-Europe & Central Asia,ECS,2015,107002030.6132
-Europe & Central Asia,ECS,2016,111039447.0132
-Europe & Central Asia,ECS,2017,117971615.5142
-Europe & Central Asia,ECS,2018,124223081.7492
-Europe & Central Asia,ECS,2019,128186701.316
-Europe & Central Asia,ECS,2020,124304408
-Europe & Central Asia,ECS,2021,131580248
-Europe & Central Asia,ECS,2022,124229056
-Ecuador,ECU,2000,414104
-Ecuador,ECU,2001,414355
-Ecuador,ECU,2002,500470
-Ecuador,ECU,2003,521550
-Ecuador,ECU,2004,564515
-Ecuador,ECU,2005,632722
-Ecuador,ECU,2006,671087
-Ecuador,ECU,2007,674837
-Ecuador,ECU,2008,670831
-Ecuador,ECU,2009,1000895
+Algeria,DZA,2022,1530969
+Algeria,DZA,2023,1545930
+Algeria,DZA,2024,1827788
+East Asia & Pacific (excluding high income),EAP,2010,182815261.675
+East Asia & Pacific (excluding high income),EAP,2011,203207764.352
+East Asia & Pacific (excluding high income),EAP,2012,220213433.784
+East Asia & Pacific (excluding high income),EAP,2013,232446228.498
+East Asia & Pacific (excluding high income),EAP,2014,246961684.738
+East Asia & Pacific (excluding high income),EAP,2015,258493471.943
+East Asia & Pacific (excluding high income),EAP,2016,268455477.763
+East Asia & Pacific (excluding high income),EAP,2017,286917882.91
+East Asia & Pacific (excluding high income),EAP,2018,302049237.711
+East Asia & Pacific (excluding high income),EAP,2019,313654908.08
+East Asia & Pacific (excluding high income),EAP,2020,314886452
+East Asia & Pacific (excluding high income),EAP,2021,338516581
+East Asia & Pacific (excluding high income),EAP,2022,351482333
+East Asia & Pacific (excluding high income),EAP,2023,362532718
+East Asia & Pacific (excluding high income),EAP,2024,392011819
+Early-demographic dividend,EAR,2010,78093396.246
+Early-demographic dividend,EAR,2011,86598489.202
+Early-demographic dividend,EAR,2012,90664519.67
+Early-demographic dividend,EAR,2013,91971548.918
+Early-demographic dividend,EAR,2014,94481339.628
+Early-demographic dividend,EAR,2015,96478254.333
+Early-demographic dividend,EAR,2016,99968509.703
+Early-demographic dividend,EAR,2017,108839494.63
+Early-demographic dividend,EAR,2018,116163856.01
+Early-demographic dividend,EAR,2019,116353409.16
+Early-demographic dividend,EAR,2020,113573009.25
+Early-demographic dividend,EAR,2021,120691035
+Early-demographic dividend,EAR,2022,123298415
+Early-demographic dividend,EAR,2023,127271389
+Early-demographic dividend,EAR,2024,135788454
+East Asia & Pacific,EAS,2010,296207012.635
+East Asia & Pacific,EAS,2011,323115026.769
+East Asia & Pacific,EAS,2012,342955016.071
+East Asia & Pacific,EAS,2013,356807781.973
+East Asia & Pacific,EAS,2014,375417614.341
+East Asia & Pacific,EAS,2015,381849327.243
+East Asia & Pacific,EAS,2016,392804715.259
+East Asia & Pacific,EAS,2017,418291954.142
+East Asia & Pacific,EAS,2018,438609764.494
+East Asia & Pacific,EAS,2019,449604952.96
+East Asia & Pacific,EAS,2020,446808797
+East Asia & Pacific,EAS,2021,474255609
+East Asia & Pacific,EAS,2022,483991467
+East Asia & Pacific,EAS,2023,493553514
+East Asia & Pacific,EAS,2024,527447343
+Europe & Central Asia,ECS,2010,90309601.654
+Europe & Central Asia,ECS,2011,98184285.36
+Europe & Central Asia,ECS,2012,101351804.467
+Europe & Central Asia,ECS,2013,104196751.813
+Europe & Central Asia,ECS,2014,108979977.631
+Europe & Central Asia,ECS,2015,106329490.6132
+Europe & Central Asia,ECS,2016,110285661.0132
+Europe & Central Asia,ECS,2017,117198531.5142
+Europe & Central Asia,ECS,2018,123295871.7492
+Europe & Central Asia,ECS,2019,127352149.316
+Europe & Central Asia,ECS,2020,123618427
+Europe & Central Asia,ECS,2021,130817664
+Europe & Central Asia,ECS,2022,125268168
+Europe & Central Asia,ECS,2023,121182892
+Europe & Central Asia,ECS,2024,128218609
 Ecuador,ECU,2010,1209347
 Ecuador,ECU,2011,1527372
 Ecuador,ECU,2012,1591052
@@ -870,20 +708,12 @@ Ecuador,ECU,2015,1866808
 Ecuador,ECU,2016,1907090
 Ecuador,ECU,2017,1990210
 Ecuador,ECU,2018,2212486
-Ecuador,ECU,2019,2194042
-Ecuador,ECU,2020,2517104
-Ecuador,ECU,2021,2632031
-Ecuador,ECU,2022,2682600
-"Egypt, Arab Rep.",EGY,2000,1625601
-"Egypt, Arab Rep.",EGY,2001,1708990
-"Egypt, Arab Rep.",EGY,2002,1336040
-"Egypt, Arab Rep.",EGY,2003,1579530
-"Egypt, Arab Rep.",EGY,2004,2959895
-"Egypt, Arab Rep.",EGY,2005,4031114
-"Egypt, Arab Rep.",EGY,2006,5372832
-"Egypt, Arab Rep.",EGY,2007,5181581
-"Egypt, Arab Rep.",EGY,2008,6099218
-"Egypt, Arab Rep.",EGY,2009,6250443
+Ecuador,ECU,2019,2127042
+Ecuador,ECU,2020,2294564
+Ecuador,ECU,2021,2370031
+Ecuador,ECU,2022,2333272
+Ecuador,ECU,2023,2604311
+Ecuador,ECU,2024,2567040
 "Egypt, Arab Rep.",EGY,2010,6715321
 "Egypt, Arab Rep.",EGY,2011,7181079
 "Egypt, Arab Rep.",EGY,2012,6424921
@@ -896,30 +726,24 @@ Ecuador,ECU,2022,2682600
 "Egypt, Arab Rep.",EGY,2019,7403472
 "Egypt, Arab Rep.",EGY,2020,7564385
 "Egypt, Arab Rep.",EGY,2021,7226065
-"Egypt, Arab Rep.",EGY,2022,7765482
-Euro area,EMU,2000,39598836
-Euro area,EMU,2001,41102204
-Euro area,EMU,2002,45392743
-Euro area,EMU,2003,49538828
-Euro area,EMU,2004,56540127
-Euro area,EMU,2005,60434937
-Euro area,EMU,2006,64721621
-Euro area,EMU,2007,76926783
-Euro area,EMU,2008,77503215.6632
-Euro area,EMU,2009,67246207.7011566
-Euro area,EMU,2010,70161726
-Euro area,EMU,2011,75618756
-Euro area,EMU,2012,77481336
-Euro area,EMU,2013,78871768
-Euro area,EMU,2014,82072538
-Euro area,EMU,2015,81530288
-Euro area,EMU,2016,84300577
-Euro area,EMU,2017,88818720
-Euro area,EMU,2018,92937578
-Euro area,EMU,2019,94346890
-Euro area,EMU,2020,91394656
-Euro area,EMU,2021,97025772
-Euro area,EMU,2022,93470758
+"Egypt, Arab Rep.",EGY,2022,7646643
+"Egypt, Arab Rep.",EGY,2023,8360875
+"Egypt, Arab Rep.",EGY,2024,8581339
+Euro area,EMU,2010,69734592
+Euro area,EMU,2011,75185967
+Euro area,EMU,2012,77023035
+Euro area,EMU,2013,78432588
+Euro area,EMU,2014,81618629
+Euro area,EMU,2015,81058798
+Euro area,EMU,2016,83752902
+Euro area,EMU,2017,88274181
+Euro area,EMU,2018,92252084
+Euro area,EMU,2019,93774272
+Euro area,EMU,2020,90824769
+Euro area,EMU,2021,96394219
+Euro area,EMU,2022,93783645
+Euro area,EMU,2023,89280869
+Euro area,EMU,2024,94517241
 Eritrea,ERI,2012,25852.15
 Eritrea,ERI,2013,19202.06
 Eritrea,ERI,2014,22527.11
@@ -928,16 +752,6 @@ Eritrea,ERI,2016,12551.97
 Eritrea,ERI,2017,12551.97
 Eritrea,ERI,2018,37259.65
 Eritrea,ERI,2019,27452.8
-Spain,ESP,2000,5789693
-Spain,ESP,2001,6156351
-Spain,ESP,2002,6664100
-Spain,ESP,2003,7363964
-Spain,ESP,2004,8270437
-Spain,ESP,2005,9170557
-Spain,ESP,2006,10033089
-Spain,ESP,2007,13346028
-Spain,ESP,2008,13461304.0976
-Spain,ESP,2009,11803192.2752
 Spain,ESP,2010,12500043
 Spain,ESP,2011,13901612
 Spain,ESP,2012,14066221
@@ -951,9 +765,8 @@ Spain,ESP,2019,17464920
 Spain,ESP,2020,16745921
 Spain,ESP,2021,17712459
 Spain,ESP,2022,17161676
-Estonia,EST,2007,180911
-Estonia,EST,2008,180927
-Estonia,EST,2009,130939
+Spain,ESP,2023,16380201
+Spain,ESP,2024,18114517
 Estonia,EST,2011,197717
 Estonia,EST,2012,227809
 Estonia,EST,2013,253855
@@ -962,52 +775,27 @@ Estonia,EST,2015,209154
 Estonia,EST,2016,204177
 Estonia,EST,2017,229905
 Estonia,EST,2018,239576
-Estonia,EST,2019,241338
-Estonia,EST,2020,213000
-Estonia,EST,2021,227000
-Estonia,EST,2022,288456
-European Union,EUU,2000,41051632
-European Union,EUU,2001,42672228
-European Union,EUU,2002,46785653
-European Union,EUU,2003,51632029
-European Union,EUU,2004,59654992
-European Union,EUU,2005,63373218
-European Union,EUU,2006,67710907
-European Union,EUU,2007,81299855
-European Union,EUU,2008,81986204.6632
-European Union,EUU,2009,70521472.7011566
-European Union,EUU,2010,74006533
-European Union,EUU,2011,80049698
-European Union,EUU,2012,82258685
-European Union,EUU,2013,83890894
-European Union,EUU,2014,87297327
-European Union,EUU,2015,86492580
-European Union,EUU,2016,89475750
-European Union,EUU,2017,94505905
-European Union,EUU,2018,99115638
-European Union,EUU,2019,100824745
-European Union,EUU,2020,97754764
-European Union,EUU,2021,103780574
-European Union,EUU,2022,100270403
-Fragile and conflict affected situations,FCS,2011,8191941.212
-Fragile and conflict affected situations,FCS,2012,8604472.124
-Fragile and conflict affected situations,FCS,2013,8877016.588
-Fragile and conflict affected situations,FCS,2014,8981005.758
-Fragile and conflict affected situations,FCS,2015,8607300.723
-Fragile and conflict affected situations,FCS,2016,7696968.923
-Fragile and conflict affected situations,FCS,2017,9124190.44
-Fragile and conflict affected situations,FCS,2018,10275388.311
-Fragile and conflict affected situations,FCS,2019,10122492.75
-Finland,FIN,2000,928318
-Finland,FIN,2001,1018729
-Finland,FIN,2002,1086720
-Finland,FIN,2003,1162400
-Finland,FIN,2004,1307092
-Finland,FIN,2005,1312305
-Finland,FIN,2006,1416404
-Finland,FIN,2007,1560089
-Finland,FIN,2008,1605522.7576
-Finland,FIN,2009,1125532.53496144
+Estonia,EST,2019,241361
+Estonia,EST,2020,213928
+Estonia,EST,2021,226689
+Estonia,EST,2022,288208
+Estonia,EST,2023,221405
+Estonia,EST,2024,261822
+European Union,EUU,2010,73436788
+European Union,EUU,2011,79469315
+European Union,EUU,2012,81630462
+European Union,EUU,2013,83271268
+European Union,EUU,2014,86647962
+European Union,EUU,2015,85820040
+European Union,EUU,2016,88721964
+European Union,EUU,2017,93732821
+European Union,EUU,2018,98188428
+European Union,EUU,2019,99990193
+European Union,EUU,2020,96930306
+European Union,EUU,2021,102903861
+European Union,EUU,2022,100328193
+European Union,EUU,2023,95631045
+European Union,EUU,2024,101354155
 Finland,FIN,2010,1219391
 Finland,FIN,2011,1398619
 Finland,FIN,2012,1445102
@@ -1021,6 +809,8 @@ Finland,FIN,2019,1628170
 Finland,FIN,2020,1496192
 Finland,FIN,2021,1409037
 Finland,FIN,2022,1446004
+Finland,FIN,2023,1368831
+Finland,FIN,2024,1317452
 Fiji,FJI,2010,257316
 Fiji,FJI,2011,290789
 Fiji,FJI,2012,232617.4
@@ -1031,29 +821,21 @@ Fiji,FJI,2016,244524.4
 Fiji,FJI,2017,276943.9
 Fiji,FJI,2018,279465.5
 Fiji,FJI,2019,145782.4
-France,FRA,2000,2923190
-France,FRA,2001,2997774
-France,FRA,2002,3276150
-France,FRA,2003,3565963
-France,FRA,2004,3954173
-France,FRA,2005,4000847
-France,FRA,2006,4259470
-France,FRA,2007,4984492
-France,FRA,2008,4887718
-France,FRA,2009,4674198
-France,FRA,2010,4485449
-France,FRA,2011,4445470
-France,FRA,2012,4704614
-France,FRA,2013,4905403
-France,FRA,2014,5073570
-France,FRA,2015,5135743
-France,FRA,2016,5225656
-France,FRA,2017,5738031
-France,FRA,2018,5978536
-France,FRA,2019,5827493
-France,FRA,2020,5261083
-France,FRA,2021,6398943
-France,FRA,2022,6467242
+France,FRA,2010,3915704
+France,FRA,2011,3865087
+France,FRA,2012,4076391
+France,FRA,2013,4285777
+France,FRA,2014,4424205
+France,FRA,2015,4463203
+France,FRA,2016,4471870
+France,FRA,2017,4964947
+France,FRA,2018,5051326
+France,FRA,2019,4992918
+France,FRA,2020,4435697
+France,FRA,2021,5522541
+France,FRA,2022,5593633
+France,FRA,2023,4869539
+France,FRA,2024,5371045
 Faroe Islands,FRO,2010,34325.88
 Faroe Islands,FRO,2011,35751.59
 Faroe Islands,FRO,2012,35739.63
@@ -1074,8 +856,6 @@ Faroe Islands,FRO,2019,31214.33
 "Micronesia, Fed. Sts.",FSM,2017,11433.5
 "Micronesia, Fed. Sts.",FSM,2018,32194.52
 "Micronesia, Fed. Sts.",FSM,2019,25234.09
-Gabon,GAB,2008,158884
-Gabon,GAB,2009,132348.8
 Gabon,GAB,2010,153657
 Gabon,GAB,2011,162415
 Gabon,GAB,2012,168912
@@ -1084,19 +864,13 @@ Gabon,GAB,2014,197998
 Gabon,GAB,2015,145700
 Gabon,GAB,2016,146000
 Gabon,GAB,2017,156000
-Gabon,GAB,2018,156000
-Gabon,GAB,2019,192998
-Gabon,GAB,2020,180000
-United Kingdom,GBR,2000,6434734
-United Kingdom,GBR,2001,7058054
-United Kingdom,GBR,2002,7059610
-United Kingdom,GBR,2003,6700066
-United Kingdom,GBR,2004,8326913
-United Kingdom,GBR,2005,8249587
-United Kingdom,GBR,2006,8434458
-United Kingdom,GBR,2007,8625102
-United Kingdom,GBR,2008,8236522.8864
-United Kingdom,GBR,2009,7671299.96069216
+Gabon,GAB,2018,141649
+Gabon,GAB,2019,154330
+Gabon,GAB,2020,148003
+Gabon,GAB,2021,154474
+Gabon,GAB,2022,180878
+Gabon,GAB,2023,173279
+Gabon,GAB,2024,180878
 United Kingdom,GBR,2010,8224935
 United Kingdom,GBR,2011,8142319
 United Kingdom,GBR,2012,7978028
@@ -1109,10 +883,9 @@ United Kingdom,GBR,2018,10315140
 United Kingdom,GBR,2019,10508000
 United Kingdom,GBR,2020,9732000
 United Kingdom,GBR,2021,10290181
-United Kingdom,GBR,2022,9738676
-Georgia,GEO,2007,184792
-Georgia,GEO,2008,253811
-Georgia,GEO,2009,181613
+United Kingdom,GBR,2022,9749676
+United Kingdom,GBR,2023,9090140
+United Kingdom,GBR,2024,9621469
 Georgia,GEO,2010,242433
 Georgia,GEO,2011,284446
 Georgia,GEO,2012,356723
@@ -1124,9 +897,9 @@ Georgia,GEO,2018,348240
 Georgia,GEO,2019,601491
 Georgia,GEO,2020,490670
 Georgia,GEO,2021,401269
-Ghana,GHA,2007,544294
-Ghana,GHA,2008,612847.1736
-Ghana,GHA,2009,557323.21967184
+Georgia,GEO,2022,477357
+Georgia,GEO,2023,701550
+Georgia,GEO,2024,636497
 Ghana,GHA,2010,643188
 Ghana,GHA,2011,813494
 Ghana,GHA,2012,882877
@@ -1140,6 +913,8 @@ Ghana,GHA,2019,1079247
 Ghana,GHA,2020,1324504
 Ghana,GHA,2021,1604724
 Ghana,GHA,2022,1244245
+Ghana,GHA,2023,1226635
+Ghana,GHA,2024,1701246
 Gibraltar,GIB,2010,7898.774
 Gibraltar,GIB,2011,37415.77
 Gibraltar,GIB,2012,18811.85
@@ -1161,6 +936,7 @@ Guinea,GIN,2017,203373
 Guinea,GIN,2018,237366
 Guinea,GIN,2019,248659
 Guinea,GIN,2020,250000
+Guinea,GIN,2023,286286
 "Gambia, The",GMB,2010,58521
 "Gambia, The",GMB,2011,71932
 "Gambia, The",GMB,2012,65226
@@ -1191,17 +967,6 @@ Equatorial Guinea,GNQ,2016,14281
 Equatorial Guinea,GNQ,2017,13301
 Equatorial Guinea,GNQ,2018,14716
 Equatorial Guinea,GNQ,2019,13851
-Equatorial Guinea,GNQ,2020,6207
-Greece,GRC,2000,1390844
-Greece,GRC,2001,1412286
-Greece,GRC,2002,1660510
-Greece,GRC,2003,1908121
-Greece,GRC,2004,1895755
-Greece,GRC,2005,1779030
-Greece,GRC,2006,1769098
-Greece,GRC,2007,1820349
-Greece,GRC,2008,672522
-Greece,GRC,2009,935076
 Greece,GRC,2010,1177767
 Greece,GRC,2011,2009704
 Greece,GRC,2012,3092300
@@ -1214,7 +979,9 @@ Greece,GRC,2018,5395401
 Greece,GRC,2019,6151556
 Greece,GRC,2020,6188061
 Greece,GRC,2021,6077102
-Greece,GRC,2022,5166629
+Greece,GRC,2022,5707876
+Greece,GRC,2023,5926627
+Greece,GRC,2024,5691448
 Grenada,GRD,2010,15011
 Grenada,GRD,2011,14365
 Grenada,GRD,2012,13920
@@ -1224,8 +991,10 @@ Grenada,GRD,2015,16000
 Grenada,GRD,2016,19634
 Grenada,GRD,2017,21914
 Grenada,GRD,2018,23887
-Grenada,GRD,2019,12343
-Grenada,GRD,2021,22117
+Grenada,GRD,2019,18222
+Grenada,GRD,2020,18446
+Grenada,GRD,2021,19505
+Grenada,GRD,2022,20299
 Greenland,GRL,2013,4746.328
 Greenland,GRL,2014,4536.347
 Greenland,GRL,2015,8631.709
@@ -1233,16 +1002,6 @@ Greenland,GRL,2016,8631.709
 Greenland,GRL,2017,6998.705
 Greenland,GRL,2018,6998.705
 Greenland,GRL,2019,6144.526
-Guatemala,GTM,2000,495809
-Guatemala,GTM,2001,322136
-Guatemala,GTM,2002,360160
-Guatemala,GTM,2003,713181
-Guatemala,GTM,2004,826748
-Guatemala,GTM,2005,776395
-Guatemala,GTM,2006,800245
-Guatemala,GTM,2007,870288
-Guatemala,GTM,2008,937642
-Guatemala,GTM,2009,906326
 Guatemala,GTM,2010,970635
 Guatemala,GTM,2011,1163078
 Guatemala,GTM,2012,1158482
@@ -1256,9 +1015,8 @@ Guatemala,GTM,2019,1529010
 Guatemala,GTM,2020,1577456
 Guatemala,GTM,2021,1735500
 Guatemala,GTM,2022,1660504
-Guam,GUM,2007,165427
-Guam,GUM,2008,167784
-Guam,GUM,2009,157096
+Guatemala,GTM,2023,1768269
+Guatemala,GTM,2024,2010490
 Guam,GUM,2010,183214
 Guam,GUM,2011,180814
 Guam,GUM,2012,173089
@@ -1268,46 +1026,34 @@ Guam,GUM,2015,171844
 Guam,GUM,2016,198209
 Guam,GUM,2017,198681
 Guam,GUM,2018,181846
-Guam,GUM,2020,84954
+Guam,GUM,2019,190200
 Guyana,GUY,2010,59850
-Guyana,GUY,2011,45006
-Guyana,GUY,2012,45785
+Guyana,GUY,2011,52000
+Guyana,GUY,2012,66000
 Guyana,GUY,2013,50991
 Guyana,GUY,2014,48735
 Guyana,GUY,2015,52834
-Guyana,GUY,2016,55168
+Guyana,GUY,2016,50476
 Guyana,GUY,2017,57663
 Guyana,GUY,2018,58210
 Guyana,GUY,2019,58543
-Guyana,GUY,2020,58376.5
-High income,HIC,2000,147515682
-High income,HIC,2001,150463844
-High income,HIC,2002,162812763
-High income,HIC,2003,180811675
-High income,HIC,2004,201020057
-High income,HIC,2005,240902489
-High income,HIC,2006,255778900
-High income,HIC,2007,290668162
-High income,HIC,2008,294087716.7856
-High income,HIC,2009,259873546.169306
-High income,HIC,2010,288686069.595
-High income,HIC,2011,306345148.528
-High income,HIC,2012,316293150.178
-High income,HIC,2013,321729098.515
-High income,HIC,2014,334075572.144
-High income,HIC,2015,331362311.203
-High income,HIC,2016,335767762.199
-High income,HIC,2017,353665180.676
-High income,HIC,2018,368063334.652
-High income,HIC,2019,372388253.441
-High income,HIC,2020,363214061.875
-High income,HIC,2021,384089842
-High income,HIC,2022,373200575
-"Hong Kong SAR, China",HKG,2005,22601630
-"Hong Kong SAR, China",HKG,2006,23538580
-"Hong Kong SAR, China",HKG,2007,23998449
-"Hong Kong SAR, China",HKG,2008,24494229
-"Hong Kong SAR, China",HKG,2009,21040096
+Guyana,GUY,2020,64241
+Guyana,GUY,2021,58377
+High income,HIC,2010,286405045.595
+High income,HIC,2011,304219670.028
+High income,HIC,2012,314441670.928
+High income,HIC,2013,320005779.635
+High income,HIC,2014,332271331.144
+High income,HIC,2015,329501743.203
+High income,HIC,2016,333721617.199
+High income,HIC,2017,351496966.676
+High income,HIC,2018,365663035.652
+High income,HIC,2019,370270298.441
+High income,HIC,2020,361009450.375
+High income,HIC,2021,382365515
+High income,HIC,2022,376389612
+High income,HIC,2023,363803897
+High income,HIC,2024,379151165
 "Hong Kong SAR, China",HKG,2010,23699000
 "Hong Kong SAR, China",HKG,2011,24404000
 "Hong Kong SAR, China",HKG,2012,23126000
@@ -1321,15 +1067,8 @@ High income,HIC,2022,373200575
 "Hong Kong SAR, China",HKG,2020,17953000
 "Hong Kong SAR, China",HKG,2021,17772000
 "Hong Kong SAR, China",HKG,2022,16573000
-Honduras,HND,2000,392837
-Honduras,HND,2001,406359
-Honduras,HND,2002,413840
-Honduras,HND,2003,470567
-Honduras,HND,2004,555489
-Honduras,HND,2005,553013
-Honduras,HND,2007,636435
-Honduras,HND,2008,669802
-Honduras,HND,2009,571720
+"Hong Kong SAR, China",HKG,2023,14345000
+"Hong Kong SAR, China",HKG,2024,13690000
 Honduras,HND,2010,619867
 Honduras,HND,2011,662815
 Honduras,HND,2012,663908
@@ -1343,16 +1082,8 @@ Honduras,HND,2019,790707
 Honduras,HND,2020,700066
 Honduras,HND,2021,824876
 Honduras,HND,2022,923321
-Croatia,HRV,2000,14153
-Croatia,HRV,2001,18218
-Croatia,HRV,2002,23853
-Croatia,HRV,2003,42326
-Croatia,HRV,2004,76550
-Croatia,HRV,2005,94223
-Croatia,HRV,2006,112906
-Croatia,HRV,2007,145040
-Croatia,HRV,2008,168761
-Croatia,HRV,2009,130740
+Honduras,HND,2023,907410
+Honduras,HND,2024,905497
 Croatia,HRV,2010,160600
 Croatia,HRV,2011,176741
 Croatia,HRV,2012,172491
@@ -1366,7 +1097,9 @@ Croatia,HRV,2019,348435
 Croatia,HRV,2020,376981
 Croatia,HRV,2021,379623
 Croatia,HRV,2022,544015
-Haiti,HTI,2010,176874
+Croatia,HRV,2023,555336
+Croatia,HRV,2024,532451
+Haiti,HTI,2010,163456
 Haiti,HTI,2011,189028
 Haiti,HTI,2012,164720
 Haiti,HTI,2013,172516
@@ -1374,119 +1107,86 @@ Haiti,HTI,2014,175307
 Haiti,HTI,2015,178452
 Haiti,HTI,2016,176879
 Haiti,HTI,2017,177141
-Haiti,HTI,2018,177010
-Haiti,HTI,2019,177075.5
-Haiti,HTI,2020,177042.75
-IBRD only,IBD,2000,78803790
-IBRD only,IBD,2001,85755801
-IBRD only,IBD,2002,101601201
-IBRD only,IBD,2003,116840825
-IBRD only,IBD,2004,138540024
-IBRD only,IBD,2005,137430315
-IBRD only,IBD,2006,164620199
-IBRD only,IBD,2007,200086288
-IBRD only,IBD,2008,223864345.9888
-IBRD only,IBD,2009,211234225.6313
-IBRD only,IBD,2010,259070585.39
-IBRD only,IBD,2011,288863772.047
-IBRD only,IBD,2012,308646581.934
-IBRD only,IBD,2013,324235505.629
-IBRD only,IBD,2014,341642344.887
-IBRD only,IBD,2015,351149472.9942
-IBRD only,IBD,2016,361526908.8002
-IBRD only,IBD,2017,390287032.3762
-IBRD only,IBD,2018,411694705.7172
-IBRD only,IBD,2019,427019987.41
-IBRD only,IBD,2020,425747075.625
-IBRD only,IBD,2021,459153816
-IBRD only,IBD,2022,465619461
-IDA & IBRD total,IBT,2000,82068088
-IDA & IBRD total,IBT,2001,90175158
-IDA & IBRD total,IBT,2002,104943041
-IDA & IBRD total,IBT,2003,121884489
-IDA & IBRD total,IBT,2004,144482441
-IDA & IBRD total,IBT,2005,143643904
-IDA & IBRD total,IBT,2006,170377798
-IDA & IBRD total,IBT,2007,213216493
-IDA & IBRD total,IBT,2008,238377801.0832
-IDA & IBRD total,IBT,2009,225500806.411747
-IDA & IBRD total,IBT,2010,276922478.495
-IDA & IBRD total,IBT,2011,308680993.499
-IDA & IBRD total,IBT,2012,329126165.748
-IDA & IBRD total,IBT,2013,345366798.067
-IDA & IBRD total,IBT,2014,364619029.595
-IDA & IBRD total,IBT,2015,375617556.7372
-IDA & IBRD total,IBT,2016,386897520.2532
-IDA & IBRD total,IBT,2017,418027826.4162
-IDA & IBRD total,IBT,2018,441847851.3282
-IDA & IBRD total,IBT,2019,458011532.02
-IDA & IBRD total,IBT,2020,454080042.875
-IDA & IBRD total,IBT,2021,487838448
-IDA & IBRD total,IBT,2022,490879891
-IDA total,IDA,2010,17851893.105
-IDA total,IDA,2011,19817221.452
-IDA total,IDA,2012,20479583.814
+Haiti,HTI,2018,163500
+Haiti,HTI,2019,185000
+Haiti,HTI,2020,189500
+Haiti,HTI,2021,193900
+Haiti,HTI,2022,200297
+Haiti,HTI,2023,201888
+Haiti,HTI,2024,201514
+IBRD only,IBD,2010,259086698.09
+IBRD only,IBD,2011,288603295.147
+IBRD only,IBD,2012,308922042.424
+IBRD only,IBD,2013,324012698.029
+IBRD only,IBD,2014,341591075.787
+IBRD only,IBD,2015,350721017.8942
+IBRD only,IBD,2016,361593717.3002
+IBRD only,IBD,2017,389499997.8762
+IBRD only,IBD,2018,411521455.9172
+IBRD only,IBD,2019,425651544.81
+IBRD only,IBD,2020,425134116.625
+IBRD only,IBD,2021,458278119
+IBRD only,IBD,2022,469975508
+IBRD only,IBD,2023,487005049
+IBRD only,IBD,2024,531024714
+IDA & IBRD total,IBT,2010,276925173.195
+IDA & IBRD total,IBT,2011,308246749.599
+IDA & IBRD total,IBT,2012,329421841.238
+IDA & IBRD total,IBT,2013,345143990.467
+IDA & IBRD total,IBT,2014,364569149.495
+IDA & IBRD total,IBT,2015,375193769.6372
+IDA & IBRD total,IBT,2016,386959636.7532
+IDA & IBRD total,IBT,2017,417240791.9162
+IDA & IBRD total,IBT,2018,441652849.5282
+IDA & IBRD total,IBT,2019,456680951.92
+IDA & IBRD total,IBT,2020,453737978.625
+IDA & IBRD total,IBT,2021,487715877
+IDA & IBRD total,IBT,2022,498332945
+IDA & IBRD total,IBT,2023,514875197
+IDA & IBRD total,IBT,2024,561309690
+IDA total,IDA,2010,17838475.105
+IDA total,IDA,2011,19643454.452
+IDA total,IDA,2012,20499798.814
 IDA total,IDA,2013,21131292.438
-IDA total,IDA,2014,22976684.708
-IDA total,IDA,2015,24468083.743
-IDA total,IDA,2016,25370611.453
+IDA total,IDA,2014,22978073.708
+IDA total,IDA,2015,24472751.743
+IDA total,IDA,2016,25365919.453
 IDA total,IDA,2017,27740794.04
-IDA total,IDA,2018,30153145.611
-IDA total,IDA,2019,30991544.61
-IDA blend,IDB,2003,1988583
-IDA blend,IDB,2004,2451983
-IDA blend,IDB,2008,4310434
-IDA blend,IDB,2009,4340089.4
+IDA total,IDA,2018,30131393.611
+IDA total,IDA,2019,31029407.11
 IDA blend,IDB,2010,6118771
-IDA blend,IDB,2011,6850045
+IDA blend,IDB,2011,6849469
 IDA blend,IDB,2012,7232231.4
 IDA blend,IDB,2013,7407521.9
 IDA blend,IDB,2014,7941653.8
 IDA blend,IDB,2015,7997308
 IDA blend,IDB,2016,7839758.4
 IDA blend,IDB,2017,8646882.9
-IDA blend,IDB,2018,8987785.5
-IDA blend,IDB,2019,8977898.4
-IDA blend,IDB,2020,8651665
-IDA blend,IDB,2021,8807297
-IDA blend,IDB,2022,7586433
-Indonesia,IDN,2000,3797948
-Indonesia,IDN,2001,3901761
-Indonesia,IDN,2002,4539880
-Indonesia,IDN,2003,5176982
-Indonesia,IDN,2004,5369297
-Indonesia,IDN,2005,5503176
-Indonesia,IDN,2006,4316296
-Indonesia,IDN,2007,6582910
-Indonesia,IDN,2008,7404831
-Indonesia,IDN,2009,7255004.7486
-Indonesia,IDN,2010,8635940
-Indonesia,IDN,2011,10116179
-Indonesia,IDN,2012,10967648
-Indonesia,IDN,2013,11435324
-Indonesia,IDN,2014,10938117
-Indonesia,IDN,2015,10011420
-Indonesia,IDN,2016,10535691
-Indonesia,IDN,2017,12076306
-Indonesia,IDN,2018,12532311
-Indonesia,IDN,2019,12615422
-Indonesia,IDN,2020,11673708
-Indonesia,IDN,2021,12910700
-Indonesia,IDN,2022,12380584
-India,IND,2000,2450656
-India,IND,2001,2764757
-India,IND,2002,3208380
-India,IND,2003,3916814
-India,IND,2004,4332863
-India,IND,2005,4982092
-India,IND,2006,6141148
-India,IND,2007,7398211
-India,IND,2008,7672457
-India,IND,2009,8014487.2
+IDA blend,IDB,2018,8979543.5
+IDA blend,IDB,2019,9007836.4
+IDA blend,IDB,2020,8904238
+IDA blend,IDB,2021,9264213
+IDA blend,IDB,2022,9318817
+IDA blend,IDB,2023,9190825
+Indonesia,IDN,2010,8684768
+Indonesia,IDN,2011,9870882
+Indonesia,IDN,2012,10938304
+Indonesia,IDN,2013,11183911
+Indonesia,IDN,2014,11005059
+Indonesia,IDN,2015,10080049
+Indonesia,IDN,2016,10608853
+Indonesia,IDN,2017,11314273
+Indonesia,IDN,2018,12616970
+Indonesia,IDN,2019,12704578
+Indonesia,IDN,2020,11771309
+Indonesia,IDN,2021,12906100
+Indonesia,IDN,2022,13281232
+Indonesia,IDN,2023,13734424
+Indonesia,IDN,2024,14709550
 India,IND,2010,9235765
-India,IND,2011,9877067
+India,IND,2011,9878067
 India,IND,2012,10017480
-India,IND,2013,10572320
+India,IND,2013,10571320
 India,IND,2014,11652174
 India,IND,2015,12318610
 India,IND,2016,13724110
@@ -1496,16 +1196,8 @@ India,IND,2019,17487621
 India,IND,2020,17597062
 India,IND,2021,19561769
 India,IND,2022,19717168
-Ireland,IRL,2000,721395
-Ireland,IRL,2001,722148
-Ireland,IRL,2002,775310
-Ireland,IRL,2003,869607
-Ireland,IRL,2004,924885
-Ireland,IRL,2005,973257
-Ireland,IRL,2006,1089252
-Ireland,IRL,2007,1175155
-Ireland,IRL,2008,1059926.984
-Ireland,IRL,2009,832021.8056496
+India,IND,2023,22208000
+India,IND,2024,23898000
 Ireland,IRL,2010,782115
 Ireland,IRL,2011,736557
 Ireland,IRL,2012,734023
@@ -1519,14 +1211,8 @@ Ireland,IRL,2019,1063489
 Ireland,IRL,2020,1058888
 Ireland,IRL,2021,1143007
 Ireland,IRL,2022,1154803
-"Iran, Islamic Rep.",IRN,2002,805860
-"Iran, Islamic Rep.",IRN,2003,1090212
-"Iran, Islamic Rep.",IRN,2004,1177265
-"Iran, Islamic Rep.",IRN,2005,1325643
-"Iran, Islamic Rep.",IRN,2006,1528518
-"Iran, Islamic Rep.",IRN,2007,1722513
-"Iran, Islamic Rep.",IRN,2008,2000230
-"Iran, Islamic Rep.",IRN,2009,2206476
+Ireland,IRL,2023,1097574
+Ireland,IRL,2024,1209552
 "Iran, Islamic Rep.",IRN,2010,2966512
 "Iran, Islamic Rep.",IRN,2011,3359250
 "Iran, Islamic Rep.",IRN,2012,2739276
@@ -1536,9 +1222,7 @@ Ireland,IRL,2022,1154803
 "Iran, Islamic Rep.",IRN,2016,2462028
 "Iran, Islamic Rep.",IRN,2017,3091066
 "Iran, Islamic Rep.",IRN,2018,2368914
-"Iran, Islamic Rep.",IRN,2019,1503495
-"Iran, Islamic Rep.",IRN,2020,1253429
-"Iran, Islamic Rep.",IRN,2021,1550304
+"Iran, Islamic Rep.",IRN,2024,2921359
 Iraq,IRQ,2010,46255.56
 Iraq,IRQ,2011,56018.41
 Iraq,IRQ,2012,52424.53
@@ -1549,9 +1233,6 @@ Iraq,IRQ,2016,220859.7
 Iraq,IRQ,2017,823944.7
 Iraq,IRQ,2018,743211.1
 Iraq,IRQ,2019,932728.6
-Iceland,ISL,2007,291748
-Iceland,ISL,2008,267151
-Iceland,ISL,2009,193816
 Iceland,ISL,2010,192778
 Iceland,ISL,2011,199850
 Iceland,ISL,2012,220518
@@ -1563,16 +1244,9 @@ Iceland,ISL,2017,350348
 Iceland,ISL,2018,353300
 Iceland,ISL,2019,330292
 Iceland,ISL,2020,320000
-Iceland,ISL,2021,390000
-Israel,ISR,2001,1378259
-Israel,ISR,2002,1461000
-Israel,ISR,2003,1548080
-Israel,ISR,2004,1431510
-Israel,ISR,2005,1712339
-Israel,ISR,2006,1773498
-Israel,ISR,2007,1957328
-Israel,ISR,2008,2089900
-Israel,ISR,2009,2033000
+Iceland,ISL,2021,360000
+Iceland,ISL,2022,360000
+Iceland,ISL,2023,425000
 Israel,ISR,2010,2281552
 Israel,ISR,2011,2413000
 Israel,ISR,2012,2561000
@@ -1583,19 +1257,11 @@ Israel,ISR,2016,2711000
 Israel,ISR,2017,2868000
 Israel,ISR,2018,2946000
 Israel,ISR,2019,2917000
-Israel,ISR,2020,2994000
-Israel,ISR,2021,3075997
-Israel,ISR,2022,2951000
-Italy,ITA,2000,6918588
-Italy,ITA,2001,7073459
-Italy,ITA,2002,7950210
-Italy,ITA,2003,8473220
-Italy,ITA,2004,9468316
-Italy,ITA,2005,9856802
-Italy,ITA,2006,9731150
-Italy,ITA,2007,10610893
-Italy,ITA,2008,10530214
-Italy,ITA,2009,9532462
+Israel,ISR,2020,3048998
+Israel,ISR,2021,3132678
+Israel,ISR,2022,3118000
+Israel,ISR,2023,3123896
+Israel,ISR,2024,3059136
 Italy,ITA,2010,9762077
 Italy,ITA,2011,9533620
 Italy,ITA,2012,9674361
@@ -1608,17 +1274,9 @@ Italy,ITA,2018,10620925
 Italy,ITA,2019,10789337
 Italy,ITA,2020,10696962
 Italy,ITA,2021,11303247
-Italy,ITA,2022,11577495
-Jamaica,JAM,2000,765977
-Jamaica,JAM,2001,983400
-Jamaica,JAM,2002,1065000
-Jamaica,JAM,2003,1137798
-Jamaica,JAM,2004,1360623
-Jamaica,JAM,2005,1671820
-Jamaica,JAM,2006,2150408
-Jamaica,JAM,2007,2016792
-Jamaica,JAM,2008,1915943
-Jamaica,JAM,2009,1689670
+Italy,ITA,2022,11577612
+Italy,ITA,2023,11303925
+Italy,ITA,2024,11927016
 Jamaica,JAM,2010,1891770
 Jamaica,JAM,2011,1848231
 Jamaica,JAM,2012,1855400
@@ -1632,47 +1290,38 @@ Jamaica,JAM,2019,1647609
 Jamaica,JAM,2020,1631011
 Jamaica,JAM,2021,1975401
 Jamaica,JAM,2022,2137500
-Jordan,JOR,2007,414000
-Jordan,JOR,2008,582515
-Jordan,JOR,2009,674525
+Jamaica,JAM,2023,1995000
+Jamaica,JAM,2024,2349405
 Jordan,JOR,2010,605659
-Jordan,JOR,2011,705000
-Jordan,JOR,2012,833000
-Jordan,JOR,2013,872809
-Jordan,JOR,2014,782000
-Jordan,JOR,2015,758218
+Jordan,JOR,2011,705648
+Jordan,JOR,2012,817434
+Jordan,JOR,2013,872811
+Jordan,JOR,2014,781291
+Jordan,JOR,2015,758219
 Jordan,JOR,2016,792841
 Jordan,JOR,2017,796087
-Jordan,JOR,2018,815354
+Jordan,JOR,2018,815345
 Jordan,JOR,2019,798160
 Jordan,JOR,2020,857283
 Jordan,JOR,2021,765662
-Japan,JPN,2000,13100000
-Japan,JPN,2001,13127144
-Japan,JPN,2002,13501420
-Japan,JPN,2003,15055696
-Japan,JPN,2004,16436146
-Japan,JPN,2005,17055082
-Japan,JPN,2006,18469710
-Japan,JPN,2007,19164522
-Japan,JPN,2008,18943606
-Japan,JPN,2009,16285918
-Japan,JPN,2010,20014970
-Japan,JPN,2011,20629491
+Jordan,JOR,2022,852554
+Jordan,JOR,2023,898736
+Jordan,JOR,2024,824199
+Japan,JPN,2010,20016486
+Japan,JPN,2011,20631007
 Japan,JPN,2012,21167525
 Japan,JPN,2013,21442040
 Japan,JPN,2014,21662814
 Japan,JPN,2015,21094824
 Japan,JPN,2016,21678076
-Japan,JPN,2017,22795035
+Japan,JPN,2017,22795433
 Japan,JPN,2018,23424446
 Japan,JPN,2019,23276482
-Japan,JPN,2020,21569281
-Japan,JPN,2021,22353926
-Japan,JPN,2022,22515870
-Kenya,KEN,2007,585367
-Kenya,KEN,2008,615733
-Kenya,KEN,2009,618816
+Japan,JPN,2020,21568959
+Japan,JPN,2021,22353354
+Japan,JPN,2022,22462583
+Japan,JPN,2023,21499023
+Japan,JPN,2024,21886683
 Kenya,KEN,2010,695600
 Kenya,KEN,2011,771000
 Kenya,KEN,2012,903443
@@ -1685,10 +1334,9 @@ Kenya,KEN,2018,1306283
 Kenya,KEN,2019,1417000
 Kenya,KEN,2020,1359579
 Kenya,KEN,2021,1435565
-Kenya,KEN,2022,1450000
-Cambodia,KHM,2007,253271
-Cambodia,KHM,2008,258775
-Cambodia,KHM,2009,207577
+Kenya,KEN,2022,1430000
+Kenya,KEN,2023,1623080
+Kenya,KEN,2024,2005076
 Cambodia,KHM,2010,222928
 Cambodia,KHM,2011,237941
 Cambodia,KHM,2012,255378
@@ -1701,6 +1349,9 @@ Cambodia,KHM,2018,537107
 Cambodia,KHM,2019,639211
 Cambodia,KHM,2020,641842
 Cambodia,KHM,2021,732387
+Cambodia,KHM,2022,750148
+Cambodia,KHM,2023,797778
+Cambodia,KHM,2024,1030000
 Kiribati,KIR,2010,29875.69
 Kiribati,KIR,2011,25775.69
 Kiribati,KIR,2012,25775.69
@@ -1722,17 +1373,7 @@ St. Kitts and Nevis,KNA,2017,13767
 St. Kitts and Nevis,KNA,2018,13491.5
 St. Kitts and Nevis,KNA,2019,13629.25
 St. Kitts and Nevis,KNA,2020,13560.375
-"Korea, Rep.",KOR,2000,9030174
-"Korea, Rep.",KOR,2001,9287221
-"Korea, Rep.",KOR,2002,11719500
-"Korea, Rep.",KOR,2003,13049534
-"Korea, Rep.",KOR,2004,14363194
-"Korea, Rep.",KOR,2005,15113275
-"Korea, Rep.",KOR,2006,15513935
-"Korea, Rep.",KOR,2007,17086133
-"Korea, Rep.",KOR,2008,17417723
-"Korea, Rep.",KOR,2009,15699663.2754
-"Korea, Rep.",KOR,2010,19202102
+"Korea, Rep.",KOR,2010,19202172
 "Korea, Rep.",KOR,2011,21610491
 "Korea, Rep.",KOR,2012,22559272
 "Korea, Rep.",KOR,2013,23463109
@@ -1745,6 +1386,8 @@ St. Kitts and Nevis,KNA,2020,13560.375
 "Korea, Rep.",KOR,2020,28834192
 "Korea, Rep.",KOR,2021,29786900
 "Korea, Rep.",KOR,2022,28502044
+"Korea, Rep.",KOR,2023,30003141
+"Korea, Rep.",KOR,2024,31850924
 Kuwait,KWT,2005,673472
 Kuwait,KWT,2006,750000
 Kuwait,KWT,2007,900000
@@ -1761,34 +1404,21 @@ Kuwait,KWT,2017,964623.5
 Kuwait,KWT,2018,954527.75
 Kuwait,KWT,2019,959575.625
 Kuwait,KWT,2020,863618
-Latin America & Caribbean (excluding high income),LAC,2000,8761058
-Latin America & Caribbean (excluding high income),LAC,2001,8074420
-Latin America & Caribbean (excluding high income),LAC,2002,10163480
-Latin America & Caribbean (excluding high income),LAC,2003,11895280
-Latin America & Caribbean (excluding high income),LAC,2004,13699268
-Latin America & Caribbean (excluding high income),LAC,2005,15148618
-Latin America & Caribbean (excluding high income),LAC,2006,17549980
-Latin America & Caribbean (excluding high income),LAC,2007,18957188
-Latin America & Caribbean (excluding high income),LAC,2008,21776138.8832
-Latin America & Caribbean (excluding high income),LAC,2009,20395736.2406672
-Latin America & Caribbean (excluding high income),LAC,2010,23806866
-Latin America & Caribbean (excluding high income),LAC,2011,26743597
-Latin America & Caribbean (excluding high income),LAC,2012,28591725
-Latin America & Caribbean (excluding high income),LAC,2013,29072567
-Latin America & Caribbean (excluding high income),LAC,2014,29466380
-Latin America & Caribbean (excluding high income),LAC,2015,30497427
-Latin America & Caribbean (excluding high income),LAC,2016,30285110
-Latin America & Caribbean (excluding high income),LAC,2017,32671069
-Latin America & Caribbean (excluding high income),LAC,2018,35585693
-Latin America & Caribbean (excluding high income),LAC,2019,35871020
-Latin America & Caribbean (excluding high income),LAC,2020,34671856
-Latin America & Caribbean (excluding high income),LAC,2021,39425990
-Latin America & Caribbean (excluding high income),LAC,2022,39212095
-Lebanon,LBN,2001,299400
-Lebanon,LBN,2006,594603
-Lebanon,LBN,2007,947625
-Lebanon,LBN,2008,861931
-Lebanon,LBN,2009,994601
+Latin America & Caribbean (excluding high income),LAC,2010,24865134
+Latin America & Caribbean (excluding high income),LAC,2011,28086521
+Latin America & Caribbean (excluding high income),LAC,2012,30160903
+Latin America & Caribbean (excluding high income),LAC,2013,30514240
+Latin America & Caribbean (excluding high income),LAC,2014,30399760
+Latin America & Caribbean (excluding high income),LAC,2015,31231612
+Latin America & Caribbean (excluding high income),LAC,2016,30686072
+Latin America & Caribbean (excluding high income),LAC,2017,33025609
+Latin America & Caribbean (excluding high income),LAC,2018,36164557
+Latin America & Caribbean (excluding high income),LAC,2019,36159924.5
+Latin America & Caribbean (excluding high income),LAC,2020,35003318.25
+Latin America & Caribbean (excluding high income),LAC,2021,39676095
+Latin America & Caribbean (excluding high income),LAC,2022,39193430
+Latin America & Caribbean (excluding high income),LAC,2023,39525478
+Latin America & Caribbean (excluding high income),LAC,2024,44012266
 Lebanon,LBN,2010,949155
 Lebanon,LBN,2011,1034249
 Lebanon,LBN,2012,1041756
@@ -1798,9 +1428,11 @@ Lebanon,LBN,2015,1130284
 Lebanon,LBN,2016,1147219
 Lebanon,LBN,2017,1305038
 Lebanon,LBN,2018,1332990
-Lebanon,LBN,2019,1293888
-Lebanon,LBN,2020,832954
-Lebanon,LBN,2021,675077
+Lebanon,LBN,2019,1257907
+Lebanon,LBN,2020,798882
+Lebanon,LBN,2021,640263
+Lebanon,LBN,2022,434218
+Lebanon,LBN,2024,762062
 Liberia,LBR,2010,53400
 Liberia,LBR,2011,59800
 Liberia,LBR,2012,85589
@@ -1811,22 +1443,18 @@ Liberia,LBR,2016,112500
 Liberia,LBR,2017,125000
 Liberia,LBR,2018,118750
 Liberia,LBR,2019,91453.84
-Libya,LBY,2007,122122
-Libya,LBY,2008,174827
-Libya,LBY,2009,158987.6738
-Libya,LBY,2010,136203.3
-Libya,LBY,2011,87443.9
-Libya,LBY,2012,76721.51
-Libya,LBY,2013,312181.6
-Libya,LBY,2014,375729.1
-Libya,LBY,2015,558764.1
-Libya,LBY,2016,151551.5
-Libya,LBY,2017,212164.5
-Libya,LBY,2018,327096.8
-Libya,LBY,2019,271230.6
-St. Lucia,LCA,2007,55582
-St. Lucia,LCA,2008,70202
-St. Lucia,LCA,2009,51942
+Libya,LBY,2010,259319
+Libya,LBY,2011,255879
+Libya,LBY,2012,306304
+Libya,LBY,2013,225020
+Libya,LBY,2014,172340
+Libya,LBY,2016,124050
+Libya,LBY,2017,105636
+Libya,LBY,2019,265098
+Libya,LBY,2020,343599
+Libya,LBY,2021,422100
+Libya,LBY,2022,428760
+Libya,LBY,2023,465168
 St. Lucia,LCA,2010,52479
 St. Lucia,LCA,2011,60342
 St. Lucia,LCA,2012,83340
@@ -1837,39 +1465,25 @@ St. Lucia,LCA,2016,38383
 St. Lucia,LCA,2017,29706
 St. Lucia,LCA,2018,33657
 St. Lucia,LCA,2019,39238
-Latin America & Caribbean,LCN,2000,15860053
-Latin America & Caribbean,LCN,2001,16129381
-Latin America & Caribbean,LCN,2002,15090170
-Latin America & Caribbean,LCN,2003,19556512
-Latin America & Caribbean,LCN,2004,22294663
-Latin America & Caribbean,LCN,2005,24816487
-Latin America & Caribbean,LCN,2006,28018282
-Latin America & Caribbean,LCN,2007,32720909
-Latin America & Caribbean,LCN,2008,35627766.8832
-Latin America & Caribbean,LCN,2009,32630749.9822672
-Latin America & Caribbean,LCN,2010,38779255.97
-Latin America & Caribbean,LCN,2011,43652013.92
-Latin America & Caribbean,LCN,2012,46106692.4
-Latin America & Caribbean,LCN,2013,46713312.4
-Latin America & Caribbean,LCN,2014,47013805.4
+St. Lucia,LCA,2020,35721
+St. Lucia,LCA,2021,35538
+St. Lucia,LCA,2022,38973
+St. Lucia,LCA,2023,37054
+Latin America & Caribbean,LCN,2010,38765830.97
+Latin America & Caribbean,LCN,2011,43655833.92
+Latin America & Caribbean,LCN,2012,46120695.4
+Latin America & Caribbean,LCN,2013,46701397.4
+Latin America & Caribbean,LCN,2014,47014004.4
 Latin America & Caribbean,LCN,2015,47907364.88
-Latin America & Caribbean,LCN,2016,46785590.78
-Latin America & Caribbean,LCN,2017,49946638.42
-Latin America & Caribbean,LCN,2018,53583745.86
-Latin America & Caribbean,LCN,2019,53956658.22
-Latin America & Caribbean,LCN,2020,52586724.875
-Latin America & Caribbean,LCN,2021,58823480
-Latin America & Caribbean,LCN,2022,57019921
-Sri Lanka,LKA,2000,1732855
-Sri Lanka,LKA,2001,1726605
-Sri Lanka,LKA,2002,1764720
-Sri Lanka,LKA,2003,1959354
-Sri Lanka,LKA,2004,2220525
-Sri Lanka,LKA,2005,2455297
-Sri Lanka,LKA,2006,3079132
-Sri Lanka,LKA,2007,3687338
-Sri Lanka,LKA,2008,3687465
-Sri Lanka,LKA,2009,3464297
+Latin America & Caribbean,LCN,2016,46771094.78
+Latin America & Caribbean,LCN,2017,49946626.42
+Latin America & Caribbean,LCN,2018,53572052.86
+Latin America & Caribbean,LCN,2019,54038532.72
+Latin America & Caribbean,LCN,2020,52894527.625
+Latin America & Caribbean,LCN,2021,59129924
+Latin America & Caribbean,LCN,2022,58521490
+Latin America & Caribbean,LCN,2023,58606519
+Latin America & Caribbean,LCN,2024,63967895
 Sri Lanka,LKA,2010,4120000
 Sri Lanka,LKA,2011,4262887
 Sri Lanka,LKA,2012,4320984
@@ -1883,78 +1497,53 @@ Sri Lanka,LKA,2019,7230000
 Sri Lanka,LKA,2020,6850000
 Sri Lanka,LKA,2021,7250000
 Sri Lanka,LKA,2022,6860000
-Lower middle income,LMC,2000,11642530
-Lower middle income,LMC,2001,13543368
-Lower middle income,LMC,2002,12983050
-Lower middle income,LMC,2003,16430967
-Lower middle income,LMC,2004,19745369
-Lower middle income,LMC,2005,21397841
-Lower middle income,LMC,2006,24541961
-Lower middle income,LMC,2007,33882783
-Lower middle income,LMC,2008,37782296.1736
-Lower middle income,LMC,2009,39087362.0348718
-Lower middle income,LMC,2010,48244253.166
-Lower middle income,LMC,2011,52535124.572
-Lower middle income,LMC,2012,53945789.45
-Lower middle income,LMC,2013,56384914.738
-Lower middle income,LMC,2014,62027698.758
-Lower middle income,LMC,2015,64894414.383
-Lower middle income,LMC,2016,67835429.253
-Lower middle income,LMC,2017,74111942.43
-Lower middle income,LMC,2018,79566718.07
-Lower middle income,LMC,2019,85420355
-Lower middle income,LMC,2020,84394148.75
-Lower middle income,LMC,2021,91730262
-Lower middle income,LMC,2022,90066295
-Low & middle income,LMY,2000,76584296
-Low & middle income,LMY,2001,83687495
-Low & middle income,LMY,2002,100643748
-Low & middle income,LMY,2003,115601686
-Low & middle income,LMY,2004,136492488
-Low & middle income,LMY,2005,134245165
-Low & middle income,LMY,2006,159706254
-Low & middle income,LMY,2007,197818436
-Low & middle income,LMY,2008,220739422.288
-Low & middle income,LMY,2009,211061327.574992
-Low & middle income,LMY,2010,259288104.965
-Low & middle income,LMY,2011,287984609.762
-Low & middle income,LMY,2012,307149239.841
-Low & middle income,LMY,2013,322768740.592
-Low & middle income,LMY,2014,341971393.722
-Low & middle income,LMY,2015,354715240.8572
-Low & middle income,LMY,2016,366704562.6672
-Low & middle income,LMY,2017,395627448.2542
-Low & middle income,LMY,2018,418233912.5252
-Low & middle income,LMY,2019,434004928.31
-Low & middle income,LMY,2020,430391397
-Low & middle income,LMY,2021,462414471
-Low & middle income,LMY,2022,466646907
-Late-demographic dividend,LTE,2000,67353110
-Late-demographic dividend,LTE,2001,74646701
-Late-demographic dividend,LTE,2002,90018938
-Late-demographic dividend,LTE,2003,103950686
-Late-demographic dividend,LTE,2004,123020191
-Late-demographic dividend,LTE,2005,120417203
-Late-demographic dividend,LTE,2006,145336126
-Late-demographic dividend,LTE,2007,178605554
-Late-demographic dividend,LTE,2008,196030004.7776
-Late-demographic dividend,LTE,2009,184240015.058549
-Late-demographic dividend,LTE,2010,224411839.55
-Late-demographic dividend,LTE,2011,248006627.37
-Late-demographic dividend,LTE,2012,267049519.937
-Late-demographic dividend,LTE,2013,281585054.494
-Late-demographic dividend,LTE,2014,299141088.214
-Late-demographic dividend,LTE,2015,309739583.1142
-Late-demographic dividend,LTE,2016,318868584.0142
-Late-demographic dividend,LTE,2017,338435468.1142
-Late-demographic dividend,LTE,2018,355383805.4642
-Late-demographic dividend,LTE,2019,370253133.425
-Late-demographic dividend,LTE,2020,372781447.5
-Late-demographic dividend,LTE,2021,400013712
-Late-demographic dividend,LTE,2022,406788120
-Lithuania,LTU,2007,321432
-Lithuania,LTU,2008,373263
-Lithuania,LTU,2009,247982
+Sri Lanka,LKA,2023,6940000
+Sri Lanka,LKA,2024,7782776
+Lower middle income,LMC,2010,33419046.15
+Lower middle income,LMC,2011,36775283.11
+Lower middle income,LMC,2012,37290224.4
+Lower middle income,LMC,2013,39051258.05
+Lower middle income,LMC,2014,42038213.07
+Lower middle income,LMC,2015,42852130.57
+Lower middle income,LMC,2016,43709489.44
+Lower middle income,LMC,2017,48101965.93
+Lower middle income,LMC,2018,51515428.55
+Lower middle income,LMC,2019,54582074.41
+Lower middle income,LMC,2020,54396127
+Lower middle income,LMC,2021,57950740
+Lower middle income,LMC,2022,58262048
+Lower middle income,LMC,2023,61930444
+Lower middle income,LMC,2024,68252294
+Low & middle income,LMY,2010,260722599.665
+Low & middle income,LMY,2011,289156469.862
+Low & middle income,LMY,2012,309000090.331
+Low & middle income,LMY,2013,323964274.992
+Low & middle income,LMY,2014,342854694.622
+Low & middle income,LMY,2015,355025638.7572
+Low & middle income,LMY,2016,367182137.1672
+Low & middle income,LMY,2017,395194965.7542
+Low & middle income,LMY,2018,418631598.7252
+Low & middle income,LMY,2019,432853877.21
+Low & middle income,LMY,2020,430052686.25
+Low & middle income,LMY,2021,462204523
+Low & middle income,LMY,2022,474026928
+Low & middle income,LMY,2023,489807714
+Low & middle income,LMY,2024,534127883
+Late-demographic dividend,LTE,2010,224169761.55
+Late-demographic dividend,LTE,2011,247749762.87
+Late-demographic dividend,LTE,2012,267071765.687
+Late-demographic dividend,LTE,2013,281549396.614
+Late-demographic dividend,LTE,2014,299141043.214
+Late-demographic dividend,LTE,2015,309739375.1142
+Late-demographic dividend,LTE,2016,318794804.0142
+Late-demographic dividend,LTE,2017,338366276.1142
+Late-demographic dividend,LTE,2018,355397953.4642
+Late-demographic dividend,LTE,2019,370408579.425
+Late-demographic dividend,LTE,2020,372905989
+Late-demographic dividend,LTE,2021,400524483
+Late-demographic dividend,LTE,2022,411204006
+Late-demographic dividend,LTE,2023,424378890
+Late-demographic dividend,LTE,2024,460766564
 Lithuania,LTU,2010,294954
 Lithuania,LTU,2011,382185
 Lithuania,LTU,2012,381278
@@ -1968,9 +1557,8 @@ Lithuania,LTU,2019,703000
 Lithuania,LTU,2020,639006
 Lithuania,LTU,2021,666775
 Lithuania,LTU,2022,1047941
-Latvia,LVA,2007,236351
-Latvia,LVA,2008,225467
-Latvia,LVA,2009,184399
+Lithuania,LTU,2023,1050804
+Lithuania,LTU,2024,1068771
 Latvia,LVA,2010,256252
 Latvia,LVA,2011,305239
 Latvia,LVA,2012,366417
@@ -1984,12 +1572,8 @@ Latvia,LVA,2019,449850
 Latvia,LVA,2020,457342
 Latvia,LVA,2021,434146
 Latvia,LVA,2022,471684
-Morocco,MAR,2000,328808
-Morocco,MAR,2001,346724
-Morocco,MAR,2003,517549
-Morocco,MAR,2004,560682
-Morocco,MAR,2008,919360
-Morocco,MAR,2009,1222000
+Latvia,LVA,2023,468895
+Latvia,LVA,2024,490971
 Morocco,MAR,2010,2946000
 Morocco,MAR,2011,3032679
 Morocco,MAR,2012,2790692
@@ -2001,8 +1585,10 @@ Morocco,MAR,2017,4509580
 Morocco,MAR,2018,4715747
 Morocco,MAR,2019,6068803
 Morocco,MAR,2020,7000928
-Morocco,MAR,2021,8457129
-Morocco,MAR,2022,8835181
+Morocco,MAR,2021,8448850
+Morocco,MAR,2022,8840340
+Morocco,MAR,2023,9964417
+Morocco,MAR,2024,11789130
 Moldova,MDA,2012,1419.987
 Moldova,MDA,2013,472.614
 Moldova,MDA,2014,472.614
@@ -2037,34 +1623,21 @@ Maldives,MDV,2016,81744
 Maldives,MDV,2017,82761
 Maldives,MDV,2018,82252.5
 Maldives,MDV,2019,107728.2
-"Middle East, North Africa, Afghanistan & Pakistan",MEA,2001,14597148
-"Middle East, North Africa, Afghanistan & Pakistan",MEA,2003,18530824
-"Middle East, North Africa, Afghanistan & Pakistan",MEA,2004,20854896
-"Middle East, North Africa, Afghanistan & Pakistan",MEA,2007,38221812
-"Middle East, North Africa, Afghanistan & Pakistan",MEA,2008,43932621.9208
-"Middle East, North Africa, Afghanistan & Pakistan",MEA,2009,44603081.3235755
-"Middle East, North Africa, Afghanistan & Pakistan",MEA,2010,50209230.86
-"Middle East, North Africa, Afghanistan & Pakistan",MEA,2011,53572748.31
-"Middle East, North Africa, Afghanistan & Pakistan",MEA,2012,55138077.04
-"Middle East, North Africa, Afghanistan & Pakistan",MEA,2013,56368110.54
-"Middle East, North Africa, Afghanistan & Pakistan",MEA,2014,59520405.4
-"Middle East, North Africa, Afghanistan & Pakistan",MEA,2015,61123589.1
-"Middle East, North Africa, Afghanistan & Pakistan",MEA,2016,61711645.2
-"Middle East, North Africa, Afghanistan & Pakistan",MEA,2017,64328350.7
-"Middle East, North Africa, Afghanistan & Pakistan",MEA,2018,64859592.65
-"Middle East, North Africa, Afghanistan & Pakistan",MEA,2019,66443632.825
-"Middle East, North Africa, Afghanistan & Pakistan",MEA,2020,65687842
-"Middle East, North Africa, Afghanistan & Pakistan",MEA,2021,66196409
-Mexico,MEX,2000,1315701
-Mexico,MEX,2001,1358136
-Mexico,MEX,2002,1564540
-Mexico,MEX,2003,1693791
-Mexico,MEX,2004,1903345
-Mexico,MEX,2005,2144345
-Mexico,MEX,2006,2680374
-Mexico,MEX,2007,1661288
-Mexico,MEX,2008,3312717.1952
-Mexico,MEX,2009,2874312.6254
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2010,50332346.56
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2011,53561646.41
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2012,55352093.53
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2013,56280950.94
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2014,59316307.3
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2015,60564826
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2016,61684143.7
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2017,64221822.2
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2018,64532486.85
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2019,64908320.225
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2020,64802117
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2021,65139478
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2022,68545391
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2023,70748568
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2024,75809537
 Mexico,MEX,2010,3704765
 Mexico,MEX,2011,4226288
 Mexico,MEX,2012,4810170
@@ -2078,6 +1651,8 @@ Mexico,MEX,2019,7113878
 Mexico,MEX,2020,6487264
 Mexico,MEX,2021,7852417
 Mexico,MEX,2022,8307884
+Mexico,MEX,2023,8319202
+Mexico,MEX,2024,9284170
 Marshall Islands,MHL,2010,19699.68
 Marshall Islands,MHL,2011,21988.51
 Marshall Islands,MHL,2012,28796.52
@@ -2088,39 +1663,21 @@ Marshall Islands,MHL,2016,51613.32
 Marshall Islands,MHL,2017,74193.53
 Marshall Islands,MHL,2018,70146.41
 Marshall Islands,MHL,2019,30711.22
-Middle income,MIC,2000,76336119
-Middle income,MIC,2001,83310128
-Middle income,MIC,2002,100643748
-Middle income,MIC,2003,115601686
-Middle income,MIC,2004,136492488
-Middle income,MIC,2005,134245165
-Middle income,MIC,2006,159706254
-Middle income,MIC,2007,195843001
-Middle income,MIC,2008,218577903.3672
-Middle income,MIC,2009,208953467.110417
-Middle income,MIC,2010,257109716.355
-Middle income,MIC,2011,285751388.032
-Middle income,MIC,2012,305035719.061
-Middle income,MIC,2013,320764797.062
-Middle income,MIC,2014,339742935.332
-Middle income,MIC,2015,352023056.6272
-Middle income,MIC,2016,364292664.9572
-Middle income,MIC,2017,392575270.2242
-Middle income,MIC,2018,414584043.9852
-Middle income,MIC,2019,430248111.47
-Middle income,MIC,2020,427185660
-Middle income,MIC,2021,459248773
-Middle income,MIC,2022,464273528
-Malta,MLT,2000,1082235
-Malta,MLT,2001,1205764
-Malta,MLT,2002,1288780
-Malta,MLT,2003,1347539
-Malta,MLT,2004,1519220
-Malta,MLT,2005,1382410
-Malta,MLT,2006,1532920
-Malta,MLT,2007,1956908
-Malta,MLT,2008,2407332
-Malta,MLT,2009,2323941
+Middle income,MIC,2010,258884111.055
+Middle income,MIC,2011,287456128.132
+Middle income,MIC,2012,307175050.551
+Middle income,MIC,2013,322271801.462
+Middle income,MIC,2014,341007034.232
+Middle income,MIC,2015,353239154.5272
+Middle income,MIC,2016,365591878.4572
+Middle income,MIC,2017,393336628.7242
+Middle income,MIC,2018,416377460.1852
+Middle income,MIC,2019,430597671.37
+Middle income,MIC,2020,428572219.25
+Middle income,MIC,2021,461024956
+Middle income,MIC,2022,473237930
+Middle income,MIC,2023,489318714
+Middle income,MIC,2024,533747883
 Malta,MLT,2010,2414479
 Malta,MLT,2011,2406652
 Malta,MLT,2012,2589983
@@ -2134,9 +1691,8 @@ Malta,MLT,2019,2813023
 Malta,MLT,2020,2539087
 Malta,MLT,2021,3075918
 Malta,MLT,2022,2993799
-Myanmar,MMR,2007,170000
-Myanmar,MMR,2008,180000
-Myanmar,MMR,2009,163692
+Malta,MLT,2023,2907257
+Malta,MLT,2024,2967924
 Myanmar,MMR,2010,335346
 Myanmar,MMR,2011,380675
 Myanmar,MMR,2012,474300
@@ -2150,24 +1706,21 @@ Myanmar,MMR,2019,1128353
 Myanmar,MMR,2020,1095247
 Myanmar,MMR,2021,694016
 Myanmar,MMR,2022,846426
-"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2001,3922484
-"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2003,3974850
-"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2004,5967215
-"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2007,12550717
-"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2008,14968235.9208
-"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2009,16078537.3235755
-"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2010,19636833.86
-"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2011,20913688.31
-"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2012,19395445.04
-"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2013,20039494.54
-"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2014,21929574.4
-"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2015,21410686.1
-"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2016,21672472.2
-"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2017,24119761.2
-"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2018,24182394.9
-"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2019,25397009.2
-"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2020,24221171
-"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2021,23802606
+Myanmar,MMR,2023,761557
+Myanmar,MMR,2024,782951
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2010,19759949.56
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2011,20902586.41
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2012,19609461.53
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2013,19952334.94
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2014,21725476.3
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2015,20851923
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2016,21644970.7
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2017,24013232.7
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2018,23855289.1
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2019,23851400.6
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2020,23277269
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2022,24551982
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2024,32208832
 Montenegro,MNE,2010,27600
 Montenegro,MNE,2011,33100
 Montenegro,MNE,2012,33593
@@ -2179,6 +1732,8 @@ Montenegro,MNE,2017,43732
 Montenegro,MNE,2018,15998
 Montenegro,MNE,2019,15744
 Montenegro,MNE,2021,38352
+Montenegro,MNE,2023,35085
+Montenegro,MNE,2024,17263
 Northern Mariana Islands,MNP,2010,24446.48
 Northern Mariana Islands,MNP,2011,33191.55
 Northern Mariana Islands,MNP,2012,30479.68
@@ -2189,9 +1744,6 @@ Northern Mariana Islands,MNP,2016,44989.51
 Northern Mariana Islands,MNP,2017,94910.77
 Northern Mariana Islands,MNP,2018,42095.68
 Northern Mariana Islands,MNP,2019,44951.82
-Mozambique,MOZ,2007,209315
-Mozambique,MOZ,2008,241237
-Mozambique,MOZ,2009,219380.9278
 Mozambique,MOZ,2011,220000
 Mozambique,MOZ,2012,246000
 Mozambique,MOZ,2013,244500
@@ -2202,6 +1754,7 @@ Mozambique,MOZ,2019,411938
 Mozambique,MOZ,2020,417459
 Mozambique,MOZ,2021,440582
 Mozambique,MOZ,2022,420500
+Mozambique,MOZ,2023,489000
 Mauritania,MRT,2008,57478
 Mauritania,MRT,2009,62269
 Mauritania,MRT,2010,65705
@@ -2214,11 +1767,6 @@ Mauritania,MRT,2016,72523
 Mauritania,MRT,2017,88400
 Mauritania,MRT,2018,80461.5
 Mauritania,MRT,2019,84457.99
-Mauritius,MUS,2002,198180
-Mauritius,MUS,2003,381470
-Mauritius,MUS,2007,412896
-Mauritius,MUS,2008,454433
-Mauritius,MUS,2009,406862
 Mauritius,MUS,2010,332662
 Mauritius,MUS,2011,350624
 Mauritius,MUS,2012,417467
@@ -2232,16 +1780,8 @@ Mauritius,MUS,2019,469011
 Mauritius,MUS,2020,438078
 Mauritius,MUS,2021,436398
 Mauritius,MUS,2022,407825
-Malaysia,MYS,2000,4642428
-Malaysia,MYS,2001,6224913
-Malaysia,MYS,2002,8751570
-Malaysia,MYS,2003,10210145
-Malaysia,MYS,2004,11510931
-Malaysia,MYS,2005,12197750
-Malaysia,MYS,2006,13419053
-Malaysia,MYS,2007,14828836
-Malaysia,MYS,2008,16093953.3104
-Malaysia,MYS,2009,15922799.6478778
+Mauritius,MUS,2023,448527
+Mauritius,MUS,2024,468254
 Malaysia,MYS,2010,18133368
 Malaysia,MYS,2011,20009479
 Malaysia,MYS,2012,20491118
@@ -2255,32 +1795,23 @@ Malaysia,MYS,2019,26215322
 Malaysia,MYS,2020,26669483
 Malaysia,MYS,2021,28261849
 Malaysia,MYS,2022,27293935
-North America,NAC,2000,31227942
-North America,NAC,2001,30197964
-North America,NAC,2002,32984200
-North America,NAC,2003,36320556
-North America,NAC,2004,38827775
-North America,NAC,2005,42661263
-North America,NAC,2006,45226905
-North America,NAC,2007,49253317
-North America,NAC,2008,47132433.0512
-North America,NAC,2009,41545142.966
-North America,NAC,2010,46285893.461
-North America,NAC,2011,46840695.461
-North America,NAC,2012,48250613.461
-North America,NAC,2013,49199048.461
-North America,NAC,2014,51242073.324
-North America,NAC,2015,53517767.324
-North America,NAC,2016,53881261.324
-North America,NAC,2017,57904162.324
-North America,NAC,2018,61250915.324
-North America,NAC,2019,62715462
-North America,NAC,2020,60765345
-North America,NAC,2021,69331089
-North America,NAC,2022,69224823
-Namibia,NAM,2007,148234
-Namibia,NAM,2008,183605
-Namibia,NAM,2009,265663
+Malaysia,MYS,2023,28246849
+Malaysia,MYS,2024,30659850
+North America,NAC,2010,44941496.461
+North America,NAC,2011,45553546.461
+North America,NAC,2012,47010660.461
+North America,NAC,2013,48107682.461
+North America,NAC,2014,50087043.324
+North America,NAC,2015,52329947.324
+North America,NAC,2016,52672486.324
+North America,NAC,2017,56577838.324
+North America,NAC,2018,59761861.324
+North America,NAC,2019,61240655
+North America,NAC,2020,59357037
+North America,NAC,2021,68044278
+North America,NAC,2022,68267335
+North America,NAC,2023,60721504
+North America,NAC,2024,66101528
 Namibia,NAM,2010,247743
 Namibia,NAM,2011,220178
 Namibia,NAM,2012,334410
@@ -2288,15 +1819,14 @@ Namibia,NAM,2013,301817
 Namibia,NAM,2014,253052
 Namibia,NAM,2015,237546
 Namibia,NAM,2016,203071
-Namibia,NAM,2017,176335
-Namibia,NAM,2018,144109
-Namibia,NAM,2019,142957
-Namibia,NAM,2020,154207
-Namibia,NAM,2021,166545
-Namibia,NAM,2022,160368
-New Caledonia,NCL,2007,83205
-New Caledonia,NCL,2008,119661
-New Caledonia,NCL,2009,119147
+Namibia,NAM,2017,205991
+Namibia,NAM,2018,182655
+Namibia,NAM,2019,149464
+Namibia,NAM,2020,148642
+Namibia,NAM,2021,155980
+Namibia,NAM,2022,168278
+Namibia,NAM,2023,160883
+Namibia,NAM,2024,171151
 New Caledonia,NCL,2010,90574
 New Caledonia,NCL,2011,95277
 New Caledonia,NCL,2012,96000
@@ -2307,10 +1837,7 @@ New Caledonia,NCL,2016,108500
 New Caledonia,NCL,2017,113000
 New Caledonia,NCL,2018,110750
 New Caledonia,NCL,2019,111875
-Nigeria,NGA,2003,588478
-Nigeria,NGA,2004,512610
-Nigeria,NGA,2008,72500
-Nigeria,NGA,2009,87000
+New Caledonia,NCL,2021,107834
 Nigeria,NGA,2010,1162000
 Nigeria,NGA,2011,1456000
 Nigeria,NGA,2012,1583460
@@ -2324,9 +1851,7 @@ Nigeria,NGA,2019,1627142
 Nigeria,NGA,2020,1548622
 Nigeria,NGA,2021,1566109
 Nigeria,NGA,2022,1566109
-Nicaragua,NIC,2007,61007
-Nicaragua,NIC,2008,63030
-Nicaragua,NIC,2009,59471
+Nigeria,NGA,2023,1566109
 Nicaragua,NIC,2010,68224
 Nicaragua,NIC,2011,84420
 Nicaragua,NIC,2012,94443
@@ -2340,16 +1865,8 @@ Nicaragua,NIC,2019,175370
 Nicaragua,NIC,2020,172798
 Nicaragua,NIC,2021,172544
 Nicaragua,NIC,2022,153390
-Netherlands,NLD,2000,6407162
-Netherlands,NLD,2001,6227321
-Netherlands,NLD,2002,6797530
-Netherlands,NLD,2003,7293790
-Netherlands,NLD,2004,8482190
-Netherlands,NLD,2005,9471829
-Netherlands,NLD,2006,10046503
-Netherlands,NLD,2007,11290260
-Netherlands,NLD,2008,11362089
-Netherlands,NLD,2009,10066374
+Nicaragua,NIC,2023,155815
+Nicaragua,NIC,2024,167682
 Netherlands,NLD,2010,11334566
 Netherlands,NLD,2011,12024928
 Netherlands,NLD,2012,12034495
@@ -2363,9 +1880,8 @@ Netherlands,NLD,2019,15198050
 Netherlands,NLD,2020,14757227
 Netherlands,NLD,2021,15781756
 Netherlands,NLD,2022,14929333
-Norway,NOR,2007,328776
-Norway,NOR,2008,331054
-Norway,NOR,2009,318924
+Netherlands,NLD,2023,14111298
+Netherlands,NLD,2024,14517179
 Norway,NOR,2010,636086
 Norway,NOR,2011,670407
 Norway,NOR,2012,687821
@@ -2379,6 +1895,8 @@ Norway,NOR,2019,837457
 Norway,NOR,2020,835398
 Norway,NOR,2021,881238
 Norway,NOR,2022,933300
+Norway,NOR,2023,882560
+Norway,NOR,2024,862983
 Nauru,NRU,2011,2596.997
 Nauru,NRU,2012,2596.997
 Nauru,NRU,2013,5563.455
@@ -2388,16 +1906,6 @@ Nauru,NRU,2016,7032.956
 Nauru,NRU,2017,5536.052
 Nauru,NRU,2018,7606.643
 Nauru,NRU,2019,5327.06
-New Zealand,NZL,2000,1067438
-New Zealand,NZL,2001,1139143
-New Zealand,NZL,2002,1407130
-New Zealand,NZL,2003,1520592
-New Zealand,NZL,2004,1583847
-New Zealand,NZL,2005,1603195
-New Zealand,NZL,2006,1806596
-New Zealand,NZL,2007,2311569
-New Zealand,NZL,2008,2317823.1944
-New Zealand,NZL,2009,2324969.88398736
 New Zealand,NZL,2010,2317619
 New Zealand,NZL,2011,2466067
 New Zealand,NZL,2012,2594088
@@ -2411,39 +1919,23 @@ New Zealand,NZL,2019,3430977
 New Zealand,NZL,2020,3445621
 New Zealand,NZL,2021,3249262
 New Zealand,NZL,2022,3426030
-OECD members,OED,2000,109883995
-OECD members,OED,2001,112516999
-OECD members,OED,2002,124553990
-OECD members,OED,2003,136180790
-OECD members,OED,2004,151916047
-OECD members,OED,2005,161810412
-OECD members,OED,2006,172830826
-OECD members,OED,2007,194810472
-OECD members,OED,2008,195009430.1856
-OECD members,OED,2009,172457972.323151
-OECD members,OED,2010,192151131
-OECD members,OED,2011,204362885
-OECD members,OED,2012,211887542
-OECD members,OED,2013,216739602
-OECD members,OED,2014,226020834
-OECD members,OED,2015,228798984
-OECD members,OED,2016,234582818
-OECD members,OED,2017,249500541
-OECD members,OED,2018,262325021
-OECD members,OED,2019,267181829
-OECD members,OED,2020,258744843
-OECD members,OED,2021,278945522
-OECD members,OED,2022,272908993
-Oman,OMN,2000,1161549
-Oman,OMN,2001,1331686
-Oman,OMN,2002,1415500
-Oman,OMN,2003,2264826
-Oman,OMN,2004,2515546
-Oman,OMN,2005,2748584
-Oman,OMN,2006,2620363
-Oman,OMN,2007,2876969
-Oman,OMN,2008,3427990
-Oman,OMN,2009,3768045
+New Zealand,NZL,2023,3184218
+New Zealand,NZL,2024,3371175
+OECD members,OED,2010,190238575
+OECD members,OED,2011,202496869
+OECD members,OED,2012,210019366
+OECD members,OED,2013,215028610
+OECD members,OED,2014,224216439
+OECD members,OED,2015,226938624
+OECD members,OED,2016,232620257
+OECD members,OED,2017,247401531
+OECD members,OED,2018,259908757
+OECD members,OED,2019,264872470
+OECD members,OED,2020,256566186
+OECD members,OED,2021,276808687
+OECD members,OED,2022,272540668
+OECD members,OED,2023,260237616
+OECD members,OED,2024,276685362
 Oman,OMN,2010,3893198
 Oman,OMN,2011,3609140
 Oman,OMN,2012,4177556
@@ -2453,12 +1945,14 @@ Oman,OMN,2015,3105377
 Oman,OMN,2016,3943846
 Oman,OMN,2017,4785012
 Oman,OMN,2018,4210679
-Oman,OMN,2019,4890471
-Oman,OMN,2020,5141830
-Oman,OMN,2021,5235447
-Oman,OMN,2022,5228456
-Other small states,OSS,2010,4092647.37
-Other small states,OSS,2011,4715743.24
+Oman,OMN,2019,4900767
+Oman,OMN,2020,5146009
+Oman,OMN,2021,5238968
+Oman,OMN,2022,5228483
+Oman,OMN,2023,4608110
+Oman,OMN,2024,4246786
+Other small states,OSS,2010,4085404.37
+Other small states,OSS,2011,4715739.24
 Other small states,OSS,2012,5098121.55
 Other small states,OSS,2013,5341699.51
 Other small states,OSS,2014,5652568.38
@@ -2466,15 +1960,7 @@ Other small states,OSS,2015,5788474.67
 Other small states,OSS,2016,5996428.58
 Other small states,OSS,2017,6063476.8
 Other small states,OSS,2018,6286203.06
-Other small states,OSS,2019,5805306
-Pakistan,PAK,2001,878892
-Pakistan,PAK,2003,787559
-Pakistan,PAK,2004,1269373
-Pakistan,PAK,2005,1686355
-Pakistan,PAK,2006,1776939
-Pakistan,PAK,2007,1935882
-Pakistan,PAK,2008,1938001
-Pakistan,PAK,2009,2058056
+Other small states,OSS,2019,5805329
 Pakistan,PAK,2010,2224000
 Pakistan,PAK,2011,2300000
 Pakistan,PAK,2012,2231250
@@ -2488,39 +1974,23 @@ Pakistan,PAK,2019,3150000
 Pakistan,PAK,2020,3161000
 Pakistan,PAK,2021,3548000
 Pakistan,PAK,2022,3383580
-Panama,PAN,2000,2369681
-Panama,PAN,2001,2376045
-Panama,PAN,2002,1344790
-Panama,PAN,2003,1991659
-Panama,PAN,2004,2428762
-Panama,PAN,2005,3063832
-Panama,PAN,2006,3027788
-Panama,PAN,2007,4022513
-Panama,PAN,2008,5129499
-Panama,PAN,2009,4597112
-Panama,PAN,2010,5590692
-Panama,PAN,2011,6632436
-Panama,PAN,2012,6853273
-Panama,PAN,2013,6538075
-Panama,PAN,2014,6773865
+Pakistan,PAK,2023,2909000
+Pakistan,PAK,2024,3338000
+Panama,PAN,2010,5590685
+Panama,PAN,2011,6629838
+Panama,PAN,2012,6847724
+Panama,PAN,2013,6561406
+Panama,PAN,2014,6774064
 Panama,PAN,2015,6893886
-Panama,PAN,2016,6271682
-Panama,PAN,2017,6899254
-Panama,PAN,2018,6872369
+Panama,PAN,2016,6261878
+Panama,PAN,2017,6899242
+Panama,PAN,2018,6872055
 Panama,PAN,2019,7346859
-Panama,PAN,2020,7772432
+Panama,PAN,2020,7735214
 Panama,PAN,2021,8623927
 Panama,PAN,2022,8518425
-Peru,PER,2000,460631
-Peru,PER,2001,537554
-Peru,PER,2002,631760
-Peru,PER,2003,627011
-Peru,PER,2004,695577
-Peru,PER,2005,991681
-Peru,PER,2006,1087263
-Peru,PER,2007,1177925
-Peru,PER,2008,1235326
-Peru,PER,2009,1232849
+Panama,PAN,2023,8322863
+Panama,PAN,2024,9570767
 Peru,PER,2010,1529846
 Peru,PER,2011,1826795
 Peru,PER,2012,2021881
@@ -2534,16 +2004,8 @@ Peru,PER,2019,2677239
 Peru,PER,2020,2651281
 Peru,PER,2021,2874109
 Peru,PER,2022,2865239
-Philippines,PHL,2000,3031548
-Philippines,PHL,2001,3090952
-Philippines,PHL,2002,3324800
-Philippines,PHL,2003,3468471
-Philippines,PHL,2004,3676456
-Philippines,PHL,2005,3633559
-Philippines,PHL,2006,3676133
-Philippines,PHL,2007,4351271
-Philippines,PHL,2008,4471428
-Philippines,PHL,2009,4306964.6458
+Peru,PER,2023,3144220
+Peru,PER,2024,3477011
 Philippines,PHL,2010,5138014
 Philippines,PHL,2011,5682561
 Philippines,PHL,2012,5938070
@@ -2556,7 +2018,9 @@ Philippines,PHL,2018,8859565
 Philippines,PHL,2019,9333428
 Philippines,PHL,2020,8019642
 Philippines,PHL,2021,8674859
-Philippines,PHL,2022,9249451
+Philippines,PHL,2022,9258516
+Philippines,PHL,2023,8803874
+Philippines,PHL,2024,9216842
 Palau,PLW,2010,24446.48
 Palau,PLW,2011,17628.87
 Palau,PLW,2012,18799.61
@@ -2567,9 +2031,6 @@ Palau,PLW,2016,22490.03
 Palau,PLW,2017,20009.41
 Palau,PLW,2018,20059.46
 Palau,PLW,2019,16399
-Papua New Guinea,PNG,2007,282356
-Papua New Guinea,PNG,2008,254592
-Papua New Guinea,PNG,2009,262209
 Papua New Guinea,PNG,2010,142146
 Papua New Guinea,PNG,2011,161717
 Papua New Guinea,PNG,2012,184491
@@ -2577,12 +2038,7 @@ Papua New Guinea,PNG,2015,193656
 Papua New Guinea,PNG,2017,177122
 Papua New Guinea,PNG,2018,170053
 Papua New Guinea,PNG,2020,204518
-Poland,POL,2001,261419
-Poland,POL,2003,346152
-Poland,POL,2004,428373
-Poland,POL,2007,767567
-Poland,POL,2008,859341
-Poland,POL,2009,671552
+Papua New Guinea,PNG,2022,200000
 Poland,POL,2010,1050345
 Poland,POL,2011,1357182
 Poland,POL,2012,1657432
@@ -2596,24 +2052,18 @@ Poland,POL,2019,3046483
 Poland,POL,2020,2915937
 Poland,POL,2021,3187943
 Poland,POL,2022,3061848
-Pre-demographic dividend,PRE,2010,6299037.65
-Pre-demographic dividend,PRE,2011,7560789.12
-Pre-demographic dividend,PRE,2012,8406715.46
-Pre-demographic dividend,PRE,2013,8675620.5
-Pre-demographic dividend,PRE,2014,9468624.53
-Pre-demographic dividend,PRE,2015,9476933.12
-Pre-demographic dividend,PRE,2016,8700367.1
-Pre-demographic dividend,PRE,2017,10412549.93
-Pre-demographic dividend,PRE,2018,11287480.64
-Pre-demographic dividend,PRE,2019,12268911.57
-Puerto Rico (US),PRI,2000,1945636
-Puerto Rico (US),PRI,2001,1886028
-Puerto Rico (US),PRI,2002,1426220
-Puerto Rico (US),PRI,2003,1669170
-Puerto Rico (US),PRI,2004,1667868
-Puerto Rico (US),PRI,2005,1727389
-Puerto Rico (US),PRI,2006,1749565
-Puerto Rico (US),PRI,2007,1695258
+Poland,POL,2023,2995174
+Poland,POL,2024,3270784
+Pre-demographic dividend,PRE,2010,6376937.65
+Pre-demographic dividend,PRE,2011,7645124.12
+Pre-demographic dividend,PRE,2012,8503715.46
+Pre-demographic dividend,PRE,2013,8769054.5
+Pre-demographic dividend,PRE,2014,9554312.53
+Pre-demographic dividend,PRE,2015,9538612.12
+Pre-demographic dividend,PRE,2016,8731319.1
+Pre-demographic dividend,PRE,2017,10464432.93
+Pre-demographic dividend,PRE,2018,11324554.64
+Pre-demographic dividend,PRE,2019,12317569.57
 Puerto Rico (US),PRI,2010,1525532
 Puerto Rico (US),PRI,2011,1484595
 Puerto Rico (US),PRI,2012,1423156
@@ -2626,16 +2076,9 @@ Puerto Rico (US),PRI,2018,1447616
 Puerto Rico (US),PRI,2019,1451950
 Puerto Rico (US),PRI,2020,1490218
 Puerto Rico (US),PRI,2021,1490218
-Portugal,PRT,2000,669991
-Portugal,PRT,2001,733941
-Portugal,PRT,2002,791300
-Portugal,PRT,2003,86003
-Portugal,PRT,2004,882452
-Portugal,PRT,2005,904696
-Portugal,PRT,2006,1012845
-Portugal,PRT,2007,1348539
-Portugal,PRT,2008,1297402
-Portugal,PRT,2009,1233482
+Puerto Rico (US),PRI,2022,1398600
+Puerto Rico (US),PRI,2023,1349400
+Puerto Rico (US),PRI,2024,1300000
 Portugal,PRT,2010,1636246
 Portugal,PRT,2011,1777207
 Portugal,PRT,2012,1904965
@@ -2648,7 +2091,9 @@ Portugal,PRT,2018,3168513
 Portugal,PRT,2019,2907005
 Portugal,PRT,2020,2986021
 Portugal,PRT,2021,3294407
-Portugal,PRT,2022,2794454
+Portugal,PRT,2022,3153877
+Portugal,PRT,2023,3189770
+Portugal,PRT,2024,3541777
 Paraguay,PRY,2008,9317
 Paraguay,PRY,2009,7045
 Paraguay,PRY,2010,8179
@@ -2666,51 +2111,38 @@ Pacific island small states,PSS,2010,491658.155
 Pacific island small states,PSS,2011,629416.219
 Pacific island small states,PSS,2012,617020.391
 Pacific island small states,PSS,2013,853454.873
-Pacific island small states,PSS,2014,875886.811
-Pacific island small states,PSS,2015,783270.723
+Pacific island small states,PSS,2014,877275.811
+Pacific island small states,PSS,2015,787938.723
 Pacific island small states,PSS,2016,817138.749
 Pacific island small states,PSS,2017,885807.372
 Pacific island small states,PSS,2018,891804.814
 Pacific island small states,PSS,2019,605131.14
-Post-demographic dividend,PST,2000,121833327
-Post-demographic dividend,PST,2001,121845709
-Post-demographic dividend,PST,2002,134023233
-Post-demographic dividend,PST,2003,146262142
-Post-demographic dividend,PST,2004,164250433
-Post-demographic dividend,PST,2005,197875556
-Post-demographic dividend,PST,2006,209838893
-Post-demographic dividend,PST,2007,234525009
-Post-demographic dividend,PST,2008,235384120.0064
-Post-demographic dividend,PST,2009,206422735.066901
-Post-demographic dividend,PST,2010,227393566
-Post-demographic dividend,PST,2011,239258697
-Post-demographic dividend,PST,2012,244646126
-Post-demographic dividend,PST,2013,248765089
-Post-demographic dividend,PST,2014,258133894
-Post-demographic dividend,PST,2015,255501171
-Post-demographic dividend,PST,2016,259835596
-Post-demographic dividend,PST,2017,275477277
-Post-demographic dividend,PST,2018,287879857
-Post-demographic dividend,PST,2019,290602993
-Post-demographic dividend,PST,2020,282060426
-Post-demographic dividend,PST,2021,299690054
-Post-demographic dividend,PST,2022,292087241
-French Polynesia,PYF,2007,69508
-French Polynesia,PYF,2008,70336
-French Polynesia,PYF,2009,63807
-French Polynesia,PYF,2010,70000
-French Polynesia,PYF,2011,69670.5
-French Polynesia,PYF,2012,69835.25
-French Polynesia,PYF,2013,69752.88
-French Polynesia,PYF,2014,69341
-French Polynesia,PYF,2015,69296
-French Polynesia,PYF,2016,69088
-French Polynesia,PYF,2017,69192
-French Polynesia,PYF,2018,69140
-French Polynesia,PYF,2019,69166
-Qatar,QAT,2007,350000
-Qatar,QAT,2008,400000
-Qatar,QAT,2009,410000
+Post-demographic dividend,PST,2010,225481010
+Post-demographic dividend,PST,2011,237392681
+Post-demographic dividend,PST,2012,242777950
+Post-demographic dividend,PST,2013,247054097
+Post-demographic dividend,PST,2014,256329499
+Post-demographic dividend,PST,2015,253640811
+Post-demographic dividend,PST,2016,257873035
+Post-demographic dividend,PST,2017,273378267
+Post-demographic dividend,PST,2018,285463593
+Post-demographic dividend,PST,2019,288293611
+Post-demographic dividend,PST,2020,279853843
+Post-demographic dividend,PST,2021,297555849
+Post-demographic dividend,PST,2022,291175131
+Post-demographic dividend,PST,2023,278058393
+Post-demographic dividend,PST,2024,292860991
+French Polynesia,PYF,2010,68889
+French Polynesia,PYF,2011,72816
+French Polynesia,PYF,2012,71866
+French Polynesia,PYF,2013,69341
+French Polynesia,PYF,2014,69296
+French Polynesia,PYF,2015,69088
+French Polynesia,PYF,2018,83288
+French Polynesia,PYF,2019,87575
+French Polynesia,PYF,2020,79480
+French Polynesia,PYF,2021,80220
+French Polynesia,PYF,2022,84772
 Qatar,QAT,2010,346500
 Qatar,QAT,2011,322000
 Qatar,QAT,2012,376754
@@ -2723,12 +2155,9 @@ Qatar,QAT,2018,1340000
 Qatar,QAT,2019,1340000
 Qatar,QAT,2020,1412689
 Qatar,QAT,2021,1543591
-Romania,ROU,2004,373702
-Romania,ROU,2005,771126
-Romania,ROU,2006,1037066
-Romania,ROU,2007,1411414
-Romania,ROU,2008,1380935
-Romania,ROU,2009,594299
+Qatar,QAT,2022,1408804
+Qatar,QAT,2023,1318414
+Qatar,QAT,2024,1421000
 Romania,ROU,2010,556694
 Romania,ROU,2011,648548
 Romania,ROU,2012,684059
@@ -2742,18 +2171,10 @@ Romania,ROU,2019,666036
 Romania,ROU,2020,643025
 Romania,ROU,2021,631964
 Romania,ROU,2022,772046
-Russian Federation,RUS,2000,316280
-Russian Federation,RUS,2001,609093
-Russian Federation,RUS,2002,774970
-Russian Federation,RUS,2003,960142
-Russian Federation,RUS,2004,1368601
-Russian Federation,RUS,2005,1804410
-Russian Federation,RUS,2006,2265835
-Russian Federation,RUS,2007,2962385
-Russian Federation,RUS,2008,3372104.7952
-Russian Federation,RUS,2009,2427743.69515488
-Russian Federation,RUS,2010,3678606
-Russian Federation,RUS,2011,4493143
+Romania,ROU,2023,830201
+Romania,ROU,2024,989795
+Russian Federation,RUS,2010,3318499
+Russian Federation,RUS,2011,4226143
 Russian Federation,RUS,2012,4769980
 Russian Federation,RUS,2013,5065880
 Russian Federation,RUS,2014,4993427
@@ -2765,20 +2186,12 @@ Russian Federation,RUS,2019,4967133
 Russian Federation,RUS,2020,4921319
 Russian Federation,RUS,2021,5260849
 Russian Federation,RUS,2022,3914304
-South Asia,SAS,2000,4639518
-South Asia,SAS,2001,4977651
-South Asia,SAS,2002,5557320
-South Asia,SAS,2003,6501328
-South Asia,SAS,2004,7267808
-South Asia,SAS,2005,8246313
-South Asia,SAS,2006,10121808
-South Asia,SAS,2007,12111259
-South Asia,SAS,2008,12504772
-South Asia,SAS,2009,12716905.2
+Russian Federation,RUS,2023,4586171
+Russian Federation,RUS,2024,5187096
 South Asia,SAS,2010,14769531
-South Asia,SAS,2011,15612243
+South Asia,SAS,2011,15613243
 South Asia,SAS,2012,15828329
-South Asia,SAS,2013,16543111
+South Asia,SAS,2013,16542111
 South Asia,SAS,2014,18425859
 South Asia,SAS,2015,19653732
 South Asia,SAS,2016,21927807
@@ -2788,16 +2201,8 @@ South Asia,SAS,2019,27971268.2
 South Asia,SAS,2020,27344771
 South Asia,SAS,2021,30083501
 South Asia,SAS,2022,29777404
-Saudi Arabia,SAU,2000,1502893
-Saudi Arabia,SAU,2001,1676991
-Saudi Arabia,SAU,2002,1958570
-Saudi Arabia,SAU,2003,2440327
-Saudi Arabia,SAU,2004,759769
-Saudi Arabia,SAU,2005,3732706
-Saudi Arabia,SAU,2006,3863202
-Saudi Arabia,SAU,2007,4208854
-Saudi Arabia,SAU,2008,4652022
-Saudi Arabia,SAU,2009,4430676
+South Asia,SAS,2023,32373732
+South Asia,SAS,2024,35034508
 Saudi Arabia,SAU,2010,5313023
 Saudi Arabia,SAU,2011,5694484
 Saudi Arabia,SAU,2012,6624538
@@ -2810,10 +2215,9 @@ Saudi Arabia,SAU,2018,8683456
 Saudi Arabia,SAU,2019,8905621
 Saudi Arabia,SAU,2020,9330437
 Saudi Arabia,SAU,2021,9875946
-Saudi Arabia,SAU,2022,10459765
-Sudan,SDN,2007,342152
-Sudan,SDN,2008,391139
-Sudan,SDN,2009,431232
+Saudi Arabia,SAU,2022,10469213
+Saudi Arabia,SAU,2023,11379951
+Saudi Arabia,SAU,2024,8029571
 Sudan,SDN,2012,441469
 Sudan,SDN,2013,447495
 Sudan,SDN,2014,434445
@@ -2824,9 +2228,6 @@ Sudan,SDN,2018,451712
 Sudan,SDN,2019,422597
 Sudan,SDN,2020,396267
 Sudan,SDN,2021,320274
-Senegal,SEN,2007,424457
-Senegal,SEN,2008,347483
-Senegal,SEN,2009,331076
 Senegal,SEN,2010,349231
 Senegal,SEN,2011,415592
 Senegal,SEN,2012,401803
@@ -2840,16 +2241,8 @@ Senegal,SEN,2019,695698
 Senegal,SEN,2020,696899
 Senegal,SEN,2021,769358
 Senegal,SEN,2022,738000
-Singapore,SGP,2000,17100000
-Singapore,SGP,2001,15572677
-Singapore,SGP,2002,16986010
-Singapore,SGP,2003,18441000
-Singapore,SGP,2004,21329100
-Singapore,SGP,2005,23192200
-Singapore,SGP,2006,24792400
-Singapore,SGP,2007,28767500
-Singapore,SGP,2008,30891200
-Singapore,SGP,2009,26592800
+Senegal,SEN,2023,848276
+Senegal,SEN,2024,881239
 Singapore,SGP,2010,28431100
 Singapore,SGP,2011,29937700
 Singapore,SGP,2012,31649400
@@ -2863,6 +2256,8 @@ Singapore,SGP,2019,37195000
 Singapore,SGP,2020,36870900
 Singapore,SGP,2021,37571200
 Singapore,SGP,2022,37289600
+Singapore,SGP,2023,39010000
+Singapore,SGP,2024,41124100
 Solomon Islands,SLB,2010,63095.41
 Solomon Islands,SLB,2011,111619.5
 Solomon Islands,SLB,2012,138566.6
@@ -2883,9 +2278,6 @@ Sierra Leone,SLE,2016,89063
 Sierra Leone,SLE,2017,89100
 Sierra Leone,SLE,2018,83621
 Sierra Leone,SLE,2019,78413
-El Salvador,SLV,2007,144458
-El Salvador,SLV,2008,156323
-El Salvador,SLV,2009,126369
 El Salvador,SLV,2010,145774
 El Salvador,SLV,2011,161226
 El Salvador,SLV,2012,160982
@@ -2899,6 +2291,8 @@ El Salvador,SLV,2019,249472
 El Salvador,SLV,2020,228334
 El Salvador,SLV,2021,294326
 El Salvador,SLV,2022,242307
+El Salvador,SLV,2023,256043
+El Salvador,SLV,2024,255017
 "Somalia, Fed. Rep.",SOM,2010,39414.98
 "Somalia, Fed. Rep.",SOM,2011,42186.98
 "Somalia, Fed. Rep.",SOM,2012,39933.45
@@ -2909,37 +2303,36 @@ El Salvador,SLV,2022,242307
 "Somalia, Fed. Rep.",SOM,2017,126312.9
 "Somalia, Fed. Rep.",SOM,2018,115339.8
 "Somalia, Fed. Rep.",SOM,2019,92238
-Sub-Saharan Africa (excluding high income),SSA,2010,11661101.43
-Sub-Saharan Africa (excluding high income),SSA,2011,13545655.1
-Sub-Saharan Africa (excluding high income),SSA,2012,14592776.03
-Sub-Saharan Africa (excluding high income),SSA,2013,15104606.94
-Sub-Saharan Africa (excluding high income),SSA,2014,15648834.97
-Sub-Saharan Africa (excluding high income),SSA,2015,15703211.8
-Sub-Saharan Africa (excluding high income),SSA,2016,14594679.69
-Sub-Saharan Africa (excluding high income),SSA,2017,15952215.13
-Sub-Saharan Africa (excluding high income),SSA,2018,17329489.4
-Sub-Saharan Africa (excluding high income),SSA,2019,17837376.83
+Sub-Saharan Africa (excluding high income),SSA,2011,13629990.1
+Sub-Saharan Africa (excluding high income),SSA,2012,14689776.03
+Sub-Saharan Africa (excluding high income),SSA,2013,15198040.94
+Sub-Saharan Africa (excluding high income),SSA,2014,15734522.97
+Sub-Saharan Africa (excluding high income),SSA,2015,15764890.8
+Sub-Saharan Africa (excluding high income),SSA,2016,14625631.69
+Sub-Saharan Africa (excluding high income),SSA,2017,16033754.13
+Sub-Saharan Africa (excluding high income),SSA,2018,17390758.4
+Sub-Saharan Africa (excluding high income),SSA,2019,17853873.83
 South Sudan,SSD,2010,430000
 South Sudan,SSD,2011,430000
-Sub-Saharan Africa,SSF,2011,13608222.97
-Sub-Saharan Africa,SSF,2012,14726162.33
-Sub-Saharan Africa,SSF,2013,15239945.04
-Sub-Saharan Africa,SSF,2014,15799531.77
-Sub-Saharan Africa,SSF,2015,15831014.9
-Sub-Saharan Africa,SSF,2016,14726894.29
-Sub-Saharan Africa,SSF,2017,16056787.83
-Sub-Saharan Africa,SSF,2018,17435527.6
-Sub-Saharan Africa,SSF,2019,17991800.23
-Small states,SST,2010,6666887.025
-Small states,SST,2011,7421018.459
-Small states,SST,2012,7896464.941
-Small states,SST,2013,8642047.383
-Small states,SST,2014,8975919.191
-Small states,SST,2015,8969195.393
-Small states,SST,2016,8920976.329
+Sub-Saharan Africa,SSF,2011,13692557.97
+Sub-Saharan Africa,SSF,2012,14823162.33
+Sub-Saharan Africa,SSF,2013,15333379.04
+Sub-Saharan Africa,SSF,2014,15885219.77
+Sub-Saharan Africa,SSF,2015,15892693.9
+Sub-Saharan Africa,SSF,2016,14757846.29
+Sub-Saharan Africa,SSF,2017,16138326.83
+Sub-Saharan Africa,SSF,2018,17496796.6
+Sub-Saharan Africa,SSF,2019,18008297.23
+Small states,SST,2010,6659644.025
+Small states,SST,2011,7427432.459
+Small states,SST,2012,7916679.941
+Small states,SST,2013,8606801.383
+Small states,SST,2014,8977308.191
+Small states,SST,2015,8973863.393
+Small states,SST,2016,8916284.329
 Small states,SST,2017,8713678.172
 Small states,SST,2018,9241799.374
-Small states,SST,2019,8817402.39
+Small states,SST,2019,8820054.39
 Sao Tome and Principe,STP,2010,27477.34
 Sao Tome and Principe,STP,2011,86790.39
 Sao Tome and Principe,STP,2012,78493.1
@@ -2960,11 +2353,11 @@ Suriname,SUR,2016,98652
 Suriname,SUR,2017,112318
 Suriname,SUR,2018,110000
 Suriname,SUR,2019,109200
+Suriname,SUR,2020,106002
 Suriname,SUR,2021,109600
 Suriname,SUR,2022,103874
-Slovenia,SVN,2007,305648
-Slovenia,SVN,2008,353880
-Slovenia,SVN,2009,343165
+Suriname,SUR,2023,104511
+Suriname,SUR,2024,105949
 Slovenia,SVN,2010,476731
 Slovenia,SVN,2011,589314
 Slovenia,SVN,2012,570744
@@ -2978,16 +2371,8 @@ Slovenia,SVN,2019,959000
 Slovenia,SVN,2020,945007
 Slovenia,SVN,2021,997000
 Slovenia,SVN,2022,1017798
-Sweden,SWE,2000,884136
-Sweden,SWE,2001,851219
-Sweden,SWE,2002,805610
-Sweden,SWE,2003,858320
-Sweden,SWE,2004,1098871
-Sweden,SWE,2005,1253195
-Sweden,SWE,2006,1272513
-Sweden,SWE,2007,1288280
-Sweden,SWE,2008,1298778
-Sweden,SWE,2009,1251424
+Slovenia,SVN,2023,1066093
+Slovenia,SVN,2024,1133340
 Sweden,SWE,2010,1397145
 Sweden,SWE,2011,1495064
 Sweden,SWE,2012,1501991
@@ -3001,6 +2386,8 @@ Sweden,SWE,2019,1623363
 Sweden,SWE,2020,1612953
 Sweden,SWE,2021,1635183
 Sweden,SWE,2022,1631248
+Sweden,SWE,2023,1598378
+Sweden,SWE,2024,1640487
 Sint Maarten (Dutch part),SXM,2011,76701
 Sint Maarten (Dutch part),SXM,2012,79807
 Sint Maarten (Dutch part),SXM,2013,80655
@@ -3020,9 +2407,6 @@ Seychelles,SYC,2016,132214.6
 Seychelles,SYC,2017,104572.7
 Seychelles,SYC,2018,106038.2
 Seychelles,SYC,2019,154423.4
-Syrian Arab Republic,SYR,2007,538525
-Syrian Arab Republic,SYR,2008,610607
-Syrian Arab Republic,SYR,2009,685299
 Syrian Arab Republic,SYR,2010,586283
 Syrian Arab Republic,SYR,2011,524614
 Syrian Arab Republic,SYR,2012,342062
@@ -3034,35 +2418,23 @@ Syrian Arab Republic,SYR,2017,291958
 Syrian Arab Republic,SYR,2018,332532
 Syrian Arab Republic,SYR,2019,325097
 Syrian Arab Republic,SYR,2020,243348
-East Asia & Pacific (IDA & IBRD countries),TEA,2000,56840499
-East Asia & Pacific (IDA & IBRD countries),TEA,2001,62621336
-East Asia & Pacific (IDA & IBRD countries),TEA,2002,77904818
-East Asia & Pacific (IDA & IBRD countries),TEA,2003,86891558
-East Asia & Pacific (IDA & IBRD countries),TEA,2004,102402184
-East Asia & Pacific (IDA & IBRD countries),TEA,2005,96232448
-East Asia & Pacific (IDA & IBRD countries),TEA,2006,114796121
-East Asia & Pacific (IDA & IBRD countries),TEA,2007,140639995
-East Asia & Pacific (IDA & IBRD countries),TEA,2008,155725485.3104
-East Asia & Pacific (IDA & IBRD countries),TEA,2009,147752713.767078
-East Asia & Pacific (IDA & IBRD countries),TEA,2010,182664497.155
-East Asia & Pacific (IDA & IBRD countries),TEA,2011,203473287.219
-East Asia & Pacific (IDA & IBRD countries),TEA,2012,220264174.391
-East Asia & Pacific (IDA & IBRD countries),TEA,2013,232726752.873
-East Asia & Pacific (IDA & IBRD countries),TEA,2014,246925843.811
-East Asia & Pacific (IDA & IBRD countries),TEA,2015,258453503.723
-East Asia & Pacific (IDA & IBRD countries),TEA,2016,268411838.749
-East Asia & Pacific (IDA & IBRD countries),TEA,2017,287705461.372
-East Asia & Pacific (IDA & IBRD countries),TEA,2018,301992244.814
-East Asia & Pacific (IDA & IBRD countries),TEA,2019,313587478.14
-East Asia & Pacific (IDA & IBRD countries),TEA,2020,314788851
-East Asia & Pacific (IDA & IBRD countries),TEA,2021,338477248
-East Asia & Pacific (IDA & IBRD countries),TEA,2022,349776434
-Europe & Central Asia (IDA & IBRD countries),TEC,2004,5606052
-Europe & Central Asia (IDA & IBRD countries),TEC,2007,11304092
-Europe & Central Asia (IDA & IBRD countries),TEC,2008,12626587.7952
-Europe & Central Asia (IDA & IBRD countries),TEC,2009,9249582.69515488
-Europe & Central Asia (IDA & IBRD countries),TEC,2010,12362578
-Europe & Central Asia (IDA & IBRD countries),TEC,2011,14539573
+East Asia & Pacific (IDA & IBRD countries),TEA,2010,182839708.155
+East Asia & Pacific (IDA & IBRD countries),TEA,2011,203227990.219
+East Asia & Pacific (IDA & IBRD countries),TEA,2012,220234830.391
+East Asia & Pacific (IDA & IBRD countries),TEA,2013,232475339.873
+East Asia & Pacific (IDA & IBRD countries),TEA,2014,246994174.811
+East Asia & Pacific (IDA & IBRD countries),TEA,2015,258526800.723
+East Asia & Pacific (IDA & IBRD countries),TEA,2016,268485000.749
+East Asia & Pacific (IDA & IBRD countries),TEA,2017,286943428.372
+East Asia & Pacific (IDA & IBRD countries),TEA,2018,302076903.814
+East Asia & Pacific (IDA & IBRD countries),TEA,2019,313676634.14
+East Asia & Pacific (IDA & IBRD countries),TEA,2020,314886452
+East Asia & Pacific (IDA & IBRD countries),TEA,2021,338516581
+East Asia & Pacific (IDA & IBRD countries),TEA,2022,351482333
+East Asia & Pacific (IDA & IBRD countries),TEA,2023,362532718
+East Asia & Pacific (IDA & IBRD countries),TEA,2024,392011819
+Europe & Central Asia (IDA & IBRD countries),TEC,2010,12002471
+Europe & Central Asia (IDA & IBRD countries),TEC,2011,14272573
 Europe & Central Asia (IDA & IBRD countries),TEC,2012,15952070.987
 Europe & Central Asia (IDA & IBRD countries),TEC,2013,17375583.614
 Europe & Central Asia (IDA & IBRD countries),TEC,2014,17815833.614
@@ -3071,8 +2443,8 @@ Europe & Central Asia (IDA & IBRD countries),TEC,2016,16511367.0142
 Europe & Central Asia (IDA & IBRD countries),TEC,2017,18789609.0142
 Europe & Central Asia (IDA & IBRD countries),TEC,2018,20918836.0142
 Europe & Central Asia (IDA & IBRD countries),TEC,2019,22652523
-Europe & Central Asia (IDA & IBRD countries),TEC,2020,22277772
-Europe & Central Asia (IDA & IBRD countries),TEC,2021,23758863
+Europe & Central Asia (IDA & IBRD countries),TEC,2020,22416249
+Europe & Central Asia (IDA & IBRD countries),TEC,2021,23902992
 Togo,TGO,2010,339900
 Togo,TGO,2011,352695
 Togo,TGO,2012,288481
@@ -3086,16 +2458,8 @@ Togo,TGO,2019,1500611
 Togo,TGO,2020,1725270
 Togo,TGO,2021,1986131
 Togo,TGO,2022,1952879
-Thailand,THA,2000,3178779
-Thailand,THA,2001,3387071
-Thailand,THA,2002,3799090
-Thailand,THA,2003,4232685
-Thailand,THA,2004,4847000
-Thailand,THA,2005,5115213
-Thailand,THA,2006,5574490
-Thailand,THA,2007,6339261
-Thailand,THA,2008,6726237
-Thailand,THA,2009,5897935
+Togo,TGO,2023,1907439
+Togo,TGO,2024,2006435
 Thailand,THA,2010,7179449
 Thailand,THA,2011,7527975
 Thailand,THA,2012,7845500
@@ -3109,29 +2473,23 @@ Thailand,THA,2019,10130294
 Thailand,THA,2020,9568488
 Thailand,THA,2021,10436689
 Thailand,THA,2022,10497112
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2000,13914417
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2001,13673353
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2002,13663950
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2003,16829463
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2004,19441995
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2005,21877598
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2006,24805717
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2007,28938145
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2008,33430122.8832
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2009,30874436.3822672
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2010,35765112.5
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2011,40533979
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2012,42959984
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2013,43441911
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2014,43722387
+Thailand,THA,2023,10313980
+Thailand,THA,2024,11432626
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2010,35751687.5
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2011,40537799
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2012,42973987
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2013,43465242
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2014,43722586
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2015,44595392
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2016,43647141
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2017,47039374
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2018,50293047.5
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2019,50411453.25
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2020,49248668.875
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2021,55144428
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2022,54898012
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2016,43632645
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2017,47039362
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2018,50279223.5
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2019,50520828.75
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2020,49576777.625
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2021,55481910
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2022,54952380
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2023,55343919
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2024,60917597
 Timor-Leste,TLS,2010,36816
 Timor-Leste,TLS,2011,41384
 Timor-Leste,TLS,2012,45608
@@ -3142,24 +2500,19 @@ Timor-Leste,TLS,2016,49177
 Timor-Leste,TLS,2017,59004
 Timor-Leste,TLS,2018,47574
 Timor-Leste,TLS,2019,53289
-"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2001,3922484
-"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2003,3974850
-"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2004,5967215
-"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2007,12550717
-"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2008,14968235.9208
-"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2009,16078537.3235755
-"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2010,19636833.86
-"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2011,20913688.31
-"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2012,19395445.04
-"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2013,20039494.54
-"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2014,21929574.4
-"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2015,21410686.1
-"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2016,21672472.2
-"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2017,24119761.2
-"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2018,24182394.9
-"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2019,25397009.2
-"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2020,24221171
-"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2021,23802606
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2010,19759949.56
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2011,20902586.41
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2012,19609461.53
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2013,19952334.94
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2014,21725476.3
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2015,20851923
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2016,21644970.7
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2017,24013232.7
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2018,23855289.1
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2019,23851400.6
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2020,23277269
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2022,24551982
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2024,32208832
 Tonga,TON,2010,48430.9
 Tonga,TON,2011,57059
 Tonga,TON,2012,67349.47
@@ -3170,20 +2523,10 @@ Tonga,TON,2016,84702.43
 Tonga,TON,2017,107381.3
 Tonga,TON,2018,105190.3
 Tonga,TON,2019,76853.95
-South Asia (IDA & IBRD),TSA,2000,4639518
-South Asia (IDA & IBRD),TSA,2001,4977651
-South Asia (IDA & IBRD),TSA,2002,5557320
-South Asia (IDA & IBRD),TSA,2003,6501328
-South Asia (IDA & IBRD),TSA,2004,7267808
-South Asia (IDA & IBRD),TSA,2005,8246313
-South Asia (IDA & IBRD),TSA,2006,10121808
-South Asia (IDA & IBRD),TSA,2007,12111259
-South Asia (IDA & IBRD),TSA,2008,12504772
-South Asia (IDA & IBRD),TSA,2009,12716905.2
 South Asia (IDA & IBRD),TSA,2010,14769531
-South Asia (IDA & IBRD),TSA,2011,15612243
+South Asia (IDA & IBRD),TSA,2011,15613243
 South Asia (IDA & IBRD),TSA,2012,15828329
-South Asia (IDA & IBRD),TSA,2013,16543111
+South Asia (IDA & IBRD),TSA,2013,16542111
 South Asia (IDA & IBRD),TSA,2014,18425859
 South Asia (IDA & IBRD),TSA,2015,19653732
 South Asia (IDA & IBRD),TSA,2016,21927807
@@ -3193,22 +2536,17 @@ South Asia (IDA & IBRD),TSA,2019,27971268.2
 South Asia (IDA & IBRD),TSA,2020,27344771
 South Asia (IDA & IBRD),TSA,2021,30083501
 South Asia (IDA & IBRD),TSA,2022,29777404
-Sub-Saharan Africa (IDA & IBRD countries),TSS,2011,13608222.97
-Sub-Saharan Africa (IDA & IBRD countries),TSS,2012,14726162.33
-Sub-Saharan Africa (IDA & IBRD countries),TSS,2013,15239945.04
-Sub-Saharan Africa (IDA & IBRD countries),TSS,2014,15799531.77
-Sub-Saharan Africa (IDA & IBRD countries),TSS,2015,15831014.9
-Sub-Saharan Africa (IDA & IBRD countries),TSS,2016,14726894.29
-Sub-Saharan Africa (IDA & IBRD countries),TSS,2017,16056787.83
-Sub-Saharan Africa (IDA & IBRD countries),TSS,2018,17435527.6
-Sub-Saharan Africa (IDA & IBRD countries),TSS,2019,17991800.23
-Trinidad and Tobago,TTO,2000,282487
-Trinidad and Tobago,TTO,2001,352758
-Trinidad and Tobago,TTO,2002,385230
-Trinidad and Tobago,TTO,2003,440370
-Trinidad and Tobago,TTO,2007,514557
-Trinidad and Tobago,TTO,2008,554093
-Trinidad and Tobago,TTO,2009,567183
+South Asia (IDA & IBRD),TSA,2023,32373732
+South Asia (IDA & IBRD),TSA,2024,35034508
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2011,13692557.97
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2012,14823162.33
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2013,15333379.04
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2014,15885219.77
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2015,15892693.9
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2016,14757846.29
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2017,16138326.83
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2018,17496796.6
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2019,18008297.23
 Trinidad and Tobago,TTO,2010,576517
 Trinidad and Tobago,TTO,2011,551588
 Trinidad and Tobago,TTO,2012,542346
@@ -3222,9 +2560,7 @@ Trinidad and Tobago,TTO,2019,446232
 Trinidad and Tobago,TTO,2020,406778
 Trinidad and Tobago,TTO,2021,410393
 Trinidad and Tobago,TTO,2022,498544
-Tunisia,TUN,2007,420501
-Tunisia,TUN,2008,424780
-Tunisia,TUN,2009,418883.8732
+Trinidad and Tobago,TTO,2023,545177
 Tunisia,TUN,2010,466210
 Tunisia,TUN,2011,440121
 Tunisia,TUN,2012,456950
@@ -3237,17 +2573,9 @@ Tunisia,TUN,2018,493366
 Tunisia,TUN,2019,474222
 Tunisia,TUN,2020,483178
 Tunisia,TUN,2021,469658
-Tunisia,TUN,2022,464823
-Turkiye,TUR,2000,1591739
-Turkiye,TUR,2001,1526576
-Turkiye,TUR,2002,2297380
-Turkiye,TUR,2003,2377295
-Turkiye,TUR,2004,2960746
-Turkiye,TUR,2005,3174077
-Turkiye,TUR,2006,3683497
-Turkiye,TUR,2007,4678872
-Turkiye,TUR,2008,5218316
-Turkiye,TUR,2009,4521713
+Tunisia,TUN,2022,431420
+Tunisia,TUN,2023,444714
+Tunisia,TUN,2024,491955
 Turkiye,TUR,2010,5743429
 Turkiye,TUR,2011,6523059
 Turkiye,TUR,2012,7302956
@@ -3261,6 +2589,8 @@ Turkiye,TUR,2019,11591414
 Turkiye,TUR,2020,11626578
 Turkiye,TUR,2021,12591327
 Turkiye,TUR,2022,12366172
+Turkiye,TUR,2023,12554581
+Turkiye,TUR,2024,13507070
 Tuvalu,TUV,2010,1718.749
 Tuvalu,TUV,2011,9975.64
 Tuvalu,TUV,2012,5847.194
@@ -3271,9 +2601,6 @@ Tuvalu,TUV,2016,15844.34
 Tuvalu,TUV,2017,6499.85
 Tuvalu,TUV,2018,6188.291
 Tuvalu,TUV,2019,5150
-Tanzania,TZA,2007,350991
-Tanzania,TZA,2008,363310
-Tanzania,TZA,2009,370764.6962
 Tanzania,TZA,2010,359010
 Tanzania,TZA,2011,439462
 Tanzania,TZA,2012,507185
@@ -3287,12 +2614,7 @@ Tanzania,TZA,2019,726431
 Tanzania,TZA,2020,709881
 Tanzania,TZA,2021,700000
 Tanzania,TZA,2022,700000
-Ukraine,UKR,2004,398080
-Ukraine,UKR,2005,579476
-Ukraine,UKR,2006,729758
-Ukraine,UKR,2007,990201
-Ukraine,UKR,2008,1123268
-Ukraine,UKR,2009,516698
+Tanzania,TZA,2024,985000
 Ukraine,UKR,2010,690260
 Ukraine,UKR,2011,799060
 Ukraine,UKR,2012,720301
@@ -3305,33 +2627,21 @@ Ukraine,UKR,2018,845152
 Ukraine,UKR,2019,1007273
 Ukraine,UKR,2020,1048691
 Ukraine,UKR,2021,1022376
-Upper middle income,UMC,2000,64693589
-Upper middle income,UMC,2001,69766760
-Upper middle income,UMC,2002,87660698
-Upper middle income,UMC,2003,99170719
-Upper middle income,UMC,2004,116747119
-Upper middle income,UMC,2005,112847324
-Upper middle income,UMC,2006,135164293
-Upper middle income,UMC,2007,161960218
-Upper middle income,UMC,2008,180795607.1936
-Upper middle income,UMC,2009,169866105.075545
-Upper middle income,UMC,2010,208865463.189
-Upper middle income,UMC,2011,233216263.46
-Upper middle income,UMC,2012,251089929.611
-Upper middle income,UMC,2013,264379882.324
-Upper middle income,UMC,2014,277715236.574
-Upper middle income,UMC,2015,287128642.2442
-Upper middle income,UMC,2016,296457235.7042
-Upper middle income,UMC,2017,318463327.7942
-Upper middle income,UMC,2018,335017325.9152
-Upper middle income,UMC,2019,344827756.47
-Upper middle income,UMC,2020,342791511.25
-Upper middle income,UMC,2021,367518511
-Upper middle income,UMC,2022,374207233
-Uruguay,URY,2001,301641
-Uruguay,URY,2007,596487
-Uruguay,URY,2008,675273
-Uruguay,URY,2009,588410
+Upper middle income,UMC,2010,225465064.905
+Upper middle income,UMC,2011,250680845.022
+Upper middle income,UMC,2012,269884826.151
+Upper middle income,UMC,2013,283220543.412
+Upper middle income,UMC,2014,298968821.162
+Upper middle income,UMC,2015,310387023.9572
+Upper middle income,UMC,2016,321882389.0172
+Upper middle income,UMC,2017,345234662.7942
+Upper middle income,UMC,2018,364862031.6352
+Upper middle income,UMC,2019,376015596.96
+Upper middle income,UMC,2020,374176092.25
+Upper middle income,UMC,2021,403074216
+Upper middle income,UMC,2022,414975882
+Upper middle income,UMC,2023,427388270
+Upper middle income,UMC,2024,465495589
 Uruguay,URY,2010,608712
 Uruguay,URY,2011,861164
 Uruguay,URY,2012,753889
@@ -3345,31 +2655,23 @@ Uruguay,URY,2019,749562
 Uruguay,URY,2020,764797
 Uruguay,URY,2021,977922
 Uruguay,URY,2022,1080445
-United States,USA,2000,28300000
-United States,USA,2001,27307576
-United States,USA,2002,29676890
-United States,USA,2003,32689484
-United States,USA,2004,34901628
-United States,USA,2005,38497839
-United States,USA,2006,40896742
-United States,USA,2007,44839390
-United States,USA,2008,42411770.0512
-United States,USA,2009,37353574.903
-United States,USA,2010,41610618
-United States,USA,2011,42100460
-United States,USA,2012,43120527
-United States,USA,2013,43934361
-United States,USA,2014,45790065
-United States,USA,2015,47684805
-United States,USA,2016,48149002
-United States,USA,2017,51522489
-United States,USA,2018,54483231
-United States,USA,2019,55711323
-United States,USA,2020,54467322
-United States,USA,2021,62161482
-United States,USA,2022,62214119
-St. Vincent and the Grenadines,VCT,2008,16570
-St. Vincent and the Grenadines,VCT,2009,16238
+Uruguay,URY,2023,1120000
+Uruguay,URY,2024,1115000
+United States,USA,2010,40266221
+United States,USA,2011,40813311
+United States,USA,2012,41880574
+United States,USA,2013,42842995
+United States,USA,2014,44635035
+United States,USA,2015,46496985
+United States,USA,2016,46940227
+United States,USA,2017,50196165
+United States,USA,2018,52994177
+United States,USA,2019,54236516
+United States,USA,2020,53059014
+United States,USA,2021,60874671
+United States,USA,2022,61191458
+United States,USA,2023,54618858
+United States,USA,2024,59707490
 St. Vincent and the Grenadines,VCT,2010,16967
 St. Vincent and the Grenadines,VCT,2011,16418
 St. Vincent and the Grenadines,VCT,2012,16826
@@ -3380,16 +2682,11 @@ St. Vincent and the Grenadines,VCT,2016,18236
 St. Vincent and the Grenadines,VCT,2017,17502
 St. Vincent and the Grenadines,VCT,2018,18107
 St. Vincent and the Grenadines,VCT,2019,18222
-St. Vincent and the Grenadines,VCT,2020,18222
-"Venezuela, RB",VEN,2000,674558
-"Venezuela, RB",VEN,2001,924119
-"Venezuela, RB",VEN,2003,582769
-"Venezuela, RB",VEN,2004,921205
-"Venezuela, RB",VEN,2005,1120492
-"Venezuela, RB",VEN,2006,1266817
-"Venezuela, RB",VEN,2007,1331711
-"Venezuela, RB",VEN,2008,1325194
-"Venezuela, RB",VEN,2009,1240251.54
+St. Vincent and the Grenadines,VCT,2020,18446
+St. Vincent and the Grenadines,VCT,2021,21000
+St. Vincent and the Grenadines,VCT,2022,23830
+St. Vincent and the Grenadines,VCT,2023,20299
+St. Vincent and the Grenadines,VCT,2024,24416
 "Venezuela, RB",VEN,2010,1071686
 "Venezuela, RB",VEN,2011,1343500
 "Venezuela, RB",VEN,2012,1569841
@@ -3399,7 +2696,9 @@ St. Vincent and the Grenadines,VCT,2020,18222
 "Venezuela, RB",VEN,2016,400962
 "Venezuela, RB",VEN,2017,354540
 "Venezuela, RB",VEN,2018,592374
-"Venezuela, RB",VEN,2019,179529
+"Venezuela, RB",VEN,2019,317850
+"Venezuela, RB",VEN,2020,344116
+"Venezuela, RB",VEN,2021,221801
 British Virgin Islands,VGB,2010,10058.47
 British Virgin Islands,VGB,2011,24830.92
 British Virgin Islands,VGB,2012,27154.4
@@ -3410,16 +2709,6 @@ British Virgin Islands,VGB,2016,52542.78
 British Virgin Islands,VGB,2017,49149.42
 British Virgin Islands,VGB,2018,56317.36
 British Virgin Islands,VGB,2019,45955.97
-Viet Nam,VNM,2000,1189796
-Viet Nam,VNM,2001,1290555
-Viet Nam,VNM,2002,1771990
-Viet Nam,VNM,2003,1904939
-Viet Nam,VNM,2004,2273056
-Viet Nam,VNM,2005,2537487
-Viet Nam,VNM,2006,2999646
-Viet Nam,VNM,2007,4009066
-Viet Nam,VNM,2008,4393699
-Viet Nam,VNM,2009,4936598
 Viet Nam,VNM,2010,6431032
 Viet Nam,VNM,2011,6885023
 Viet Nam,VNM,2012,7505641
@@ -3432,7 +2721,9 @@ Viet Nam,VNM,2018,13394390
 Viet Nam,VNM,2019,15297028
 Viet Nam,VNM,2020,16394723
 Viet Nam,VNM,2021,19821048
-Viet Nam,VNM,2022,20518926
+Viet Nam,VNM,2022,20519284
+Viet Nam,VNM,2023,21069746
+Viet Nam,VNM,2024,24423183
 Vanuatu,VUT,2010,18040.23
 Vanuatu,VUT,2011,64662.55
 Vanuatu,VUT,2012,60341.86
@@ -3443,47 +2734,37 @@ Vanuatu,VUT,2016,115886.9
 Vanuatu,VUT,2017,114552.6
 Vanuatu,VUT,2018,106680.4
 Vanuatu,VUT,2019,77435.86
-World,WLD,2000,224774536
-World,WLD,2001,235075458
-World,WLD,2002,263456511
-World,WLD,2003,296996130
-World,WLD,2004,338433750
-World,WLD,2005,376268146
-World,WLD,2006,416751971
-World,WLD,2007,489818309
-World,WLD,2008,516152333.0736
-World,WLD,2009,472175125.284298
-World,WLD,2010,549045860.56
-World,WLD,2011,595673258.29
-World,WLD,2012,625012231.019
-World,WLD,2013,645939512.107
-World,WLD,2014,676980345.866
-World,WLD,2015,686811737.0602
-World,WLD,2016,702873286.8662
-World,WLD,2017,749647168.9302
-World,WLD,2018,786889621.1772
-World,WLD,2019,806572710.751
-World,WLD,2020,793605458.875
-World,WLD,2021,846504313
-World,WLD,2022,839847482
+World,WLD,2010,547127645.26
+World,WLD,2011,593376139.89
+World,WLD,2012,623441761.259
+World,WLD,2013,643970054.627
+World,WLD,2014,675126025.766
+World,WLD,2015,684527381.9602
+World,WLD,2016,700903754.3662
+World,WLD,2017,746691932.4302
+World,WLD,2018,784294634.3772
+World,WLD,2019,803124175.651
+World,WLD,2020,791062136.625
+World,WLD,2021,844570038
+World,WLD,2022,850416540
+World,WLD,2023,853611611
+World,WLD,2024,913279048
 Samoa,WSM,2010,22465
 Samoa,WSM,2011,21420
 Samoa,WSM,2012,23137
 Samoa,WSM,2013,24006
-Samoa,WSM,2014,27198
-Samoa,WSM,2015,27719
+Samoa,WSM,2014,28587
+Samoa,WSM,2015,32387
 Samoa,WSM,2016,34588
 Samoa,WSM,2017,34950
 Samoa,WSM,2018,37091
 Samoa,WSM,2019,42102
 Samoa,WSM,2020,41200
-"Yemen, Rep.",YEM,2000,248177
-"Yemen, Rep.",YEM,2001,377367
-"Yemen, Rep.",YEM,2007,773016
-"Yemen, Rep.",YEM,2008,775164.9208
-"Yemen, Rep.",YEM,2009,639670.53677552
+Samoa,WSM,2021,43933
+Samoa,WSM,2022,45680
+Samoa,WSM,2023,44676
+Samoa,WSM,2024,53017
 "Yemen, Rep.",YEM,2010,390000
-"Yemen, Rep.",YEM,2011,180185
 "Yemen, Rep.",YEM,2012,262624
 "Yemen, Rep.",YEM,2013,290011
 "Yemen, Rep.",YEM,2014,296035
@@ -3494,16 +2775,8 @@ Samoa,WSM,2020,41200
 "Yemen, Rep.",YEM,2019,464923
 "Yemen, Rep.",YEM,2020,423393
 "Yemen, Rep.",YEM,2021,418711
-South Africa,ZAF,2000,1846944
-South Africa,ZAF,2001,2021183
-South Africa,ZAF,2002,1801610
-South Africa,ZAF,2003,2378881
-South Africa,ZAF,2004,2614577
-South Africa,ZAF,2005,3111121
-South Africa,ZAF,2006,3552198
-South Africa,ZAF,2007,3734165
-South Africa,ZAF,2008,3875952
-South Africa,ZAF,2009,3726313
+"Yemen, Rep.",YEM,2022,368498
+"Yemen, Rep.",YEM,2024,380000
 South Africa,ZAF,2010,3985535
 South Africa,ZAF,2011,4392791
 South Africa,ZAF,2012,4352727
@@ -3517,3 +2790,5 @@ South Africa,ZAF,2019,4529034
 South Africa,ZAF,2020,4075618
 South Africa,ZAF,2021,4415223
 South Africa,ZAF,2022,4053350
+South Africa,ZAF,2023,4123821
+South Africa,ZAF,2024,4303682

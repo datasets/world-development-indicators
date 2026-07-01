@@ -449,22 +449,22 @@ Ecuador,ECU,2014,4.94326
 Ecuador,ECU,2015,5.07928
 Ecuador,ECU,2016,5.2853
 "Egypt, Arab Rep.",EGY,2017,13.79696
-Euro area,EMU,1998,22.27547
+Euro area,EMU,1998,21.189255
 Euro area,EMU,1999,24.93597
 Euro area,EMU,2000,23.045015
-Euro area,EMU,2001,24.30857
-Euro area,EMU,2002,24.62165
-Euro area,EMU,2003,24.32286
-Euro area,EMU,2004,24.89156
-Euro area,EMU,2005,24.221935
-Euro area,EMU,2006,24.58835
-Euro area,EMU,2007,23.70022
-Euro area,EMU,2008,26.29943
-Euro area,EMU,2009,28.70418
-Euro area,EMU,2010,28.074085
-Euro area,EMU,2011,26.962405
-Euro area,EMU,2012,25.94711
-Euro area,EMU,2013,24.52636
+Euro area,EMU,2001,24.160445
+Euro area,EMU,2002,24.33685
+Euro area,EMU,2003,23.75286
+Euro area,EMU,2004,24.05228
+Euro area,EMU,2005,23.04911
+Euro area,EMU,2006,23.46748
+Euro area,EMU,2007,23.319875
+Euro area,EMU,2008,26.230625
+Euro area,EMU,2009,28.687565
+Euro area,EMU,2010,27.765
+Euro area,EMU,2011,26.74646
+Euro area,EMU,2012,25.897925
+Euro area,EMU,2013,24.123615
 Euro area,EMU,2014,24.436335
 Euro area,EMU,2015,23.262015
 Euro area,EMU,2016,23.031085
@@ -853,19 +853,17 @@ Kuwait,KWT,2006,13.07471
 Kuwait,KWT,2008,13.97006
 Kuwait,KWT,2011,21.75684
 Kuwait,KWT,2014,17.29438
-Latin America & Caribbean (excluding high income),LAC,2000,11.551885
-Latin America & Caribbean (excluding high income),LAC,2002,10.5449
 Latin America & Caribbean (excluding high income),LAC,2004,12.192805
 Latin America & Caribbean (excluding high income),LAC,2005,13.00607
-Latin America & Caribbean (excluding high income),LAC,2007,11.08977
+Latin America & Caribbean (excluding high income),LAC,2007,11.00212
 Latin America & Caribbean (excluding high income),LAC,2008,14.061375
-Latin America & Caribbean (excluding high income),LAC,2009,15.18312
+Latin America & Caribbean (excluding high income),LAC,2009,15.38007
 Latin America & Caribbean (excluding high income),LAC,2010,13.05389
 Latin America & Caribbean (excluding high income),LAC,2011,13.52644
 Latin America & Caribbean (excluding high income),LAC,2012,11.972645
 Latin America & Caribbean (excluding high income),LAC,2013,15.53822
 Latin America & Caribbean (excluding high income),LAC,2014,14.519865
-Latin America & Caribbean (excluding high income),LAC,2015,14.73504
+Latin America & Caribbean (excluding high income),LAC,2015,14.79092
 Latin America & Caribbean (excluding high income),LAC,2016,14.67095
 Lao PDR,LAO,1997,18.22121
 Lao PDR,LAO,2002,9.20525
@@ -904,7 +902,7 @@ Latin America & Caribbean,LCN,2014,15.39478
 Latin America & Caribbean,LCN,2015,15.20393
 Latin America & Caribbean,LCN,2016,15.0163
 Least developed countries: UN classification,LDC,2011,15.26261
-Low income,LIC,2011,21.36509
+Low income,LIC,2011,22.74974
 Liechtenstein,LIE,2003,10.99839
 Liechtenstein,LIE,2004,10.89959
 Liechtenstein,LIE,2006,10.64002
@@ -1604,8 +1602,7 @@ Ukraine,UKR,2013,30.44893
 Ukraine,UKR,2014,25.91332
 Ukraine,UKR,2016,25.63448
 Ukraine,UKR,2017,30.26498
-Upper middle income,UMC,2010,15.24485
-Upper middle income,UMC,2013,15.885795
+Upper middle income,UMC,2010,15.126625
 Uruguay,URY,1999,10.45415
 Uruguay,URY,2000,10.00018
 Uruguay,URY,2001,9.5802

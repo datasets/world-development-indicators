@@ -330,7 +330,7 @@ Early-demographic dividend,EAR,2010,2.65632653061224
 Early-demographic dividend,EAR,2012,2.63787234042553
 Early-demographic dividend,EAR,2014,2.69526668
 Early-demographic dividend,EAR,2016,2.65887832
-Early-demographic dividend,EAR,2018,2.63297872340426
+Early-demographic dividend,EAR,2018,2.63297872340425
 Early-demographic dividend,EAR,2022,2.74651162790698
 East Asia & Pacific,EAS,2007,3.0235
 East Asia & Pacific,EAS,2010,3.1115
@@ -366,13 +366,13 @@ Ecuador,ECU,2018,2.88
 "Egypt, Arab Rep.",EGY,2016,3.184964
 "Egypt, Arab Rep.",EGY,2018,2.82
 "Egypt, Arab Rep.",EGY,2022,3.1
-Euro area,EMU,2007,3.44947368421053
-Euro area,EMU,2010,3.471
-Euro area,EMU,2012,3.4665
-Euro area,EMU,2014,3.55222105
-Euro area,EMU,2016,3.63302775
-Euro area,EMU,2018,3.5095
-Euro area,EMU,2022,3.655
+Euro area,EMU,2007,3.4205
+Euro area,EMU,2010,3.44047619047619
+Euro area,EMU,2012,3.45428571428571
+Euro area,EMU,2014,3.53340819047619
+Euro area,EMU,2016,3.59372571428571
+Euro area,EMU,2018,3.48666666666667
+Euro area,EMU,2022,3.63333333333333
 Eritrea,ERI,2007,2.19
 Eritrea,ERI,2010,1.7
 Eritrea,ERI,2012,2.11
@@ -401,17 +401,10 @@ Ethiopia,ETH,2016,2.376767
 European Union,EUU,2007,3.40692307692308
 European Union,EUU,2010,3.44296296296296
 European Union,EUU,2012,3.45
-European Union,EUU,2014,3.54286218518519
+European Union,EUU,2014,3.54286218518518
 European Union,EUU,2016,3.59299633333333
 European Union,EUU,2018,3.51925925925926
 European Union,EUU,2022,3.61851851851852
-Fragile and conflict affected situations,FCS,2007,2.24518518518518
-Fragile and conflict affected situations,FCS,2010,2.39111111111111
-Fragile and conflict affected situations,FCS,2012,2.35111111111111
-Fragile and conflict affected situations,FCS,2014,2.38627722580645
-Fragile and conflict affected situations,FCS,2016,2.34384810344828
-Fragile and conflict affected situations,FCS,2018,2.35
-Fragile and conflict affected situations,FCS,2022,2.38095238095238
 Finland,FIN,2007,3.82
 Finland,FIN,2010,3.89
 Finland,FIN,2012,4.05
@@ -506,7 +499,7 @@ Guyana,GUY,2018,2.36
 Guyana,GUY,2022,2.4
 High income,HIC,2007,3.38607843137255
 High income,HIC,2010,3.41888888888889
-High income,HIC,2012,3.41471698113207
+High income,HIC,2012,3.41471698113208
 High income,HIC,2014,3.47538538888889
 High income,HIC,2016,3.506640375
 High income,HIC,2018,3.42589285714286
@@ -556,7 +549,7 @@ Hungary,HUN,2022,3.2
 IBRD only,IBD,2007,2.61924528301887
 IBRD only,IBD,2010,2.76368421052632
 IBRD only,IBD,2012,2.81431034482759
-IBRD only,IBD,2014,2.83754173684211
+IBRD only,IBD,2014,2.8375417368421
 IBRD only,IBD,2016,2.75520366101695
 IBRD only,IBD,2018,2.77155172413793
 IBRD only,IBD,2022,2.86111111111111
@@ -574,7 +567,7 @@ IDA total,IDA,2014,2.43865215517241
 IDA total,IDA,2016,2.40644327272727
 IDA total,IDA,2018,2.43232142857143
 IDA total,IDA,2022,2.465
-IDA blend,IDB,2007,2.32555555555555
+IDA blend,IDB,2007,2.32555555555556
 IDA blend,IDB,2010,2.52333333333333
 IDA blend,IDB,2012,2.486
 IDA blend,IDB,2014,2.529118
@@ -701,13 +694,13 @@ Kuwait,KWT,2014,3.0113
 Kuwait,KWT,2016,3.151619
 Kuwait,KWT,2018,2.86
 Kuwait,KWT,2022,3.2
-Latin America & Caribbean (excluding high income),LAC,2007,2.53933333333333
-Latin America & Caribbean (excluding high income),LAC,2010,2.72375
-Latin America & Caribbean (excluding high income),LAC,2012,2.67866666666667
-Latin America & Caribbean (excluding high income),LAC,2014,2.7300971875
-Latin America & Caribbean (excluding high income),LAC,2016,2.595515
-Latin America & Caribbean (excluding high income),LAC,2018,2.644
-Latin America & Caribbean (excluding high income),LAC,2022,2.65625
+Latin America & Caribbean (excluding high income),LAC,2007,2.544375
+Latin America & Caribbean (excluding high income),LAC,2010,2.72117647058824
+Latin America & Caribbean (excluding high income),LAC,2012,2.666875
+Latin America & Caribbean (excluding high income),LAC,2014,2.73468623529412
+Latin America & Caribbean (excluding high income),LAC,2016,2.58347176470588
+Latin America & Caribbean (excluding high income),LAC,2018,2.618125
+Latin America & Caribbean (excluding high income),LAC,2022,2.63529411764706
 Lao PDR,LAO,2007,2.25
 Lao PDR,LAO,2010,2.46
 Lao PDR,LAO,2012,2.5
@@ -743,38 +736,38 @@ Latin America & Caribbean,LCN,2018,2.66434782608696
 Latin America & Caribbean,LCN,2022,2.692
 Least developed countries: UN classification,LDC,2007,2.23615384615385
 Least developed countries: UN classification,LDC,2010,2.37885714285714
-Least developed countries: UN classification,LDC,2012,2.35484848484848
+Least developed countries: UN classification,LDC,2012,2.35484848484849
 Least developed countries: UN classification,LDC,2014,2.39611481578947
 Least developed countries: UN classification,LDC,2016,2.38803922222222
 Least developed countries: UN classification,LDC,2018,2.38648648648649
 Least developed countries: UN classification,LDC,2022,2.42083333333333
-Low income,LIC,2007,2.18761904761905
-Low income,LIC,2010,2.3185
-Low income,LIC,2012,2.37944444444444
-Low income,LIC,2014,2.33442066666667
-Low income,LIC,2016,2.37477942105263
-Low income,LIC,2018,2.34863636363636
-Low income,LIC,2022,2.37333333333333
+Low income,LIC,2007,2.19142857142857
+Low income,LIC,2010,2.309
+Low income,LIC,2012,2.36055555555556
+Low income,LIC,2014,2.34752376190476
+Low income,LIC,2016,2.36209463157895
+Low income,LIC,2018,2.34380952380952
+Low income,LIC,2022,2.36428571428571
 Sri Lanka,LKA,2007,2.4
 Sri Lanka,LKA,2010,2.29
 Sri Lanka,LKA,2012,2.75
 Sri Lanka,LKA,2014,2.695239
 Sri Lanka,LKA,2018,2.6
 Sri Lanka,LKA,2022,2.8
-Lower middle income,LMC,2007,2.37977272727273
-Lower middle income,LMC,2010,2.57435897435897
-Lower middle income,LMC,2012,2.53121951219512
-Lower middle income,LMC,2014,2.5607136744186
-Lower middle income,LMC,2016,2.50865944186046
-Lower middle income,LMC,2018,2.54292682926829
-Lower middle income,LMC,2022,2.63103448275862
-Low & middle income,LMY,2007,2.4059793814433
-Low & middle income,LMY,2010,2.57111111111111
-Low & middle income,LMY,2012,2.58939393939394
-Low & middle income,LMY,2014,2.596270375
-Low & middle income,LMY,2016,2.55153624509804
-Low & middle income,LMY,2018,2.56815533980583
-Low & middle income,LMY,2022,2.65
+Lower middle income,LMC,2007,2.35023809523809
+Lower middle income,LMC,2010,2.55540540540541
+Lower middle income,LMC,2012,2.50051282051282
+Lower middle income,LMC,2014,2.52462168292683
+Lower middle income,LMC,2016,2.47836702380952
+Lower middle income,LMC,2018,2.49948717948718
+Lower middle income,LMC,2022,2.56071428571429
+Low & middle income,LMY,2007,2.40737373737374
+Low & middle income,LMY,2010,2.57059405940594
+Low & middle income,LMY,2012,2.5849504950495
+Low & middle income,LMY,2014,2.59824391509434
+Low & middle income,LMY,2016,2.54831003846154
+Low & middle income,LMY,2018,2.56490384615385
+Low & middle income,LMY,2022,2.64578313253012
 Lesotho,LSO,2007,2.3
 Lesotho,LSO,2012,2.24
 Lesotho,LSO,2014,2.372849
@@ -845,13 +838,13 @@ Mexico,MEX,2014,3.128319
 Mexico,MEX,2016,3.114031
 Mexico,MEX,2018,3.05
 Mexico,MEX,2022,2.9
-Middle income,MIC,2007,2.46631578947368
-Middle income,MIC,2010,2.63506329113924
-Middle income,MIC,2012,2.63604938271605
-Middle income,MIC,2014,2.6625215060241
-Middle income,MIC,2016,2.59199865060241
-Middle income,MIC,2018,2.62777777777778
-Middle income,MIC,2022,2.71194029850746
+Middle income,MIC,2007,2.46551282051282
+Middle income,MIC,2010,2.63518518518518
+Middle income,MIC,2012,2.63361445783133
+Middle income,MIC,2014,2.66018654117647
+Middle income,MIC,2016,2.58993465882353
+Middle income,MIC,2018,2.62084337349398
+Middle income,MIC,2022,2.70289855072464
 North Macedonia,MKD,2007,2.43
 North Macedonia,MKD,2010,2.77
 North Macedonia,MKD,2012,2.56
@@ -1173,11 +1166,11 @@ Serbia,SRB,2014,2.962556
 Serbia,SRB,2016,2.762577
 Serbia,SRB,2018,2.84
 Serbia,SRB,2022,2.8
-Sub-Saharan Africa (excluding high income),SSA,2007,2.34789473684211
-Sub-Saharan Africa (excluding high income),SSA,2010,2.42228571428571
-Sub-Saharan Africa (excluding high income),SSA,2012,2.4625
-Sub-Saharan Africa (excluding high income),SSA,2014,2.45797617073171
-Sub-Saharan Africa (excluding high income),SSA,2016,2.47240684615385
+Sub-Saharan Africa (excluding high income),SSA,2007,2.3474358974359
+Sub-Saharan Africa (excluding high income),SSA,2010,2.42194444444444
+Sub-Saharan Africa (excluding high income),SSA,2012,2.45648648648649
+Sub-Saharan Africa (excluding high income),SSA,2014,2.46120590476191
+Sub-Saharan Africa (excluding high income),SSA,2016,2.47001585
 Sub-Saharan Africa (excluding high income),SSA,2018,2.44974358974359
 Sub-Saharan Africa (excluding high income),SSA,2022,2.53461538461538
 Sub-Saharan Africa,SSF,2007,2.3474358974359
@@ -1333,13 +1326,13 @@ Ukraine,UKR,2014,2.976444
 Ukraine,UKR,2016,2.736683
 Ukraine,UKR,2018,2.83
 Ukraine,UKR,2022,2.7
-Upper middle income,UMC,2007,2.5853125
-Upper middle income,UMC,2010,2.69425
-Upper middle income,UMC,2012,2.7435
-Upper middle income,UMC,2014,2.771964925
-Upper middle income,UMC,2016,2.6815883
-Upper middle income,UMC,2018,2.71475
-Upper middle income,UMC,2022,2.77368421052632
+Upper middle income,UMC,2007,2.6
+Upper middle income,UMC,2010,2.70227272727273
+Upper middle income,UMC,2012,2.75159090909091
+Upper middle income,UMC,2014,2.78650834090909
+Upper middle income,UMC,2016,2.69890769767442
+Upper middle income,UMC,2018,2.72840909090909
+Upper middle income,UMC,2022,2.8
 Uruguay,URY,2007,2.51
 Uruguay,URY,2010,2.75
 Uruguay,URY,2012,2.98
@@ -1376,7 +1369,7 @@ Viet Nam,VNM,2016,2.976629
 Viet Nam,VNM,2018,3.27
 Viet Nam,VNM,2022,3.3
 World,WLD,2007,2.74013333333333
-World,WLD,2010,2.86612903225806
+World,WLD,2010,2.86612903225807
 World,WLD,2012,2.87051948051948
 World,WLD,2014,2.8942791625
 World,WLD,2016,2.88372565625

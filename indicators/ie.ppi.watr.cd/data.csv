@@ -46,8 +46,9 @@ Brazil,BRA,2018,1400000
 Brazil,BRA,2019,504380000
 Brazil,BRA,2020,1240630000
 Brazil,BRA,2021,1323000000
-Brazil,BRA,2022,3502200000
+Brazil,BRA,2022,3836810000
 Brazil,BRA,2023,287000000
+Brazil,BRA,2024,524580000
 Botswana,BWA,2021,92000000
 China,CHN,1994,30800000
 China,CHN,1995,150000000
@@ -76,11 +77,11 @@ China,CHN,2017,1426080000
 China,CHN,2018,1627080000
 China,CHN,2019,3326340000
 China,CHN,2020,2312270000
-China,CHN,2021,3654630000
+China,CHN,2021,3738370000
 China,CHN,2022,937080000
 China,CHN,2023,286060000
+China,CHN,2024,497340000
 Cote d'Ivoire,CIV,2020,192310000
-"Congo, Rep.",COG,2013,0
 Colombia,COL,1995,3000000
 Colombia,COL,1996,83000000
 Colombia,COL,1997,100000000
@@ -124,14 +125,14 @@ East Asia & Pacific (excluding high income),EAP,2016,1527870000
 East Asia & Pacific (excluding high income),EAP,2017,1583280000
 East Asia & Pacific (excluding high income),EAP,2018,1960660000
 East Asia & Pacific (excluding high income),EAP,2019,3599930000
-East Asia & Pacific (excluding high income),EAP,2021,3682440000
+East Asia & Pacific (excluding high income),EAP,2021,3766180000
 East Asia & Pacific (excluding high income),EAP,2022,1216300000
 East Asia & Pacific (excluding high income),EAP,2023,1282020000
+East Asia & Pacific (excluding high income),EAP,2024,521340000
 Ecuador,ECU,2001,500000000
 Ecuador,ECU,2004,10000000
 Ecuador,ECU,2018,26490000
 "Egypt, Arab Rep.",EGY,2010,475000000
-"Egypt, Arab Rep.",EGY,2015,0
 "Egypt, Arab Rep.",EGY,2021,48500000
 Gabon,GAB,1997,294000000
 Gabon,GAB,2022,183180000
@@ -152,6 +153,7 @@ IBRD only,IBD,2013,3661090000
 IBRD only,IBD,2015,5261850000
 IBRD only,IBD,2017,1877760000
 IBRD only,IBD,2018,3470080000
+IBRD only,IBD,2022,5254290000
 Indonesia,IDN,1995,200000000
 Indonesia,IDN,1997,123200000
 Indonesia,IDN,1998,632000000
@@ -176,23 +178,22 @@ India,IND,2015,18500000
 India,IND,2017,50880000
 India,IND,2018,583300000
 India,IND,2021,278250000
+India,IND,2022,25000000
+Jamaica,JAM,2024,77000000
 Jordan,JOR,2003,169000000
 Jordan,JOR,2009,951000000
 Jordan,JOR,2012,223000000
+Jordan,JOR,2024,22300000
 Cambodia,KHM,2022,7000000
 Cambodia,KHM,2023,2300000
-Latin America & Caribbean (excluding high income),LAC,1994,525200000
 Latin America & Caribbean (excluding high income),LAC,1995,1263800000
 Latin America & Caribbean (excluding high income),LAC,1996,147900000
 Latin America & Caribbean (excluding high income),LAC,1997,1869200000
 Latin America & Caribbean (excluding high income),LAC,1998,1201900000
-Latin America & Caribbean (excluding high income),LAC,1999,1982300000
-Latin America & Caribbean (excluding high income),LAC,2001,891430000
+Latin America & Caribbean (excluding high income),LAC,1999,2007300000
+Latin America & Caribbean (excluding high income),LAC,2001,906430000
 Latin America & Caribbean (excluding high income),LAC,2004,772680000
 Latin America & Caribbean (excluding high income),LAC,2005,120444000
-Latin America & Caribbean (excluding high income),LAC,2006,740700000
-Latin America & Caribbean (excluding high income),LAC,2013,3216650000
-Latin America & Caribbean (excluding high income),LAC,2018,686590000
 Latin America & Caribbean,LCN,1995,1263800000
 Latin America & Caribbean,LCN,1996,147900000
 Latin America & Caribbean,LCN,1997,1869200000
@@ -227,11 +228,13 @@ Late-demographic dividend,LTE,2017,1669680000
 Late-demographic dividend,LTE,2018,1868010000
 Late-demographic dividend,LTE,2019,3989860000
 Late-demographic dividend,LTE,2020,3552900000
-Late-demographic dividend,LTE,2021,5048270000
-Late-demographic dividend,LTE,2022,4439280000
+Late-demographic dividend,LTE,2021,5132010000
+Late-demographic dividend,LTE,2022,4773890000
 Late-demographic dividend,LTE,2023,793660000
+Late-demographic dividend,LTE,2024,1310920000
 Morocco,MAR,2015,114000000
 Morocco,MAR,2018,239530000
+Morocco,MAR,2024,188000000
 Mexico,MEX,1993,22800000
 Mexico,MEX,1994,519800000
 Mexico,MEX,1995,17000000
@@ -254,6 +257,7 @@ Mexico,MEX,2014,1046500000
 Mexico,MEX,2015,1424600000
 Mexico,MEX,2018,537300000
 Mexico,MEX,2020,14700000
+Middle income,MIC,2001,1581490000
 Mozambique,MOZ,1999,25500000
 Malaysia,MYS,1987,44000000
 Malaysia,MYS,1989,154200000
@@ -309,6 +313,7 @@ South Asia,SAS,2015,18500000
 South Asia,SAS,2017,50880000
 South Asia,SAS,2018,910300000
 South Asia,SAS,2021,348890000
+South Asia,SAS,2022,25000000
 Sudan,SDN,2007,120700000
 Senegal,SEN,1996,20000000
 Senegal,SEN,2015,33000000
@@ -340,9 +345,10 @@ East Asia & Pacific (IDA & IBRD countries),TEA,2017,1583280000
 East Asia & Pacific (IDA & IBRD countries),TEA,2018,1960660000
 East Asia & Pacific (IDA & IBRD countries),TEA,2019,3599930000
 East Asia & Pacific (IDA & IBRD countries),TEA,2020,2312270000
-East Asia & Pacific (IDA & IBRD countries),TEA,2021,3682440000
+East Asia & Pacific (IDA & IBRD countries),TEA,2021,3766180000
 East Asia & Pacific (IDA & IBRD countries),TEA,2022,1216300000
 East Asia & Pacific (IDA & IBRD countries),TEA,2023,1282020000
+East Asia & Pacific (IDA & IBRD countries),TEA,2024,521340000
 Thailand,THA,1995,160000000
 Thailand,THA,1997,61300000
 Thailand,THA,1999,65700000
@@ -370,31 +376,26 @@ South Asia (IDA & IBRD),TSA,2015,18500000
 South Asia (IDA & IBRD),TSA,2017,50880000
 South Asia (IDA & IBRD),TSA,2018,910300000
 South Asia (IDA & IBRD),TSA,2021,348890000
+South Asia (IDA & IBRD),TSA,2022,25000000
 Tunisia,TUN,2010,95000000
 Tunisia,TUN,2023,220600000
 Turkiye,TUR,1996,942000000
 Tanzania,TZA,2003,8500000
 Ukraine,UKR,2005,100000000
 Ukraine,UKR,2008,102000000
-Upper middle income,UMC,1994,1346000000
 Upper middle income,UMC,1995,1783800000
-Upper middle income,UMC,1996,1239200000
-Upper middle income,UMC,1997,2197100000
-Upper middle income,UMC,1998,2105900000
-Upper middle income,UMC,1999,1988100000
-Upper middle income,UMC,2000,6120480000
-Upper middle income,UMC,2001,1202490000
+Upper middle income,UMC,1997,9762700000
+Upper middle income,UMC,1998,2144700000
+Upper middle income,UMC,1999,1989700000
+Upper middle income,UMC,2000,6140480000
+Upper middle income,UMC,2001,1356490000
 Upper middle income,UMC,2004,3905160000
-Upper middle income,UMC,2005,1979363000
-Upper middle income,UMC,2006,1383961030
-Upper middle income,UMC,2008,2823613580
-Upper middle income,UMC,2012,5041860000
+Upper middle income,UMC,2005,2071363000
+Upper middle income,UMC,2006,1887861030
+Upper middle income,UMC,2012,5443160000
 Upper middle income,UMC,2013,3525990000
-Upper middle income,UMC,2017,1826880000
-Upper middle income,UMC,2018,2628290000
-Upper middle income,UMC,2019,3913100000
-Upper middle income,UMC,2022,4739200000
-Upper middle income,UMC,2023,1563040000
+Upper middle income,UMC,2018,2647250000
+Upper middle income,UMC,2019,4104310000
 Uzbekistan,UZB,2020,159730000
 "Venezuela, RB",VEN,1999,25000000
 "Venezuela, RB",VEN,2001,15000000
@@ -405,5 +406,6 @@ Viet Nam,VNM,2003,7000000
 Viet Nam,VNM,2005,92000000
 Viet Nam,VNM,2016,88900000
 Viet Nam,VNM,2019,159140000
+Viet Nam,VNM,2024,24000000
 South Africa,ZAF,1999,56900000
 South Africa,ZAF,2000,31300000

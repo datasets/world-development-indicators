@@ -508,21 +508,22 @@ Ecuador,ECU,2014,10.30478
 Ecuador,ECU,2015,9.43166
 Ecuador,ECU,2016,9.51098
 "Egypt, Arab Rep.",EGY,2017,9.84518
+Euro area,EMU,1998,16.97009
 Euro area,EMU,1999,18.204205
 Euro area,EMU,2000,17.52698
-Euro area,EMU,2001,18.87409
-Euro area,EMU,2002,20.379025
-Euro area,EMU,2003,18.612895
-Euro area,EMU,2004,18.620425
-Euro area,EMU,2005,18.70023
-Euro area,EMU,2006,18.172645
-Euro area,EMU,2007,19.04052
-Euro area,EMU,2008,18.97337
-Euro area,EMU,2009,21.27594
-Euro area,EMU,2010,21.9884
-Euro area,EMU,2011,20.85975
-Euro area,EMU,2012,20.41177
-Euro area,EMU,2013,21.38818
+Euro area,EMU,2001,18.23332
+Euro area,EMU,2002,19.45395
+Euro area,EMU,2003,18.16935
+Euro area,EMU,2004,18.5236
+Euro area,EMU,2005,19.05523
+Euro area,EMU,2006,19.01719
+Euro area,EMU,2007,19.116165
+Euro area,EMU,2008,19.48733
+Euro area,EMU,2009,21.314905
+Euro area,EMU,2010,21.57581
+Euro area,EMU,2011,20.76488
+Euro area,EMU,2012,20.05662
+Euro area,EMU,2013,21.98549
 Euro area,EMU,2014,21.20796
 Euro area,EMU,2015,21.6772
 Euro area,EMU,2016,20.279965
@@ -961,21 +962,19 @@ Kuwait,KWT,2006,8.56655
 Kuwait,KWT,2008,10.23347
 Kuwait,KWT,2011,17.42814
 Kuwait,KWT,2014,14.37769
-Latin America & Caribbean (excluding high income),LAC,1999,10.043775
 Latin America & Caribbean (excluding high income),LAC,2000,10.668335
-Latin America & Caribbean (excluding high income),LAC,2001,10.86995
 Latin America & Caribbean (excluding high income),LAC,2002,9.79901
 Latin America & Caribbean (excluding high income),LAC,2004,10.00318
 Latin America & Caribbean (excluding high income),LAC,2005,10.53523
-Latin America & Caribbean (excluding high income),LAC,2007,12.38764
+Latin America & Caribbean (excluding high income),LAC,2007,11.46338
 Latin America & Caribbean (excluding high income),LAC,2008,12.92352
-Latin America & Caribbean (excluding high income),LAC,2009,14.80287
+Latin America & Caribbean (excluding high income),LAC,2009,15.144145
 Latin America & Caribbean (excluding high income),LAC,2010,12.523385
 Latin America & Caribbean (excluding high income),LAC,2011,12.555915
 Latin America & Caribbean (excluding high income),LAC,2012,11.52723
 Latin America & Caribbean (excluding high income),LAC,2013,14.38084
 Latin America & Caribbean (excluding high income),LAC,2014,14.320055
-Latin America & Caribbean (excluding high income),LAC,2015,14.67194
+Latin America & Caribbean (excluding high income),LAC,2015,14.92318
 Latin America & Caribbean (excluding high income),LAC,2016,14.502025
 Lao PDR,LAO,1997,5.75385
 Lao PDR,LAO,2002,8.1949
@@ -1021,9 +1020,8 @@ Least developed countries: UN classification,LDC,2011,8.91555
 Least developed countries: UN classification,LDC,2012,8.614915
 Least developed countries: UN classification,LDC,2013,9.9565
 Low income,LIC,2010,7.36256
-Low income,LIC,2011,10.59471
-Low income,LIC,2012,11.372075
-Low income,LIC,2013,10.30013
+Low income,LIC,2011,8.91555
+Low income,LIC,2012,9.261655
 Liechtenstein,LIE,2003,11.094
 Liechtenstein,LIE,2004,10.72946
 Liechtenstein,LIE,2006,9.91879
@@ -1041,7 +1039,7 @@ Sri Lanka,LKA,2015,7.43956
 Sri Lanka,LKA,2016,14.4145
 Sri Lanka,LKA,2017,11.39277
 Sri Lanka,LKA,2018,7.91881
-Low & middle income,LMY,2012,11.50594
+Low & middle income,LMY,2012,11.48465
 Lesotho,LSO,1997,21.79617
 Lesotho,LSO,1999,33.54062
 Lesotho,LSO,2000,27.16386
@@ -1576,10 +1574,9 @@ Serbia,SRB,2009,54.79301
 Serbia,SRB,2010,51.10212
 Serbia,SRB,2011,48.06522
 Serbia,SRB,2015,43.65488
-Sub-Saharan Africa (excluding high income),SSA,2005,10.94748
-Sub-Saharan Africa (excluding high income),SSA,2010,10.56538
-Sub-Saharan Africa (excluding high income),SSA,2011,9.74477
-Sub-Saharan Africa (excluding high income),SSA,2012,12.18628
+Sub-Saharan Africa (excluding high income),SSA,2010,10.38055
+Sub-Saharan Africa (excluding high income),SSA,2011,9.49074
+Sub-Saharan Africa (excluding high income),SSA,2012,11.14255
 South Sudan,SSD,2011,3.41334
 South Sudan,SSD,2016,4.57838
 Sub-Saharan Africa,SSF,2010,10.38055
@@ -1811,10 +1808,10 @@ Ukraine,UKR,2013,32.34896
 Ukraine,UKR,2014,27.03674
 Ukraine,UKR,2016,26.25312
 Ukraine,UKR,2017,30.31566
+Upper middle income,UMC,2008,13.417755
 Upper middle income,UMC,2010,12.40333
-Upper middle income,UMC,2011,14.20816
+Upper middle income,UMC,2011,14.481695
 Upper middle income,UMC,2012,11.52723
-Upper middle income,UMC,2015,14.404065
 Uruguay,URY,1999,7.14943
 Uruguay,URY,2000,7.25549
 Uruguay,URY,2001,9.62552

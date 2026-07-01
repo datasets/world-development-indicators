@@ -60,6 +60,7 @@ Africa Eastern and Southern,AFE,2018,1985.321
 Africa Eastern and Southern,AFE,2019,1985.321
 Africa Eastern and Southern,AFE,2020,1985.321
 Africa Eastern and Southern,AFE,2021,1985.321
+Africa Eastern and Southern,AFE,2022,1985.321
 Afghanistan,AFG,1962,47.15
 Afghanistan,AFG,1963,47.15
 Afghanistan,AFG,1964,47.15
@@ -182,6 +183,7 @@ Africa Western and Central,AFW,2018,1898.44
 Africa Western and Central,AFW,2019,1898.44
 Africa Western and Central,AFW,2020,1898.44
 Africa Western and Central,AFW,2021,1898.44
+Africa Western and Central,AFW,2022,1898.44
 Angola,AGO,1961,148
 Angola,AGO,1962,148
 Angola,AGO,1963,148
@@ -428,6 +430,7 @@ Arab World,ARB,2018,112.778
 Arab World,ARB,2019,112.778
 Arab World,ARB,2020,112.778
 Arab World,ARB,2021,112.778
+Arab World,ARB,2022,111.966
 United Arab Emirates,ARE,1961,0.15
 United Arab Emirates,ARE,1962,0.15
 United Arab Emirates,ARE,1963,0.15
@@ -1945,6 +1948,7 @@ Central Europe and the Baltics,CEB,2018,250.21
 Central Europe and the Baltics,CEB,2019,250.21
 Central Europe and the Baltics,CEB,2020,250.21
 Central Europe and the Baltics,CEB,2021,250.21
+Central Europe and the Baltics,CEB,2022,250.21
 Switzerland,CHE,1961,40.4
 Switzerland,CHE,1962,40.4
 Switzerland,CHE,1963,40.4
@@ -2688,6 +2692,7 @@ Caribbean small states,CSS,2018,360.756
 Caribbean small states,CSS,2019,360.756
 Caribbean small states,CSS,2020,360.756
 Caribbean small states,CSS,2021,360.756
+Caribbean small states,CSS,2022,360.756
 Cuba,CUB,1961,38.12
 Cuba,CUB,1962,38.12
 Cuba,CUB,1963,38.12
@@ -3274,6 +3279,7 @@ East Asia & Pacific (excluding high income),EAP,2018,8782.595
 East Asia & Pacific (excluding high income),EAP,2019,8782.595
 East Asia & Pacific (excluding high income),EAP,2020,8782.595
 East Asia & Pacific (excluding high income),EAP,2021,8782.595
+East Asia & Pacific (excluding high income),EAP,2022,8782.595
 Early-demographic dividend,EAR,1961,11825.654
 Early-demographic dividend,EAR,1962,11895.814
 Early-demographic dividend,EAR,1963,11895.814
@@ -3335,6 +3341,7 @@ Early-demographic dividend,EAR,2018,12082.019
 Early-demographic dividend,EAR,2019,12082.019
 Early-demographic dividend,EAR,2020,12082.019
 Early-demographic dividend,EAR,2021,12082.019
+Early-demographic dividend,EAR,2022,12080.457
 East Asia & Pacific,EAS,1962,10105.555
 East Asia & Pacific,EAS,1963,10105.555
 East Asia & Pacific,EAS,1964,10105.555
@@ -3395,6 +3402,7 @@ East Asia & Pacific,EAS,2018,10105.555
 East Asia & Pacific,EAS,2019,10105.555
 East Asia & Pacific,EAS,2020,10105.555
 East Asia & Pacific,EAS,2021,10105.555
+East Asia & Pacific,EAS,2022,10105.555
 Europe & Central Asia (excluding high income),ECA,1992,653.109
 Europe & Central Asia (excluding high income),ECA,1993,653.109
 Europe & Central Asia (excluding high income),ECA,1994,653.109
@@ -3425,6 +3433,7 @@ Europe & Central Asia (excluding high income),ECA,2018,661.516
 Europe & Central Asia (excluding high income),ECA,2019,661.516
 Europe & Central Asia (excluding high income),ECA,2020,661.516
 Europe & Central Asia (excluding high income),ECA,2021,661.516
+Europe & Central Asia (excluding high income),ECA,2022,661.516
 Europe & Central Asia,ECS,1992,7036.7646
 Europe & Central Asia,ECS,1993,7062.5146
 Europe & Central Asia,ECS,1994,7062.5146
@@ -3455,6 +3464,7 @@ Europe & Central Asia,ECS,2018,7070.9216
 Europe & Central Asia,ECS,2019,7070.9216
 Europe & Central Asia,ECS,2020,7070.9216
 Europe & Central Asia,ECS,2021,7070.9216
+Europe & Central Asia,ECS,2022,7070.9216
 Ecuador,ECU,1961,442.4
 Ecuador,ECU,1962,442.4
 Ecuador,ECU,1963,442.4
@@ -3579,67 +3589,68 @@ Ecuador,ECU,2022,442.4
 "Egypt, Arab Rep.",EGY,2020,1
 "Egypt, Arab Rep.",EGY,2021,1
 "Egypt, Arab Rep.",EGY,2022,1
-Euro area,EMU,1961,932.5305
-Euro area,EMU,1962,932.5305
-Euro area,EMU,1963,932.5305
-Euro area,EMU,1964,932.5305
-Euro area,EMU,1965,932.5305
-Euro area,EMU,1966,932.5305
-Euro area,EMU,1967,932.5305
-Euro area,EMU,1968,932.5305
-Euro area,EMU,1969,932.5305
-Euro area,EMU,1970,932.5305
-Euro area,EMU,1971,932.5305
-Euro area,EMU,1972,932.5305
-Euro area,EMU,1973,932.5305
-Euro area,EMU,1974,932.5305
-Euro area,EMU,1975,932.5305
-Euro area,EMU,1976,932.5305
-Euro area,EMU,1977,932.5305
-Euro area,EMU,1978,932.5305
-Euro area,EMU,1979,932.5305
-Euro area,EMU,1980,932.5305
-Euro area,EMU,1981,932.5305
-Euro area,EMU,1982,932.5305
-Euro area,EMU,1983,932.5305
-Euro area,EMU,1984,932.5305
-Euro area,EMU,1985,932.5305
-Euro area,EMU,1986,932.5305
-Euro area,EMU,1987,932.5305
-Euro area,EMU,1988,932.5305
-Euro area,EMU,1989,932.5305
-Euro area,EMU,1990,932.5305
-Euro area,EMU,1991,932.5305
-Euro area,EMU,1992,1034.0105
-Euro area,EMU,1993,1046.6105
-Euro area,EMU,1994,1046.6105
-Euro area,EMU,1995,1046.6105
-Euro area,EMU,1996,1046.6105
-Euro area,EMU,1997,1046.6105
-Euro area,EMU,1998,1046.6105
-Euro area,EMU,1999,1046.6105
-Euro area,EMU,2000,1046.6105
-Euro area,EMU,2001,1046.6105
-Euro area,EMU,2002,1046.6105
-Euro area,EMU,2003,1046.6105
-Euro area,EMU,2004,1046.6105
-Euro area,EMU,2005,1046.6105
-Euro area,EMU,2006,1046.6105
-Euro area,EMU,2007,1046.6105
-Euro area,EMU,2008,1046.6105
-Euro area,EMU,2009,1046.6105
-Euro area,EMU,2010,1046.6105
-Euro area,EMU,2011,1046.6105
-Euro area,EMU,2012,1046.6105
-Euro area,EMU,2013,1046.6105
-Euro area,EMU,2014,1046.6105
-Euro area,EMU,2015,1046.6105
-Euro area,EMU,2016,1046.6105
-Euro area,EMU,2017,1046.6105
-Euro area,EMU,2018,1046.6105
-Euro area,EMU,2019,1046.6105
-Euro area,EMU,2020,1046.6105
-Euro area,EMU,2021,1046.6105
+Euro area,EMU,1961,953.5305
+Euro area,EMU,1962,953.5305
+Euro area,EMU,1963,953.5305
+Euro area,EMU,1964,953.5305
+Euro area,EMU,1965,953.5305
+Euro area,EMU,1966,953.5305
+Euro area,EMU,1967,953.5305
+Euro area,EMU,1968,953.5305
+Euro area,EMU,1969,953.5305
+Euro area,EMU,1970,953.5305
+Euro area,EMU,1971,953.5305
+Euro area,EMU,1972,953.5305
+Euro area,EMU,1973,953.5305
+Euro area,EMU,1974,953.5305
+Euro area,EMU,1975,953.5305
+Euro area,EMU,1976,953.5305
+Euro area,EMU,1977,953.5305
+Euro area,EMU,1978,953.5305
+Euro area,EMU,1979,953.5305
+Euro area,EMU,1980,953.5305
+Euro area,EMU,1981,953.5305
+Euro area,EMU,1982,953.5305
+Euro area,EMU,1983,953.5305
+Euro area,EMU,1984,953.5305
+Euro area,EMU,1985,953.5305
+Euro area,EMU,1986,953.5305
+Euro area,EMU,1987,953.5305
+Euro area,EMU,1988,953.5305
+Euro area,EMU,1989,953.5305
+Euro area,EMU,1990,953.5305
+Euro area,EMU,1991,953.5305
+Euro area,EMU,1992,1055.0105
+Euro area,EMU,1993,1067.6105
+Euro area,EMU,1994,1067.6105
+Euro area,EMU,1995,1067.6105
+Euro area,EMU,1996,1067.6105
+Euro area,EMU,1997,1067.6105
+Euro area,EMU,1998,1067.6105
+Euro area,EMU,1999,1067.6105
+Euro area,EMU,2000,1067.6105
+Euro area,EMU,2001,1067.6105
+Euro area,EMU,2002,1067.6105
+Euro area,EMU,2003,1067.6105
+Euro area,EMU,2004,1067.6105
+Euro area,EMU,2005,1067.6105
+Euro area,EMU,2006,1067.6105
+Euro area,EMU,2007,1067.6105
+Euro area,EMU,2008,1067.6105
+Euro area,EMU,2009,1067.6105
+Euro area,EMU,2010,1067.6105
+Euro area,EMU,2011,1067.6105
+Euro area,EMU,2012,1067.6105
+Euro area,EMU,2013,1067.6105
+Euro area,EMU,2014,1067.6105
+Euro area,EMU,2015,1067.6105
+Euro area,EMU,2016,1067.6105
+Euro area,EMU,2017,1067.6105
+Euro area,EMU,2018,1067.6105
+Euro area,EMU,2019,1067.6105
+Euro area,EMU,2020,1067.6105
+Euro area,EMU,2021,1067.6105
+Euro area,EMU,2022,1067.6105
 Eritrea,ERI,1993,2.8
 Eritrea,ERI,1994,2.8
 Eritrea,ERI,1995,2.8
@@ -3854,67 +3865,7 @@ European Union,EUU,2018,1359.7405
 European Union,EUU,2019,1359.7405
 European Union,EUU,2020,1359.7405
 European Union,EUU,2021,1359.7405
-Fragile and conflict affected situations,FCS,1961,4668.551
-Fragile and conflict affected situations,FCS,1962,4768.616
-Fragile and conflict affected situations,FCS,1963,4768.616
-Fragile and conflict affected situations,FCS,1964,4768.616
-Fragile and conflict affected situations,FCS,1965,4768.616
-Fragile and conflict affected situations,FCS,1966,4768.616
-Fragile and conflict affected situations,FCS,1967,4768.616
-Fragile and conflict affected situations,FCS,1968,4768.616
-Fragile and conflict affected situations,FCS,1969,4768.616
-Fragile and conflict affected situations,FCS,1970,4768.616
-Fragile and conflict affected situations,FCS,1971,4768.616
-Fragile and conflict affected situations,FCS,1972,4768.616
-Fragile and conflict affected situations,FCS,1973,4768.616
-Fragile and conflict affected situations,FCS,1974,4768.616
-Fragile and conflict affected situations,FCS,1975,4768.616
-Fragile and conflict affected situations,FCS,1976,4768.616
-Fragile and conflict affected situations,FCS,1977,4768.616
-Fragile and conflict affected situations,FCS,1978,4768.616
-Fragile and conflict affected situations,FCS,1979,4768.616
-Fragile and conflict affected situations,FCS,1980,4768.616
-Fragile and conflict affected situations,FCS,1981,4768.616
-Fragile and conflict affected situations,FCS,1982,4768.616
-Fragile and conflict affected situations,FCS,1983,4768.616
-Fragile and conflict affected situations,FCS,1984,4768.616
-Fragile and conflict affected situations,FCS,1985,4768.616
-Fragile and conflict affected situations,FCS,1986,4768.616
-Fragile and conflict affected situations,FCS,1987,4768.616
-Fragile and conflict affected situations,FCS,1988,4768.616
-Fragile and conflict affected situations,FCS,1989,4768.616
-Fragile and conflict affected situations,FCS,1990,4768.616
-Fragile and conflict affected situations,FCS,1991,4768.616
-Fragile and conflict affected situations,FCS,1992,4823.716
-Fragile and conflict affected situations,FCS,1993,4948.516
-Fragile and conflict affected situations,FCS,1994,4948.516
-Fragile and conflict affected situations,FCS,1995,4948.516
-Fragile and conflict affected situations,FCS,1996,4948.516
-Fragile and conflict affected situations,FCS,1997,4948.516
-Fragile and conflict affected situations,FCS,1998,4948.516
-Fragile and conflict affected situations,FCS,1999,4948.516
-Fragile and conflict affected situations,FCS,2000,4948.516
-Fragile and conflict affected situations,FCS,2001,4948.516
-Fragile and conflict affected situations,FCS,2002,4948.516
-Fragile and conflict affected situations,FCS,2003,4948.516
-Fragile and conflict affected situations,FCS,2004,4948.516
-Fragile and conflict affected situations,FCS,2005,4948.516
-Fragile and conflict affected situations,FCS,2006,4948.516
-Fragile and conflict affected situations,FCS,2007,4948.516
-Fragile and conflict affected situations,FCS,2008,4948.516
-Fragile and conflict affected situations,FCS,2009,4948.516
-Fragile and conflict affected situations,FCS,2010,4948.516
-Fragile and conflict affected situations,FCS,2011,4948.516
-Fragile and conflict affected situations,FCS,2012,4978.516
-Fragile and conflict affected situations,FCS,2013,4978.516
-Fragile and conflict affected situations,FCS,2014,4978.516
-Fragile and conflict affected situations,FCS,2015,4978.516
-Fragile and conflict affected situations,FCS,2016,4978.516
-Fragile and conflict affected situations,FCS,2017,4978.516
-Fragile and conflict affected situations,FCS,2018,4978.516
-Fragile and conflict affected situations,FCS,2019,4978.516
-Fragile and conflict affected situations,FCS,2020,4978.516
-Fragile and conflict affected situations,FCS,2021,4978.516
+European Union,EUU,2022,1359.7405
 Finland,FIN,1961,107
 Finland,FIN,1962,107
 Finland,FIN,1963,107
@@ -4873,6 +4824,7 @@ High income,HIC,2018,14884.7721
 High income,HIC,2019,14884.7721
 High income,HIC,2020,14884.7721
 High income,HIC,2021,14884.7721
+High income,HIC,2022,14884.0221
 Honduras,HND,1961,90.66
 Honduras,HND,1962,90.66
 Honduras,HND,1963,90.66
@@ -4996,6 +4948,7 @@ Heavily indebted poor countries (HIPC),HPC,2018,4053.047
 Heavily indebted poor countries (HIPC),HPC,2019,4053.047
 Heavily indebted poor countries (HIPC),HPC,2020,4053.047
 Heavily indebted poor countries (HIPC),HPC,2021,4053.047
+Heavily indebted poor countries (HIPC),HPC,2022,4053.047
 Croatia,HRV,1992,37.7
 Croatia,HRV,1993,37.7
 Croatia,HRV,1994,37.7
@@ -5212,6 +5165,7 @@ IBRD only,IBD,2018,26770.09
 IBRD only,IBD,2019,26770.09
 IBRD only,IBD,2020,26770.09
 IBRD only,IBD,2021,26770.09
+IBRD only,IBD,2022,26770.09
 IDA & IBRD total,IBT,1961,28702.743
 IDA & IBRD total,IBT,1962,28861.268
 IDA & IBRD total,IBT,1963,28861.268
@@ -5273,6 +5227,7 @@ IDA & IBRD total,IBT,2018,33756.384
 IDA & IBRD total,IBT,2019,33756.384
 IDA & IBRD total,IBT,2020,33756.384
 IDA & IBRD total,IBT,2021,33756.384
+IDA & IBRD total,IBT,2022,33756.384
 IDA total,IDA,1961,6565.089
 IDA total,IDA,1962,6719.764
 IDA total,IDA,1963,6719.764
@@ -5334,6 +5289,7 @@ IDA total,IDA,2018,6986.294
 IDA total,IDA,2019,6986.294
 IDA total,IDA,2020,6986.294
 IDA total,IDA,2021,6986.294
+IDA total,IDA,2022,6986.294
 IDA blend,IDB,1961,1783.74
 IDA blend,IDB,1962,1836.565
 IDA blend,IDB,1963,1836.565
@@ -5395,6 +5351,7 @@ IDA blend,IDB,2018,1852.905
 IDA blend,IDB,2019,1852.905
 IDA blend,IDB,2020,1852.905
 IDA blend,IDB,2021,1852.905
+IDA blend,IDB,2022,1852.905
 Indonesia,IDN,1961,2018.7
 Indonesia,IDN,1962,2018.7
 Indonesia,IDN,1963,2018.7
@@ -5518,6 +5475,7 @@ IDA only,IDX,2018,5133.389
 IDA only,IDX,2019,5133.389
 IDA only,IDX,2020,5133.389
 IDA only,IDX,2021,5133.389
+IDA only,IDX,2022,5133.389
 India,IND,1961,1446
 India,IND,1962,1446
 India,IND,1963,1446
@@ -6509,67 +6467,68 @@ Kuwait,KWT,2019,0
 Kuwait,KWT,2020,0
 Kuwait,KWT,2021,0
 Kuwait,KWT,2022,0
-Latin America & Caribbean (excluding high income),LAC,1961,11567.05
-Latin America & Caribbean (excluding high income),LAC,1962,11583.11
-Latin America & Caribbean (excluding high income),LAC,1963,11583.11
-Latin America & Caribbean (excluding high income),LAC,1964,11583.11
-Latin America & Caribbean (excluding high income),LAC,1965,11583.11
-Latin America & Caribbean (excluding high income),LAC,1966,11583.11
-Latin America & Caribbean (excluding high income),LAC,1967,11583.11
-Latin America & Caribbean (excluding high income),LAC,1968,11583.11
-Latin America & Caribbean (excluding high income),LAC,1969,11583.11
-Latin America & Caribbean (excluding high income),LAC,1970,11583.11
-Latin America & Caribbean (excluding high income),LAC,1971,11583.11
-Latin America & Caribbean (excluding high income),LAC,1972,11583.11
-Latin America & Caribbean (excluding high income),LAC,1973,11583.11
-Latin America & Caribbean (excluding high income),LAC,1974,11583.11
-Latin America & Caribbean (excluding high income),LAC,1975,11583.11
-Latin America & Caribbean (excluding high income),LAC,1976,11583.11
-Latin America & Caribbean (excluding high income),LAC,1977,11583.11
-Latin America & Caribbean (excluding high income),LAC,1978,11583.11
-Latin America & Caribbean (excluding high income),LAC,1979,11583.11
-Latin America & Caribbean (excluding high income),LAC,1980,11583.11
-Latin America & Caribbean (excluding high income),LAC,1981,11583.11
-Latin America & Caribbean (excluding high income),LAC,1982,11583.11
-Latin America & Caribbean (excluding high income),LAC,1983,11583.11
-Latin America & Caribbean (excluding high income),LAC,1984,11583.11
-Latin America & Caribbean (excluding high income),LAC,1985,11583.11
-Latin America & Caribbean (excluding high income),LAC,1986,11583.11
-Latin America & Caribbean (excluding high income),LAC,1987,11583.11
-Latin America & Caribbean (excluding high income),LAC,1988,11583.11
-Latin America & Caribbean (excluding high income),LAC,1989,11583.11
-Latin America & Caribbean (excluding high income),LAC,1990,11583.11
-Latin America & Caribbean (excluding high income),LAC,1991,11583.11
-Latin America & Caribbean (excluding high income),LAC,1992,11583.11
-Latin America & Caribbean (excluding high income),LAC,1993,11583.11
-Latin America & Caribbean (excluding high income),LAC,1994,11583.11
-Latin America & Caribbean (excluding high income),LAC,1995,11583.11
-Latin America & Caribbean (excluding high income),LAC,1996,11583.11
-Latin America & Caribbean (excluding high income),LAC,1997,11583.11
-Latin America & Caribbean (excluding high income),LAC,1998,11583.11
-Latin America & Caribbean (excluding high income),LAC,1999,11583.11
-Latin America & Caribbean (excluding high income),LAC,2000,11583.11
-Latin America & Caribbean (excluding high income),LAC,2001,11583.11
-Latin America & Caribbean (excluding high income),LAC,2002,11583.11
-Latin America & Caribbean (excluding high income),LAC,2003,11583.11
-Latin America & Caribbean (excluding high income),LAC,2004,11583.11
-Latin America & Caribbean (excluding high income),LAC,2005,11583.11
-Latin America & Caribbean (excluding high income),LAC,2006,11583.11
-Latin America & Caribbean (excluding high income),LAC,2007,11583.11
-Latin America & Caribbean (excluding high income),LAC,2008,11583.11
-Latin America & Caribbean (excluding high income),LAC,2009,11583.11
-Latin America & Caribbean (excluding high income),LAC,2010,11583.11
-Latin America & Caribbean (excluding high income),LAC,2011,11583.11
-Latin America & Caribbean (excluding high income),LAC,2012,11583.11
-Latin America & Caribbean (excluding high income),LAC,2013,11583.11
-Latin America & Caribbean (excluding high income),LAC,2014,11583.11
-Latin America & Caribbean (excluding high income),LAC,2015,11583.11
-Latin America & Caribbean (excluding high income),LAC,2016,11583.11
-Latin America & Caribbean (excluding high income),LAC,2017,11583.11
-Latin America & Caribbean (excluding high income),LAC,2018,11583.11
-Latin America & Caribbean (excluding high income),LAC,2019,11583.11
-Latin America & Caribbean (excluding high income),LAC,2020,11583.11
-Latin America & Caribbean (excluding high income),LAC,2021,11583.11
+Latin America & Caribbean (excluding high income),LAC,1961,12372.05
+Latin America & Caribbean (excluding high income),LAC,1962,12388.11
+Latin America & Caribbean (excluding high income),LAC,1963,12388.11
+Latin America & Caribbean (excluding high income),LAC,1964,12388.11
+Latin America & Caribbean (excluding high income),LAC,1965,12388.11
+Latin America & Caribbean (excluding high income),LAC,1966,12388.11
+Latin America & Caribbean (excluding high income),LAC,1967,12388.11
+Latin America & Caribbean (excluding high income),LAC,1968,12388.11
+Latin America & Caribbean (excluding high income),LAC,1969,12388.11
+Latin America & Caribbean (excluding high income),LAC,1970,12388.11
+Latin America & Caribbean (excluding high income),LAC,1971,12388.11
+Latin America & Caribbean (excluding high income),LAC,1972,12388.11
+Latin America & Caribbean (excluding high income),LAC,1973,12388.11
+Latin America & Caribbean (excluding high income),LAC,1974,12388.11
+Latin America & Caribbean (excluding high income),LAC,1975,12388.11
+Latin America & Caribbean (excluding high income),LAC,1976,12388.11
+Latin America & Caribbean (excluding high income),LAC,1977,12388.11
+Latin America & Caribbean (excluding high income),LAC,1978,12388.11
+Latin America & Caribbean (excluding high income),LAC,1979,12388.11
+Latin America & Caribbean (excluding high income),LAC,1980,12388.11
+Latin America & Caribbean (excluding high income),LAC,1981,12388.11
+Latin America & Caribbean (excluding high income),LAC,1982,12388.11
+Latin America & Caribbean (excluding high income),LAC,1983,12388.11
+Latin America & Caribbean (excluding high income),LAC,1984,12388.11
+Latin America & Caribbean (excluding high income),LAC,1985,12388.11
+Latin America & Caribbean (excluding high income),LAC,1986,12388.11
+Latin America & Caribbean (excluding high income),LAC,1987,12388.11
+Latin America & Caribbean (excluding high income),LAC,1988,12388.11
+Latin America & Caribbean (excluding high income),LAC,1989,12388.11
+Latin America & Caribbean (excluding high income),LAC,1990,12388.11
+Latin America & Caribbean (excluding high income),LAC,1991,12388.11
+Latin America & Caribbean (excluding high income),LAC,1992,12388.11
+Latin America & Caribbean (excluding high income),LAC,1993,12388.11
+Latin America & Caribbean (excluding high income),LAC,1994,12388.11
+Latin America & Caribbean (excluding high income),LAC,1995,12388.11
+Latin America & Caribbean (excluding high income),LAC,1996,12388.11
+Latin America & Caribbean (excluding high income),LAC,1997,12388.11
+Latin America & Caribbean (excluding high income),LAC,1998,12388.11
+Latin America & Caribbean (excluding high income),LAC,1999,12388.11
+Latin America & Caribbean (excluding high income),LAC,2000,12388.11
+Latin America & Caribbean (excluding high income),LAC,2001,12388.11
+Latin America & Caribbean (excluding high income),LAC,2002,12388.11
+Latin America & Caribbean (excluding high income),LAC,2003,12388.11
+Latin America & Caribbean (excluding high income),LAC,2004,12388.11
+Latin America & Caribbean (excluding high income),LAC,2005,12388.11
+Latin America & Caribbean (excluding high income),LAC,2006,12388.11
+Latin America & Caribbean (excluding high income),LAC,2007,12388.11
+Latin America & Caribbean (excluding high income),LAC,2008,12388.11
+Latin America & Caribbean (excluding high income),LAC,2009,12388.11
+Latin America & Caribbean (excluding high income),LAC,2010,12388.11
+Latin America & Caribbean (excluding high income),LAC,2011,12388.11
+Latin America & Caribbean (excluding high income),LAC,2012,12388.11
+Latin America & Caribbean (excluding high income),LAC,2013,12388.11
+Latin America & Caribbean (excluding high income),LAC,2014,12388.11
+Latin America & Caribbean (excluding high income),LAC,2015,12388.11
+Latin America & Caribbean (excluding high income),LAC,2016,12388.11
+Latin America & Caribbean (excluding high income),LAC,2017,12388.11
+Latin America & Caribbean (excluding high income),LAC,2018,12388.11
+Latin America & Caribbean (excluding high income),LAC,2019,12388.11
+Latin America & Caribbean (excluding high income),LAC,2020,12388.11
+Latin America & Caribbean (excluding high income),LAC,2021,12388.11
+Latin America & Caribbean (excluding high income),LAC,2022,12388.11
 Lao PDR,LAO,1961,190.4
 Lao PDR,LAO,1962,190.4
 Lao PDR,LAO,1963,190.4
@@ -6940,6 +6899,7 @@ Latin America & Caribbean,LCN,2018,13867.706
 Latin America & Caribbean,LCN,2019,13867.706
 Latin America & Caribbean,LCN,2020,13867.706
 Latin America & Caribbean,LCN,2021,13867.706
+Latin America & Caribbean,LCN,2022,13867.706
 Least developed countries: UN classification,LDC,1961,4254.037
 Least developed countries: UN classification,LDC,1962,4354.102
 Least developed countries: UN classification,LDC,1963,4354.102
@@ -7001,67 +6961,69 @@ Least developed countries: UN classification,LDC,2018,4508.902
 Least developed countries: UN classification,LDC,2019,4508.902
 Least developed countries: UN classification,LDC,2020,4508.902
 Least developed countries: UN classification,LDC,2021,4508.902
-Low income,LIC,1961,2116.732
-Low income,LIC,1962,2163.882
-Low income,LIC,1963,2163.882
-Low income,LIC,1964,2163.882
-Low income,LIC,1965,2163.882
-Low income,LIC,1966,2163.882
-Low income,LIC,1967,2163.882
-Low income,LIC,1968,2163.882
-Low income,LIC,1969,2163.882
-Low income,LIC,1970,2163.882
-Low income,LIC,1971,2163.882
-Low income,LIC,1972,2163.882
-Low income,LIC,1973,2163.882
-Low income,LIC,1974,2163.882
-Low income,LIC,1975,2163.882
-Low income,LIC,1976,2163.882
-Low income,LIC,1977,2163.882
-Low income,LIC,1978,2163.882
-Low income,LIC,1979,2163.882
-Low income,LIC,1980,2163.882
-Low income,LIC,1981,2163.882
-Low income,LIC,1982,2163.882
-Low income,LIC,1983,2163.882
-Low income,LIC,1984,2163.882
-Low income,LIC,1985,2163.882
-Low income,LIC,1986,2163.882
-Low income,LIC,1987,2163.882
-Low income,LIC,1988,2163.882
-Low income,LIC,1989,2163.882
-Low income,LIC,1990,2163.882
-Low income,LIC,1991,2163.882
-Low income,LIC,1992,2163.882
-Low income,LIC,1993,2166.682
-Low income,LIC,1994,2166.682
-Low income,LIC,1995,2166.682
-Low income,LIC,1996,2166.682
-Low income,LIC,1997,2166.682
-Low income,LIC,1998,2166.682
-Low income,LIC,1999,2166.682
-Low income,LIC,2000,2166.682
-Low income,LIC,2001,2166.682
-Low income,LIC,2002,2166.682
-Low income,LIC,2003,2166.682
-Low income,LIC,2004,2166.682
-Low income,LIC,2005,2166.682
-Low income,LIC,2006,2166.682
-Low income,LIC,2007,2166.682
-Low income,LIC,2008,2166.682
-Low income,LIC,2009,2166.682
-Low income,LIC,2010,2166.682
-Low income,LIC,2011,2166.682
-Low income,LIC,2012,2196.682
-Low income,LIC,2013,2196.682
-Low income,LIC,2014,2196.682
-Low income,LIC,2015,2196.682
-Low income,LIC,2016,2196.682
-Low income,LIC,2017,2196.682
-Low income,LIC,2018,2196.682
-Low income,LIC,2019,2196.682
-Low income,LIC,2020,2196.682
-Low income,LIC,2021,2196.682
+Least developed countries: UN classification,LDC,2022,4508.902
+Low income,LIC,1961,2105.232
+Low income,LIC,1962,2152.382
+Low income,LIC,1963,2152.382
+Low income,LIC,1964,2152.382
+Low income,LIC,1965,2152.382
+Low income,LIC,1966,2152.382
+Low income,LIC,1967,2152.382
+Low income,LIC,1968,2152.382
+Low income,LIC,1969,2152.382
+Low income,LIC,1970,2152.382
+Low income,LIC,1971,2152.382
+Low income,LIC,1972,2152.382
+Low income,LIC,1973,2152.382
+Low income,LIC,1974,2152.382
+Low income,LIC,1975,2152.382
+Low income,LIC,1976,2152.382
+Low income,LIC,1977,2152.382
+Low income,LIC,1978,2152.382
+Low income,LIC,1979,2152.382
+Low income,LIC,1980,2152.382
+Low income,LIC,1981,2152.382
+Low income,LIC,1982,2152.382
+Low income,LIC,1983,2152.382
+Low income,LIC,1984,2152.382
+Low income,LIC,1985,2152.382
+Low income,LIC,1986,2152.382
+Low income,LIC,1987,2152.382
+Low income,LIC,1988,2152.382
+Low income,LIC,1989,2152.382
+Low income,LIC,1990,2152.382
+Low income,LIC,1991,2152.382
+Low income,LIC,1992,2152.382
+Low income,LIC,1993,2277.182
+Low income,LIC,1994,2277.182
+Low income,LIC,1995,2277.182
+Low income,LIC,1996,2277.182
+Low income,LIC,1997,2277.182
+Low income,LIC,1998,2277.182
+Low income,LIC,1999,2277.182
+Low income,LIC,2000,2277.182
+Low income,LIC,2001,2277.182
+Low income,LIC,2002,2277.182
+Low income,LIC,2003,2277.182
+Low income,LIC,2004,2277.182
+Low income,LIC,2005,2277.182
+Low income,LIC,2006,2277.182
+Low income,LIC,2007,2277.182
+Low income,LIC,2008,2277.182
+Low income,LIC,2009,2277.182
+Low income,LIC,2010,2277.182
+Low income,LIC,2011,2277.182
+Low income,LIC,2012,2307.182
+Low income,LIC,2013,2307.182
+Low income,LIC,2014,2307.182
+Low income,LIC,2015,2307.182
+Low income,LIC,2016,2307.182
+Low income,LIC,2017,2307.182
+Low income,LIC,2018,2307.182
+Low income,LIC,2019,2307.182
+Low income,LIC,2020,2307.182
+Low income,LIC,2021,2307.182
+Low income,LIC,2022,2307.182
 Sri Lanka,LKA,1961,52.8
 Sri Lanka,LKA,1962,52.8
 Sri Lanka,LKA,1963,52.8
@@ -7124,128 +7086,130 @@ Sri Lanka,LKA,2019,52.8
 Sri Lanka,LKA,2020,52.8
 Sri Lanka,LKA,2021,52.8
 Sri Lanka,LKA,2022,52.8
-Lower middle income,LMC,1961,6957.596
-Lower middle income,LMC,1962,7020.511
-Lower middle income,LMC,1963,7020.511
-Lower middle income,LMC,1964,7020.511
-Lower middle income,LMC,1965,7020.511
-Lower middle income,LMC,1966,7020.511
-Lower middle income,LMC,1967,7020.511
-Lower middle income,LMC,1968,7020.511
-Lower middle income,LMC,1969,7020.511
-Lower middle income,LMC,1970,7020.511
-Lower middle income,LMC,1971,7020.511
-Lower middle income,LMC,1972,7020.511
-Lower middle income,LMC,1973,7020.511
-Lower middle income,LMC,1974,7020.511
-Lower middle income,LMC,1975,7020.511
-Lower middle income,LMC,1976,7020.511
-Lower middle income,LMC,1977,7020.511
-Lower middle income,LMC,1978,7020.511
-Lower middle income,LMC,1979,7020.511
-Lower middle income,LMC,1980,7020.511
-Lower middle income,LMC,1981,7020.511
-Lower middle income,LMC,1982,7020.511
-Lower middle income,LMC,1983,7020.511
-Lower middle income,LMC,1984,7020.511
-Lower middle income,LMC,1985,7020.511
-Lower middle income,LMC,1986,7020.511
-Lower middle income,LMC,1987,7020.511
-Lower middle income,LMC,1988,7020.511
-Lower middle income,LMC,1989,7020.511
-Lower middle income,LMC,1990,7020.511
-Lower middle income,LMC,1991,7020.511
-Lower middle income,LMC,1992,7149.241
-Lower middle income,LMC,1993,7149.241
-Lower middle income,LMC,1994,7135.241
-Lower middle income,LMC,1995,7135.241
-Lower middle income,LMC,1996,7135.241
-Lower middle income,LMC,1997,7135.241
-Lower middle income,LMC,1998,7135.241
-Lower middle income,LMC,1999,7135.241
-Lower middle income,LMC,2000,7135.241
-Lower middle income,LMC,2001,7135.241
-Lower middle income,LMC,2002,7135.241
-Lower middle income,LMC,2003,7135.241
-Lower middle income,LMC,2004,7132.241
-Lower middle income,LMC,2005,7132.241
-Lower middle income,LMC,2006,7132.241
-Lower middle income,LMC,2007,7132.241
-Lower middle income,LMC,2008,7132.241
-Lower middle income,LMC,2009,7132.241
-Lower middle income,LMC,2010,7132.241
-Lower middle income,LMC,2011,7132.241
-Lower middle income,LMC,2012,7132.241
-Lower middle income,LMC,2013,7132.241
-Lower middle income,LMC,2014,7132.241
-Lower middle income,LMC,2015,7132.241
-Lower middle income,LMC,2016,7132.241
-Lower middle income,LMC,2017,7132.241
-Lower middle income,LMC,2018,7132.241
-Lower middle income,LMC,2019,7132.241
-Lower middle income,LMC,2020,7132.241
-Lower middle income,LMC,2021,7132.241
-Low & middle income,LMY,1961,26418.739
-Low & middle income,LMY,1962,26573.414
-Low & middle income,LMY,1963,26573.414
-Low & middle income,LMY,1964,26573.414
-Low & middle income,LMY,1965,26573.414
-Low & middle income,LMY,1966,26573.414
-Low & middle income,LMY,1967,26573.414
-Low & middle income,LMY,1968,26573.414
-Low & middle income,LMY,1969,26573.414
-Low & middle income,LMY,1970,26573.414
-Low & middle income,LMY,1971,26573.414
-Low & middle income,LMY,1972,26573.414
-Low & middle income,LMY,1973,26573.414
-Low & middle income,LMY,1974,26573.414
-Low & middle income,LMY,1975,26573.414
-Low & middle income,LMY,1976,26573.414
-Low & middle income,LMY,1977,26573.414
-Low & middle income,LMY,1978,26573.414
-Low & middle income,LMY,1979,26573.414
-Low & middle income,LMY,1980,26573.414
-Low & middle income,LMY,1981,26573.414
-Low & middle income,LMY,1982,26573.414
-Low & middle income,LMY,1983,26573.414
-Low & middle income,LMY,1984,26573.414
-Low & middle income,LMY,1985,26573.414
-Low & middle income,LMY,1986,26573.414
-Low & middle income,LMY,1987,26573.414
-Low & middle income,LMY,1988,26573.414
-Low & middle income,LMY,1989,26573.414
-Low & middle income,LMY,1990,26573.414
-Low & middle income,LMY,1991,26573.414
-Low & middle income,LMY,1992,26972.623
-Low & middle income,LMY,1993,26975.423
-Low & middle income,LMY,1994,26961.423
-Low & middle income,LMY,1995,26961.423
-Low & middle income,LMY,1996,26960.523
-Low & middle income,LMY,1997,26961.423
-Low & middle income,LMY,1998,26961.423
-Low & middle income,LMY,1999,26961.423
-Low & middle income,LMY,2000,26961.423
-Low & middle income,LMY,2001,26961.423
-Low & middle income,LMY,2002,26961.423
-Low & middle income,LMY,2003,26961.423
-Low & middle income,LMY,2004,26958.423
-Low & middle income,LMY,2005,26958.423
-Low & middle income,LMY,2006,26966.83
-Low & middle income,LMY,2007,26966.83
-Low & middle income,LMY,2008,26966.83
-Low & middle income,LMY,2009,26966.83
-Low & middle income,LMY,2010,26966.83
-Low & middle income,LMY,2011,26966.83
-Low & middle income,LMY,2012,26996.83
-Low & middle income,LMY,2013,26996.83
-Low & middle income,LMY,2014,26996.83
-Low & middle income,LMY,2015,26996.83
-Low & middle income,LMY,2016,26996.83
-Low & middle income,LMY,2017,26996.83
-Low & middle income,LMY,2018,26996.83
-Low & middle income,LMY,2019,26996.83
-Low & middle income,LMY,2020,26996.83
-Low & middle income,LMY,2021,26996.83
+Lower middle income,LMC,1961,6882.194
+Lower middle income,LMC,1962,6945.109
+Lower middle income,LMC,1963,6945.109
+Lower middle income,LMC,1964,6945.109
+Lower middle income,LMC,1965,6945.109
+Lower middle income,LMC,1966,6945.109
+Lower middle income,LMC,1967,6945.109
+Lower middle income,LMC,1968,6945.109
+Lower middle income,LMC,1969,6945.109
+Lower middle income,LMC,1970,6945.109
+Lower middle income,LMC,1971,6945.109
+Lower middle income,LMC,1972,6945.109
+Lower middle income,LMC,1973,6945.109
+Lower middle income,LMC,1974,6945.109
+Lower middle income,LMC,1975,6945.109
+Lower middle income,LMC,1976,6945.109
+Lower middle income,LMC,1977,6945.109
+Lower middle income,LMC,1978,6945.109
+Lower middle income,LMC,1979,6945.109
+Lower middle income,LMC,1980,6945.109
+Lower middle income,LMC,1981,6945.109
+Lower middle income,LMC,1982,6945.109
+Lower middle income,LMC,1983,6945.109
+Lower middle income,LMC,1984,6945.109
+Lower middle income,LMC,1985,6945.109
+Lower middle income,LMC,1986,6945.109
+Lower middle income,LMC,1987,6945.109
+Lower middle income,LMC,1988,6945.109
+Lower middle income,LMC,1989,6945.109
+Lower middle income,LMC,1990,6945.109
+Lower middle income,LMC,1991,6945.109
+Lower middle income,LMC,1992,7073.839
+Lower middle income,LMC,1993,7073.839
+Lower middle income,LMC,1994,7059.839
+Lower middle income,LMC,1995,7059.839
+Lower middle income,LMC,1996,7059.839
+Lower middle income,LMC,1997,7059.839
+Lower middle income,LMC,1998,7059.839
+Lower middle income,LMC,1999,7059.839
+Lower middle income,LMC,2000,7059.839
+Lower middle income,LMC,2001,7059.839
+Lower middle income,LMC,2002,7059.839
+Lower middle income,LMC,2003,7059.839
+Lower middle income,LMC,2004,7056.839
+Lower middle income,LMC,2005,7056.839
+Lower middle income,LMC,2006,7056.839
+Lower middle income,LMC,2007,7056.839
+Lower middle income,LMC,2008,7056.839
+Lower middle income,LMC,2009,7056.839
+Lower middle income,LMC,2010,7056.839
+Lower middle income,LMC,2011,7056.839
+Lower middle income,LMC,2012,7056.839
+Lower middle income,LMC,2013,7056.839
+Lower middle income,LMC,2014,7056.839
+Lower middle income,LMC,2015,7056.839
+Lower middle income,LMC,2016,7056.839
+Lower middle income,LMC,2017,7056.839
+Lower middle income,LMC,2018,7056.839
+Lower middle income,LMC,2019,7056.839
+Lower middle income,LMC,2020,7056.839
+Lower middle income,LMC,2021,7056.839
+Lower middle income,LMC,2022,7056.027
+Low & middle income,LMY,1961,27223.739
+Low & middle income,LMY,1962,27378.414
+Low & middle income,LMY,1963,27378.414
+Low & middle income,LMY,1964,27378.414
+Low & middle income,LMY,1965,27378.414
+Low & middle income,LMY,1966,27378.414
+Low & middle income,LMY,1967,27378.414
+Low & middle income,LMY,1968,27378.414
+Low & middle income,LMY,1969,27378.414
+Low & middle income,LMY,1970,27378.414
+Low & middle income,LMY,1971,27378.414
+Low & middle income,LMY,1972,27378.414
+Low & middle income,LMY,1973,27378.414
+Low & middle income,LMY,1974,27378.414
+Low & middle income,LMY,1975,27378.414
+Low & middle income,LMY,1976,27378.414
+Low & middle income,LMY,1977,27378.414
+Low & middle income,LMY,1978,27378.414
+Low & middle income,LMY,1979,27378.414
+Low & middle income,LMY,1980,27378.414
+Low & middle income,LMY,1981,27378.414
+Low & middle income,LMY,1982,27378.414
+Low & middle income,LMY,1983,27378.414
+Low & middle income,LMY,1984,27378.414
+Low & middle income,LMY,1985,27378.414
+Low & middle income,LMY,1986,27378.414
+Low & middle income,LMY,1987,27378.414
+Low & middle income,LMY,1988,27378.414
+Low & middle income,LMY,1989,27378.414
+Low & middle income,LMY,1990,27378.414
+Low & middle income,LMY,1991,27378.414
+Low & middle income,LMY,1992,27777.623
+Low & middle income,LMY,1993,27902.423
+Low & middle income,LMY,1994,27888.423
+Low & middle income,LMY,1995,27888.423
+Low & middle income,LMY,1996,27887.523
+Low & middle income,LMY,1997,27888.423
+Low & middle income,LMY,1998,27888.423
+Low & middle income,LMY,1999,27888.423
+Low & middle income,LMY,2000,27888.423
+Low & middle income,LMY,2001,27888.423
+Low & middle income,LMY,2002,27888.423
+Low & middle income,LMY,2003,27888.423
+Low & middle income,LMY,2004,27885.423
+Low & middle income,LMY,2005,27885.423
+Low & middle income,LMY,2006,27893.83
+Low & middle income,LMY,2007,27893.83
+Low & middle income,LMY,2008,27893.83
+Low & middle income,LMY,2009,27893.83
+Low & middle income,LMY,2010,27893.83
+Low & middle income,LMY,2011,27893.83
+Low & middle income,LMY,2012,27923.83
+Low & middle income,LMY,2013,27923.83
+Low & middle income,LMY,2014,27923.83
+Low & middle income,LMY,2015,27923.83
+Low & middle income,LMY,2016,27923.83
+Low & middle income,LMY,2017,27923.83
+Low & middle income,LMY,2018,27923.83
+Low & middle income,LMY,2019,27923.83
+Low & middle income,LMY,2020,27923.83
+Low & middle income,LMY,2021,27923.83
+Low & middle income,LMY,2022,27923.018
 Lesotho,LSO,1961,5.23
 Lesotho,LSO,1962,5.23
 Lesotho,LSO,1963,5.23
@@ -7369,6 +7333,7 @@ Late-demographic dividend,LTE,2018,18269.616
 Late-demographic dividend,LTE,2019,18269.616
 Late-demographic dividend,LTE,2020,18269.616
 Late-demographic dividend,LTE,2021,18269.616
+Late-demographic dividend,LTE,2022,18269.616
 Lithuania,LTU,1992,15.46
 Lithuania,LTU,1993,15.46
 Lithuania,LTU,1994,15.46
@@ -7771,6 +7736,7 @@ Maldives,MDV,2022,0.03
 "Middle East, North Africa, Afghanistan & Pakistan",MEA,2019,332.6285
 "Middle East, North Africa, Afghanistan & Pakistan",MEA,2020,332.6285
 "Middle East, North Africa, Afghanistan & Pakistan",MEA,2021,332.6285
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,2022,331.0665
 Mexico,MEX,1961,409
 Mexico,MEX,1962,409
 Mexico,MEX,1963,409
@@ -7833,67 +7799,68 @@ Mexico,MEX,2019,409
 Mexico,MEX,2020,409
 Mexico,MEX,2021,409
 Mexico,MEX,2022,409
-Middle income,MIC,1961,24302.007
-Middle income,MIC,1962,24409.532
-Middle income,MIC,1963,24409.532
-Middle income,MIC,1964,24409.532
-Middle income,MIC,1965,24409.532
-Middle income,MIC,1966,24409.532
-Middle income,MIC,1967,24409.532
-Middle income,MIC,1968,24409.532
-Middle income,MIC,1969,24409.532
-Middle income,MIC,1970,24409.532
-Middle income,MIC,1971,24409.532
-Middle income,MIC,1972,24409.532
-Middle income,MIC,1973,24409.532
-Middle income,MIC,1974,24409.532
-Middle income,MIC,1975,24409.532
-Middle income,MIC,1976,24409.532
-Middle income,MIC,1977,24409.532
-Middle income,MIC,1978,24409.532
-Middle income,MIC,1979,24409.532
-Middle income,MIC,1980,24409.532
-Middle income,MIC,1981,24409.532
-Middle income,MIC,1982,24409.532
-Middle income,MIC,1983,24409.532
-Middle income,MIC,1984,24409.532
-Middle income,MIC,1985,24409.532
-Middle income,MIC,1986,24409.532
-Middle income,MIC,1987,24409.532
-Middle income,MIC,1988,24409.532
-Middle income,MIC,1989,24409.532
-Middle income,MIC,1990,24409.532
-Middle income,MIC,1991,24409.532
-Middle income,MIC,1992,24808.741
-Middle income,MIC,1993,24808.741
-Middle income,MIC,1994,24794.741
-Middle income,MIC,1995,24794.741
-Middle income,MIC,1996,24793.841
-Middle income,MIC,1997,24794.741
-Middle income,MIC,1998,24794.741
-Middle income,MIC,1999,24794.741
-Middle income,MIC,2000,24794.741
-Middle income,MIC,2001,24794.741
-Middle income,MIC,2002,24794.741
-Middle income,MIC,2003,24794.741
-Middle income,MIC,2004,24791.741
-Middle income,MIC,2005,24791.741
-Middle income,MIC,2006,24800.148
-Middle income,MIC,2007,24800.148
-Middle income,MIC,2008,24800.148
-Middle income,MIC,2009,24800.148
-Middle income,MIC,2010,24800.148
-Middle income,MIC,2011,24800.148
-Middle income,MIC,2012,24800.148
-Middle income,MIC,2013,24800.148
-Middle income,MIC,2014,24800.148
-Middle income,MIC,2015,24800.148
-Middle income,MIC,2016,24800.148
-Middle income,MIC,2017,24800.148
-Middle income,MIC,2018,24800.148
-Middle income,MIC,2019,24800.148
-Middle income,MIC,2020,24800.148
-Middle income,MIC,2021,24800.148
+Middle income,MIC,1961,25118.507
+Middle income,MIC,1962,25226.032
+Middle income,MIC,1963,25226.032
+Middle income,MIC,1964,25226.032
+Middle income,MIC,1965,25226.032
+Middle income,MIC,1966,25226.032
+Middle income,MIC,1967,25226.032
+Middle income,MIC,1968,25226.032
+Middle income,MIC,1969,25226.032
+Middle income,MIC,1970,25226.032
+Middle income,MIC,1971,25226.032
+Middle income,MIC,1972,25226.032
+Middle income,MIC,1973,25226.032
+Middle income,MIC,1974,25226.032
+Middle income,MIC,1975,25226.032
+Middle income,MIC,1976,25226.032
+Middle income,MIC,1977,25226.032
+Middle income,MIC,1978,25226.032
+Middle income,MIC,1979,25226.032
+Middle income,MIC,1980,25226.032
+Middle income,MIC,1981,25226.032
+Middle income,MIC,1982,25226.032
+Middle income,MIC,1983,25226.032
+Middle income,MIC,1984,25226.032
+Middle income,MIC,1985,25226.032
+Middle income,MIC,1986,25226.032
+Middle income,MIC,1987,25226.032
+Middle income,MIC,1988,25226.032
+Middle income,MIC,1989,25226.032
+Middle income,MIC,1990,25226.032
+Middle income,MIC,1991,25226.032
+Middle income,MIC,1992,25625.241
+Middle income,MIC,1993,25625.241
+Middle income,MIC,1994,25611.241
+Middle income,MIC,1995,25611.241
+Middle income,MIC,1996,25610.341
+Middle income,MIC,1997,25611.241
+Middle income,MIC,1998,25611.241
+Middle income,MIC,1999,25611.241
+Middle income,MIC,2000,25611.241
+Middle income,MIC,2001,25611.241
+Middle income,MIC,2002,25611.241
+Middle income,MIC,2003,25611.241
+Middle income,MIC,2004,25608.241
+Middle income,MIC,2005,25608.241
+Middle income,MIC,2006,25616.648
+Middle income,MIC,2007,25616.648
+Middle income,MIC,2008,25616.648
+Middle income,MIC,2009,25616.648
+Middle income,MIC,2010,25616.648
+Middle income,MIC,2011,25616.648
+Middle income,MIC,2012,25616.648
+Middle income,MIC,2013,25616.648
+Middle income,MIC,2014,25616.648
+Middle income,MIC,2015,25616.648
+Middle income,MIC,2016,25616.648
+Middle income,MIC,2017,25616.648
+Middle income,MIC,2018,25616.648
+Middle income,MIC,2019,25616.648
+Middle income,MIC,2020,25616.648
+Middle income,MIC,2021,25616.648
+Middle income,MIC,2022,25615.836
 North Macedonia,MKD,1992,5.4
 North Macedonia,MKD,1993,5.4
 North Macedonia,MKD,1994,5.4
@@ -8172,6 +8139,7 @@ Myanmar,MMR,2022,1002.8
 "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2019,327.818
 "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2020,327.818
 "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2021,327.818
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2022,327.006
 Mongolia,MNG,1961,34.8
 Mongolia,MNG,1962,34.8
 Mongolia,MNG,1963,34.8
@@ -8605,6 +8573,7 @@ North America,NAC,2018,5668
 North America,NAC,2019,5668
 North America,NAC,2020,5668
 North America,NAC,2021,5668
+North America,NAC,2022,5668
 Namibia,NAM,1961,6.16
 Namibia,NAM,1962,6.16
 Namibia,NAM,1963,6.16
@@ -9223,6 +9192,7 @@ OECD members,OED,2018,12756.83
 OECD members,OED,2019,12756.83
 OECD members,OED,2020,12756.83
 OECD members,OED,2021,12756.83
+OECD members,OED,2022,12756.08
 Oman,OMN,1961,1.4
 Oman,OMN,1962,1.4
 Oman,OMN,1963,1.4
@@ -9346,6 +9316,7 @@ Other small states,OSS,2018,287.6565
 Other small states,OSS,2019,287.6565
 Other small states,OSS,2020,287.6565
 Other small states,OSS,2021,287.6565
+Other small states,OSS,2022,287.6565
 Pakistan,PAK,1961,55
 Pakistan,PAK,1962,55
 Pakistan,PAK,1963,55
@@ -9779,6 +9750,7 @@ Pre-demographic dividend,PRE,2018,3569.805
 Pre-demographic dividend,PRE,2019,3569.805
 Pre-demographic dividend,PRE,2020,3569.805
 Pre-demographic dividend,PRE,2021,3569.805
+Pre-demographic dividend,PRE,2022,3569.805
 Puerto Rico (US),PRI,1961,7.1
 Puerto Rico (US),PRI,1962,7.1
 Puerto Rico (US),PRI,1963,7.1
@@ -10149,6 +10121,7 @@ Post-demographic dividend,PST,2018,8884.4325
 Post-demographic dividend,PST,2019,8884.4325
 Post-demographic dividend,PST,2020,8884.4325
 Post-demographic dividend,PST,2021,8884.4325
+Post-demographic dividend,PST,2022,8884.4325
 Qatar,QAT,1961,0.056
 Qatar,QAT,1962,0.056
 Qatar,QAT,1963,0.056
@@ -10427,6 +10400,7 @@ South Asia,SAS,2018,1880.03
 South Asia,SAS,2019,1880.03
 South Asia,SAS,2020,1880.03
 South Asia,SAS,2021,1880.03
+South Asia,SAS,2022,1880.03
 Saudi Arabia,SAU,1961,2.4
 Saudi Arabia,SAU,1962,2.4
 Saudi Arabia,SAU,1963,2.4
@@ -10920,35 +10894,36 @@ Sub-Saharan Africa (excluding high income),SSA,1989,3728.961
 Sub-Saharan Africa (excluding high income),SSA,1990,3728.961
 Sub-Saharan Africa (excluding high income),SSA,1991,3728.961
 Sub-Saharan Africa (excluding high income),SSA,1992,3728.961
-Sub-Saharan Africa (excluding high income),SSA,1993,3731.761
-Sub-Saharan Africa (excluding high income),SSA,1994,3731.761
-Sub-Saharan Africa (excluding high income),SSA,1995,3731.761
-Sub-Saharan Africa (excluding high income),SSA,1996,3731.761
-Sub-Saharan Africa (excluding high income),SSA,1997,3731.761
-Sub-Saharan Africa (excluding high income),SSA,1998,3731.761
-Sub-Saharan Africa (excluding high income),SSA,1999,3731.761
-Sub-Saharan Africa (excluding high income),SSA,2000,3731.761
-Sub-Saharan Africa (excluding high income),SSA,2001,3731.761
-Sub-Saharan Africa (excluding high income),SSA,2002,3731.761
-Sub-Saharan Africa (excluding high income),SSA,2003,3731.761
-Sub-Saharan Africa (excluding high income),SSA,2004,3731.761
-Sub-Saharan Africa (excluding high income),SSA,2005,3731.761
-Sub-Saharan Africa (excluding high income),SSA,2006,3731.761
-Sub-Saharan Africa (excluding high income),SSA,2007,3731.761
-Sub-Saharan Africa (excluding high income),SSA,2008,3731.761
-Sub-Saharan Africa (excluding high income),SSA,2009,3731.761
-Sub-Saharan Africa (excluding high income),SSA,2010,3731.761
-Sub-Saharan Africa (excluding high income),SSA,2011,3731.761
-Sub-Saharan Africa (excluding high income),SSA,2012,3761.761
-Sub-Saharan Africa (excluding high income),SSA,2013,3761.761
-Sub-Saharan Africa (excluding high income),SSA,2014,3761.761
-Sub-Saharan Africa (excluding high income),SSA,2015,3761.761
-Sub-Saharan Africa (excluding high income),SSA,2016,3761.761
-Sub-Saharan Africa (excluding high income),SSA,2017,3761.761
-Sub-Saharan Africa (excluding high income),SSA,2018,3761.761
-Sub-Saharan Africa (excluding high income),SSA,2019,3761.761
-Sub-Saharan Africa (excluding high income),SSA,2020,3761.761
-Sub-Saharan Africa (excluding high income),SSA,2021,3761.761
+Sub-Saharan Africa (excluding high income),SSA,1993,3853.761
+Sub-Saharan Africa (excluding high income),SSA,1994,3853.761
+Sub-Saharan Africa (excluding high income),SSA,1995,3853.761
+Sub-Saharan Africa (excluding high income),SSA,1996,3853.761
+Sub-Saharan Africa (excluding high income),SSA,1997,3853.761
+Sub-Saharan Africa (excluding high income),SSA,1998,3853.761
+Sub-Saharan Africa (excluding high income),SSA,1999,3853.761
+Sub-Saharan Africa (excluding high income),SSA,2000,3853.761
+Sub-Saharan Africa (excluding high income),SSA,2001,3853.761
+Sub-Saharan Africa (excluding high income),SSA,2002,3853.761
+Sub-Saharan Africa (excluding high income),SSA,2003,3853.761
+Sub-Saharan Africa (excluding high income),SSA,2004,3853.761
+Sub-Saharan Africa (excluding high income),SSA,2005,3853.761
+Sub-Saharan Africa (excluding high income),SSA,2006,3853.761
+Sub-Saharan Africa (excluding high income),SSA,2007,3853.761
+Sub-Saharan Africa (excluding high income),SSA,2008,3853.761
+Sub-Saharan Africa (excluding high income),SSA,2009,3853.761
+Sub-Saharan Africa (excluding high income),SSA,2010,3853.761
+Sub-Saharan Africa (excluding high income),SSA,2011,3853.761
+Sub-Saharan Africa (excluding high income),SSA,2012,3883.761
+Sub-Saharan Africa (excluding high income),SSA,2013,3883.761
+Sub-Saharan Africa (excluding high income),SSA,2014,3883.761
+Sub-Saharan Africa (excluding high income),SSA,2015,3883.761
+Sub-Saharan Africa (excluding high income),SSA,2016,3883.761
+Sub-Saharan Africa (excluding high income),SSA,2017,3883.761
+Sub-Saharan Africa (excluding high income),SSA,2018,3883.761
+Sub-Saharan Africa (excluding high income),SSA,2019,3883.761
+Sub-Saharan Africa (excluding high income),SSA,2020,3883.761
+Sub-Saharan Africa (excluding high income),SSA,2021,3883.761
+Sub-Saharan Africa (excluding high income),SSA,2022,3883.761
 South Sudan,SSD,2012,26
 South Sudan,SSD,2013,26
 South Sudan,SSD,2014,26
@@ -11021,6 +10996,7 @@ Sub-Saharan Africa,SSF,2018,3883.761
 Sub-Saharan Africa,SSF,2019,3883.761
 Sub-Saharan Africa,SSF,2020,3883.761
 Sub-Saharan Africa,SSF,2021,3883.761
+Sub-Saharan Africa,SSF,2022,3883.761
 Small states,SST,1962,735.9625
 Small states,SST,1963,735.9625
 Small states,SST,1964,735.9625
@@ -11081,6 +11057,7 @@ Small states,SST,2018,731.6725
 Small states,SST,2019,731.6725
 Small states,SST,2020,731.6725
 Small states,SST,2021,731.6725
+Small states,SST,2022,731.6725
 Sao Tome and Principe,STP,1961,2.18
 Sao Tome and Principe,STP,1962,2.18
 Sao Tome and Principe,STP,1963,2.18
@@ -11574,6 +11551,7 @@ East Asia & Pacific (IDA & IBRD countries),TEA,2018,8715.605
 East Asia & Pacific (IDA & IBRD countries),TEA,2019,8715.605
 East Asia & Pacific (IDA & IBRD countries),TEA,2020,8715.605
 East Asia & Pacific (IDA & IBRD countries),TEA,2021,8715.605
+East Asia & Pacific (IDA & IBRD countries),TEA,2022,8715.605
 Europe & Central Asia (IDA & IBRD countries),TEC,1992,5119.789
 Europe & Central Asia (IDA & IBRD countries),TEC,1993,5119.789
 Europe & Central Asia (IDA & IBRD countries),TEC,1994,5119.789
@@ -11604,6 +11582,7 @@ Europe & Central Asia (IDA & IBRD countries),TEC,2018,5128.196
 Europe & Central Asia (IDA & IBRD countries),TEC,2019,5128.196
 Europe & Central Asia (IDA & IBRD countries),TEC,2020,5128.196
 Europe & Central Asia (IDA & IBRD countries),TEC,2021,5128.196
+Europe & Central Asia (IDA & IBRD countries),TEC,2022,5128.196
 Togo,TGO,1961,11.5
 Togo,TGO,1962,11.5
 Togo,TGO,1963,11.5
@@ -11851,6 +11830,7 @@ Latin America & the Caribbean (IDA & IBRD countries),TLA,2018,13821.786
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2019,13821.786
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2020,13821.786
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2021,13821.786
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2022,13821.786
 Timor-Leste,TLS,1962,8.215
 Timor-Leste,TLS,1963,8.215
 Timor-Leste,TLS,1964,8.215
@@ -11973,6 +11953,7 @@ Timor-Leste,TLS,2022,8.215
 "Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2019,327.006
 "Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2020,327.006
 "Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2021,327.006
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2022,327.006
 South Asia (IDA & IBRD),TSA,1961,1897.03
 South Asia (IDA & IBRD),TSA,1962,1897.03
 South Asia (IDA & IBRD),TSA,1963,1897.03
@@ -12034,6 +12015,7 @@ South Asia (IDA & IBRD),TSA,2018,1880.03
 South Asia (IDA & IBRD),TSA,2019,1880.03
 South Asia (IDA & IBRD),TSA,2020,1880.03
 South Asia (IDA & IBRD),TSA,2021,1880.03
+South Asia (IDA & IBRD),TSA,2022,1880.03
 Sub-Saharan Africa (IDA & IBRD countries),TSS,1961,3728.961
 Sub-Saharan Africa (IDA & IBRD countries),TSS,1962,3728.961
 Sub-Saharan Africa (IDA & IBRD countries),TSS,1963,3728.961
@@ -12095,6 +12077,7 @@ Sub-Saharan Africa (IDA & IBRD countries),TSS,2018,3883.761
 Sub-Saharan Africa (IDA & IBRD countries),TSS,2019,3883.761
 Sub-Saharan Africa (IDA & IBRD countries),TSS,2020,3883.761
 Sub-Saharan Africa (IDA & IBRD countries),TSS,2021,3883.761
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2022,3883.761
 Trinidad and Tobago,TTO,1962,3.84
 Trinidad and Tobago,TTO,1963,3.84
 Trinidad and Tobago,TTO,1964,3.84
@@ -12435,67 +12418,68 @@ Ukraine,UKR,2019,55.1
 Ukraine,UKR,2020,55.1
 Ukraine,UKR,2021,55.1
 Ukraine,UKR,2022,55.1
-Upper middle income,UMC,1961,17344.411
-Upper middle income,UMC,1962,17389.021
-Upper middle income,UMC,1963,17389.021
-Upper middle income,UMC,1964,17389.021
-Upper middle income,UMC,1965,17389.021
-Upper middle income,UMC,1966,17389.021
-Upper middle income,UMC,1967,17389.021
-Upper middle income,UMC,1968,17389.021
-Upper middle income,UMC,1969,17389.021
-Upper middle income,UMC,1970,17389.021
-Upper middle income,UMC,1971,17389.021
-Upper middle income,UMC,1972,17389.021
-Upper middle income,UMC,1973,17389.021
-Upper middle income,UMC,1974,17389.021
-Upper middle income,UMC,1975,17389.021
-Upper middle income,UMC,1976,17389.021
-Upper middle income,UMC,1977,17389.021
-Upper middle income,UMC,1978,17389.021
-Upper middle income,UMC,1979,17389.021
-Upper middle income,UMC,1980,17389.021
-Upper middle income,UMC,1981,17389.021
-Upper middle income,UMC,1982,17389.021
-Upper middle income,UMC,1983,17389.021
-Upper middle income,UMC,1984,17389.021
-Upper middle income,UMC,1985,17389.021
-Upper middle income,UMC,1986,17389.021
-Upper middle income,UMC,1987,17389.021
-Upper middle income,UMC,1988,17389.021
-Upper middle income,UMC,1989,17389.021
-Upper middle income,UMC,1990,17389.021
-Upper middle income,UMC,1991,17389.021
-Upper middle income,UMC,1992,17659.5
-Upper middle income,UMC,1993,17659.5
-Upper middle income,UMC,1994,17659.5
-Upper middle income,UMC,1995,17659.5
-Upper middle income,UMC,1996,17658.6
-Upper middle income,UMC,1997,17659.5
-Upper middle income,UMC,1998,17659.5
-Upper middle income,UMC,1999,17659.5
-Upper middle income,UMC,2000,17659.5
-Upper middle income,UMC,2001,17659.5
-Upper middle income,UMC,2002,17659.5
-Upper middle income,UMC,2003,17659.5
-Upper middle income,UMC,2004,17659.5
-Upper middle income,UMC,2005,17659.5
-Upper middle income,UMC,2006,17667.907
-Upper middle income,UMC,2007,17667.907
-Upper middle income,UMC,2008,17667.907
-Upper middle income,UMC,2009,17667.907
-Upper middle income,UMC,2010,17667.907
-Upper middle income,UMC,2011,17667.907
-Upper middle income,UMC,2012,17667.907
-Upper middle income,UMC,2013,17667.907
-Upper middle income,UMC,2014,17667.907
-Upper middle income,UMC,2015,17667.907
-Upper middle income,UMC,2016,17667.907
-Upper middle income,UMC,2017,17667.907
-Upper middle income,UMC,2018,17667.907
-Upper middle income,UMC,2019,17667.907
-Upper middle income,UMC,2020,17667.907
-Upper middle income,UMC,2021,17667.907
+Upper middle income,UMC,1961,18236.313
+Upper middle income,UMC,1962,18280.923
+Upper middle income,UMC,1963,18280.923
+Upper middle income,UMC,1964,18280.923
+Upper middle income,UMC,1965,18280.923
+Upper middle income,UMC,1966,18280.923
+Upper middle income,UMC,1967,18280.923
+Upper middle income,UMC,1968,18280.923
+Upper middle income,UMC,1969,18280.923
+Upper middle income,UMC,1970,18280.923
+Upper middle income,UMC,1971,18280.923
+Upper middle income,UMC,1972,18280.923
+Upper middle income,UMC,1973,18280.923
+Upper middle income,UMC,1974,18280.923
+Upper middle income,UMC,1975,18280.923
+Upper middle income,UMC,1976,18280.923
+Upper middle income,UMC,1977,18280.923
+Upper middle income,UMC,1978,18280.923
+Upper middle income,UMC,1979,18280.923
+Upper middle income,UMC,1980,18280.923
+Upper middle income,UMC,1981,18280.923
+Upper middle income,UMC,1982,18280.923
+Upper middle income,UMC,1983,18280.923
+Upper middle income,UMC,1984,18280.923
+Upper middle income,UMC,1985,18280.923
+Upper middle income,UMC,1986,18280.923
+Upper middle income,UMC,1987,18280.923
+Upper middle income,UMC,1988,18280.923
+Upper middle income,UMC,1989,18280.923
+Upper middle income,UMC,1990,18280.923
+Upper middle income,UMC,1991,18280.923
+Upper middle income,UMC,1992,18551.402
+Upper middle income,UMC,1993,18551.402
+Upper middle income,UMC,1994,18551.402
+Upper middle income,UMC,1995,18551.402
+Upper middle income,UMC,1996,18550.502
+Upper middle income,UMC,1997,18551.402
+Upper middle income,UMC,1998,18551.402
+Upper middle income,UMC,1999,18551.402
+Upper middle income,UMC,2000,18551.402
+Upper middle income,UMC,2001,18551.402
+Upper middle income,UMC,2002,18551.402
+Upper middle income,UMC,2003,18551.402
+Upper middle income,UMC,2004,18551.402
+Upper middle income,UMC,2005,18551.402
+Upper middle income,UMC,2006,18559.809
+Upper middle income,UMC,2007,18559.809
+Upper middle income,UMC,2008,18559.809
+Upper middle income,UMC,2009,18559.809
+Upper middle income,UMC,2010,18559.809
+Upper middle income,UMC,2011,18559.809
+Upper middle income,UMC,2012,18559.809
+Upper middle income,UMC,2013,18559.809
+Upper middle income,UMC,2014,18559.809
+Upper middle income,UMC,2015,18559.809
+Upper middle income,UMC,2016,18559.809
+Upper middle income,UMC,2017,18559.809
+Upper middle income,UMC,2018,18559.809
+Upper middle income,UMC,2019,18559.809
+Upper middle income,UMC,2020,18559.809
+Upper middle income,UMC,2021,18559.809
+Upper middle income,UMC,2022,18559.809
 Uruguay,URY,1961,92.2
 Uruguay,URY,1962,92.2
 Uruguay,URY,1963,92.2
@@ -12927,6 +12911,7 @@ World,WLD,2018,42808.6021
 World,WLD,2019,42808.6021
 World,WLD,2020,42808.6021
 World,WLD,2021,42808.6021
+World,WLD,2022,42807.0401
 "Yemen, Rep.",YEM,1961,2.1
 "Yemen, Rep.",YEM,1962,2.1
 "Yemen, Rep.",YEM,1963,2.1

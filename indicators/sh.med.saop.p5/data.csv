@@ -1,7 +1,7 @@
 Country Name,Country Code,Year,Value
 Africa Eastern and Southern,AFE,2015,2.0047618737844
 Afghanistan,AFG,2014,0.03
-Africa Western and Central,AFW,2015,1.25017368968905
+Africa Western and Central,AFW,2015,1.25136435039504
 Albania,ALB,2010,7.07
 Albania,ALB,2013,11.63
 Andorra,AND,2014,60.27
@@ -84,10 +84,10 @@ East Asia & Pacific (excluding high income),EAP,2015,34.6359418825246
 Early-demographic dividend,EAR,2015,11.7223707420339
 East Asia & Pacific,EAS,2015,35.9714347277275
 Europe & Central Asia (excluding high income),ECA,2015,64.0438749513768
-Europe & Central Asia,ECS,2015,82.6965634889471
+Europe & Central Asia,ECS,2015,82.6965077207191
 Ecuador,ECU,2014,59.39
 "Egypt, Arab Rep.",EGY,2014,50.08
-Euro area,EMU,2015,95.5348332461984
+Euro area,EMU,2015,95.8774012624008
 Eritrea,ERI,2008,0.4
 Spain,ESP,2014,79.9
 Estonia,EST,2014,126.56
@@ -96,7 +96,6 @@ Ethiopia,ETH,2010,0.67
 Ethiopia,ETH,2014,0.56
 Ethiopia,ETH,2016,0.54
 European Union,EUU,2015,91.7304331230226
-Fragile and conflict affected situations,FCS,2015,7.18796114380729
 Finland,FIN,2014,76.3
 Fiji,FJI,2014,4.18
 Fiji,FJI,2016,5.8
@@ -119,10 +118,10 @@ Grenada,GRD,2014,11.32
 Grenada,GRD,2018,12.56
 Guatemala,GTM,2014,3.4
 Guyana,GUY,2014,8.78
-High income,HIC,2015,69.9639729885771
+High income,HIC,2015,69.9639249185865
 "Hong Kong SAR, China",HKG,2014,27.84
 Honduras,HND,2014,13.68
-Heavily indebted poor countries (HIPC),HPC,2015,1.71305718546981
+Heavily indebted poor countries (HIPC),HPC,2015,1.71409229596855
 Croatia,HRV,2013,84.33
 Croatia,HRV,2015,81.24
 Haiti,HTI,2014,4.49
@@ -130,10 +129,10 @@ Haiti,HTI,2015,5.88
 Hungary,HUN,2011,56.7
 Hungary,HUN,2017,55.69
 IBRD only,IBD,2015,29.2322590459667
-IDA & IBRD total,IBT,2015,22.3151939553575
-IDA total,IDA,2015,3.62816034419602
+IDA & IBRD total,IBT,2015,22.3174618814247
+IDA total,IDA,2015,3.62936116184289
 IDA blend,IDB,2015,5.80946761246478
-IDA only,IDX,2015,2.35439744072932
+IDA only,IDX,2015,2.35552274723394
 Isle of Man,IMN,2014,48.28
 Isle of Man,IMN,2015,52.4
 India,IND,2014,6.82
@@ -164,21 +163,21 @@ Kiribati,KIR,2014,4.57
 Kiribati,KIR,2016,8.2
 St. Kitts and Nevis,KNA,2014,33.48
 "Korea, Rep.",KOR,2014,49.63
-Latin America & Caribbean (excluding high income),LAC,2015,45.0088729935168
+Latin America & Caribbean (excluding high income),LAC,2015,43.180878373539
 Lao PDR,LAO,2014,2.86
 Lao PDR,LAO,2017,3.68
 Lebanon,LBN,2014,87.4
 Liberia,LBR,2009,0.6
 St. Lucia,LCA,2014,23.56
 Latin America & Caribbean,LCN,2015,43.3432563957224
-Least developed countries: UN classification,LDC,2015,1.39590307504182
-Low income,LIC,2015,0.69326411618386
+Least developed countries: UN classification,LDC,2015,1.39647563149806
+Low income,LIC,2015,0.666271331992782
 Liechtenstein,LIE,2014,97.3
 Liechtenstein,LIE,2015,71.94
 Sri Lanka,LKA,2014,3.03
 Sri Lanka,LKA,2015,2.78
-Lower middle income,LMC,2015,8.33509896281347
-Low & middle income,LMY,2015,21.047079558538
+Lower middle income,LMC,2015,8.3661781818066
+Low & middle income,LMY,2015,20.6423963427377
 Lesotho,LSO,2014,0.57
 Late-demographic dividend,LTE,2015,42.2118603824742
 Lithuania,LTU,2013,137.8
@@ -198,7 +197,7 @@ Madagascar,MDG,2016,0.78
 Maldives,MDV,2014,4.83
 "Middle East, North Africa, Afghanistan & Pakistan",MEA,2015,15.0042981747064
 Marshall Islands,MHL,2011,15.92
-Middle income,MIC,2015,22.8892138368175
+Middle income,MIC,2015,22.8274236866389
 North Macedonia,MKD,2011,64.62
 North Macedonia,MKD,2015,61.22
 Mali,MLI,2014,1.05
@@ -237,7 +236,7 @@ Nauru,NRU,2016,30
 New Zealand,NZL,2012,37.83
 New Zealand,NZL,2015,39.36
 New Zealand,NZL,2016,43
-OECD members,OED,2015,68.0829496420226
+OECD members,OED,2015,68.0828957704313
 Oman,OMN,2013,24.14
 Oman,OMN,2017,30.48
 Other small states,OSS,2015,34.8139746527908
@@ -249,14 +248,14 @@ Philippines,PHL,2014,9.56
 Papua New Guinea,PNG,2016,2.3
 Poland,POL,2014,67.65
 Poland,POL,2015,67.86
-Pre-demographic dividend,PRE,2015,1.3547968963292
+Pre-demographic dividend,PRE,2015,1.35540489678343
 Portugal,PRT,2013,87.8
 Portugal,PRT,2014,84.04
 Portugal,PRT,2015,86.09
 Paraguay,PRY,2014,14.38
 Paraguay,PRY,2018,20.53
 Pacific island small states,PSS,2015,5.08864186055706
-Post-demographic dividend,PST,2015,73.1726579441682
+Post-demographic dividend,PST,2015,73.1726031457648
 French Polynesia,PYF,2014,32.62
 Qatar,QAT,2011,14.49
 Romania,ROU,2013,61.72
@@ -278,9 +277,9 @@ San Marino,SMR,2017,112.86
 Serbia,SRB,2012,72.02
 Serbia,SRB,2014,72.55
 Serbia,SRB,2016,86.72
-Sub-Saharan Africa (excluding high income),SSA,2015,1.8502056927027
+Sub-Saharan Africa (excluding high income),SSA,2015,1.70715377542887
 South Sudan,SSD,2013,0.32
-Sub-Saharan Africa,SSF,2015,1.71103090569113
+Sub-Saharan Africa,SSF,2015,1.71178222030025
 Small states,SST,2015,27.3765001823682
 Slovak Republic,SVK,2014,57.17
 Slovak Republic,SVK,2018,53.9
@@ -307,7 +306,7 @@ Timor-Leste,TLS,2016,0.9
 Tonga,TON,2014,4.95
 Tonga,TON,2016,14
 South Asia (IDA & IBRD),TSA,2015,6.28721760940244
-Sub-Saharan Africa (IDA & IBRD countries),TSS,2015,1.71103090569113
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2015,1.71178222030025
 Trinidad and Tobago,TTO,2014,30.9
 Tunisia,TUN,2014,11.54
 Turkiye,TUR,2013,55.76
@@ -321,7 +320,7 @@ Uganda,UGA,2012,0.95
 Uganda,UGA,2016,1.05
 Ukraine,UKR,2012,100.03
 Ukraine,UKR,2014,86.55
-Upper middle income,UMC,2015,39.4213737830334
+Upper middle income,UMC,2015,37.7439658225457
 Uruguay,URY,2014,38.9
 United States,USA,2011,64.56
 United States,USA,2015,54.71
@@ -332,7 +331,7 @@ St. Vincent and the Grenadines,VCT,2018,23.59
 "Venezuela, RB",VEN,2014,18.13
 Vanuatu,VUT,2014,3.41
 Vanuatu,VUT,2016,3.2
-World,WLD,2015,30.2368800691927
+World,WLD,2015,30.2394624407253
 Samoa,WSM,2014,7.28
 Samoa,WSM,2016,1.6
 Kosovo,XKX,2014,27.67

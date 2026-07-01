@@ -264,7 +264,7 @@ Europe & Central Asia (excluding high income),ECA,2014,176.667521245992
 Europe & Central Asia (excluding high income),ECA,2015,180.847249403359
 Europe & Central Asia (excluding high income),ECA,2016,218.073763589816
 Europe & Central Asia (excluding high income),ECA,2017,223.486402097764
-Europe & Central Asia,ECS,2004,731.852771113625
+Europe & Central Asia,ECS,2004,731.852771113626
 Europe & Central Asia,ECS,2005,722.935775832676
 Europe & Central Asia,ECS,2006,741.205729485398
 Europe & Central Asia,ECS,2007,763.346598284589
@@ -273,11 +273,11 @@ Europe & Central Asia,ECS,2009,788.31879709775
 Europe & Central Asia,ECS,2010,769.787672396926
 Europe & Central Asia,ECS,2011,872.495771327503
 Europe & Central Asia,ECS,2012,820.779930037369
-Europe & Central Asia,ECS,2013,828.588996722953
-Europe & Central Asia,ECS,2014,834.6579501148
-Europe & Central Asia,ECS,2015,894.3889759801
-Europe & Central Asia,ECS,2016,850.818948778598
-Europe & Central Asia,ECS,2017,870.548224141784
+Europe & Central Asia,ECS,2013,828.588488556942
+Europe & Central Asia,ECS,2014,834.657350393352
+Europe & Central Asia,ECS,2015,894.388345086895
+Europe & Central Asia,ECS,2016,850.81830678221
+Europe & Central Asia,ECS,2017,870.548224141783
 Ecuador,ECU,2006,18.70637
 Ecuador,ECU,2007,18.81572
 Ecuador,ECU,2008,29.8712
@@ -299,16 +299,15 @@ Ecuador,ECU,2014,89.95827
 "Egypt, Arab Rep.",EGY,2016,336.64648
 "Egypt, Arab Rep.",EGY,2017,371.19492
 "Egypt, Arab Rep.",EGY,2018,369.55568
-Euro area,EMU,1996,914.627832613665
-Euro area,EMU,2004,1175.62398045354
-Euro area,EMU,2005,1178.80957993273
-Euro area,EMU,2006,1280.04689202057
-Euro area,EMU,2007,1326.56287052456
-Euro area,EMU,2008,1331.80331288714
-Euro area,EMU,2009,1386.43674277428
-Euro area,EMU,2010,1385.05757135946
-Euro area,EMU,2011,1511.2159467127
-Euro area,EMU,2013,1556.47789691834
+Euro area,EMU,1996,917.257855578233
+Euro area,EMU,2004,1155.41025036819
+Euro area,EMU,2005,1159.30638688676
+Euro area,EMU,2006,1258.05935592339
+Euro area,EMU,2007,1302.88624976231
+Euro area,EMU,2008,1307.97414323555
+Euro area,EMU,2009,1363.1879798854
+Euro area,EMU,2010,1360.20647790781
+Euro area,EMU,2011,1483.38986354451
 Euro area,EMU,2015,1627.24756491719
 Euro area,EMU,2017,1680.6972202552
 Spain,ESP,1996,433.01054
@@ -647,11 +646,6 @@ Kuwait,KWT,2015,54.75036
 Kuwait,KWT,2016,48.52314
 Kuwait,KWT,2017,50.93564
 Kuwait,KWT,2018,45.19843
-Latin America & Caribbean (excluding high income),LAC,2000,237.999303478591
-Latin America & Caribbean (excluding high income),LAC,2002,230.524908592481
-Latin America & Caribbean (excluding high income),LAC,2003,275.870828359285
-Latin America & Caribbean (excluding high income),LAC,2004,342.273456684152
-Latin America & Caribbean (excluding high income),LAC,2005,366.216540254342
 Latin America & Caribbean (excluding high income),LAC,2006,349.439543803278
 Latin America & Caribbean (excluding high income),LAC,2007,370.516948774774
 Latin America & Caribbean (excluding high income),LAC,2008,403.336016163455
@@ -663,7 +657,7 @@ Latin America & Caribbean (excluding high income),LAC,2013,546.856209133289
 Latin America & Caribbean (excluding high income),LAC,2014,566.34694686688
 Latin America & Caribbean,LCN,2007,362.795991906966
 Latin America & Caribbean,LCN,2008,395.988667131703
-Latin America & Caribbean,LCN,2009,428.643887008657
+Latin America & Caribbean,LCN,2009,428.643887008658
 Latin America & Caribbean,LCN,2010,450.138956070294
 Latin America & Caribbean,LCN,2011,481.620496920725
 Latin America & Caribbean,LCN,2012,507.693157353798
@@ -677,7 +671,7 @@ Sri Lanka,LKA,2010,91.35446
 Sri Lanka,LKA,2013,60.88163
 Sri Lanka,LKA,2014,82.68991
 Sri Lanka,LKA,2015,74.70815
-Lower middle income,LMC,2015,96.2958069713979
+Lower middle income,LMC,2015,102.453355304931
 Lesotho,LSO,2002,2.46326
 Lesotho,LSO,2003,2.47727
 Lesotho,LSO,2004,10.46891
@@ -858,6 +852,8 @@ Myanmar,MMR,1999,48.46141
 Myanmar,MMR,2001,79.47042
 Myanmar,MMR,2002,136.24118
 Myanmar,MMR,2017,18.69526
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2015,138.657329424634
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,2017,183.23218350179
 Montenegro,MNE,2011,103.31537
 Montenegro,MNE,2013,102.18011
 Montenegro,MNE,2014,202.66658
@@ -1201,12 +1197,14 @@ Thailand,THA,2017,296.93767
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2006,347.150392381486
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2007,362.795991906966
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2008,395.988667131703
-Latin America & the Caribbean (IDA & IBRD countries),TLA,2009,428.643887008658
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2009,428.643887008657
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2010,450.138956070294
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2011,481.620496920725
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2012,507.693157353798
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2013,531.444767436307
 Latin America & the Caribbean (IDA & IBRD countries),TLA,2014,555.403904196481
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2015,138.657329424634
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,2017,183.23218350179
 South Asia (IDA & IBRD),TSA,1996,109.596261458144
 South Asia (IDA & IBRD),TSA,1998,98.73234
 South Asia (IDA & IBRD),TSA,2000,85.22344
